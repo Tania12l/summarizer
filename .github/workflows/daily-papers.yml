@@ -1,9 +1,9 @@
 name: Daily Research Paper Summary
 
 on:
-#  schedule:
-#    # Runs at 0:30 AM UTC every day (adjust to your timezone)
-#    - cron: '30 0 * * *'
+  schedule:
+    # Runs at 0:30 AM UTC every day (adjust to your timezone)
+    - cron: '30 0 * * *'
   workflow_dispatch: # Allows manual trigger for testing
 
 permissions:
@@ -32,7 +32,7 @@ jobs:
       env:
         GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        TOPICS: "quantum algorithms,quantum information"
+        TOPICS: "Strongly Correlated Electrons, Fractional Quantum Hall Effect"
       run: python fetch_papers.py
       
     - name: Commit and push results
