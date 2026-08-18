@@ -34,7 +34,7 @@ CACHE_RETENTION_DAYS = 90
 
 PAPER_MODEL_GROQ = "llama-3.1-8b-instant"
 CATEGORY_MODEL_GROQ = "llama-3.3-70b-versatile"
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-2.5-flash"
 
 session = requests.Session()
 session.headers.update({
