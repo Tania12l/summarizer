@@ -32,9 +32,9 @@ MAX_ABSTRACT_CHARS = 1500
 CATEGORY_TOP_N = 8
 CACHE_RETENTION_DAYS = 90
 
-PAPER_MODEL_GROQ = "llama-3.1-8b-instant"
-CATEGORY_MODEL_GROQ = "llama-3.3-70b-versatile"
-GEMINI_MODEL = "gemini-2.5-flash"
+PAPER_MODEL_GROQ = "openai/gpt-oss-20b"
+CATEGORY_MODEL_GROQ = "openai/gpt-oss-120b"
+GEMINI_MODEL = "gemini-1.5-flash"
 
 session = requests.Session()
 session.headers.update({
@@ -47,11 +47,6 @@ ARXIV_CATEGORIES = {
     "condensed matter": ["cond-mat"],
     "strongly correlated electrons": ["cond-mat.str-el"],
 }
-
-# ARXIV_CATEGORIES = {
-#     "Strongly Correlated Electrons": ["cond-mat"],
-#     "Superconductivity": ["cond-mat"],
-# }
 
 # =========================
 # Cache Helpers
@@ -283,7 +278,7 @@ def summarize_category(category, papers):
     
     prompt = (
         f"Summarize major themes or core concepts shared among these {category} papers.\n"
-        "Respond ONLY with a bulleted list. Do NOT include any introductory or conversational text.\n\n"
+        "Respond ONLY with a bulleted list. Do NOT include any introductory phrases like 'Here is a summary' or INPUT and OUPUT statements.\n\n"
         f"{titles}"
     )
     
