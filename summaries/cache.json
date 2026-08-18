@@ -1,1 +1,97 @@
-{}
+{
+  "2608.14745": {
+    "title": "Trimer Thouless Pump: Topology, Symmetries, and Multigap Structure",
+    "summary": "- Introduces a minimal three‑band “Trimer Thouless Pump” exhibiting multigap topological transport.\n- Shows quantized charge pumped via Berry‑curvature hotspots at Dirac‑like avoided crossings, with the middle band mediating flux exchange while having zero net Chern number.\n- Maps phase diagram versus central‑site detuning, predicts band‑selective topological invariant transfer, and proposes ultracold‑atom realization in optical superlattices.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14775": {
+    "title": "Spectral preservation under momentum-dependent similarity transformations in non-Hermitian lattice systems",
+    "summary": "- Momentum‑dependent similarity transforms preserve spectra in finite non‑Hermitian lattices only under specific conditions.\n- For traceless \\(2\\times2\\) Hamiltonians, necessary and sufficient criteria for skew‑diagonalization via constant similarity transforms are derived, with explicit matrices.\n- Bulk spectral preservation requires the generalized Brillouin zone to lie inside the smallest zero of \\(\\det S(z)\\) and no critical non‑Hermitian skin effect; two‑sidedness of \\(S(z)\\) only alters a finite number of boundary eigenvalues.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14784": {
+    "title": "No-Go Theorem and Routes towards Cavity-Enhanced Superconductivity",
+    "summary": "- Minimal cavity electrodynamics yields a no‑go theorem: vacuum fluctuations suppress superconductivity because paramagnetic exchange cannot outweigh diamagnetic renormalization.\n- Enhancement is possible only by coupling an additional collective mode that boosts paramagnetic attraction or by weakening a competing order that limits superconductivity.\n- Thus, practical cavity‑enhanced superconductivity requires an extra cavity‑coupled material degree of freedom to overcome the inherent suppression.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14805": {
+    "title": "Interaction driven charge transfer transitions in closely spaced graphene double layers",
+    "summary": "- Charge transfer in graphene double layers proceeds through interaction‑driven phase transitions, not simple electrostatics.\n- Intralayer exchange causes abrupt subband transfer, while interlayer exchange stabilizes coherent intermediate phases for gradual transfer.\n- The process reconstructs the quasiparticle spectrum, making interlayer tunneling a probe of bias‑dependent interacting systems.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14810": {
+    "title": "Electronic structure and magnetic correlations in the epitaxially strained bilayer nickelate La$_3$Ni$_2$O$_{7}$",
+    "summary": "- Orbital‑selective renormalization of Ni 3d states in La₃Ni₂O₇, with strong incoherence and proximity to localization.\n- In‑plane strain (tensile or moderate compressive ≤ –2 %) boosts magnetic correlations; large compressive strain (~–4 %) induces a Lifshitz transition that removes the γ Fermi‑surface sheet and suppresses magnetism.\n- Results support a spin‑ and charge‑density‑wave stripe instability driven by Fermi‑surface nesting, tunable by pressure or strain.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14842": {
+    "title": "Rapid supercurrent decay in Mn$_5$Si$_3$ Josephson junctions",
+    "summary": "- Ic decays exponentially with ξ ≈ 31 nm, far shorter than in FeMn, Cr, NiMn junctions.\n- No 0‑π transition detected; Ic(T) for a 1 nm barrier is smooth and monotonic.\n- Rapid decay and barrier microstructure limit observable transitions; oriented crystalline barriers are required.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14850": {
+    "title": "Exact Thermoelectric Transport Coefficients and Figure of Merit for Graphene Photothermoelectric Devices from a Finite Zeta-Function Mott Series",
+    "summary": "- Finite zeta‑function Mott series yields exact thermoelectric coefficients for polynomial transport functions.\n- Applied to graphene photothermoelectric devices (quadratic conductivity) gives closed‑form Seebeck, Lorenz ratio, and figure‑of‑merit, revealing a Seebeck peak and strong Wiedemann–Franz violation at higher temperatures.\n- Disorder reduces performance and imposes an upper limit on the electronic figure of merit; radiative heat transport further affects the figure of merit.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14853": {
+    "title": "Physics-Informed Symbolic Regression for Predicting the Glass Transition Temperature of Alkali Borate Glasses",
+    "summary": "- Physics‑informed symbolic regression yields a closed‑form Tg model for alkali borate glasses with 14–16 K RMSE.\n- Using Rigid Unit Packing Fraction (RUPF) instead of Atomic Packing Fraction captures Tg–dissociation energy–packing interplay and avoids over‑rigidity at intermediate compositions.\n- Fitted dissociation energies agree with the Makishima‑Mackenzie model; Monte‑Carlo uncertainty peaks near the boron anomaly region.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14875": {
+    "title": "When do machine-learned exchange-correlation improvements inherit into density-functional tight binding?",
+    "summary": "- ML exchange‑correlation functionals lower band‑gap errors at near‑semilocal cost, yet their gains do not transfer to DFTB parameterization because orbital‑dependent GKS operators cannot be exactly represented by a multiplicative potential.\n- Transfer‑ratio analysis shows “anti‑transfer” in covalent semiconductors: parent‑level changes move gaps in the wrong direction; the minimal‑basis overgap is dominated by on‑site conventions, largely fixed by correcting the on‑site block and",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14880": {
+    "title": "Coherent Phonon Blocking in Superlattices",
+    "summary": "- Wave‑mechanics model predicts phonon transmission and thermal resistance in arbitrarily thick superlattices, including all acoustic branches, mode conversion, and incidence angles.\n- NSGA‑II genetic algorithm designs bilayers meeting the quarter‑wavelength condition for dominant phonons, yielding up to 3000× higher thermal resistance than previous superlattices.\n- Resulting structures enable ultra‑low‑temperature thermal insulation and phonon‑blocking for superconducting flip‑chip assemblies and MEMS/NEMS devices.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14889": {
+    "title": "Antiferroquadrupolar Order in Altermagnetic CoF$_2$",
+    "summary": "- Directly observed antiferroquadrupolar charge order in CoF₂ with resonant elastic X‑ray scattering.\n- Demonstrated that this quadrupolar order generates the altermagnetic spin‑splitting, linking charge and magnetic degrees of freedom.\n- Established resonant X‑ray scattering as a probe for charge multipoles underlying altermagnetism in rutile‑structured materials.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.14920": {
+    "title": "Low temperature magnetic structure and lattice response in SmCuAs$_2$",
+    "summary": "- XRMS reveals a commensurate antiferromagnetic structure (q = (0,0,) with Sm moments in the ab‑plane and ++–– stacking along c.\n- Synchrotron XRD shows tetragonal symmetry down to 8 K; the c‑axis lattice parameter plateaus and rises near T_N, evidencing magnetoelastic coupling.\n- Comparison with Pr, Nd, Gd analogues indicates that in‑plane moment orientation, magnetic frustration, and spin‑orbit/magnetoelastic differences govern the low‑temperature resistivity minimum.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.15017": {
+    "title": "Quantum Many-Body Scars, Magnon-Pair Condensation, and Hilbert Space Fragmentation in an Anisotropic Heisenberg Model",
+    "summary": "- Exact scar eigenstates from RSGA show subextensive entanglement and magnon‑pair condensation with ODLRO.\n- At resonance the model maps to a mixed spin‑1/0 XY lattice, decomposing into independent sub‑Hamiltonians.\n- Spin‑0 sites act as kinetic constraints, yielding emergent Hilbert‑space fragmentation.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.15542": {
+    "title": "Zero-point theorems in quantum many-body physics",
+    "summary": "- Extends zero‑point theorems to multi‑parameter Hamiltonian families, revealing inevitable spectral‑gap zeros in quantum spin phase diagrams.\n- Relies solely on model‑independent boundary transformation relations, bypassing explicit low‑energy dynamics.\n- Presents conjectures that impose universal constraints on relevant operators for critical phenomena in arbitrary dimensions.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.15732": {
+    "title": "Accessing Gapped Chiral Phase with Auxiliary-Assisted PEPS",
+    "summary": "- Auxiliary-assisted PEPS embed a chiral system with a time‑reversed partner, removing spurious long‑range correlations.\n- Resulting states exhibit clean gapped correlations and finite transfer‑matrix correlation lengths for both a Chern insulator and a chiral spin liquid.\n- Layer‑resolved momentum projection recovers the universal chiral entanglement spectrum, preserving topological data in the entanglement.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.15800": {
+    "title": "Linear response functions from inhomogeneous dynamical mean-field theory",
+    "summary": "- Introduces a vertex‑free method for static lattice susceptibilities in inhomogeneous DMFT.\n- Uses external field response, bypassing two‑particle vertex calculations.\n- Validated on the square‑lattice Hubbard model; matches vertex‑based results and reaches lower temperatures.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.15811": {
+    "title": "Topological Altermagnetic Insulators",
+    "summary": "- Altermagnetic topological phases emerge in a Lieb lattice with Ising spin‑orbit coupling.\n- Quantum spin Hall effect coexists with altermagnetic spin order at fillings 2 and 4 per unit cell.\n- Edge modes stay robust against inversion‑symmetry breaking, shaped by edge magnetic structure.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.16028": {
+    "title": "Transport-Noise Witnesses of Electronic Multipartite Entanglement",
+    "summary": "- Uses equilibrium current‑noise spectrum as a transport‑based witness of multipartite electronic entanglement.\n- Derives a basis‑invariant upper bound on integrated, symmetrized noise that signals entanglement.\n- Validated on twisted bilayer graphene, MoTe₂, and Hubbard models, detecting entanglement in a fractional Chern insulator.",
+    "timestamp": "2026-08-18"
+  },
+  "2608.16219": {
+    "title": "Non-Equilibrium Instantaneous Approximation and Dipole Forbidden d-d Transitions",
+    "summary": "- Instantaneous approximation decouples fast relative‑time decay from slow average‑time evolution, enabling efficient non‑equilibrium calculations.\n- Coupled with Hubbard‑I DMFT, it embeds driven local dynamics into lattice Green’s functions while retaining momentum resolution.\n- Derives an effective coupling for dipole‑forbidden d‑d transitions via d‑p transition plus p‑d hybridization, validated on FePS₃ against time‑resolved photoemission data.",
+    "timestamp": "2026-08-18"
+  }
+}
