@@ -44,8 +44,8 @@ session.headers.update({
 CACHE_PATH = Path("summaries/cache.json")
 
 ARXIV_CATEGORIES = {
-    "quantum algorithms": ["quant-ph"],
-    "quantum information": ["quant-ph"],
+    "Strongly Correlated Electrons": ["cond-mat"],
+    "Superconductivity": ["cond-mat"],
 }
 
 # =========================
