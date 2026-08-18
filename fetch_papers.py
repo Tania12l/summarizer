@@ -328,6 +328,7 @@ def main():
             is_cached = pid and pid in cache
 
             summary = summarize_paper(p, cache, seen)
+            print(summary)
             if summary:
                 p["summary"] = summary
                 cat_papers.append(p)
