@@ -45,6 +45,7 @@ CACHE_PATH = Path("summaries/cache.json")
 
 ARXIV_CATEGORIES = {
     "condensed matter": ["cond-mat"],
+    "strongly correlated electrons": ["cond-mat.str-el"],
 }
 
 # ARXIV_CATEGORIES = {
