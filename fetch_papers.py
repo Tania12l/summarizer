@@ -44,9 +44,13 @@ session.headers.update({
 CACHE_PATH = Path("summaries/cache.json")
 
 ARXIV_CATEGORIES = {
-    "Strongly Correlated Electrons": ["cond-mat"],
-    "Superconductivity": ["cond-mat"],
+    "condensed matter": ["cond-mat"],
 }
+
+# ARXIV_CATEGORIES = {
+#     "Strongly Correlated Electrons": ["cond-mat"],
+#     "Superconductivity": ["cond-mat"],
+# }
 
 # =========================
 # Cache Helpers
