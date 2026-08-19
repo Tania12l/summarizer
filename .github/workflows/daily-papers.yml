@@ -32,7 +32,7 @@ jobs:
       env:
         GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        TOPICS: "condensed matter, strongly correlated electrons"
+        TOPICS: "condensed matter,strongly correlated electrons,fractional quantum hall effect"
       run: python fetch_papers.py
       
     - name: Commit and push results
