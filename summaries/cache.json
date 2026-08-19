@@ -1,0 +1,102 @@
+{
+  "2608.16949": {
+    "title": "Critical couplings of two dimensional Ising model on various lattices",
+    "summary": "- Unified fermionic‑field (Kac–Ward) formulation expresses the 2D Ising partition function as a determinant of a finite momentum‑space matrix for multiple planar lattices.\n- Exact critical couplings for square, honeycomb, triangular, kagomé, and dual kagomé lattices are reproduced; the anisotropic kagomé critical surface and low‑energy spectrum are fully determined.\n- In the isotropic dice model the low‑energy spectrum is relativistic massive, with the mass vanishing at cosh(2J_c) = (1+√/",
+    "timestamp": "2026-08-19"
+  },
+  "2608.16980": {
+    "title": "Hydrodynamization in 1D Bose gases at nonzero temperature",
+    "summary": "- Hydrodynamization of a 1D hard‑core Bose gas after a Bragg‑pulse quench is examined at finite temperature.\n- The hydrodynamic coherence time is temperature‑independent, while higher temperatures reduce the damping and prethermalization times.\n- The shortening is linked to a broadened rapidity distribution, leading to a defined nonzero‑temperature dephasing time.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17009": {
+    "title": "PowderLine: a programmatic powder diffraction analysis application",
+    "summary": "- PowderLine is a Python tool that packages entire Rietveld or single‑peak refinements into a declarative, schema‑validated recipe.\n- The recipe is machine‑readable/writable, enabling users, scripts, and autonomous agents to run refinements consistently.\n- It supports high‑throughput, interactive, and autonomous powder‑diffraction workflows by returning structured, machine‑readable results.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17040": {
+    "title": "Local magnetic resonance of scalar spin chirality",
+    "summary": "- Finite scalar spin chirality produces an orbital magnetic moment that has not been directly measured.\n- Local spin‑resonance drives break cyclic symmetry, activating chirality‑changing transitions that expose the orbital moment.\n- Lindblad simulations show detectable signatures in STM‑ESR, silicon donor spins, and quantum‑dot spin qubits.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17061": {
+    "title": "Emissivity by Design: Geometric Mesh Inductance Governs Thermal Radiation in Metallic Nanowire Networks",
+    "summary": "- Emissivity is set by the geometric inductance of inter‑wire gaps, not by wire length or percolation.\n- A parameter‑free reactance \\(X_L = Z_0(g/\\lambda)\\ln(2g/\\pi D)\\) captures diameter dependence, sheet‑resistance trends, and angular behavior.\n- The model fits 56 silver‑nanowire samples (MAE , unifies data on a universal curve, and predicts emissivity–transmittance for independent studies.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17076": {
+    "title": "Hidden Ergodic Relaxation in the Quench Dynamics of a Bichromatic Mott Lattice",
+    "summary": "- Sudden quench of secondary lattice in a bichromatic Mott lattice drives coefficient and second‑Renyi entropies toward GOE predictions, while local observables (momentum, fragmentation, Glauber correlations) stay nearly static.\n- Entropy dynamics collapse onto a universal relaxation trajectory largely independent of quench strength, revealing hidden ergodic relaxation beneath persistent Mott‑like order.\n- An effective embedded random‑matrix model captures the crossover from restricted to extensive Hilbert‑space spreading, providing a framework for the observed dynamics.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17080": {
+    "title": "Controlling Structure and Properties of Vapor-Deposited Glasses of Organic Semiconductors: Recent Advances and Challenges",
+    "summary": "- Vapor‑deposited organic semiconductor glasses can be tuned via substrate temperature to vary density and molecular orientation.\n- Optimized glass structures enhance OLED external quantum efficiency and device lifetime.\n- Molecular simulations now reproduce experimental structures, enabling in‑silico design and guiding future research.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17086": {
+    "title": "Rejuvenation versus overaging: The effect of cyclic loading/unloading on the segmental dynamics of PMMA glasses",
+    "summary": "- 5000‑cycle tensile tests (003–007 strain, Tg – 10 K to Tg – 25 K) on PMMA show no overaging; segmental dynamics are unchanged or faster.\n- Probe reorientation reveals relaxation‑time changes that recover on a time scale ≈ aging time, preserving the sample’s original age memory.\n- Mechanical properties change little, highlighting probe reorientation’s higher sensitivity to nonlinear deformation effects.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17089": {
+    "title": "Over what length scale does an inorganic substrate perturb the structure of a glassy organic semiconductor?",
+    "summary": "- ~8 nm near Si or Au substrates shows disordered packing in vapor‑deposited DSA‑Ph glasses.\n- Grazing‑incidence X‑ray scattering across 10–600 nm films confirms substrate‑induced disorder is confined to a few nanometers.\n- Coarse‑grained MD reproduces this length scale; deposition temperature controls structure beyond the interfacial layer.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17125": {
+    "title": "Demonstration of a scalable all-solid-state refrigerator exploiting diffusion geometries and limiting interfacial conductances at temperatures below 1",
+    "summary": "- 1121 SINIS junctions form a scalable all‑solid‑state refrigerator that cools phonons below 1 K.\n- Diffusive quasiparticle flow and engineered superconductor‑trap interfaces suppress back‑heat leakage.\n- Device uses W/TiW cold side, Al₂O₃ insulator, Al superconductor, Au trap; achieves sub‑Kelvin phonon temperatures on a 9 mm² silicon chip.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17303": {
+    "title": "Second Harmonic Generation Spectroscopy of the Surface Charge Density Wave in the Weyl Semimetal CoSi",
+    "summary": "- RA‑SHG detects a surface CDW on CoSi(with T_c ≈ 90 K.\n- SHG intensity follows a power law, β = 30 ± 03 (3D XY universality).\n- Transition is purely surface‑driven; scaling linked to Fermi‑arc–bulk coupling.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17424": {
+    "title": "Many-Anyon Braiding in Non-Abelian Fractional Quantum Hall Effect with Hybrid Monte Carlo Simulation",
+    "summary": "- Hybrid Monte Carlo yields many‑anyon braiding matrices for Moore‑Read quasiholes.\n- Global‑rotation braiding schemes are robust against finite‑size effects, outperforming two‑anyon exchanges.\n- Electron interactions and local traps shift fusion‑channel energies but leave non‑Abelian braiding matrices unchanged, evidencing long‑range entanglement.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17548": {
+    "title": "Absence of nontrivial local conserved quantities in a class of $U(1)$-symmetric spin-1 chains",
+    "summary": "- No nontrivial k‑local conserved quantities exist for 3 ≤ k ≤ N/2 in U(-symmetric spin‑1 chains with vanishing quadrupolar couplings.\n- In frustration‑free chains with U(symmetry breaking, any local conserved operator up to half the system is a linear combination of 1, S^z, and H.\n- The same absence of k‑local conserved quantities holds for the periodic Motzkin chain, linking symmetry breaking to frustration‑free structure.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17558": {
+    "title": "Inducing metal-insulator transition via disorder in correlated kagome systems",
+    "summary": "- Hopping disorder combined with electron correlations localizes carriers, reducing the critical Coulomb interaction for a Mott transition in kagome lattices.\n- Disorder suppresses but does not fully destroy antiferromagnetic order, producing a phase diagram with antiferromagnetic metal, correlated Anderson insulator, and disordered Mott insulator.\n- Determinant QMC calculations of kinetic energy, dc conductivity, and DOS confirm a disorder‑driven metal‑insulator transition, offering guidance for experimental control of kagome device states.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17631": {
+    "title": "Gauge-constrained Spinon Complexes Near Deconfined Quantum Criticality",
+    "summary": "- Pinned‑spin defects create controllable spinon–antispinon pairs, showing string breaking when dipoles reorganize into shorter neutral dipoles.\n- QMC visualizes VBS domain‑wall strings, whose connectivity is set by lattice‑scale VBS phase offsets, spin projection, and vorticity.\n- Multi‑pin patterns form robust four‑spinon complexes and extended domain‑wall networks that preserve global connectivity under local distortions.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.09644": {
+    "title": "A spin-bond theory unifying non-relativistic spin splitting and emergent spin-orbit textures",
+    "summary": "- Unified spin‑bond theory connects even‑parity altermagnets and odd‑parity p‑wave magnets through unitary spin phases and Hermitian spin amplitudes.\n- Non‑commuting unitary and Hermitian sectors generate mixed, non‑coplanar spin textures with even‑in‑momentum transverse polarization, observable via ARPES.\n- Synthetic spin‑orbit coupling can be dynamically tuned by controlling bond non‑commutation, enabling field‑free spin qubits.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17647": {
+    "title": "Wavelength-Resolved Control of Photovoltaic Screening and Defect-Mediated Doping in Photo-Ferroelectric/Graphene Devices",
+    "summary": "- Demonstrates wavelength‑dependent control of ferroelectric/graphene electrostatics using 365 nm (above‑bandgap) vs 530 nm light.\n- 365 nm generates free carriers that screen the ferroelectric dipole, dropping graphene resistance contrast from 290 % to 15 %.\n- 530 nm excites defect states, only weakly suppressing contrast, enabling selective optical tuning of polarization and doping.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17745": {
+    "title": "Bridging ambient- and high-pressure superconductivity in La$_2$LnNi$_2$O$_7$ films",
+    "summary": "- Ambient‑pressure La₂LnNi₂O₇ films: T² resistivity, Tc ≈ 41–42 K; 16 GPa raises Tc to 67–73 K.\n- Tc tracks normal‑state transport: T² → T‑linear evolution under pressure.\n- Ln‑substitution lattice compression mimics pressure but lowers Tc, underscoring lattice‑superconductivity interplay.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.17777": {
+    "title": "Entropy mapping under uniaxial pressure utilizing the elastocaloric effect",
+    "summary": "- Developed a.c. elastocaloric method combining low‑frequency strong‑coupling and high‑frequency quasi‑adiabatic data to recover absolute entropy and specific heat under uniaxial pressure.\n- Mapped Sr₂RuO₄’s entropy across its phase diagram, showing maximal entropy quenching at the critical strain (Van Hove singularity).\n- Determined the specific‑heat jump Δc/(γT) at the Van Hove strain is smaller than earlier indirect estimates.",
+    "timestamp": "2026-08-19"
+  },
+  "2608.18065": {
+    "title": "Quantum Geometric Tensor Preconditioning for Stable Training of Recurrent Neural Quantum States",
+    "summary": "- Stabilizes minSR for RNN-based NQS using simple regularization, enabling robust training with few samples.\n- Outperforms Adam on 1D transverse‑field Ising and cluster states; competitive on 2D Heisenberg and \\(J_1\\!-\\!J_2\\) models.\n- Opens the door to curvature‑based optimizers for autoregressive NQS in quantum simulation.",
+    "timestamp": "2026-08-19"
+  }
+}
