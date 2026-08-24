@@ -268,5 +268,55 @@
     "title": "Nonlinear Drude weight of the one-dimensional Hubbard model",
     "summary": "- NLDWs in the 1D Hubbard model at quarter filling are obtained from Bethe‑ansatz and strong‑coupling expansion, matching numerics.\n- Tomonaga‑Luttinger theory predicts divergent NLDWs above a threshold from Umklapp, yet exact results remain finite, revealing a mismatch.\n- At half filling, finite‑size scaling across the Mott transition yields insulating‑phase asymptotics and a verified hyperscaling ansatz near criticality.",
     "timestamp": "2026-08-22"
+  },
+  "2608.21316": {
+    "title": "Ultralow-Field Triplon Condensation in a Spin-Ladder Magnet",
+    "summary": "- First ultralow‑field triplon BEC observed in a spin‑ladder, with μ₀H_c1 = 17 T in Henmilite.\n- Thermodynamic, μSR, and neutron data show a quantum‑disordered coupled‑ladder ground state, refuting earlier zero‑field AF order.\n- An asymmetric ordered dome (H_c2 ≈ 2 T) is reproduced by QMC, placing Henmilite just on the gapped side of the ladder‑ordering",
+    "timestamp": "2026-08-24"
+  },
+  "2608.21291": {
+    "title": "Neural quantum states in condensed matter: advances, best practices, and prospects",
+    "summary": "- Neural quantum states combine neural-network parametrizations with Monte Carlo sampling to flexibly represent many‑body wave functions.\n- Recent work applies them to frustrated magnets, lattice fermions, and non‑equilibrium dynamics, emphasizing symmetry constraints, optimization, and sampling strategies.\n- Key challenges remain: learning sign/phase structures, reducing variational bias, scaling optimization, and stabilizing real‑time evolution.",
+    "timestamp": "2026-08-24"
+  },
+  "2608.21284": {
+    "title": "Two distinct gap structures in the mid-infrared optical conductivity of the Hubbard model",
+    "summary": "- Two distinct gaps—pseudogap (AF spin fluctuations) and Mott‑Hubbard—drive universal MIR conductivity.\n- Each gap yields a characteristic MIR spectral shape and distinct doping dependence, enabling experimental separation.\n- Doping evolution: low‑doping Mott peak in visible; high‑doping broad MIR response from waterfall‑induced correlations, matching experiments.",
+    "timestamp": "2026-08-24"
+  },
+  "2608.21250": {
+    "title": "Emergent Vibronic Spectral Hierarchy in a Kagome Flat-Band Insulator",
+    "summary": "- Raman spectra reveal a giant Franck‑Condon progression from a nearly dispersionless 7 cm⁻¹ phonon, with a 6 cm⁻¹ comb‑like fine structure.\n- The comb spacing is field‑independent, yet its spectral weight is strongly tunable by magnetic field, indicating a coupled electron‑vibrational manifold.\n- The 260–280 K transition is an electronic localization without conventional structural or magnetic order, implicating dispersionless phonons in vibronic self‑trapping and the insulating phase.",
+    "timestamp": "2026-08-24"
+  },
+  "2608.21161": {
+    "title": "Berry-Curvature Effect in Anomalous Transport",
+    "summary": "- Derives Berry‑phase contribution to anomalous transport via quasiclassical matrix kinetic equation in altermagnets and noncentrosymmetric metals.\n- Extends beyond anomalous Hall effect to include anomalous heat flow and thermoelectric currents driven by temperature or chemical‑potential gradients.\n- Provides an alternative formulation to Di Xiao et al., emphasizing the role of a field‑dependent density of states.",
+    "timestamp": "2026-08-24"
+  },
+  "2608.21110": {
+    "title": "Pair size versus coherence length and quantum geometry in the spin-orbit coupled BCS-BEC crossover",
+    "summary": "- Exact pair‑size tensor in helicity basis separates into intraband and quantum‑geometric interband parts set by the quantum metric.\n- Two many‑body lengths: Cooper‑pair size (mean‑field) and coherence length (Gaussian fluctuations); they coincide in BCS but diverge across the crossover.\n- In 3D Rashba/Weyl and 2D Rashba SOC, pair size monotonically decreases with SOC, while coherence length exhibits a pronounced minimum at the crossover, with quantum‑geometric terms contributing up to ~1/3 of the pair size.",
+    "timestamp": "2026-08-24"
+  },
+  "2608.21029": {
+    "title": "Doping-driven Mott transition from steady-state density functional theory",
+    "summary": "- Applies steady‑state i‑DFT to the Hubbard model’s doping‑driven Mott transition.\n- Links the i‑DFT exchange‑correlation bias to quasiparticle weight using Fermi‑liquid theory, guiding functional construction.\n- Numerical results confirm i‑DFT captures the Mott transition.",
+    "timestamp": "2026-08-24"
+  },
+  "2608.20981": {
+    "title": "A Classification of Translation-Invariant Quantum Codes in Any Dimension",
+    "summary": "- Classifies D‑dimensional translation‑invariant quantum codes using length‑D chain complexes.\n- Proves such codes are equivalent to multiple copies of the D‑dimensional toric code.\n- Applies to multivariate multicycle codes where the number of variables equals the number of cycles.",
+    "timestamp": "2026-08-24"
+  },
+  "2608.20978": {
+    "title": "Quasi-one-dimensional topological band structure and van Hove singularities in monolayer TaIrTe$_4$ from laser $μ$-ARPES",
+    "summary": "- μ‑ARPES reveals a highly anisotropic, quasi‑1D band structure in monolayer TaIrTe₄.\n- A saddle‑point van Hove singularity exists, yet it lies at a carrier density where transport shows no anomalies.\n- Quasiparticle linewidths indicate weak correlations, suggesting van Hove singularities and electron interactions play a secondary role in the quantum spin Hall phase.",
+    "timestamp": "2026-08-24"
+  },
+  "2608.20849": {
+    "title": "Spin models with critical ground space degeneracy from Lie algebra relations",
+    "summary": "- SO(-symmetric spin chain built from an MPS of so(generators, encoding the algebra’s quadratic relations.\n- Ground‑state degeneracy: OBC → quadratic (one irrep per odd dimension); PBC → linear (singlet + maximal‑spin ferromagnet), yielding gapless modes.\n- Construction extends to SO(d) and other compact simple Lie groups, illustrating that small parent Hamiltonians of injective MPS can exhibit critical, non‑unique ground spaces.",
+    "timestamp": "2026-08-24"
   }
 }
