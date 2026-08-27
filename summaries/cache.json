@@ -488,5 +488,80 @@
     "title": "Interaction-mediated Co-existence of Altermagnetism and Topology",
     "summary": "- Extended Hubbard model on Lieb lattice (filling 2, produces simultaneous altermagnetic order and topological gap.\n- Unrestricted Hartree‑Fock and exact diagonalization confirm coexistence and a quantum spin Hall effect over a large phase region.\n- Breaking inversion symmetry yields second‑order topological phases with corner modes.",
     "timestamp": "2026-08-26"
+  },
+  "2608.24925": {
+    "title": "Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces",
+    "summary": "- Non‑aligned graphyne/graphdiyne wire arrays are energetically favored on Au(, Ag(, and Al(due to van der Waals binding.\n- Molecular orbitals do not form interface states; XPS C 1s peaks shift uniformly, indicating dominant metallic screening.\n- Band‑structure calculations reveal preserved semiconducting character with negligible hybridization, supporting their use in molecular electronics.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.24927": {
+    "title": "Reply to Comment on: Microscopic signatures of an imaginary charge density wave in a kagome metal",
+    "summary": "- Refutes crystalline mosaicity as cause of asymmetric NMR spectra in kagome metal.\n- Argues mosaicity would require unrealistic temperature‑ and site‑dependent orientation and EFG asymmetry distributions.\n- Concludes mosaicity cannot explain the observed site‑selective spectral asymmetry.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.24950": {
+    "title": "A Simple Regularization of the Smooth Quantum Hydrodynamic Model",
+    "summary": "- Introduces a regularization replacing density gradients in the momentum equation with a Boltzmann distribution to suppress unstable modes.\n- Applies the regularized smooth quantum hydrodynamic model to a resonant tunneling diode, reproducing realistic negative differential resistance and hysteresis.\n- Demonstrates close agreement with fully quantum mechanical simulations for the diode’s current‑voltage characteristics.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.24967": {
+    "title": "Heat Transfer and Torque in Enclosing Cylindrical Configurations with Nonreciprocal Materials",
+    "summary": "- Torque in enclosing cylindrical setups is bounded by heat transfer when at least one object is rotationally symmetric; nonreciprocal media are required for nonzero torque if both are symmetric.\n- For concentric cylinders with nonreciprocal dielectric, heat transfer and torque are expressed via an angular‑momentum‑resolved flux Φₙ(ω), and a new analytic Casimir force formula for dilute plates at different temperatures is derived.\n- A bound between torque, friction, and heat transfer limits the efficiency of a contactless rotational heat engine.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.24980": {
+    "title": "Nonlocal thermal noise in electrically coupled conductors: A microscopic two-dimensional study",
+    "summary": "- Simulations of capacitively coupled wires show temperature‑gradient‑induced nonlocal correlations in electromotive forces, breaking the local‑noise assumption.\n- The model reproduces Ohm’s law, equilibrium Johnson noise, and zero correlations at equal temperature, but predicts systematic deviations in inferred Johnson temperature when wires differ in temperature.\n- Results suggest that independent local thermal‑noise sources are invalid for electrically coupled conductors out of equilibrium, even with short‑range interactions.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.24984": {
+    "title": "High-harmonic fingerprints of sharp spin twists in a chiral soliton lattice",
+    "summary": "- HHG from itinerant electrons in a CSL directly probes lattice‑scale spin twists.\n- Intensity grows nonperturbatively with drive amplitude as winding localizes, driven by spatially varying hopping.\n- In the continuum limit (large magnetic period) high‑order harmonics collapse, showing HHG resolves real‑space CSL structure.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.24989": {
+    "title": "Quantum spin Hall crystals at fractional filling of twisted MoTe$_2$",
+    "summary": "- Predicts interaction‑driven quantum spin Hall crystals (QSHCs) that emerge at fractional filling through topology and spontaneous translation‑symmetry breaking.\n- Finds 9‑fold quasi‑degenerate √3×√3 charge‑ordered QSHCs at ν = −8/3 in 5° twisted MoTe₂, organized by a Z₃ index into TR‑invariant Z₂ topological states and TR‑related doublets with U(_v spin‑Chern number.\n- Determines the conditions that favor QSHCs over competing intervalley‑coherent crystals.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.24995": {
+    "title": "Microscopic Modeling of the Charge-Density-Waves in the Rare-Earth Tritellurides",
+    "summary": "- Mean‑field 2D electron‑phonon model yields a unidirectional CDW with the experimentally observed ordering vector.\n- Predicts two successive symmetry‑breaking transitions: CDW onset, then a lower‑temperature translation‑symmetry breaking seen in heavy‑rare‑earth RTe₃.\n- Reveals an intermediate mirror‑symmetry‑breaking transition, accounting for recent experimental evidence of mirror‑symmetry breaking.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.25002": {
+    "title": "Photonic spin-Hall effect as a probe for time-reversal-symmetry broken band topological phases",
+    "summary": "- PSHE causes spatial splitting of reflected Gaussian beam into opposite circular polarizations.\n- Centroid shift of the split beams directly measures optical Hall conductivity, revealing topological order.\n- Frequency‑dependent sign of the shift distinguishes time‑reversal‑symmetry‑broken topological phases from trivial ones.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.25076": {
+    "title": "High-pressure phase transitions in the quantum spin liquid candidate Na2Co2TeO6 probed by Raman spectroscopy",
+    "summary": "- Raman study of Na₂Co₂TeO₆ up to 3 GPa shows three distinct pressure regimes.\n- Mode appearance/disappearance and polarization changes, notably above 8 GPa, signal pressure‑induced phase transitions.\n- Results imply pressure‑tuned bond geometry can alter Kitaev exchange in this quantum spin liquid candidate.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.25132": {
+    "title": "The Effects of Inter-Valley Coupling of Dirac Fermions near Four Dimensions",
+    "summary": "- One-loop RG in 4‑ε shows inter‑valley coupling destabilizes the decoupled GNY fixed point.\n- A new stable fixed point emerges with distinct critical exponents and broken Lorentz invariance from valley‑frame rotations.\n- At large Nψ the inter‑valley coupling stays finite, yet Lorentz symmetry is asymptotically restored.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.25224": {
+    "title": "Dynamical splitting and a nodal Bose liquid in 2d chiral XYZ model",
+    "summary": "- Introduces “dynamical splitting” allowing exact diagonalization on lattices ~2× larger.\n- Applies to chiral XYZ on triangular lattice; large‑N limit yields gapless state with three nodal lines.\n- N=2 exact results show \\(L\\log L\\) entanglement and CFT‑like chord scaling, confirming a nodal Bose liquid.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.25265": {
+    "title": "Electric excitation of spin resonance in altermagnetic and antiferromagnetic conductors",
+    "summary": "- Predicts electric‑dipole spin resonance (EDSR) in altermagnetic conductors.\n- In a magnetic field perpendicular to the magnetization, an AC electric field produces a spin‑resonance peak above the threshold frequency ω₋ = 2H⊥.\n- EDSR can diagnose altermagnetism and differentiate it from higher‑symmetry antiferromagnetic order in clean samples.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.25656": {
+    "title": "Phase calibration of quantum oscillations in the magnetostrictive coefficient using the topological antiferromagnet YbMnBi$_2$",
+    "summary": "- Calibrated phase offset of quantum oscillations in the ac magnetostrictive coefficient by direct comparison with magnetization in YbMnBi₂.\n- Identified a single 160 T frequency up to 14 T, eliminating multi‑frequency ambiguity.\n- Observed a ~π/2 phase shift between magnetostrictive and magnetization oscillations, confirming the Maxwell relation and enabling Berry‑phase extraction.",
+    "timestamp": "2026-08-27"
+  },
+  "2608.25778": {
+    "title": "Quasi two dimensional magnetic structure of the triclinic double perovskite Ca$_2$CuWO$_6$",
+    "summary": "- Ca₂CuWO₆ orders antiferromagnetically below 32 K with k = (½,½,in triclinic P ¯1, collinear Cu moments ≈ 66 µB.\n- Using a common supercell, the same W‑mediated second‑neighbor exchange stabilizes the magnetic structure in both Ca₂CuWO₆ and Sr₂CuWO₆.\n- Triclinic symmetry lifts the four‑domain degeneracy of Sr₂CuWO₆, selecting a single k‑domain in Ca₂CuWO₆.",
+    "timestamp": "2026-08-27"
   }
 }
