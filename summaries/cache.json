@@ -563,5 +563,95 @@
     "title": "Quasi two dimensional magnetic structure of the triclinic double perovskite Ca$_2$CuWO$_6$",
     "summary": "- Ca₂CuWO₆ orders antiferromagnetically below 32 K with k = (½,½,in triclinic P ¯1, collinear Cu moments ≈ 66 µB.\n- Using a common supercell, the same W‑mediated second‑neighbor exchange stabilizes the magnetic structure in both Ca₂CuWO₆ and Sr₂CuWO₆.\n- Triclinic symmetry lifts the four‑domain degeneracy of Sr₂CuWO₆, selecting a single k‑domain in Ca₂CuWO₆.",
     "timestamp": "2026-08-27"
+  },
+  "2608.26231": {
+    "title": "When chemical potential continuity fails: kinetic interface models for hydrogen isotope transport",
+    "summary": "- LTE interface models assume fast equilibration, a single exchange pathway, and known carrier species—assumptions that break down at metal/molten‑salt boundaries.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26245": {
+    "title": "Exact pair density wave in topological moire flat bands and universal superfluid stiffness",
+    "summary": "- Exact PDW ground state realized in a twisted bilayer checkerboard lattice with topological flat bands via quantum geometric nesting.\n- Momentum‑space nonsymmorphic symmetry stabilizes the PDW against competing orders.\n- Universal superfluid stiffness: \\(D_s = 2N_{\\text{flat}}\\nu(1-\\nu)/m_{\\text{pair}}\\) for any nondegenerate QGN superconductor.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26252": {
+    "title": "Quantized Transport through a Supermoir\\'e Chern Mosaic",
+    "summary": "- Magic‑angle helical trilayer graphene forms a mosaic of domains with opposite valley Chern numbers, hosting a network of domain‑wall modes.\n- A moderate magnetic field triggers a valley‑selective topological transition, opening a global C = –6 Chern gap that gaps the domain‑wall modes.\n- Hall resistance in this gap is quantized to within 2 % of –h/6e² at 6 K, demonstrating robust quantized transport.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26260": {
+    "title": "Hidden Frustration in Collinear Altermagnets: Pairing Vortices and Equilibrium Spin Current Loops",
+    "summary": "- Collinear altermagnets exhibit a gauge‑irreversible vortex‑antivortex pair in magnon pair correlations from staggered Dzyaloshinskii–Moriya coupling.\n- Hidden vortices produce an antiferrochiral array of equilibrium spin‑current loops around neighboring plaquettes.\n- Quantum frustration survives classical collinearity, linking squeezed‑vacuum spin correlations to flux‑phase and spin‑liquid physics.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26264": {
+    "title": "Statistics as a local phase: crystalline order and quench dynamics of emergent dimers in Ising gauge theories",
+    "summary": "- Emergent dimers in a 2+1D ℤ₂ gauge theory inherit the microscopic particle statistics via a single local hopping phase ϕ (0 for bosons, π for fermions).\n- The phase diagram, mapped with tensor‑network methods, shows a ϕ‑driven transition from a dimer superfluid to a charge‑density‑wave, plus a novel gapped phase of resonating plaquette crystals.\n- A quench protocol reveals distinct real‑time dynamics for identical dimer configurations, enabling dynamical detection of the underlying statistics and ordered phases.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26265": {
+    "title": "Supercurrent detection and manipulation of topological phase transitions in Shiba-Majorana hybrid systems",
+    "summary": "- Detects ground‑state parity changes in Shiba‑Majorana chains by measuring supercurrent.\n- Observes sharp critical‑current discontinuities at zero‑energy level crossings.\n- Implements a robust, non‑invasive readout using a single control adatom with a Yu‑Shiba‑Rusinov state.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26269": {
+    "title": "How quantum is quantum geometry?",
+    "summary": "- Classical particle with magnetic moment in a momentum‑dependent field reproduces Berry‑curvature and quantum‑metric phenomena.\n- Transverse precession generates a position spread whose second moment equals the quantum metric, plus an orbital magnetic moment and inertial mass.\n- The induced inertial mass yields a nonzero Drude weight in a nominally flat band, illustrating classical origins of quantum‑geometric observables.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26270": {
+    "title": "Time and Momentum Resolved Tunneling Spectroscopy of Floquet dynamics",
+    "summary": "- Time‑ and momentum‑resolved tunneling spectroscopy probes instantaneous Floquet spectra beyond the high‑frequency limit, capturing transient and non‑adiabatic dynamics.\n- Method benchmarked on driven non‑interacting fermions and extended to strongly correlated systems via time‑dependent DMRG.\n- Microscopic explanation of resonantly induced in‑gap states and brief discussion of finite‑temperature analogs.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26279": {
+    "title": "Critical Properties and Glass Transitions in Randomly Coupled Fields",
+    "summary": "- Random scalar fields with quenched random couplings form Gaussian universality classes set by eigenvalue density near the spectral edge.\n- Wigner coupling gives diverging correlation length but finite susceptibility; one‑loop replica analysis points to an upper critical dimension of one.\n- In the solvable spherical variant, heat capacity jumps for \\(d>1\\) and the glass phase preserves critical correlations, yielding scale invariance without Goldstone modes.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26312": {
+    "title": "Milled to order: toward predictive mechanochemistry of halide perovskites",
+    "summary": "- Mechanochemical milling can scale solvent‑free synthesis of halide perovskites, aiming to shift from empirical to predictive control.\n- Key questions: are milled phases truly metastable or just routes to equilibrium, and what atomistic pathways govern their formation?\n- Achieving programmable metastability would unlock new compositions and intermediates,",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26347": {
+    "title": "Dynamical signatures of deconfined spinons in dimerized sawtooth chains",
+    "summary": "- Broad two‑spinon continuum dominates the zero‑temperature DSF, with the one‑triplon peak strongly suppressed.\n- Closed‑form spinon dispersions set the continuum edges and track the dominant band across the dimerized phase, VBS point, and first‑order boundary.\n- The results",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26534": {
+    "title": "Competition between Geometrical Frustration and the Kondo Effect in CePdAl Revealed by High-Resolution Magnetization",
+    "summary": "- First‑order metamagnetic transitions at 80 mK without plateaus, showing frustration lifted by Kondo suppression and spin flips.\n- Anomaly in nonlinear susceptibility at 3 T reveals nondipolar correlations in the polarized paramagnetic state.\n- Absence of non‑Fermi‑liquid behavior in the high‑field, AFM‑suppressed regime defines thermodynamic limits for the field‑induced spin‑liquid in CePdAl.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26540": {
+    "title": "Field-amplified readouts of weak altermagnetic exchange in MnF$_2$",
+    "summary": "- MnF₂’s sublattice‑odd exchange (δJ₇≈+8 µeV) is resolved by first‑principles mapping, confirming its altermagnetic character.\n- A longitudinal field B∥c linearly amplifies this hidden scale, producing two measurable signatures: a compensation field B*≈34 T and a fixed‑field contrast ≈",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26609": {
+    "title": "Thermally quenched metastability in metal-insulator transitions via elemental substitution",
+    "summary": "- Rapid cooling (>10⁹ K s⁻¹) suppresses the VO₂ metal‑insulator transition when tungsten is substituted, trapping a long‑lived metallic phase.\n- Relaxation follows nucleation‑dominated kinetics with a thermally activated barrier introduced by W.\n- Elemental substitution thus provides a route to thermally quenched metastability in electronic phase transitions.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.26751": {
+    "title": "Interlayer-engineering of Charge Order Wave Vector in Kagome Metals",
+    "summary": "- Interlayer coupling tunes CsV₃Sb₅ from a 4×1 charge order in the monolayer to a 2×2 order in the bulk.\n- Monolayer phonons show instability at q = (¼, 0, ; increasing interlayer spacing softens the M‑point phonon, triggering the bulk 2×2 instability.\n- The study unifies surface‑observed 4×1 and bulk‑observed 2×2 charge orders as competing tendencies controlled by dimensionality.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.27134": {
+    "title": "3D- (H-theta-phi) magnetic phase diagram of antiferromagnetic metal GdB6 with electron and lattice instability",
+    "summary": "- GdB6 exhibits static Jahn‑Teller distortions and dynamic charge stripes, producing anisotropic charge transport.\n- Two antiferromagnetic phases (AF I, AF II) form an impeller‑shaped H–φ phase diagram in the (and (planes.\n- A 5d spin‑density wave and stripe‑induced RKKY suppression generate the observed anisotropy and phase boundaries.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.27200": {
+    "title": "Multi-orbital physics in inverse Lieb lattice altermagnets",
+    "summary": "- Developed symmetry‑based microscopic Hamiltonian for inverse Lieb lattice altermagnets, incorporating sublattice and orbital degrees of freedom.\n- Applied to vanadium oxychalcogenides: \\(xy\\) orbitals stabilize altermagnetism; Hund’s coupling induces \\(xz/yz\\) orbital order.\n- Multi‑orbital models uncover orbital‑selective topological edge states.",
+    "timestamp": "2026-08-28"
+  },
+  "2608.27411": {
+    "title": "A continuous confinement-deconfinement transition in a triangular quantum magnet",
+    "summary": "- Continuous confinement–deconfinement transition in TlYbS₂: antiferromagnetic order below 53 K gives way to a gapless spin‑liquid with a spinon Fermi surface at μ₀H_c≈3 T.\n- Signatures: finite residual κ/T, Pauli‑like susceptibility, T‑independent NMR Knight shift, and enhanced scattering rate without critical density‑of‑states growth.\n- Indicates a quantum critical point governed by fractionalized excitations beyond the Ginzburg–Landau paradigm.",
+    "timestamp": "2026-08-28"
   }
 }
