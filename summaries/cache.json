@@ -833,5 +833,95 @@
     "title": "Interplay between crystal structure and magnetism in CeCrB$_4$",
     "summary": "- CeCrB₄ is a ferromagnetic ground‑state metal boride with mixed‑valence Ce and charge transfer from Ce–Cr layers to B layers.\n- Density‑functional GGA+U calculations reveal Cr–Cr dimers whose 3d₍z²₎ orbitals form molecular‑like bonding/antibonding states.\n- The 3d₍z²₎ level splitting varies with intra‑dimer distance, mirroring classical homonuclear diatomic molecule behavior.",
     "timestamp": "2026-08-31"
+  },
+  "2608.28717": {
+    "title": "Charge-State Dependence of Electronic Excitations in keV Ions Transmitted Through Solids Probed by Ion-Photon Coincidence Measurements",
+    "summary": "- Coincidence detection of >10 eV photons from keV He ions transmitted through solids, resolving exit charge states.\n- Photon yields largely material‑independent, rising steeply with ion kinetic energy, agreeing with beam‑foil excitation models.\n- Validated coincidence methodology and corrections, extending the model to higher photon energies and varied materials.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.28719": {
+    "title": "Emergent hydrodynamic response and dynamical backreaction: Magnon bound-state propagation in a Bose-Hubbard fluid",
+    "summary": "- Examines a 1‑D Bose‑Hubbard fluid’s response to a two‑magnon bound state on an attractive XXZ chain via Holstein‑type displacement coupling.\n- Derives a long‑wavelength hydrodynamic theory that predicts a comoving near‑field deformation and sound‑cone density waves, confirmed by MPS simulations.\n- Finds dynamical backreaction slows the bound state and broadens its density profile, delineating the regime where hydrodynamics remains quantitatively accurate.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.28731": {
+    "title": "Statistical Properties of a Fluctuation-Driven Nanomechanical Duffing Resonator",
+    "summary": "- Gaussian force noise drives multiple modes of a doubly clamped nanobeam, revealing a harmonic‑to‑Duffing transition with increasing drive.\n- An effective temperature, derived from fluctuation amplitude, decreases as nonlinearity dominates.\n- Response statistics shift from Gaussian to platykurtic, matching Duffing‑potential predictions.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.28739": {
+    "title": "Fractal Confinement and Magnetic Self-sabotage of Current Flow: Electrons Near the Metal-insulator Crossover in a 2D $\\delta$-layer",
+    "summary": "- Large‑scale Hartree‑Fock on 2D δ‑doped semiconductors reveals two transport regimes near a critical density.\n- Conductivity rises as T drops below U₀/10, then falls at T ≈ U₀/100 when a tiny density of magnetic moments appears.\n- Fractal wavefunctions amplify magnetic interactions, funneling current into filaments that are ultimately quenched by dynamic SU(symmetry breaking.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.28742": {
+    "title": "Determinant Quantum-Quantum Monte Carlo: Coherent Auxiliary-Field Sampling",
+    "summary": "- DQ$^2$MC replaces classical auxiliary‑field sampling with a quantum determinant oracle via singular‑value transformations, avoiding enumeration of Hubbard‑Stratonovich weights.\n- Operates at the single‑particle level with only $O(\\log N_{\\mathrm{st}})$ qubits, eliminating fermionic encodings and Markov‑chain autocorrelation.\n- Provides full‑quantum and hybrid protocols: full‑quantum removes Metropolis steps; hybrid uses constant‑size qubits, exact heat‑bath draws, and enables rejection",
+    "timestamp": "2026-09-01"
+  },
+  "2608.28750": {
+    "title": "Floquet engineering of competing antiferromagnetism and $d$-wave superconductivity on the square lattice",
+    "summary": "- Floquet‑driven Lieb–Hubbard lattice yields a tunable bond attraction \\(J\\) in a square‑lattice spin‑½ model, independent of on‑site repulsion \\(U_d\\).\n- In the intermediate‑coupling regime (\\(J, U_d \\sim t_{\\text{eff}}\\)), mean‑field theory finds adjacent antiferromagnetic and \\(d\\)-wave superconducting phases with narrow coexistence at half filling.\n- The study outlines branch‑preparation, prethermal, and higher‑band conditions for implementing the",
+    "timestamp": "2026-09-01"
+  },
+  "2608.28759": {
+    "title": "Benchtop Momentum-Resolved Phonon Spectroscopy: Unlocking Lattice Dynamics via X-ray Diffuse Scattering",
+    "summary": "- Benchtop SAXS/WAXS with 8 keV X‑rays captures thermal diffuse scattering in silicon, enabling extraction of interatomic force constants across the Brillouin zone.\n- Global optimization of the TDS images yields fitting accuracy comparable to synchrotron‑level data.\n- The method provides a low‑",
+    "timestamp": "2026-09-01"
+  },
+  "2608.28831": {
+    "title": "Domain walls with alternating magnetic order in a model with dipolar coupling",
+    "summary": "- 1D chain of elongated magnetic islands with nearest‑neighbor dipolar coupling supports doubly‑degenerate transverse alternating ground states.\n- Domain walls between these states broaden as the anisotropy K₁ approaches the dipolar coupling D, with continuum theory matching lattice simulations.\n- A transverse applied field slightly cants dipoles, causing opposite‑sense rotation on the two sublattices across the wall.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.28836": {
+    "title": "Electrochemical impedance spectroscopy of graphene nanogaps",
+    "summary": "- Graphene nanogaps fabricated by electrical breakdown exhibit electrochemical activity through an ultrathin conductive film at the edges.\n- EIS shows Warburg diffusion behavior, with impedance systematically varying with pH, indicating edge‑reaction diffusion coupling.\n- Equivalent‑circuit modeling extracts an effective nanogap length scale, complementing tunneling measurements.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.28848": {
+    "title": "Direct Evidence of Unconventional Superconductivity in Doped Kagome system RV$_3$Sb$_5$",
+    "summary": "- Fully gapped, two‑band superconductivity in optimally doped RbV₃Sb₅ with CDW suppressed.\n- Particle‑hole asymmetric impurity‑bound states exclude conventional s‑wave and s± pairing.\n- Observations match a chiral order parameter, confirming chiral superconductivity.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.28898": {
+    "title": "Phase stability, charge ordering, and charge-liquid formation in the Falicov-Kimball model on triangular and kagome lattices",
+    "summary": "- Spinless Falicov‑Kimball model on triangular and kagome lattices mapped with Markov‑chain Monte Carlo.\n- Triangular lattice hosts Anderson, Mott, and CDW phases; a charge‑liquid regime appears between weak coupling and CDW, driven by interaction‑mediated nesting.\n- Kagome lattice shows no CDW, only an insulating (likely Mott) ground state with hints of a zero‑temperature quantum transition, highlighting lattice geometry and particle‑hole symmetry effects.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.29062": {
+    "title": "Enhanced Diffusion from Twist-Angle Disorder",
+    "summary": "- Twist‑angle disorder in twisted bilayers acts like a curl of interlayer displacement, creating spatially correlated Hamiltonian variations.\n- This geometric scattering suppresses momentum relaxation compared to white‑noise disorder, enhancing diffusion.\n- The system maps onto a non‑linear sigma model, enabling quantitative analysis of transport and ordering effects.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.29064": {
+    "title": "Duality Between Twist-Angle Disorder and Non-Hermitian Disorder",
+    "summary": "- Twist‑angle disorder in moiré heterobilayers is modeled as a finite‑range uniform twist that randomly deforms beyond that range, with a probability distribution penalizing large deviations.\n- Replica‑trick averaging yields alternating‑sign correlations between replicas, strongest near domain boundaries and along specific directions.\n- A duality maps these correlations to a non‑Hermitian disorder model for fermions, showing that twist‑angle disorder can evade Anderson localization differently from conventional disorder.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.29089": {
+    "title": "Real-space manifestation of ferroic multipoles in altermagnetic MnF$_2$",
+    "summary": "- Polarized‑neutron diffraction maps 3D magnetization in MnF₂, isolating spherical Mn²⁺, anisotropic Mn, and F ligand spin density.\n- Detects a finite F moment and Mn anisotropy consistent with the rank‑5 magnetic multipole \\(O_{52}\\) (triacontadipole).\n- First real‑space evidence of ferroic multipolar order in an altermagnet, validating polarized‑neutron diffraction as a tool for hidden magnetic multipoles.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.29116": {
+    "title": "Electronic phase separation and emergence of a nondimerized insulating phase in VO$_2$ $(110)_{\\mathit{R}}$ ultrathin films",
+    "summary": "- Ultrathin VO₂(films retain the temperature‑driven metal‑insulator transition down to 5 nm, but at 1 nm a nondimerized insulating phase appears.\n- The nondimerized phase coexists with the dimerized phase, its fraction rising exponentially as thickness decreases, dominating at 1 nm.\n- The effective critical thickness for the transition is ~2 nm, indicating that reduced dimensionality enhances Mott instability and drives the nondimerized insulating state.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.29142": {
+    "title": "Evolving charge order in the CDW state of AV$_3$Sb$_5$ metals",
+    "summary": "- Identified a second transition in CsV₃Sb₅ and KV₃Sb₅ below the CDW temperature, not due to magnetic fields.\n- Muon‑spin spectroscopy reveals an additional charge modulation within the V plane.\n- The extra charge order appears at T* < T_CDW for Cs and Rb, and near T_CDW for K.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.29276": {
+    "title": "Crystal electric field excitations and an effective-spin-$1/2$ ground doublet in the hyperkagome magnet Yb$_3$Sc$_2$Ga$_3$O$_{12}$",
+    "summary": "- INS detects three dispersionless CEF excitations at ~58, 68, and 74 meV in Yb₃Sc₂Ga₃O₁₂.\n- Stevens‑operator analysis (D₂ symmetry) yields an Ising‑type g tensor and a well‑isolated J_eff = ½ ground doublet ~58 meV below the first excited state.\n- The revised level scheme reproduces susceptibility, magnetization, and Schottky‑anomaly data, establishing the single‑ion basis for an effective exchange Hamiltonian.",
+    "timestamp": "2026-09-01"
+  },
+  "2608.29323": {
+    "title": "Experimental observation of decoupled spin subsystems in decorated square kagom\\'{e} lattice magnets of the nabokoite family",
+    "summary": "- EPR detects only a fraction of Cu spins in nabokoite, revealing two decoupled spin subsystems.\n- The EPR‑active spins order at the Néel temperature; the EPR‑silent spins persist as a dynamic, likely spin‑liquid component.\n- Coexistence of ordered and fluctuating subsystems contradicts conventional unified exchange‑network models for decorated frustrated lattices.",
+    "timestamp": "2026-09-01"
   }
 }
