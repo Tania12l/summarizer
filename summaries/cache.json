@@ -923,5 +923,95 @@
     "title": "Experimental observation of decoupled spin subsystems in decorated square kagom\\'{e} lattice magnets of the nabokoite family",
     "summary": "- EPR detects only a fraction of Cu spins in nabokoite, revealing two decoupled spin subsystems.\n- The EPR‑active spins order at the Néel temperature; the EPR‑silent spins persist as a dynamic, likely spin‑liquid component.\n- Coexistence of ordered and fluctuating subsystems contradicts conventional unified exchange‑network models for decorated frustrated lattices.",
     "timestamp": "2026-09-01"
+  },
+  "2609.00070": {
+    "title": "AutoXRD: Autonomous LLM Agents and Comprehensive Evaluation for Powder Diffraction Analysis",
+    "summary": "- AutoXRD: LLM agent framework that refines powder‑XRD stepwise, grounding actions in evidence and applying crystallographic checks.\n- XRDBench: 100 QA tasks + 34 end‑to‑end workflows testing reasoning, file handling, iterative refinement, and reporting.\n- LLMs average 8/100; best GPT‑6 Sol scores 1; strong on refinement history, weak on action selection, phase quantification, indexing, and Rietveld refinement.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00083": {
+    "title": "Fermi-Level Metal-d Character of Group-6 Bis-Hexahapto Bilayer Graphene",
+    "summary": "- Group‑6 (Cr, Mo, W) bis‑hexahapto bilayer graphene is metallic, but Fermi‑level states are ~70 % metal d rather than carbon p.\n- Compared to ionic CaC₆/C₁₂Ca and C₁₂Li controls, the group‑6 systems retain only ~15–23 % interstitial spectral weight at E_F, indicating reduced carbon‑derived interlayer character.\n- η₆–η₆ coordination forces AA stacking, overturning Bernal preference by 400–600 meV, and the ordered phases are metastable versus bulk metal yet bound against decomposition.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00124": {
+    "title": "Green-function Zeros Encode Competing Mott and Charge-ordering Scales",
+    "summary": "- Green‑function zeros encode ordering physics in strongly correlated insulators.\n- Their dispersion, set by spin correlations and defect kinematics, jumps discontinuously at the Mott–checkerboard transition.\n- The effect survives further‑neighbor hopping, underscoring zero dispersion as a robust probe of competing Mott and charge‑ordering scales.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00125": {
+    "title": "Temporal Signature of Bosonic Stimulation Induced by Dark Exciton in a Two-photon Pumped Polariton Condensate",
+    "summary": "- First time‑resolved evidence of dark‑exciton–induced bosonic stimulation in polariton condensates.\n- Detuning‑dependent buildup/relaxation of condensate blueshifts differ between one‑ and two‑photon pumping, indicating distinct stimulation mechanisms.\n- Two‑photon pumping activates a 2p‑exciton → lower‑polariton THz transition, providing a new dark‑state channel for efficient THz lasing.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00139": {
+    "title": "Higher-Winding Fractionalization",
+    "summary": "- Higher‑winding skyrmions generate emergent fields with multiple flux quanta per unit cell, enabling fractionalized quantum anomalous Hall states at integer microscopic filling.\n- Lattice‑scale inhomogeneity of the emergent field drives a Berezinskii–Kosterlitz–Thouless transition from a fractionalized liquid to a crystalline dielectric.\n- The transition is topologically signaled by a quantized winding number in the many‑body polarization under flux insertion: nonzero in the liquid, zero in the crystal.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00141": {
+    "title": "Magnetic frustration and non-collinear textures in layered Gd magnets",
+    "summary": "- Scale‑bridging simulations show magnetic frustration and dipolar interactions stabilize non‑collinear and skyrmion phases in GdRu₂Si₂/GdRu₂Ge₂ and related Gd layered magnets.\n- Chemical tuning (e.g., alkali‑metal substitution of Gd) adjusts exchange balance and anisotropy, creating new skyrmion types stable over a wide magnetic‑field range.\n- Proposed GdKRu₄Si₄ (K, Rb, Cs, Y) compounds could form ordered layered structures similar to CaKFe₄As₄,",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00142": {
+    "title": "Subgap Bound States from Dynamical Impurities",
+    "summary": "- A single non‑magnetic dynamical impurity (e.g., a low‑frequency vibron) creates a subgap bound state in an s‑wave superconductor.\n- The bound‑state energy is given in closed form as a function of the vibron frequency in the elastic scattering limit, largely unaffected by sub‑THz inelastic processes.\n- The impurity produces low‑frequency local‑density‑of‑states subgap features and spatially extended regions of reduced spectroscopic weight outside the main gap peak.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00144": {
+    "title": "Bayesian Tracking of a Diffusing Target in Two and Three Dimensions",
+    "summary": "- Maps Bayesian tracking of a diffusing target to KPZ growth/directed polymer, uncovering phase structure in 2D and 3D.\n- In 2D, Bayes‑optimal inference always succeeds; suboptimal overconfidence can trigger a depinning failure transition.\n- In 3D, three phases appear—success, delocalized failure, and localized‑but‑wrong failure—meeting at a Nishimori‑like multicritical point, with misspecification shifting the transitions.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00145": {
+    "title": "Size-Dependent Growth Rates Amplify Infinitesimal Asymmetry in Nanocrystals",
+    "summary": "- Size‑dependent nucleation barriers make facet growth rates vary with facet area, breaking symmetry even with identical microscopic laws.\n- A kinetic Wulff construction that includes size dependence shows infinitesimal seed asymmetries amplify into strongly asymmetric nanocrystal shapes.\n- Demonstrated on 2D lattices and 3D FCC seeds: cuboctahedra evolve into rods or tetrahedra depending on which facet‑area perturbations grow.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00146": {
+    "title": "How Landau caterpillars turn into Hofstadter butterflies by tuning the periodic potential strength",
+    "summary": "- Shows how increasing periodic potential turns broadened Landau “caterpillars” into a Hofstadter butterfly, with topological transitions isolating a trivial lowest band.\n- Finds the butterfly at flux φ > 1 differs from the conventional one because of anomalous diagonal hopping and flux‑dependent Wannier orbitals.\n- Provides flux‑specific Wannierization and effective tight‑binding parameters, enabling accurate many‑body studies in high magnetic fields for moiré and artificial lattices.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00277": {
+    "title": "Engineering tunable $p$-wave magnetism in antiferromagnetic bilayers",
+    "summary": "- In-plane shift of two AB‑stacked AFM square lattices breaks spin‑degeneracy symmetries, producing odd‑parity \\(p\\)-wave spin splitting without spin‑orbit coupling.\n- The splitting’s magnitude and direction, and the resulting spin responses, are continuously tunable by the relative displacement of the layers.\n- Mean‑field Hubbard analysis reveals extended regions of spontaneous \\(p\\)-wave magnetism, including coplanar and chiral spin textures, establishing a minimal 2D platform for tunable \\(p\\)-wave magnetism.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00433": {
+    "title": "Bound states, resonances, and their thermodynamic properties in pseudospin-1 systems with short-range impurities",
+    "summary": "- Flat‑band bound states exist for all angular momenta, with energies decreasing and wavefunctions increasingly localized at the well edge as |j| grows.\n- These states exhibit multicomponent pseudospin‑1 characteristics distinct from pseudospin‑½ systems, leading to unusual resonance behavior.\n- In the flat‑band‑dominated regime, entropy density rises monotonically to saturation while heat capacity displays a single maximum.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00697": {
+    "title": "Correlation-Driven Nonlinear Magnetoelectric Response in an Altermagnet: A Dynamical Mean-Field Study",
+    "summary": "- NMEE is finite in the altermagnetic phase, vanishes in the paramagnetic phase, and tracks the spin‑resolved spectral structure.\n- At low temperature, reducing interaction strength toward the magnetic phase boundary enhances NMEE; increasing temperature suppresses it, vanishing above the critical temperature.\n- The NMEE frequency dependence estimates the altermagnetic spin‑splitting scale, suggesting pressure, strain, or chemical tuning near the interaction‑driven boundary can maximize the response.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.01301": {
+    "title": "Self-Healing Diffusion Monte Carlo applied to a simple fermionic model: A critical assessment of the method",
+    "summary": "- SHDMC on a 1D periodic model reveals nodal dynamics as a system with attractive/repulsive fixed points.\n- Standard SHDMC iterations raise fixed‑node energy and converge to an incorrect node; weighting the nodal region improves convergence.\n- Complete convergence appears to need a localized basis set, as shown by this testbed.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00122": {
+    "title": "Classification of Rational $c=1$ Vertex Operator Algebras and Vertex Operator Superalgebras",
+    "summary": "- Classifies all rational \\(c=1\\) VOAs/VOSAs as either rank‑1 lattice VOAs \\(V_L\\) or their finite‑group orbifolds \\(V_L^G\\).\n- Gives a vacuum‑character criterion to detect when integer‑conformal‑dimension modules form a \\(\\mathrm{Rep}(G)\\) fusion subcategory.\n- Enumerates all admissible finite automorphism groups \\(G\\), yielding an explicit list of all “nice” \\(c=1\\) chiral algebras.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00126": {
+    "title": "Quantum Complexity Dynamics for Disjoint Subsystems",
+    "summary": "- Disjoint subsystems can attain high complexity while their complement stays low, an effect that disappears at infinite temperature.\n- Splitting a subsystem into \\(m\\) disjoint parts reduces its equilibration time by a factor of \\(m\\).\n- Results unify holographic and random‑circuit insights, highlighting new complexity behavior beyond contiguous regions.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00148": {
+    "title": "Regulating Free-scalar and Yang--Lee 5d CFTs on the Fuzzy Four Sphere",
+    "summary": "- Built 5d free‑scalar and Yang–Lee CFTs on a fuzzy 4‑sphere, finding continuous phase transition and conformal towers.\n- Extracted the first three scalar primaries of the 5d free‑scalar theory.\n- Computed Yang–Lee dimensions Δφ, Δφ³ with ED (Ne=and DMRG (Ne=, agreeing with ε‑expansion and bootstrap.",
+    "timestamp": "2026-09-02"
+  },
+  "2609.00160": {
+    "title": "Exploring thermal order in conformal theories with multiple scalars coupled to an $O(N)$ vector field",
+    "summary": "- Two Wilson–Fisher–like fixed points appear in $4-\\epsilon$ dimensions for a window of $N$, with $\\mathbb{Z}_2^M\\rtimes S_M$ symmetry breaking at $T>0$ only for $M=2$ and",
+    "timestamp": "2026-09-02"
   }
 }
