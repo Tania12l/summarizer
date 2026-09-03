@@ -1013,5 +1013,100 @@
     "title": "Exploring thermal order in conformal theories with multiple scalars coupled to an $O(N)$ vector field",
     "summary": "- Two Wilson–Fisher–like fixed points appear in $4-\\epsilon$ dimensions for a window of $N$, with $\\mathbb{Z}_2^M\\rtimes S_M$ symmetry breaking at $T>0$ only for $M=2$ and",
     "timestamp": "2026-09-02"
+  },
+  "2609.01728": {
+    "title": "A Spatial Localizer for Constituent-Resolved Exciton Wannier Functions",
+    "summary": "- Introduces an exciton spatial localizer that simultaneously maximizes localization of both electron and hole coordinates using a Clifford‑algebra framework.\n- Provides an ansatz‑free, gauge‑invariant construction applicable to generic multiband exciton systems.\n- Demonstrates the method in an interacting bilayer model, revealing symmetry‑resolved localization of isolated exciton bands.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01754": {
+    "title": "Phase synchronization of fish schools through spatial gaps",
+    "summary": "- Vision across a transparent water gap synchronizes heading of two confined fish schools.\n- Each school’s center‑of‑mass shows noisy bistable dynamics, flipping between two antiparallel directions.\n- Coupled stochastic bistable oscillator model quantitatively reproduces the observed phase‑synchronization.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01760": {
+    "title": "Piston-Like Information Engine II: Boundary-Controlled Optimum in Active Matter",
+    "summary": "- Engine compresses self‑propelled bristle‑bot gas via measurement‑feedback, converting information into work.\n- Work per measurement, \\(\\bar{W}\\), depends on detection region size \\(\\Delta x\\) and vacancy probability \\(p_1\\); deviates from thermal \\(-p_1\\ln p_1\\) and shows two regimes as density increases.\n- Regime transition arises from active particle accumulation at boundaries, also appearing in finite‑time cycles with dry friction.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01805": {
+    "title": "Evolution from Kitaev to XXZ spin chains via distortion: Application to BaCo$_2$V$_2$O$_8$",
+    "summary": "- Distortions of CoO₆ octahedra produce a site‑dependent anisotropic g‑tensor and renormalize staggered exchange, partially canceling Kitaev‑derived terms.\n- The combined modification of exchange interactions and g‑tensor explains the strong in‑plane critical‑field anisotropy and anomalous staggered magnetization under transverse field.\n- Offers a unified microscopic framework linking spin‑orbit coupling, bond‑dependent exchanges, and lattice distortions to magnetic anisotropy in Ising‑chain antiferromagnets.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01812": {
+    "title": "Tuning Boron-Vacancy Qubit Coherence through Layer Number in hBN",
+    "summary": "- T₂ grows from 199 ns (bulk) to 653 ns (monolayer), saturating at ~3 layers.\n- Enhancement stems solely from boron nuclei, is independent of stacking/twist, and requires ≈",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01831": {
+    "title": "Kelvin-Helmholtz instability in annular superfluids across the UFG-BCS crossover",
+    "summary": "- Studied Kelvin‑Helmholtz instability in counter‑rotating annular Fermi superfluids across the UFG‑BCS crossover with time‑dependent superfluid density functional theory.\n- Found a necklace of quantized vortices forms at the interface; growth rates agree with the point‑vortex model in unitary and moderate BCS regimes, largely independent of interaction strength or temperature up to ~3 Tc.\n- In deep BCS regime, boundary‑generated antivortices proliferate faster than the instability, destroying the vortex necklace before full development.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01844": {
+    "title": "Symmetry-selective nonrelativistic spin splitting in antiferromagnets driven by coherent phonons",
+    "summary": "- Coherent infrared‑active phonons lift spin degeneracy in collinear antiferromagnets, creating nonrelativistic spin splitting (NRSS) without magnetization.\n- The symmetry of the excited phonon determines the spin‑split phase: a mode breaking all sublattice‑connecting symmetries yields an s‑wave NRSS; a mode preserving a mirror symmetry produces a d‑wave altermagnetic state.\n- Spin splitting grows linearly with phonon amplitude and reverses when the lattice displacement is inverted, enabling polarization‑ and mode‑selective ultrafast control.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01853": {
+    "title": "Magnons in Metallic Altermagnetic $\\text{KV}_2\\text{Se}_2\\text{O}$",
+    "summary": "- Altermagnetic symmetry in metallic KV₂Se₂O produces directional splittings and degeneracies in both electronic bands and magnon dispersions along high‑symmetry Brillouin‑zone paths.\n- Magnon linewidths arise from coupling to the particle‑hole continuum; varying the in‑plane wave‑vector direction yields pronounced angular dependence of magnon energies and lifetimes with complementary damping of the two branches.\n- Spin‑orbit coupling introduces an out‑of‑plane easy‑axis anisotropy, opening a ~6 meV gap at Γ and implying room",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01872": {
+    "title": "Molecular spin qubits in a van der Waals bottle",
+    "summary": "- vdW confinement in SnS₂/CdPS₃ reconfigures cobaltocene’s energy landscape, cutting spin‑lattice relaxation >100×.\n- Confined qubits orient deterministically and self‑assemble into atomically precise superlattices.\n- Shows vdW confinement as a viable path to integrate molecular spin qubits into solid‑state quantum devices.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01879": {
+    "title": "Morphology and Dynamics of Self-interstitial Clusters in Irradiated Nickel",
+    "summary": "- SIA clusters in FCC Ni evolve from disordered dumbbells to either sessile Frank loops or glissile perfect prismatic loops; perfect loops",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01969": {
+    "title": "Observation of g-wave altermagnetic multipole",
+    "summary": "- Visualized g‑wave electric hexadecapole order in CrSb using synchrotron X‑ray diffraction and VED analysis.\n- Detected coexistence of antiferroic magnetic dipoles and ferroic magnetic multipoles via polarized neutron diffraction.\n- Developed a microscopic model linking g‑wave multipoles to g‑wave spin splitting, providing a real‑space fingerprint of altermagnetism.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.02443": {
+    "title": "Thermodynamic Electric Toroidal Dipole and Intrinsic Longitudinal Spin Transport",
+    "summary": "- Defines a gauge‑invariant thermodynamic electric toroidal dipole (ETD) as a bulk ferroaxial order parameter in periodic crystals.\n- Proves that the chemical‑potential derivative of the ETD equals the intrinsic longitudinal spin conductivity, linking ferroaxial order to spin transport.\n- Validates the theory with a ferroaxial Kane–Mele model, where the ETD appears only in the ferroaxial phase, is amplified near a small band gap, and drives a sizable longitudinal spin current.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.02466": {
+    "title": "Prominent Dimensional Effects on High-order Harmonic Generation in Strongly Correlated Electron Systems",
+    "summary": "- Dimensionality dictates HHG: 1D SrCuO₂ shows a robust plateau, weakly temperature‑dependent.\n- 2D Pr₂CuO₄ yields a monotonic, thermally suppressed harmonic spectrum, especially at high orders.\n- Hubbard‑model simulations attribute these contrasts to dimensionality‑dependent doublon–holon dephasing via spin–charge coupling.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.02506": {
+    "title": "Disorder-driven competing magnetic interactions and glassy magnetic behavior in quaternary Heusler alloy FeRuMnGe",
+    "summary": "- B2 antisite disorder (Fe–Ru, Mn–Ge mixing) in FeRuMnGe changes exchange interactions, yielding competing FM and AFM couplings and a metallic state.\n- Magnetic data reveal a cluster‑glass state coexisting with long‑range order below ~161 K, with no thermodynamic signature at the freezing temperature.\n- The work demonstrates that disorder‑driven exchange competition produces glassy magnetism, contrasting the AFM‑dominated FeRuMnSi with the FM‑dominated FeRuMnGe.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.01724": {
+    "title": "Bilinear correlations in Fluctuating Gaussian States with anti-unitary symmetries",
+    "summary": "- Introduces Fluctuating Gaussian States (FGS) with anti‑unitary symmetries, yielding positive‑definite path‑integral weights.\n- Identifies two generic broken‑symmetry phases—saddle‑point and non‑local contraction—whose competition is governed by saddle‑point stability.\n- Proposes a PEPS ansatz that efficiently describes the saddle‑point phase but not the non‑local contraction phase, with implications for fermionic FGS and non‑equilibrium systems.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.02114": {
+    "title": "EuIn2Sb2: epitaxially stabilized axion insulator candidate with strong spin-orbit coupling",
+    "summary": "- Epitaxial EuIn₂Sb₂ films exhibit a unique In‑on‑In trilayer structure distinct from prior EuA₂X₂ models.\n- Displays in‑plane antiferromagnetic order at T_N = 5 K with strong spin‑orbit coupling and enhanced In‑In hybridization.\n- Serves as a promising axion insulator and higher‑order topological insulator platform.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.02141": {
+    "title": "Renormalization group and long-range conditional mutual information in hierarchical models",
+    "summary": "- UV‑finite CMI between nonadjacent regions for states with locally reversible RG and fixed on‑site Hilbert space.\n- Two hierarchical models show long‑range CMI yet simple RG flows: one diverges in Markov length yet flows to an infinite‑temperature product state; the other satisfies local but not global Markov conditions and is noise‑stable.\n- At critical noise strength, two‑point CMI decays polynomially with system size while mutual information vanishes.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.02148": {
+    "title": "Charge-Transfer Electronic Structure of NiX$_2$ (X = S, Se)",
+    "summary": "- DFT+DMFT with tuned double‑counting reproduces valence‑band, core‑level, and XAS spectra of NiS₂.\n- Charge‑transfer energy is smaller than expected, causing strong ligand‑to‑Ni transfer and a reduced Ni local moment.\n- The interplay between the Ni upper Hubbard band and chalcogen‑dimer antibonding states controls the low‑energy electronic evolution across NiS₂₋ₓSeₓ.",
+    "timestamp": "2026-09-03"
+  },
+  "2609.02668": {
+    "title": "Electronic Structure and Superconductivity in La$_{1.55}$Sr$_{0.45}$CuO$_4$/La$_2$CuO$_4$ Artificial High-$T_c$ Superlattices Probed by Hard and Soft X-ray Spectroscopy",
+    "summary": "- Superconducting dome in LSCO/LCO superlattices tuned by L/d ratio.\n- HAXPES/XAS show chemical‑potential shift, ↑ near‑E_F weight, and enhanced local/non‑local screening.\n- In‑plane orbital polarization and Fano–Feshbach resonance signatures underpin high‑T_c emergence.",
+    "timestamp": "2026-09-03"
   }
 }
