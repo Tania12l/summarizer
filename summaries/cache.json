@@ -1108,5 +1108,100 @@
     "title": "Electronic Structure and Superconductivity in La$_{1.55}$Sr$_{0.45}$CuO$_4$/La$_2$CuO$_4$ Artificial High-$T_c$ Superlattices Probed by Hard and Soft X-ray Spectroscopy",
     "summary": "- Superconducting dome in LSCO/LCO superlattices tuned by L/d ratio.\n- HAXPES/XAS show chemical‑potential shift, ↑ near‑E_F weight, and enhanced local/non‑local screening.\n- In‑plane orbital polarization and Fano–Feshbach resonance signatures underpin high‑T_c emergence.",
     "timestamp": "2026-09-03"
+  },
+  "2609.02933": {
+    "title": "Graphene-enabled dynamic H-J switching of dipole-dipole coupling",
+    "summary": "- Tunable graphene monolayer on metal alters dipole‑dipole coupling in H‑type/J‑type aggregates.\n- Varying graphene surface conductivity shifts the parameter range where H↔J coupling inversion occurs.\n- Enables real‑time observation of coupling inversion by dynamically adjusting conductivity during a single experiment.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.02934": {
+    "title": "Classical dipolar Heisenberg models on the Archimedean and Laves lattices",
+    "summary": "- Dipolar Heisenberg spins on 19 Archimedean/Laves lattices are solved via Fourier‑space interaction matrices, yielding Luttinger–Tisza wave vectors and ground states.\n- Ground states fall into 5 collinear, 2 symmetry‑commensurate non‑collinear, and 8 transcendental‑angle canted types; incommensurate canting occurs precisely when the Luttinger–Tisza strong condition fails.\n- Canting angles are set by the long‑range tail, while quantum corrections depend on",
+    "timestamp": "2026-09-04"
+  },
+  "2609.02936": {
+    "title": "Dipolar order across Bravais lattice space: classification, spin waves, and a four-attractor phase diagram",
+    "summary": "- Determined dipolar ground states for all 14 Bravais lattices via Ewald‑summed tensor and Luttinger–Tisza minimization, including linear spin‑wave spectra and zero‑point corrections.\n- Revealed two universal structural principles—exact tracelessness of the dipolar tensor and its vanishing at k = 0 for cubic lattices—that explain ordering types, absence of cubic anisotropy, and systematic zero‑",
+    "timestamp": "2026-09-04"
+  },
+  "2609.02946": {
+    "title": "A Unified Description of Dirac-Cone Anisotropies in Two Dimensions",
+    "summary": "- Covariant Dirac‑equation extension models shifted, tilted, and distorted Dirac cones via Lorentz‑violating parameters.\n- Provides a unified (2+‑D framework to systematically characterize anisotropy‑induced spectral modifications.\n- Extracts effective parameters from first‑principles band structures of strained graphene, linking microscopic electronic structure to the model.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.02948": {
+    "title": "FrOGS: Discrete Neural Sampler for Independent Alloy Configurations Across Chemical Conditions",
+    "summary": "- FrOGS couples an autoregressive model with a continuous‑time Markov chain, trained jointly under one loss to sample alloy configurations across many chemical conditions.\n- It yields unbiased partition‑function estimates and consistent thermodynamic observables, enabling free‑energy calculations on a common absolute scale without separate MCMC runs.\n- Validated on 2D Ising, AgPd, and CuAu systems, FrOGS matches exact results and correctly predicts the CuAu₃ stability range, outperforming the SEGAL baseline.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.02957": {
+    "title": "Decoherence-controlled collective criticality in a two-dimensional quantum Stag Hunt",
+    "summary": "- Decoherence maps a two‑dimensional EWL Stag Hunt to an Ising model with channel‑dependent couplings.\n- Depolarization induces an exact Ising critical point at \\(p_{*}\\approx233\\); phase damping keeps the system ordered, confirmed by 2D Ising scaling.\n- Amplitude damping’s effect depends on",
+    "timestamp": "2026-09-04"
+  },
+  "2609.02960": {
+    "title": "Constituent-Tagged Transfer Linking Cluster Dynamics to Static Scaling",
+    "summary": "- Defines a conserved‑constituent exponent \\(q_*\\) by \\(\\langle(S_{t+\\tau}/S_t)^{q_*}\\rangle=1\\), finding \\(q_*\\approx\\alpha-2\\) where \\(c(s)\\propto s^{-\\alpha}\\).\n- Confirms the relation in coupled‑map networks, coagulation‑fragmentation dynamics, and Vicsek systems; radius scans recover the Vicsek interaction radius and experimental clustering scale.\n- Shows local scale covariance yields the relation, while a tent‑map counterexample illustrates failure when the stationary balance is collapsed to a single moment.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.02966": {
+    "title": "Physics-Informed Neural Network Surrogate for Oxygen Vacancy Dynamics in epitaxial $\\mathrm{SrTiO_3}$ on Si memristors via Dynamic Spectral Optimization",
+    "summary": "- Cascaded PINN with DSO V2 Hybrid spectral optimizer models ion‑electronic drift‑diffusion in Pt/SrTiO₃/Si memristors, avoiding stiffness >10¹⁶.\n- Four sequential sub‑networks isolate potential, carrier density, and vacancy transport, achieving Poisson consistency and R² > 96 on conductive‑AFM I‑V hysteresis.\n- Surrogate enables differentiable inverse parameter estimation and linear‑time inference, outperforming conventional FEM solvers.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.02968": {
+    "title": "Battery open-circuit voltage is not purely chemical",
+    "summary": "- OCV depends on mechanical state and microstructure, not only chemistry.\n- Swelling‑induced particle contact generates compressive stresses that shift ion chemical potential (Hertzian scaling).\n- Identical materials can show different OCV curves in different microstructures; full‑cell OCV is a chemo‑mechanical property of the entire battery.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.02976": {
+    "title": "Valley polarization dependence of candidate even-denominator fractional quantum Hall states in monolayer graphene",
+    "summary": "- Explored even‑denominator FQH states at ν = 1/2 and 1/4 in monolayer graphene using SU(Chern‑Simons composite‑fermion theory.\n- Constructed and numerically evaluated multi‑component variational wave functions for different spin/valley polarizations in spherical geometry.\n- Found that energetically favored states are multi‑component correlated liquids, distinct from a simple composite‑fermion Fermi sea, highlighting the role of valley polarization and SU(symmetry.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.03075": {
+    "title": "Orbital current rectifier and linear magnon Edelstein effect in $p$-wave antialtermagnets",
+    "summary": "- p‑wave antialtermagnets produce magnetization through a linear thermal Edelstein effect driven by magnon orbital moments.\n- They generate perfectly nonreciprocal orbital currents via an even‑order nonlinear response, enabling orbital‑current rectification.\n- Magnons in odd‑parity‑wave magnets carry no spin moment but a collinear out‑of‑plane orbital moment, linking magnonics to orbitronics.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.03138": {
+    "title": "Antiferromagnetism-altered plasmon dynamics",
+    "summary": "- First experimental evidence of plasmon–magnon coupling in a graphene/NiPS₃ 2D heterostructure, seen as dispersion renormalization at the antiferromagnetic transition.\n- Raman and nano‑THz spectroscopy show spectral‑weight redistribution and dielectric screening changes tied to a multi‑magnon continuum.\n- Establishes a platform for coherent spin‑plasmon devices in 2D materials.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.03271": {
+    "title": "Moir\\'e-induced altermagnetism from nonmagnetic constituents",
+    "summary": "- Moiré interference between nonmagnetic layers, driven by structural relaxation and domain‑wall twirls, induces altermagnetic order.\n- One electron per moiré domain opens a correlated insulating gap, with band splitting that is d‑wave or g‑wave depending on potential minima.\n- d‑wave splitting is enhanced by finite twist angles, while g‑wave splitting is strain‑sensitive, allowing a transition to d‑wave.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.03274": {
+    "title": "Resolving the Magnetic Ground-State Controversy in RuO2 through A Flat Magnetic Energy Landscape",
+    "summary": "- RuO₂ exhibits an exceptionally flat magnetic energy landscape where nonmagnetic and multiple altermagnetic states are nearly degenerate.\n- Material perturbations (e.g., defects) select the ground state mainly by altering localized Heisenberg exchange, with secondary Stoner polarization contributions.\n- Spin‑orbit coupling fixes the Néel vector orientation but does not drive the emergence of long‑range magnetic order.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.03289": {
+    "title": "Symmetry-breaking line defects embedded to a 3D $O(N)$ critical bulk",
+    "summary": "- Stable defect CFTs found for a line defect in 3D O(N) critical bulk, with no relevant operators and lower g‑function than bulk.\n- Defect domain‑wall operator irrelevant for N ≳ 3 but relevant for N < 3, allowing symmetry breaking only when N ≳\n- Concluded that 1D defects coupled to O(N) Wilson–Fisher bulk cannot sustain spontaneous symmetry breaking for N < 3 due to domain‑wall proliferation.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.03465": {
+    "title": "Studying line defect at Deconfined Quantum Criticality via fuzzy sphere regularization",
+    "summary": "- Analyzed a (0+-D pinning-field defect coupled to a (2+-D deconfined quantum critical bulk via fuzzy-sphere regularization.\n- Extracted defect conformal data: scaling dimensions of defect-changing operators and the defect \\(g\\)-function.\n- Established the first numerical characterization of line-defect conformal data at deconfined quantum criticality.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.03485": {
+    "title": "Such stuff as magic is made on: compact operator algebra, stabilizer polytope and the structure of reduced density matrices in a Kitaev spin liquid",
+    "summary": "- Local magic appears below a critical temperature in the Kitaev honeycomb model, captured by compact operator spaces that persist during evolution.\n- Optimal magic witnesses coincide with symmetry‑resolved plaquette algebras; exact symmetry makes reduced robustness equal full robustness.\n- The operator spaces form finite‑dimensional Euclidean Jordan algebras, linking",
+    "timestamp": "2026-09-04"
+  },
+  "2609.03513": {
+    "title": "Competing lattice structures induced by Sn substitution in CsV$_3$Sb$_5$",
+    "summary": "- Sn substitution in CsV₃Sb₅ creates local structural distortions seen in ^121Sb NQR, persisting up to x = 65 and room temperature.\n- DFT predicts two nearly degenerate V‑trimer kagome structures for x = 1, differing by a zero‑ or π‑phase shift along the c‑axis.\n- The work highlights a complex interplay between impurity‑induced distortions and competing lattice instabilities in kagome metals.",
+    "timestamp": "2026-09-04"
+  },
+  "2609.03519": {
+    "title": "Non-Resonant Impulsively Stimulated Raman Scattering by a Terahertz Field: a Case Study of 1T-TaS2",
+    "summary": "- Non‑resonant impulsively stimulated Raman scattering via two‑photon absorption excites Raman‑active phonons in 1T‑TaS₂ with broadband and narrowband THz fields.\n- Raman signatures distinctly track transitions among commensurate, nearly‑commensurate, and incommensurate CDW phases.\n- Findings enable coherent control of lattice modes and cavity electrodynamic dressing using low‑energy THz radiation.",
+    "timestamp": "2026-09-04"
   }
 }
