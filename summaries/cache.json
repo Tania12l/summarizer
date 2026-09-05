@@ -1203,5 +1203,55 @@
     "title": "Non-Resonant Impulsively Stimulated Raman Scattering by a Terahertz Field: a Case Study of 1T-TaS2",
     "summary": "- Non‑resonant impulsively stimulated Raman scattering via two‑photon absorption excites Raman‑active phonons in 1T‑TaS₂ with broadband and narrowband THz fields.\n- Raman signatures distinctly track transitions among commensurate, nearly‑commensurate, and incommensurate CDW phases.\n- Findings enable coherent control of lattice modes and cavity electrodynamic dressing using low‑energy THz radiation.",
     "timestamp": "2026-09-04"
+  },
+  "2609.04187": {
+    "title": "Wavefunctions for Anyon Superconductors",
+    "summary": "- Hierarchy‑wavefunction construction for anyon superconductors, extracting ODLRO, condensate charge, chiral central charge, and residual topological order.\n- Explicit Abelian/non‑Abelian examples (semion, ν=2/3, ν=1/3, ν=1, Pfaffian); semion superconductor ↔ fermionized anyons in two Landau levels.\n- Hierarchy wavefunctions emerge in the dilute limit of anyon‑Hilbert‑space theory, applicable to ideal Chern and moiré bands",
+    "timestamp": "2026-09-05"
+  },
+  "2609.04164": {
+    "title": "A Superconducting Peierls Instability",
+    "summary": "- Demonstrates a superconducting Peierls instability at a 2D superconductor edge, where Bogoliubov Fermi points in a dispersing Andreev bound state generate a pairing‑mode Kohn anomaly.\n- Shows that condensation of this softened pairing mode produces an edge pair‑density wave that gaps the ABS.\n- Uses self‑consistent BdG calculations on a square‑lattice extended Hubbard model with mixed‑symmetry \\(s+d+ip\\) pairing to confirm the instability.",
+    "timestamp": "2026-09-05"
+  },
+  "2609.04149": {
+    "title": "Non-uniform quantum geometry stabilizes generalized Wigner crystals",
+    "summary": "- Proposes a generalized Wigner‑crystal ansatz for Chern bands with momentum‑dependent quantum geometry.\n- Compares its energy to Laughlin‑like states at ν=1/m, mapping the phase diagram versus geometric non‑uniformity.\n- Shows that quantum‑geometry‑driven zero‑point charge‑density fluctuations set a Lindemann‑type criterion for crystal‑liquid transition.",
+    "timestamp": "2026-09-05"
+  },
+  "2609.04146": {
+    "title": "HyperDet Wavefunction: A Phase-Agnostic Ansatz for Strongly Correlated Systems",
+    "summary": "- HyperDet wavefunction: phase‑agnostic ansatz combining parton Slater determinants via a learnable fusion tensor.\n- Variational Monte Carlo yields >9 % overlap with exact ground states across bosonic and fermionic fractional Chern insulator phases.\n- Bipartite fusion‑matrix singular‑value spectrum serves as a structural diagnostic, tracking phase transitions and encoding parton Chern numbers/topological data.",
+    "timestamp": "2026-09-05"
+  },
+  "2609.04041": {
+    "title": "Cutting corners: exciting and magical bounds from the cusp bootstrap",
+    "summary": "- Unitarity and cutting‑gluing consistency yield bounds on cusp anomalous dimensions for conformal line defects.\n- The lightest singlet cusp is always lighter than any non‑singlet for conjugate defects, forbidding level crossings as the cusp angle varies.\n- An analytic “magic” functional provides an optimal universal lower",
+    "timestamp": "2026-09-05"
+  },
+  "2609.04037": {
+    "title": "Discrete time crystals in disordered anisotropic Heisenberg chains",
+    "summary": "- Shows discrete time‑crystalline order in disordered anisotropic Heisenberg chains via MPS simulations.\n- Observes robust subharmonic response at half the drive frequency under δ‑kick rotations, stable to small rotation errors.\n- Reveals an intermediate regime with weakly correlated, Anderson‑like dynamics separating the time‑crystal and Floquet‑localized phases.",
+    "timestamp": "2026-09-05"
+  },
+  "2609.04035": {
+    "title": "Cusped Defects: Cusp Operator Expansion, Conformal Properties and Bootstrap Applications",
+    "summary": "- Cusped defect scaling operators transform as primaries under conformal maps.\n- Any defect shape can be expanded in a basis of cusped defects via the COE.\n- Crossing equations provide analytic constraints on cusp data, opening bootstrap applications.",
+    "timestamp": "2026-09-05"
+  },
+  "2609.03994": {
+    "title": "Evolution of electron spin resonance through a metallic quantum critical phase diagram",
+    "summary": "- ESR measurements across frequencies/fields reveal distinct g‑factor and linewidth behaviors in paramagnetic, antiferromagnetic, and quantum‑critical regimes of YbRh₂Si₂.\n- As temperature or field approaches the quantum critical point, both g‑factor and linewidth decrease continuously, showing matching field‑ and temperature‑tuning trends.\n- Findings provide experimental insight into the interplay of local moments and itinerant electrons, informing theories of ESR in strongly correlated systems.",
+    "timestamp": "2026-09-05"
+  },
+  "2609.03854": {
+    "title": "Universal Driven Critical Dynamics of Entanglement Entropy",
+    "summary": "- Introduced universal finite‑time scaling for entanglement entropy, extending Kibble‑Zurek to nonlocal observables.\n- Monte Carlo results for 2+1D Dirac fermions confirm corner entanglement",
+    "timestamp": "2026-09-05"
+  },
+  "2609.03766": {
+    "title": "Ground-State Phase Diagram, Higher-Winding Topology, and Lifshitz Criticality in an Anisotropic Four-Spin XX Chain",
+    "summary": "- Anisotropic four‑spin XX chain in a transverse field hosts multiple gapped topological phases with winding numbers ν = 0, ±1, −2, ±3 and rich Lifshitz‑type critical boundaries.\n- Lifshitz transitions arise from Fermi‑point reconstructions, including an unconventional multicritical point where distinct critical branches intersect and momentum‑space topology reorganizes.\n- The ν = ±3 phases, driven by extended cluster interactions, exhibit a richer topological structure and distinct entanglement‑spectrum degeneracies compared to conventional short‑range Kitaev chains.",
+    "timestamp": "2026-09-05"
   }
 }
