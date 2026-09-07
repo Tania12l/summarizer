@@ -1253,5 +1253,80 @@
     "title": "Ground-State Phase Diagram, Higher-Winding Topology, and Lifshitz Criticality in an Anisotropic Four-Spin XX Chain",
     "summary": "- Anisotropic four‑spin XX chain in a transverse field hosts multiple gapped topological phases with winding numbers ν = 0, ±1, −2, ±3 and rich Lifshitz‑type critical boundaries.\n- Lifshitz transitions arise from Fermi‑point reconstructions, including an unconventional multicritical point where distinct critical branches intersect and momentum‑space topology reorganizes.\n- The ν = ±3 phases, driven by extended cluster interactions, exhibit a richer topological structure and distinct entanglement‑spectrum degeneracies compared to conventional short‑range Kitaev chains.",
     "timestamp": "2026-09-05"
+  },
+  "2609.04291": {
+    "title": "Reproducible capillary fluctuation analysis of solid-liquid interfaces for stiffness and anisotropy calculations",
+    "summary": "- Developed a diagnostics‑driven workflow for reproducible capillary‑fluctuation analysis on solid–liquid interfaces (Al example).\n- Showed that linear spectra alone are insufficient; reliable stiffness and anisotropy need fitting windows matched to sampling, interface‑identification sensitivity, replica variability, and thickness convergence.\n- Proposed a coexistence‑temperature‑based thickness rule that controls finite‑size effects while keeping ribbon geometries computationally efficient.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04319": {
+    "title": "Exact quantum spin liquids with topological order on maple-leaf and trellis lattices",
+    "summary": "- Built exactly solvable spin models on maple‑leaf and trellis lattices that realize Z₂ quantum spin liquids with bond‑dependent anisotropic interactions.\n- Determined low‑temperature flux ordering, mapped a topological phase diagram featuring Z₂ and Ising orders, and derived a Majorana mass term whose vanishing signals phase transitions.\n- Linked vortex excitations to two anyon species in the dimer limit, showing smooth connectivity between distinct dimer assignments in the vortex‑free sector but fermion‑gap‑closing separations in the vortex‑full sector.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04330": {
+    "title": "The influence of quantum geometry on the phase boundary and collective excitations of electron liquids and crystals",
+    "summary": "- Quantum geometry favors crystallization, moving the liquid–crystal transition to higher densities.\n- TDHF shows low‑density Fermi‑liquid instabilities, reduced plasmon dispersion, and Friedel‑oscillation suppression via spectral weight transfer to an out‑of‑phase inter‑orbital mode.\n- In the crystal phase, an emergent breathing mode corresponds to a real‑space pseudospin skyrmion lattice.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04359": {
+    "title": "Quantum oscillations of helical edge states of periodically deformed 2D topological insulator in magnetic field",
+    "summary": "- Zeeman‑induced backscattering in a periodically deformed 2D TI edge produces oscillating forbidden‑band widths.\n- In strong fields gaps close at discrete B; in weak fields semiclassical scattering is governed by complex‑infinity turning points.\n- Edge conductance oscillates with B (not 1/B), period set by Fermi velocity and effective g‑factor, confirmed by theory and numerics.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04370": {
+    "title": "Dual Charge-Density-Waves in Two-dimensional DyTe3 and Their Distinct Impacts on Magneto-Transport Properties",
+    "summary": "- Two orthogonal CDWs (CDW1, CDWcoexist in DyTe₃ at low temperatures.\n- CDW1 shows no magnetotransport anomaly, whereas CDW2 induces a large magnetoresistance and nonlinear Hall response driven by multiband transport.\n- Highlights distinct transport consequences of multiple CDWs in quasi‑2D materials.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04378": {
+    "title": "Fukui-Kawakami chains: spectrum and hidden $\\mathfrak{gl}(1|1)$-symmetry",
+    "summary": "- FK chains are twisted deformations of the trigonometric Haldane–Shastry model; their spectra map to the untwisted HS chain via a twist parameter.\n- A subset of states obey twisted Bethe equations and Yangian highest‑weight motifs, while other descendants have energies as sums of two single‑particle terms, indicating hidden symmetries.\n- With antiperiodic boundary conditions the FK chain coincides with the minimally polarised long‑range model, revealing a hidden \\(\\mathfrak{gl}(1|\\) symmetry",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04380": {
+    "title": "Speed-quality tradeoff in a physical model of molecular sorting",
+    "summary": "- Dynamic membrane model incorporating bending, curvature, and vesicle fusion/fission.\n- Efficient sorting occurs in a parameter regime set by membrane rigidity, spontaneous curvature, and pressure difference.\n- Faster vesicle formation reduces distillation quality, revealing a speed‑quality trade‑off.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04397": {
+    "title": "Accelerating Atom Simulations with Variable-Block Sparse Matrix Library",
+    "summary": "- VBCSR preserves variable-size atomic blocks in distributed sparse matrices for atomistic simulations.\n- Unified interface maps operators to CSR, BSR, or VBCSR, grouping equal-shaped blocks for optimized dense kernels.\n- Benchmarks show VBCSR outperforms Python references and scales to >10⁶-atom InP nanoparticle systems.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04399": {
+    "title": "Composition-dependent nonlinear viscoelastic-viscoplastic behavior and constitutive framework for digitally mixed polymers spanning the glass transition",
+    "summary": "- Digitally mixed PolyJet elastomer/glass polymers transition continuously from elastomeric hysteresis to glassy yielding as Vero fraction rises.\n- Dynamic mechanical analysis shows a single glass‑transition temperature that shifts with composition and frequency, enabling a time‑composition equivalence.\n- A unified constitutive model—an equilibrium hyperelastic network plus three rate‑dependent branches—captures compression responses across all mixtures.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04532": {
+    "title": "Layer Architecture Shapes Electronic, Magnetic, and Lattice Interactions in Ruddlesden-Popper Nickelates",
+    "summary": "- Layer architecture controls excitations: LNO‑1313 and La₄Ni₃O₁₀ show weak orbital polarization, enhanced 3d⁸L, reduced out‑of‑plane exchange, stronger EPC; LNO‑2222 differs.\n- Entangled‑dimer model explains spin excitations from strong interlayer AF coupling, outperforming spin‑wave theory, especially in bilayer LNO‑\n- Findings set experimental constraints for low‑energy theories of superconductivity in layered nickelates.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.05137": {
+    "title": "Environment-assisted transport in a strongly correlated boundary-driven Fermi-Hubbard chain",
+    "summary": "- Two current peaks appear in the steady state, reflecting separate charge and spin energy scales.\n- Local dephasing yields two distinct transport‑enhancement regimes: intra‑band redistribution and inter‑band transitions.\n- The results illustrate how strong correlations, coherent driving, and dephasing (including quantum‑Zeno effects) jointly shape transport in open Fermi‑Hubbard chains.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.05181": {
+    "title": "Dipolar and quadrupolar spin supersolid states in a spin-1 triangular antiferromagnet",
+    "summary": "- DMRG mapping of spin‑1 triangular antiferromagnet in out‑of‑plane field, charting phases versus single‑ion anisotropy \\(D_z\\) and field.\n- Discovery of dipolar and quadrupolar spin supersolids (U(symmetry breaking + superfluid stiffness) alongside up‑up‑down and spin‑superfluid phases.\n- Dynamical spin structure factor reveals gapless Goldstone modes and roton‑like minima, offering clear neutron‑scattering signatures.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.05319": {
+    "title": "Breakdown of Anomalous Hall Scaling in Dilute Kondo System",
+    "summary": "- Berry‑curvature driven anomalous Hall effect in Ru₂Mn₀.₅Ti₀.₅Ge, a dilute Kondo Heusler alloy with flat bands near the Fermi level.\n- Hall response is non‑monotonic, violating Fermi‑liquid scaling near the magnetic transition and recovering only at low temperatures when Kondo coherence develops.\n- Ab initio calculations show Berry curvature originates from Kondo‑hybridized flat bands and spin‑orbit‑coupled anticrossings, underscoring the interplay of topology and strong correlations.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04302": {
+    "title": "Eye-opening bounds on cusps",
+    "summary": "- New nonperturbative inequalities on cusp anomalous dimensions derived from reflection positivity, locality, and conformal invariance in an “eye” geometry.\n- Introduces a stronger “conformal concavity” condition, surpassing known angular concavity, applicable to distinct line defects.\n- Links smooth and fusion limits, providing bounds on defect‑changing operator dimensions, Casimir energies, and subleading fusion data.",
+    "timestamp": "2026-09-07"
+  },
+  "2609.04309": {
+    "title": "Strong-Drive Floquet Engineering of Interacting Qudits: From Finite-Duration Controls to Emergent Symmetry",
+    "summary": "- Strong‑drive Floquet theory incorporates finite‑duration, shaped pulses into effective Hamiltonians for interacting qudits.\n- Finite‑duration driving on three‑level systems creates new interactions (e.g., nematic spin‑1 terms) and emergent symmetries (SU(×U(, SU().\n- Numerical simulations confirm accurate short‑time and many‑body dynamics, validating pulse‑parameter control.",
+    "timestamp": "2026-09-07"
   }
 }
