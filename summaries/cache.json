@@ -1428,5 +1428,80 @@
     "title": "Raman signatures of a non-reciprocal magnetic phase transition in Ca$_2$RuO$_4$",
     "summary": "- Raman data reveal a first‑order magnetic phase transition in Ca₂RuO₄ triggered by a c‑axis magnetic field.\n- A new magnetic mode appears and the phonon–Higgs amplitude coupling changes, exhibiting non‑reciprocal hysteresis.\n- In‑plane magnon scattering remains unchanged, indicating a field‑induced quadrupolar state that hybridizes lattice and Higgs excitations.",
     "timestamp": "2026-09-09"
+  },
+  "2609.09223": {
+    "title": "Hamiltonian fingerprints of a collective mode across the BCS-BEC crossover",
+    "summary": "- Tracks a layer‑odd collective mode in an attractive Hubbard bilayer from weak‑coupling hybridisation to the paired regime.\n- Shows the mode’s Hamiltonian sensitivity shifts from interlayer tunnelling to intralayer hopping, evolving toward a \\(1/U\\) dependence.\n- Uses sign‑free determinant QMC and Gaussian response theory to reveal interaction‑driven softening and a change from density‑to‑pair‑phase character.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09251": {
+    "title": "The energetics of force errors in machine-learned molecular dynamics",
+    "summary": "- Introduces a directional residual‑work coefficient that couples curvature mismatch and residual spatial distribution to predict work from force errors.\n- Validates the coefficient on a 474‑atom Li‑electrolyte interface, achieving < 6 % deviation from measured work across 24 endpoints.\n- Demonstrates that altering the initial velocity direction can reverse force‑work rankings, underscoring motion‑dependent energy transfer.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09287": {
+    "title": "Two-magnon response from light scattering in altermagnets",
+    "summary": "- Altermagnetism shifts the upper edge of the two‑magnon continuum to higher energy at X = (π,by an amount ∝ |δJ₂|, while leaving the zone‑center response unchanged.\n- Quantum magnon–magnon interactions redistribute spectral weight to lower energies, producing a robust high‑energy reconstruction and a pronounced low‑energy two‑peak structure absent in linear spin‑wave theory.\n- At K = (π/2,π/the interacting two‑magnon resonance is doubly degenerate in a conventional antiferromagnet, but finite altermagnetic exchange anisotropy lifts this degeneracy.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09289": {
+    "title": "Finite-Temperature Flat-Band Ferromagnetism in the Kagome Hubbard Model",
+    "summary": "- DMFT shows flat‑band ferromagnetism in the single‑orbital Kagome Hubbard model, matching exact/mean‑field predictions.\n- Identifies a quasi‑ordered phase with a partially filled, spin‑polarized flat band pinned at the Fermi level, yielding persistent local spin fluctuations down to zero temperature.\n- Demonstrates that these anomalous fluctuations arise intrinsically from flat‑band degeneracy, offering a minimal framework for correlated Kagome systems.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09296": {
+    "title": "Distinguishability Transitions from Global Quantum Snapshots",
+    "summary": "- Generic time‑evolved states are locally featureless, yet global computational‑basis snapshots can separate them.\n- Bayesian classifiers distinguish \\(k\\) random states with \\(m\\) shots, exhibiting a phase transition at \\(x=m/\\ln k\\) with a derived critical value \\(x_c\\).\n- The transition persists for low‑depth, noisy, and phase‑random circuits near anti‑concentration.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09305": {
+    "title": "Transient and universal regimes in quantum reaction-transport kinetics",
+    "summary": "- Fluctuations dominate low‑dimensional quantum annihilation ($D<2$), driving the system into a transport‑limited regime ($n\\sim t^{-1/2}$) even for weak loss.\n- At $D=2$ kinetics show logarithmic corrections; above $D_c=2$ mean‑field scaling is recovered, though mean‑field behavior can persist over long crossover times below $D_c$.\n- Fluctuation‑induced effective elastic collisions redistribute momentum faster than losses, enabling a quasi‑stationary thermal state in $D>1$.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09309": {
+    "title": "Implicit size dependence of the valence electron concentration criterion in high-entropy alloys",
+    "summary": "- VEC predicts FCC vs BCC in HEAs but ignores atomic size.\n- Mixing enthalpy is almost size‑blind; size affects only the electron count through the covariance of \\(V^{2/3}\\) and valence.\n- A size‑corrected VEC is just an affine rescaling of VEC and offers no better predictions; VEC already encodes size, failing only for large, electron‑rich elements.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09312": {
+    "title": "Non-Hermitian topology in driven-dissipative systems: correspondence with quantum correlations and a resource for entanglement",
+    "summary": "- Directional amplification ↔ non‑Hermitian topology, now extended to quantum fluctuations.\n- Phase‑preserving amplifiers: correlations grow exponentially with distance, diverging at the topological transition; entanglement stays local.\n- Bosonic Kitaev chain: splits into two halves that are internally fully correlated yet mutually uncorrelated.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09364": {
+    "title": "Phase stability and mechanical response of Ag-interlayered Al/Cu resistance spot-welded joints",
+    "summary": "- Ag interlayer suppresses brittle Al‑Cu IMCs in Al/Cu spot‑welds.\n- CALPHAD/Scheil and EDS/EBSD confirm an FCC Al‑Ag solid solution dominates the fusion zone.\n- Phonon‑based B/G ratios > 75 for Al‑Ag phases versus < 75 for Al‑Cu IMCs, explaining the enhanced ductility.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09375": {
+    "title": "Tuning Charge Density Wave transitions through lattice strain in NbSe3",
+    "summary": "- Tensile strain along or across NbSe3 chains changes lattice parameters, showing exotic Poisson ratios and anisotropic Young’s moduli.\n- Strain shifts both CDW transition temperatures (145 K and 59 K) in a manner tightly linked to lattice distortions.\n- The differing strain responses of the two CDWs suggest band‑curvature modifications underlie the transport changes.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09383": {
+    "title": "Emergent Electronic Bond-Order Wave in a Quasi-One-Dimensional Chain",
+    "summary": "- Bond‑order wave (BOW) emerges in quasi‑1D Ba₉Rh₈O₂₄, with Rh–Rh bond inversion at 180 K.\n- Transition shows heat‑capacity anomaly, dielectric loss suppression, and nonlinear, hysteretic I‑V with memristive switching.\n- Demonstrates bond‑centered electronic order that overcomes 1D fluctuations, linking a dynamic bond liquid to a rigid, reconfigurable BOW.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09741": {
+    "title": "Orbital-selective electronic modes induced by doping and originating from distinct spin excitations: an essential feature of orbital-selective Mott transition",
+    "summary": "- Doping a spin‑1 antiferromagnetic insulator in the Kanamori–Hubbard model generates orbital‑selective electronic modes inside the band gap.\n- Conventional low‑energy spin excitations produce modes in the doped orbital, while inter‑orbital spin excitations produce modes in the undoped orbital, each with momentum‑shifted dispersion.\n- These distinct, orbitally selective modes are identified as a key signature of the orbital‑selective Mott transition.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09781": {
+    "title": "Semi-Dirac States and Quantum Linear Magnetoresistance in Helimagnetic Pnictide MnP",
+    "summary": "- Large, non‑saturating linear magnetoresistance (~800 %) in MnP, especially in the field‑polarized FM2 state.\n- Hall measurements reveal skew‑scattering dominated anomalous Hall at high T and a finite topological Hall in FAN and SCR phases.\n- First‑principles show a semi‑Dirac‑like band at Y forming a tiny Fermi pocket that reaches the quantum‑limit, explaining the LPMR via Abrikosov theory.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.09996": {
+    "title": "SIM-GRAPH: A universal guide to symmetric interactions",
+    "summary": "- Introduces SIM‑GRAPH, a symmetry‑based graph reduction technique that projects interactions onto a symmetric subset, drastically reducing system size.\n- Achieves exponential speedup over exact diagonalization for finite quantum systems with discrete symmetries.\n- Provides two extensions enabling a tunable balance between computational cost and accuracy.",
+    "timestamp": "2026-09-10"
+  },
+  "2609.10062": {
+    "title": "Non-equilibrium dissipative stabilization of s- and d-wave superconductivity",
+    "summary": "- Nonthermal pairing gap appears in BCS superconductors coupled to two baths, one at temperatures above equilibrium \\(T_c\\).\n- The steady state is a generalized Gibbs ensemble with chemical potentials for Bogoliubov quasiparticles, breaking detailed balance.\n- Strong, non‑perturbative stabilization of both \\(s\\)- and \\(d\\)-wave superconductivity, with prospects for cavity‑based experiments.",
+    "timestamp": "2026-09-10"
   }
 }
