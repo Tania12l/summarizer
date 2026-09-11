@@ -1503,5 +1503,90 @@
     "title": "Non-equilibrium dissipative stabilization of s- and d-wave superconductivity",
     "summary": "- Nonthermal pairing gap appears in BCS superconductors coupled to two baths, one at temperatures above equilibrium \\(T_c\\).\n- The steady state is a generalized Gibbs ensemble with chemical potentials for Bogoliubov quasiparticles, breaking detailed balance.\n- Strong, non‑perturbative stabilization of both \\(s\\)- and \\(d\\)-wave superconductivity, with prospects for cavity‑based experiments.",
     "timestamp": "2026-09-10"
+  },
+  "2609.10614": {
+    "title": "Generating is not discovering: a pre-registered physics judge for AI-proposed superconductors, calibrated on six known superconductors and one negative control",
+    "summary": "- Created a pre‑registered physics judge that uses DFT+U, Wannier, RPA, gap equations, symmetry classification, and manufacturability to assess AI‑proposed superconductors, calibrated on six known materials.\n- The judge correctly classifies all known superconductors and rejects a ruthenium analogue as non‑superconducting, validating its predictive accuracy.\n- Applied the judge to audit 150 materials and generative model outputs, revealing that many AI‑generated candidates lack the essential physics for superconductivity.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.10678": {
+    "title": "Geometric Ginzburg-Landau theory of charge ordering and commensurability",
+    "summary": "- Quantum geometry drives CDW formation and commensurability, yielding a new Ginzburg‑Landau theory.\n- Provides a criterion linking electron‑phonon coupling to the CDW wavevector, fixing discrepancies in transition‑metal dichalcogenides.\n- Extends to other phonon‑mediated phases (e.g., superconductivity), offering a tool to study quantum‑geometry effects in phase transitions.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.10682": {
+    "title": "Lattice 2-group symmetries: operators, defects, and gauging",
+    "summary": "- Constructed lattice realizations of finite 2‑group symmetries in 2+1d quantum systems, distinguishing split (trivial Postnikov) and central (trivial action) cases.\n- Built symmetry operators on the full Hilbert space: onsite for split 2‑groups, non‑onsite for central 2‑groups (made onsite with ancillae).\n- Analyzed how the Postnikov class and group action affect operator transformations, defects, dual fusion 2‑category, and proposed solvable symmetric Hamiltonians exhibiting spontaneous 2‑group symmetry breaking.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.10687": {
+    "title": "Quantum interference between vortex- and impurity-bound states boosts thermoelectricity",
+    "summary": "- Overlap of particle‑hole asymmetric bound states near defects boosts local thermoelectric response.\n- Vortex‑state interference extends the Seebeck effect beyond core regions; impurity effects depend on separation in both s‑ and d‑wave gaps.\n- Spatial tuning of defect‑induced quasiparticle states offers a way to control thermoelectricity in inhomogeneous superconductors.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.10691": {
+    "title": "Dissipative quantum mechanics of Andreev bound states",
+    "summary": "- Microscopic model of ac Josephson effect using dissipative dynamics of Andreev bound states.\n- Accounts for Landau‑Zener tunneling and quasiparticle escape in highly transparent, subgap‑biased junctions.\n- Reveals sub‑Ohmic, phase‑dependent dissipation in the low‑bias current‑phase relation for arbitrary transmissions.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.10708": {
+    "title": "A Unified Theory of Collective Magnon and Orbiton Excitations in Altermagnets",
+    "summary": "- Unified Kugel'-Khomskii model on a decorated square lattice captures both inequivalent non‑magnetic environments and correlation‑driven orbital ordering in altermagnets.\n- Self‑consistent spin‑wave/orbiton mean‑field analysis reveals unhybridized, interdependent magnon and orbiton modes with characteristic chiral splitting.\n- The splitting originates from (i) lattice‑dependent inequivalence of non‑magnetic sites and (ii) orbital‑order‑induced exchange anisotropy, unifying the two microscopic mechanisms.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.10720": {
+    "title": "Moir\\'e Topology in Twisted Structures with Noncollinear Spin-Orbit Coupling",
+    "summary": "- Proposes topological moiré minibands from noncollinear SOC in centrosymmetric bilayers, eliminating the need for valley contrast or hexagonal symmetry.\n- Demonstrates the concept in tetragonal HgI₂, where a Lieb‑like moiré potential produces flat topological bands.\n- Employs a physics‑informed ML surrogate to identify stronger SOC; replacing Hg with Pb yields narrower, isolated PbI₂ minibands that support correlated magnetism and tunable QSH/Chern phases.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.10731": {
+    "title": "Consensus in Effective Model Inference for Disordered Ising Systems",
+    "summary": "- Consensus quantifies agreement among independently trained models on disordered Ising data; its width reflects reproducibility.\n- The consensus variance separates into a finite‑sampling term (∝ 1/Fisher information) and a quenched‑disorder term; both reach minima near the pseudocritical temperature, sharpening with disorder.\n- The two minima arise from distinct mechanisms: the sampling term inherits the critical Fisher‑information peak, while the disorder term’s critical minimum appears only at fourth order in disorder strength via covariance of linear and cubic responses.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.10777": {
+    "title": "Thermal Stability of Encapsulated Molecular Structures with Extended OH-Hydrogen-Bond Chains",
+    "summary": "- Coarse‑grained simulations show phenol, 4‑phenylphenol, paracetamol, and 4‑hydroxybenzanilide form stable OH···OH chains on h‑BN.\n- h‑BN encapsulation raises chain dissociation temperatures from ~190–400 K to ~470–1140 K, greatly enhancing thermal stability.\n- Encapsulated chains, especially paracetamol and 4‑hydroxybenzanilide, are promising for high‑temperature anhydrous proton‑exchange membranes.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.10799": {
+    "title": "On the physical origins of switching diversity in Cu-embedded SiO$_x$ memristive devices",
+    "summary": "- Cu‑embedded sub‑stoichiometric SiOₓ memristors exhibit two distinct switching modes: interface‑type (capacitive/gradual) and filamentary‑type (abrupt/resistive).\n- Switching is driven by mobile O‑vacancies and immobile Cu‑related defects, which jointly shape interfacial versus bulk transport.\n- A 1‑D cloud‑in‑a‑cell model with vacancy drift‑diffusion, Schottky injection, and Poole‑Frenkel conduction reproduces both modes and shows how voltage stress, sweep rate, and oxide thickness re",
+    "timestamp": "2026-09-11"
+  },
+  "2609.10926": {
+    "title": "Competing Interlayer Loop Currents and Superconductivity in the Bilayer $t$-$J_\\perp$-$V$ Model",
+    "summary": "- J⊥ drives both out‑of‑plane s‑wave superconductivity and a z‑axis bond‑order phase that produces loop currents breaking time‑reversal symmetry.\n- Competition between loop‑current order and superconductivity yields a dome‑shaped Tc, peaking near the z‑BOP quantum critical point.\n- Resulting phase diagram: pure loop‑current, low‑doping coexistence, pure superconducting at higher doping, and a correlated metallic state.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.11238": {
+    "title": "Optically induced metallic state with persistent monoclinic symmetry in NdNiO$_3$",
+    "summary": "- Metallic reflectivity appears at lower fluence than symmetry change.\n- A monoclinic metal forms, combining metallicity with insulating‑phase symmetry.\n- Higher fluence restores orthorhombic symmetry, revealing electronic–structural decoupling.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.11405": {
+    "title": "Instabilities in self-consistent diagrammatic approaches and how to cure them",
+    "summary": "- Self‑consistent diagrammatic schemes can converge to unphysical fixed points at intermediate‑to‑strong interactions.\n- The problem stems from unstable eigenvalues of the iteration Jacobian, not from the diagrammatic theory itself.\n- Inverting the unstable eigendirections of the Jacobian restores convergence to the physical fixed point across all parameter ranges.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.11466": {
+    "title": "Topological band structure of excitons in octochlore KTb$_{3}$F$_{10}$: an analog of the Luttinger Semimetal",
+    "summary": "- Dispersive crystal‑field excitons in KTb₃F₁₀ show pinch‑point scattering from long‑range dipolar interactions.\n- Truncating dipoles to finite shells yields a three‑band quadratic band touching protected by cubic symmetry, analogous to a Luttinger semimetal.\n- The work offers a long‑wavelength model linking magnetic exciton band topology to pinch‑point features in neutron scattering.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.11591": {
+    "title": "Robust Spin-1 Haldane Topology under Itinerant Doping",
+    "summary": "- Doped spin‑1 Haldane SPT retains string order, spin gap, and Haldane entanglement over a broad doping range.\n- The low‑energy theory is a metallic C1S0 phase: one gapless charge mode with a gapped spin sector.\n- At high doping a reentrant ferromagnetic phase appears, with FM boundaries governed by spin–charge factorization (weak Hund) and rung‑triplet binding (strong Hund).",
+    "timestamp": "2026-09-11"
+  },
+  "2609.11675": {
+    "title": "Certified reduced-basis emulation of conformal field theories on the fuzzy sphere",
+    "summary": "- Combines exact diagonalization with a certified reduced‑basis emulator, cutting the search for critical couplings on the fuzzy sphere by ~100×.\n- Reproduces published ground‑state energies and conformal data for the Ising and O(Wilson–Fisher models, including derivative‑defined observables.\n- Locates the O(critical coupling to within 5 % of DMRG results and maps the critical line, identifying where bootstrap dimensions agree best.",
+    "timestamp": "2026-09-11"
+  },
+  "2609.11678": {
+    "title": "Acoustic Wave-Function Imaging of Sublattice Physics in a Kagome Lattice",
+    "summary": "- Acoustic kagome lattice imaged real‑space wave functions (amplitude & phase) across the full band structure.\n- Revealed momentum‑dependent sublattice localization of Dirac cone, flat band, and van Hove singularities.\n- Experimental results match tight‑binding predictions, providing first direct sublattice‑resolved band structure observation.",
+    "timestamp": "2026-09-11"
   }
 }
