@@ -1588,5 +1588,50 @@
     "title": "Acoustic Wave-Function Imaging of Sublattice Physics in a Kagome Lattice",
     "summary": "- Acoustic kagome lattice imaged real‑space wave functions (amplitude & phase) across the full band structure.\n- Revealed momentum‑dependent sublattice localization of Dirac cone, flat band, and van Hove singularities.\n- Experimental results match tight‑binding predictions, providing first direct sublattice‑resolved band structure observation.",
     "timestamp": "2026-09-11"
+  },
+  "2609.11927": {
+    "title": "Effective Ionic Valence and Local Magnetic Moment in Kagome Superconductors",
+    "summary": "- V and Ti ions are 2+ valence, yielding comparable itinerant carrier densities.\n- Quantum‑fluctuating local moments, hidden by frustration, are revealed by Sn doping and μSR/magnetic‑susceptibility.\n- Results shift the paradigm from itinerant‑only to strong‑correlation models incorporating local ionic spins.",
+    "timestamp": "2026-09-12"
+  },
+  "2609.11881": {
+    "title": "Low temperature thermodynamics of $S_{\\mathrm{eff}}=1/2$ triangular lattice quantum spin liquid candidate TlYbS$_2$",
+    "summary": "- TlYbS₂ crystallizes in a clean trigonal R‑3m structure with well‑separated Yb³⁺ triangular layers and no site disorder.\n- A weak zero‑field anomaly at ~530 mK and a magnetic specific heat Cₘ∝T¹·⁸ below 300 mK point to a low‑temperature ordered or QSL state distinct from Tl",
+    "timestamp": "2026-09-12"
+  },
+  "2609.11862": {
+    "title": "High-Temperature ferromagnetism from site-selective filling in (Fe,Ni)$_{6-δ}$GeTe$_2$",
+    "summary": "- High‑Tc (478 K) ferromagnetism in Fe₅NiGeTe₂ originates from Fe₆GeTe₂ nano‑precipitates stabilized by strain.\n- Interior Fe atoms carry localized moments; outer Fe atoms adjacent to Te layers provide spin‑polarized itinerant carriers across the vdW gap.\n- Ni substitution incurs high energy cost, driving spontaneous precipitation of the “clean” Fe₆GeTe₂ phase and enhancing Curie temperature.",
+    "timestamp": "2026-09-12"
+  },
+  "2609.11858": {
+    "title": "Sub-cycle doublon-holon dynamics in one-dimensional Mott insulators revealed by two-color high-harmonic spectroscopy",
+    "summary": "- Measured high‑harmonic chirp in a 1D Mott insulator, revealing sub‑optical‑cycle doublon‑holon dynamics.\n- Positive chirp for above‑gap harmonics indicates dominance of doublon‑holon recombination.\n- Harmonic‑order dependent dephasing reflects different doublon‑holon excursion distances.",
+    "timestamp": "2026-09-12"
+  },
+  "2609.11816": {
+    "title": "Piezomagnetism in a model cubic noncollinear altermagnet",
+    "summary": "- MnTe₂ shows a strong piezomagnetic effect: shear strain ∝ magnetic field and strain‑induced ferromagnetic moment.\n- Dilatometry and NMR confirm both direct and inverse piezomagnetism, agreeing with symmetry analysis and first‑principles calculations.\n- Positions MnTe₂ as a model altermagnet and demonstrates NMR’s utility for probing piezomagnetism, opening strain‑field control routes for spintronics.",
+    "timestamp": "2026-09-12"
+  },
+  "2609.11811": {
+    "title": "Block entropy area based non-local fermionic mode optimization with gradient disentanglers",
+    "summary": "- Block‑entropy‑area gradient disentangler optimizes fermionic modes in MPS.\n- Time‑dependent variational principle with projector splitting minimizes entanglement, yielding a low‑rank ground‑state algorithm.\n- Tested on 2D fermion lattices and Fe₄S₄ cluster, outperforming earlier nearest‑neighbor rotation/reordering schemes.",
+    "timestamp": "2026-09-12"
+  },
+  "2609.11810": {
+    "title": "Interacting Tomonaga-Lüttinger liquid with impurity for interaction constant $K = 1/2$: Thermopower investigation, entropy variation and heat capacity densities associated with thermoelectric particle transport",
+    "summary": "- Exact thermopower for a K = ½ Tomonaga‑Luttinger liquid with a localized impurity; linear Seebeck coefficient follows a Mott‑like relation governed by the transmission energy dependence.\n- Kelvin formula connects thermopower to entropy per particle, yielding Mott‑like entropy density variation and heat‑capacity density of charge carriers at low temperatures.\n- Findings applied to a fractional quantum Hall point contact and a one‑channel conductor coupled to an Ohmic environment, illustrating the link between thermoelectric transport and thermodynamics in 1D interacting systems.",
+    "timestamp": "2026-09-12"
+  },
+  "2609.11792": {
+    "title": "Learning Quantum Matter through Attention in Complex Space",
+    "summary": "- Introduced Complex Psiformer, a neural wavefunction ansatz using complex hidden features and Hermitian‑magnitude attention for electrons in magnetic moiré systems.\n- Achieved lower variational energies than Real Psiformer and neural Hartree–Fock, with ~5 meV/electron advantage in a 25‑cell system.\n- Captured richer flux‑dependent density correlations and gauge‑invariant current patterns, outperforming real‑valued models against configuration‑interaction benchmarks.",
+    "timestamp": "2026-09-12"
+  },
+  "2609.11745": {
+    "title": "Unraveling the Kagome Antiferromagnetic $3J$ Model and Its Materials: An Integrated Approach",
+    "summary": "- Discovered an intermediate QSL phase between two magnetically ordered phases in the kagome 3J Heisenberg model via DMRG and NQS.\n- Demonstrated that this QSL differs from the isotropic kagome spin‑liquid ground state.\n- Calculated specific‑heat signatures (XTRG/tanTRG) showing a shoulder in ordered phases that disappears in the QSL, matching experiments.",
+    "timestamp": "2026-09-12"
   }
 }
