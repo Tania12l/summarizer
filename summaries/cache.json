@@ -1633,5 +1633,100 @@
     "title": "Unraveling the Kagome Antiferromagnetic $3J$ Model and Its Materials: An Integrated Approach",
     "summary": "- Discovered an intermediate QSL phase between two magnetically ordered phases in the kagome 3J Heisenberg model via DMRG and NQS.\n- Demonstrated that this QSL differs from the isotropic kagome spin‑liquid ground state.\n- Calculated specific‑heat signatures (XTRG/tanTRG) showing a shoulder in ordered phases that disappears in the QSL, matching experiments.",
     "timestamp": "2026-09-12"
+  },
+  "2609.11984": {
+    "title": "Diagonal Pair Coulomb Density Matrix on a Sphere: a numerical study",
+    "summary": "- Tabulated diagonal $n$th powers ($n\\le5$) of the primitive pair‑Coulomb density matrix on a sphere.\n- Examined contact behavior as $n$ increases, revealing quantum effects absent classically.\n- Found that quantum statistics obviates the need for artificial regularization (e.g., hard core) required in classical Coulomb systems.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.11985": {
+    "title": "Multiple Majorana zero modes realization based on superconducting topological crystalline metal ZrRuAs",
+    "summary": "- Proposes superconducting topological crystalline metals (STCMs) as a platform for symmetry‑protected multiple Majorana zero modes (MZMs).\n- Shows that s‑wave pairing, mirror‑protected Dirac cones, and spin splitting yield high BdG Chern numbers \\(\\mathcal{N}=\\pm C_M\\).\n- Identifies ZrRuAs (\\(C_M=2\\)) and its heterostructure with a ferromagnetic insulator (e.g., GdI₂) as a realistic system hosting two MZMs.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.11988": {
+    "title": "Disordered hyperuniform modulated phases and the cosmic web from one free energy",
+    "summary": "- A single, parameter‑free free‑energy functional produces both class‑III disordered hyperuniform labyrinths (overdamped dynamics) and cosmic‑web‑like tidal skeletons (inertial dynamics).\n- Long‑wavelength suppression is inherited from the initial condition; the arrested state’s exponent equals the primordial one, and gravity rescales the infrared spectrum to <1 % error over 1363× growth.\n- The two regimes are continuously linked: the ordering modulation’s mean‑field back‑reaction yields a residual pressure ∝λ₀² that dampens large‑scale growth, disappearing",
+    "timestamp": "2026-09-14"
+  },
+  "2609.11992": {
+    "title": "Crystallographic and Electronic Phase Changes in TiTe2 via Atmospheric and Electron Beam Exposure",
+    "summary": "- TiTe₂ surfaces transition from metallic to semiconducting after air exposure, evidenced by STM/STS LDOS changes.\n- Exposure induces surface roughness and adlayer formation, while e‑beam irradiation drives a crystalline phase shift from hexagonal to polycrystalline via distorted monoclinic intermediates.\n- XRD/TEM reveal a possible non‑stoichiometric TiₓTe_y superlattice at the exposed surface.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12041": {
+    "title": "Catastrophes, Optical Multistabilities, and Chiral Photocurrent Hysteresis in Driven Weyl Semimetals",
+    "summary": "- Nonlinear plasma screening in Weyl semimetals amplifies photoresponse, producing bistability, hysteresis, and catastrophes.\n- Bistability originates from a linear‑to‑saturated polarization crossover limited by the bounded Fermi velocity of Weyl carriers.\n- Time‑reversal symmetry breaking and tilted nodes add a Berry‑curvature term, yielding helicity‑selective in‑plane currents in the nonlinear response.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12042": {
+    "title": "Remarks on invertible phases with non-onsite symmetry",
+    "summary": "- Non‑onsite lattice symmetries with anomaly indices can admit invertible, non‑SRE phases, shifting the allowed chiral central charge spectrum.\n- In 2+1D fermionic \\(\\mathbb Z_4^F\\), a non‑onsite symmetry forbids integer \\(c_-\\) phases and permits \\(c_- \\in \\mathbb Z + \\tfrac12\\), realized by a \\(p+ip\\) superconductor with an exact quasi‑local symmetry.\n- Gauging fermion parity yields an Ising top",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12048": {
+    "title": "Optimized quantum state transfer in a quasiperiodic ultracold atomic gas",
+    "summary": "- Locally adiabatic protocols enable edge‑to‑edge quantum state transfer in a 1D Aubry–André–Harper ultracold gas.\n- Stronger edge localization requires longer transfer times but benefits from higher‑order protocols.\n- A two‑level Landau–Zener model captures fidelity trends and coherent oscillations, guiding experimental parameter choices.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12050": {
+    "title": "Staying positive: bounds for non-Gaussian noise in Schwinger-Keldysh effective field theory",
+    "summary": "- SK EFTs for dissipative hydrodynamics contain non‑Gaussian thermal noise; symmetry constraints alone do not guarantee a valid probability distribution.\n- Sharp, optimal bounds on cumulants are derived, ensuring positivity and realized by explicit positive distributions for both negative and positive kurtosis.\n- Closed‑form nonlinear response, an exact sampling algorithm, and applications to microscopic and holographic models set a lower bound on the time step for a quartic Brownian model and pass a continuum fourth‑order positivity test.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12057": {
+    "title": "Real-space Visualization of Emergent Electron Crystals in Rhombohedral Graphene",
+    "summary": "- STM/STS imaging of rhombohedral hexalayer graphene shows hole‑doping–induced electron crystals that switch from honeycomb to oblique order via a first‑order quantum phase transition.\n- Quasiparticle‑interference and transport data reveal a Fermi surface inconsistent with nesting, indicating a metallic electron crystal where only a subset of carriers crystallize.\n- The honeycomb crystal overlaps with multiferroic orbital magnetism, is stabilized by weak magnetic fields, suggesting a possible metallic anomalous Hall crystal.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12063": {
+    "title": "Breakdown of Multipole Expansion in Emergent Electromagnetism",
+    "summary": "- High‑order multipolar charges in 2D lattice models generate lower‑order electric fields, breaking standard electrostatics.\n- Dense charge configurations cause nonlinear suppression or enhancement of the far field, violating superposition.\n- Microscopic lattice constraints modify far‑field behavior, undermining usual continuum effective descriptions.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12199": {
+    "title": "Selective coupling of coherent phonons to intertwined charge-orbital and magnetic orders in doped manganites",
+    "summary": "- In-plane coherent phonons track charge/orbital order; c‑axis phonons track magnetic order in La₁/₄Pr₃/₈Ca₃/₈MnO₃.\n- Ferromagnetic hysteresis appears even when only the charge/orbital phase is probed, showing strong coupling between spatially separated orders.\n- Coherent phonons provide a time‑domain tool to disentangle intertwined electronic and magnetic dynamics.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12257": {
+    "title": "Geometric Approach to the High-Throughput Identification of Honeycomb Materials",
+    "summary": "- Geometric filtering algorithm classifies honeycomb lattices into conventional, hyper, staircase/zigzag, and fully 3D, plus distortion motifs.\n- Screening criteria quantify exfoliability, magnetism, and DOS‑peak quality for electronic instability identification.\n- Resulting database supports targeted experimental search for novel honeycomb materials.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12613": {
+    "title": "Magnetically activated optical visibility of many-body excitons in NiPS$_3$",
+    "summary": "- NiPS₃’s zigzag antiferromagnetic order breaks symmetry, allowing a sharp many‑body exciton at ~47 eV to appear in optical spectra.\n- Trigonal ligand distortion and inter‑cluster exchange relax spin/parity constraints, producing a distinct exciton peak in conductivity.\n- Group‑theoretical analysis and exact diagonalization provide a microscopic explanation linking exciton visibility to magnetic order.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12661": {
+    "title": "Nonequilibrium Broken-Symmetry States from Retained Observables",
+    "summary": "- Recasts nonequilibrium order selection as a static constrained variational problem using conserved quantities and slow observables.\n- Implements a constrained Hartree‑Fock on the Gaussian manifold to predict orders in photo‑excited Hubbard and driven double‑exchange models.\n- Reveals non‑thermally favored orders: incommensurate spiral on the triangular lattice and Neel order in a driven ferromagnet.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12848": {
+    "title": "Diversifying time evolution of matrix product states using BUGs",
+    "summary": "- Introduces two BUG integrators for MPS that are single‑site, robust to small singular values, and allow adaptive bond dimensions.\n- BUG integrators avoid backward‑in‑time substeps and outperform projector‑splitting TDVP in handling long‑range Hamiltonians.\n- Numerical benchmarks on XY spin and 2D fermion/spin models show BUG scales better and matches or exceeds projector‑splitting accuracy.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12856": {
+    "title": "Chiral Valence-Bond Solid and Chiral Triplons",
+    "summary": "- Introduces a chiral valence‑bond solid that breaks inversion/mirror symmetry, identified by an electric toroidal monopole.\n- Predicts spin‑split triplon bands with enantiomer‑dependent spin textures, producing a handedness‑linked spin response under a temperature gradient.\n- Shows that the imaginary off‑diagonal dynamical spin structure factor changes sign between enantiomers, enabling neutron‑scattering detection of chirality.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12931": {
+    "title": "Spin splitting without symmetry: a nearly compensated ferrimagnet and the origin of altermagnetism",
+    "summary": "- Spin splitting in altermagnets arises from anisotropic magnetic orbital–ligand arrangements, not from crystal symmetry.\n- A triclinic Mn oxide lacking sublattice symmetry shows full Brillouin‑zone splitting; restoring inversion symmetry reduces it by ~100×.\n- Symmetry can only reverse or forbid an existing splitting; it cannot create one, so the arrangement dictates the splitting across all crystal classes.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.12956": {
+    "title": "Orbital Hall effect and orbital altermagnetism in even- and odd-parity-wave magnetic Lieb lattices",
+    "summary": "- Collinear AFM Lieb lattice produces d‑wave altermagnetism and an orbital Hall effect without SOC, resembling a ferromagnet’s transport.\n- SOC adds a spin Hall response and orbital altermagnetism; anomalous Hall appears only with SOC and symmetry constraints.\n- Odd‑parity p‑wave magnetism yields anisotropic orbital Hall effect and a symmetric conductivity tensor.",
+    "timestamp": "2026-09-14"
+  },
+  "2609.13049": {
+    "title": "2D Weak Localization in Trilayer Ruddelsden-Popper Nickelates",
+    "summary": "- 2D weak localization seen in Pr₄Ni₃O₁₀ and La₄Ni₃O₁₀, indicating in‑plane quantum diffusive transport and out‑of‑plane incoherence.\n- Magnetoconductivity data reveal a quasi‑2D disordered Fermi liquid ground state with phase‑coherent conduction.\n- Applying up to 3 GPa suppresses WL, hinting at a 2D/3D crossover and a pressure‑driven route to superconductivity.",
+    "timestamp": "2026-09-14"
   }
 }
