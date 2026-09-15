@@ -1728,5 +1728,100 @@
     "title": "2D Weak Localization in Trilayer Ruddelsden-Popper Nickelates",
     "summary": "- 2D weak localization seen in Pr₄Ni₃O₁₀ and La₄Ni₃O₁₀, indicating in‑plane quantum diffusive transport and out‑of‑plane incoherence.\n- Magnetoconductivity data reveal a quasi‑2D disordered Fermi liquid ground state with phase‑coherent conduction.\n- Applying up to 3 GPa suppresses WL, hinting at a 2D/3D crossover and a pressure‑driven route to superconductivity.",
     "timestamp": "2026-09-14"
+  },
+  "2609.13256": {
+    "title": "Localization Landscapes as Operator-Induced Geometry for Heterogeneous Systems",
+    "summary": "- Localization landscape \\(u\\) from a single source solve yields effective potential \\(W_{\\mathrm{eff}}=1/u\\), exposing hidden barriers, wells, and weakly communicating compartments in heterogeneous operators.\n- \\(W_{\\mathrm{eff}}\\) defines an operator‑aware geometry (basin partitions, Agmon neighborhoods) that explains low‑energy eigenmode support, sharpens locality in attention‑like interactions, and modulates diffusion bottlenecks.\n- Demonstrated on discrete Schrödinger‑type and heterogeneous reaction‑diffusion operators—including a finite‑element continuum example—showing that this geometry is a strong, task‑dependent inductive bias.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13273": {
+    "title": "A thermomechanical framework for strongly nonlocal continua",
+    "summary": "- Introduces a thermomechanical framework for strongly nonlocal continua where material response depends on neighborhood gradients via integral kernels.\n- Derives nonlocal momentum balance, conservation laws, and constitutive relations using virtual power, yielding averaged mechanical power and heating.\n- Provides regularization against mesh dependence and captures size‑dependent localization phenomena.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13330": {
+    "title": "Interparticle radiation forces beyond spherical particles in a bulk acoustofluidic device",
+    "summary": "- Shape‑dependent reversal of interparticle radiation forces observed, even for positive‑contrast materials.\n- Spherical particles on the nodal plane exhibit material‑independent forces; outside the nodal plane, material contrast and asymmetry dominate.\n- Validated 2D/3D numerical framework combining resonance prediction, sinusoidal fitting, and perturbation/tensor integral methods for diverse particle shapes and orientations.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13378": {
+    "title": "The price of locality: Maxwell-Cattaneo charge transport in Schwinger-Keldysh effective field theory",
+    "summary": "- Determines when nonlinear Maxwell‑Cattaneo charge transport embeds locally in a Gaussian Schwinger‑Keldysh EFT with a modified dynamical KMS symmetry.\n- Shows that treating the extra vector as intrinsically dissipative breaks the usual entropy‑current fixing by the hydrostatic functional, requiring independent improvements.\n- Identifies additional constraints from the modified KMS symmetry, yielding a stochastic quasi‑hydrodynamic framework.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13380": {
+    "title": "Strain-Induced Helical Superconductivity and the Zero-Field Diode Effect",
+    "summary": "- Strain mixes dominant \\(s\\)-wave with subdominant two‑component pairing, enabling Lifshitz coupling that drives a transition to a helical superconducting state.\n- The helical state breaks time‑reversal symmetry, producing a zero‑field superconducting diode effect that is non‑monotonic in strain and anisotropic to current direction.\n- Reversing principal strain rotates the diode direction by \\(90^\\circ\\); shear strain causes continuous rotation, offering strain‑controlled tuning of the diode.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13387": {
+    "title": "Quantum Stochastic Walks on the Permutation Group",
+    "summary": "- Quantum stochastic walks on \\(S_n\\) merge unitary evolution with dissipation, speeding up convergence to the uniform distribution versus classical random‑transposition walks.\n- Coherence strictly decreases the distance to uniform in the computational basis, and a coupling‑strength threshold guarantees a measurable speedup.\n- Numerical results collapse the quantum/classical mixing‑time ratio onto a simple one‑parameter scaling law.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13390": {
+    "title": "Topological classification through knotted graphs: Fermi surface dispersions and Lifshitz transitions",
+    "summary": "- Uses knotted graphs to fully classify band dispersions and Fermi surface topology, surpassing 1D nodal‑line limits.\n- Introduces the Yamada set/sequence as an energy‑resolved fingerprint linking dispersion evolution to Lifshitz transitions.\n- Validates the framework on DFT band structures and extends it to non‑Hermitian exceptional surfaces with directed edge flow.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13391": {
+    "title": "Effective theory of the hidden-order pseudogap phase in a doped antiferromagnet",
+    "summary": "- Effective model of doped antiferromagnets with fluctuating stripe domain walls; domain‑wall ends act as vortices in a lattice gauge theory.\n- Monte‑Carlo phase diagram shows a BKT‑type crossover at \\(T^*\\) where vortex deconfinement signals loss of hidden Néel order.\n- Low‑temperature stripe instabilities predicted; model testable in ultracold‑fermion quantum simulators.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13398": {
+    "title": "Visualizing impurity-driven scattering phase textures in EuCd2As2",
+    "summary": "- STM maps of EuCd₂As₂ show 2π phase dislocations around Eu interstitials in the LDOS.\n- The dislocations shift with bias, evidencing interference of multiple scattering channels, including spin‑orbit coupling.\n- A model relates the phase‑gradient decay to the relative strengths of spin‑orbit and scalar scattering, enabling real‑space access to scattering phase.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13399": {
+    "title": "Superconducting Diode Effect in Josephson $\\varphi_0$ Junction",
+    "summary": "- Investigates superconducting diode effect in a φ₀ Josephson junction with a ferromagnetic weak link and Rashba spin‑orbit coupling.\n- Extends the free energy with higher‑order gradient terms to handle strong exchange fields (h ≫ T_c) where the conventional Ginzburg‑Landau expansion fails.\n- Shows that linear gradient coupling creates finite‑momentum Cooper pairing, and its interplay with higher‑order terms produces an asymmetric critical current (diode behavior).",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13411": {
+    "title": "Tripartite entanglement in chaotic eigenstates",
+    "summary": "- Chaotic eigenstates possess universal tripartite entanglement quantified by R\\'enyi tripartite multi‑entropy and reflected entropy.\n- Saddle‑point analysis yields leading‑order averages; the reflected density matrix exhibits three distinct regimes, extending subsystem ETH to tripartite systems.\n- Exact diagonalization of the mixed‑field Ising model validates the analytical predictions.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13656": {
+    "title": "Probing the anomalous symmetry-breaking in kagome material CsV3Sb5 via third-order nonlinearity",
+    "summary": "- Third‑order nonlinear longitudinal and Hall signals in CsV₃Sb₅ remain robust up to room temperature, peaking below the CDW (~77 K) and symmetry‑breaking (~39 K) transitions.\n- Scaling analysis attributes the nonlinear transport to a combination of quantum‑geometric effects and extrinsic scattering.\n- Demonstrates a giant third‑order response as a sensitive probe of anomalous symmetry‑breaking in kagome AV₃Sb₅ materials.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13723": {
+    "title": "Layer- and Orbital-Selective Mott Physics Driving Dimensional Crossover in Nickelate Superlattices",
+    "summary": "- Layer‑ and orbital‑selective Mott transition (LOSMT) engineered in a LaNiO₃/LaAlO₃ superlattice under compressive strain.\n- Monolayer LaNiO₃ becomes a Mott insulator in the Ni d₍z²₎ orbital, while bilayer LaNiO₃ remains metallic; inter‑layer d₍z²₎ hybridization drives the LOSMT on cooling.\n- LOSMT induces a dimensional crossover: out‑of‑plane transport is enabled by metallized d₍z²₎ orbitals while d₍x²‑y²",
+    "timestamp": "2026-09-15"
+  },
+  "2609.13752": {
+    "title": "Bilinear magnon--exciton coupling in biased ferromagnetic electron--hole bilayers",
+    "summary": "- Biased ferromagnetic electron–hole bilayers tune the exciton gap into resonance with magnons.\n- Linear hybridization of magnons and spin‑flip excitons produces a magnon–exciton Bose–Einstein condensate.\n- An attractive density–density interaction modifies the condensate’s collective modes, whose hybridization with magnons offers a detection route.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.14134": {
+    "title": "Exact solutions of hidden free fermion models",
+    "summary": "- Hidden‑free‑fermion (HFF) Hamiltonians possess free‑fermion spectra via twisted Perk–Schultz \\(R\\)-matrix Lax operators, despite lacking an explicit quadratic form.\n- A closed hierarchy of commuting transfer matrices yields functional relations that solve the spectrum, illustrated by the inhomogeneous free‑fermions‑in‑disguise (FFD) chain exhibiting HFF, nested HFF, or interacting regimes.\n- The homogeneous FFD chain displays a cubic finite‑size gap under one‑wrap and periodic boundaries while retaining bulk dynamical exponent",
+    "timestamp": "2026-09-15"
+  },
+  "2609.14191": {
+    "title": "Haldane-Holstein model at fractional filling: Route to bosonic fractional Chern insulator and quantum anomalous Hall crystal",
+    "summary": "- Strong electron‑phonon coupling in the Haldane‑Holstein model at fractional filling stabilizes topological phases rather than destroying them.\n- Spinful electrons form charge‑2e bipolarons that realize a bosonic fractional Chern insulator (ν = ½) with semionic excitations, coexisting with superconducting and charge‑ordered states.\n- Spin‑polarized electrons exhibit a C = 2 quantum anomalous Hall crystal (ν = ⅓), showing electron‑phonon coupling as a route to topology in partially filled C",
+    "timestamp": "2026-09-15"
+  },
+  "2609.14223": {
+    "title": "Emergence of Subdominant Quadrupolar Order in the 5$d^2$ Multipolar Mott Insulator Ba$_2$CaOsO$_6$",
+    "summary": "- BLPS phase appears at T* ≈ 50 K in pristine Ba₂CaOsO₆, coincident with the octupolar transition.\n- ⁴³Ca NMR spin‑echo nutation detects a finite electric field gradient, proving spontaneous symmetry breaking in an otherwise cubic lattice.\n- The BLPS phase reveals a subdominant quadrupolar component, demonstrating that the hidden order is intrinsically multicomponent and beyond conventional 5d² models.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.14228": {
+    "title": "Vestigial altermagnetism",
+    "summary": "- Vestigial altermagnetism (Q = arises from thermal melting of AFM and orbital orders on a square lattice.\n- The high‑T to vestigial‑AM transition is first or second order, set by bare susceptibilities and their couplings.\n- Electron spectral function displays spin‑ and orbital‑dependent quasiparticle lifetimes with AM symmetry, even without direct coupling.",
+    "timestamp": "2026-09-15"
+  },
+  "2609.14390": {
+    "title": "Reservoir-conditioned virtual returns generate random Liouvillian skin localization in a reciprocal Mott insulator",
+    "summary": "- Directional returns of virtual doublon–hole defects in a half-filled Hubbard chain generate asymmetric spin-exchange rates, causing random Liouvillian skin localization.\n- Randomly balanced returns concentrate stationary population and low-lying right modes at sample‑selected sites, forming a",
+    "timestamp": "2026-09-15"
   }
 }
