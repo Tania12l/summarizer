@@ -1823,5 +1823,90 @@
     "title": "Reservoir-conditioned virtual returns generate random Liouvillian skin localization in a reciprocal Mott insulator",
     "summary": "- Directional returns of virtual doublon–hole defects in a half-filled Hubbard chain generate asymmetric spin-exchange rates, causing random Liouvillian skin localization.\n- Randomly balanced returns concentrate stationary population and low-lying right modes at sample‑selected sites, forming a",
     "timestamp": "2026-09-15"
+  },
+  "2609.16045": {
+    "title": "Maxwell-J$\\\"u$ttner averaged nonaffine theory of relativistic shear viscosity",
+    "summary": "- Extends relativistic nonaffine shear‑viscosity theory to a Maxwell‑Jüttner averaged framework for massive classical gases.\n- Replaces a single Lorentz factor by its equilibrium momentum average, producing a finite‑mass enhancement function of ζ = mc²/(k_BT).\n- Derives nonrelativistic/ultrarelativistic limits, validates hard‑sphere scaling, and shows the memory kernel is distinct from a simple relaxation time.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16084": {
+    "title": "Topological superconductors and Majorana fermions based on $X$-wave magnets with $X=p,d,f,g,i $",
+    "summary": "- Altermagnets (d, g, i) stabilize chiral \\(p_{x}+ip_{y}\\) superconductivity (class D) with Chern number 1; the i‑wave case yields two chiral edge modes (Chern .\n- Odd‑parity magnets (p, f) stabilize \\(p\\)‑ or \\(f\\)‑wave topological superconductivity (class DIII) with Majorana flat bands, characterized by a winding number.\n- The superconducting phase diagram is governed by magnetic‑order strength, chemical potential, and the ratio of on‑site to nearest‑neighbor interactions; \\(",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16124": {
+    "title": "Anderson localization in topological metals",
+    "summary": "- 3D Weyl semimetals preserve long‑range entanglement and resist Anderson localization under disorder.\n- 2D/3D Dirac and 3D nodal‑line semimetals do not retain this protection and become localized.\n- The conclusion is derived from unquantized anomaly responses and decorated domain‑wall arguments.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16137": {
+    "title": "Optical and magnetic signatures of drive-enhanced coherence in phase-disordered superconducting bilayers",
+    "summary": "- Drive‐induced stiffness oscillations in bilayers boost low‑frequency \\(1/\\omega\\) optical conductivity.\n- Symmetric layer drive strengthens interlayer phase locking and counterflow magnetic response; antisymmetric drive does not.\n- Drive symmetry thus diagnoses whether enhanced optical signatures imply genuine magnetic screening, informing YBCO experiments.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16143": {
+    "title": "Mode-selective phonon effects on magnetism and superconductivity in trilayer nickelates",
+    "summary": "- Strong EPC from out‑of‑plane oxygen breathing modes with layer‑dependent symmetry.\n- Phonon‑mediated screening reshapes magnetic fluctuations, selectively enhancing or suppressing SDW and \\(s_{\\pm}\\) superconductivity.\n- Negative isotope coefficients for magnetism arise, matching experimental observations.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16147": {
+    "title": "Quantum Critical Solids",
+    "summary": "- Floppy quantum solids with zero transverse phonon velocity acquire a relevant cubic elastic nonlinearity for \\(d<4\\), driving a strongly‑coupled Lifshitz quantum critical point in \\(d=3\\).\n- The transition is generically first‑order, yet a Ginzburg region near the transition exposes the critical exponents of the Lifshitz point.\n- In \\(d=2\\) the cubic term vanishes; quartic interactions become marginal, producing only weak logarithmic singularities.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16172": {
+    "title": "Two-Dimensional Materials toward CMOS-Compatible Scalable Quantum Hardware",
+    "summary": "- 2D materials offer atomically thin, van der Waals interfaces that can reduce fabrication‑induced decoherence in solid‑state qubits.\n- Their compatibility with CMOS processes suggests scalable, manufacturable quantum hardware.\n- The paper assesses both the opportunities and limitations of integrating 2D materials into CMOS‑compatible quantum chips.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16261": {
+    "title": "Breaking the Wiedemann-Franz limit in thermoelectrics via separated flat bands",
+    "summary": "- Uses energy‑dependent scattering in flat‑band materials (e.g., monolayer Ni₃In) to decouple electronic thermal and electrical conductivities, violating the Wiedemann‑Franz law.\n- Achieves a boxcar‑shaped transport distribution near the Fermi level, yielding high Seebeck coefficient and conductivity while suppressing electronic heat conduction.\n- Analyzes ~50 000 data sets in a zT vs. S² plot to identify anomalously low Lorenz numbers, highlighting new physics or measurement artifacts.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16277": {
+    "title": "Current - voltage characteristics in magnetic field for layered superconductor with intrinsic pinning of Josephson vortices",
+    "summary": "- Transverse Hall voltage Uy measured in Nd₂₋ₓCeₓCuO₄ films under orthogonal E and B fields.\n- Josephson vortices across CuO₂ layers exhibit exponential jc(B) from intrinsic pinning, unlike Abrikosov vortices.\n- Depinning at Bc triggers vortex creep, which transitions to flux‑flow at Bf.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16311": {
+    "title": "An improved auxiliary boson method for quantum dots with finite Coulomb interaction U",
+    "summary": "- Refines Kotliar–Ruckenstein auxiliary‑boson method for finite‑\\(U\\) quantum dots in the Kondo regime.\n- Enhances accuracy of strong‑correlation treatment while keeping analytical tractability.\n- Benchmarks against NRG confirm reliable transport predictions for nanoscale systems.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16438": {
+    "title": "Analytical solutions to the non-equilibrium Green's functions in large-$q$ SYK models",
+    "summary": "- Closed‑form Green’s functions for every time block in a large‑\\(q\\) SYK quench between non‑commuting \\(q/2\\)-body Hamiltonians.\n- Exact temperature update rule derived from a simple proportionality \\(\\epsilon_1 \\propto \\epsilon_0\\).\n- Proof that heating is inevitable (second law) via a Cauchy–Schwarz inequality.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16587": {
+    "title": "Hartree-Fock Density-Matrix Renormalization Group for Very Long Chains",
+    "summary": "- Reformulates Hartree–Fock as a DMRG sweep of a single Slater determinant with density–density interactions.\n- Compresses occupied states and long‑range Coulomb terms separately, reducing each sweep to a small local Fock problem while retaining exchange.\n- Enables converging 100 000‑electron hydrogen chains (8 M basis functions) in ~2 h on a 64‑GB Mac mini, with work per sweep scaling linearly with chain length.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.17080": {
+    "title": "La substitution studies on the heavy-fermion superconductor CeRh$_2$As$_2$",
+    "summary": "- La substitution expands the lattice (~‑3 GPa), lowers the Kondo scale (T*max↓) while preserving Ce³⁺ valence and non‑Fermi‑liquid behavior.\n- Both Tc and T₀ drop below 1 K for x > 05, showing strong disorder‑induced pair breaking.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16108": {
+    "title": "Large-scale quantum simulations of dissipative spin-1/2 Heisenberg chains",
+    "summary": "- Simulated 50‑site dissip",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16130": {
+    "title": "Single-Instance Observables in the Sachdev-Ye-Kitaev Model",
+    "summary": "- Diagrammatic expansion for thermal expectation values of low‑weight Majorana strings in a fixed SYK realization, organized in powers of \\(N^{-1/2}\\) and evaluable with classical resources polynomial in \\(N\\).\n- Extension to arbitrary imaginary‑time and short real‑time correlations, with excellent agreement to exact diagonalization up to \\(N=24\\) in the four‑body SYK model.\n- Application to the Maldacena–Qi model reveals a nearby SYK‑like Hamiltonian whose thermofield double state has higher fidelity with the MQ ground state than the original SYK thermofield double.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16132": {
+    "title": "Exact group invariant scar towers in two dimensional gauge theories",
+    "summary": "- Constructed exact scar towers in 2D gauge theories with two flavors of massless fermions via a gauge‑neutral η‑pairing operator.\n- Scar states exhibit low entanglement, long‑range pair correlations, and map under charge conjugation to a coherent flavor mode with Josephson‑like dynamics.\n- Finite fermion masses mix the protected pair and destroy the tower, but the construction applies universally across many lattice field theories.",
+    "timestamp": "2026-09-16"
+  },
+  "2609.16140": {
+    "title": "Designs without disorder: unitary $k$-designs from a single-site bulk defect",
+    "summary": "- A single O(bulk defect in an integrable XXZ chain produces approximate unitary k‑designs via a two‑Pauli‑kick protocol with temporal sampling.\n- Design formation is governed by symmetry‑preserving Pauli strings with a specific domain‑wall count; exhaustive search finds many such kicks in the chaotic regime but none in the integrable limit.\n- The mechanism remains effective for weak bulk defects as system size increases, whereas boundary defects do not generate designs.",
+    "timestamp": "2026-09-16"
   }
 }
