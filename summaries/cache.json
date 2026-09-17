@@ -1908,5 +1908,100 @@
     "title": "Designs without disorder: unitary $k$-designs from a single-site bulk defect",
     "summary": "- A single O(bulk defect in an integrable XXZ chain produces approximate unitary k‑designs via a two‑Pauli‑kick protocol with temporal sampling.\n- Design formation is governed by symmetry‑preserving Pauli strings with a specific domain‑wall count; exhaustive search finds many such kicks in the chaotic regime but none in the integrable limit.\n- The mechanism remains effective for weak bulk defects as system size increases, whereas boundary defects do not generate designs.",
     "timestamp": "2026-09-16"
+  },
+  "2609.17646": {
+    "title": "Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction",
+    "summary": "- Introduces AI frameworks (CrysXPP, CrysGNN, CrysMMNet) for scalable, transferable crystal property prediction via unsupervised/self‑supervised graph learning and multimodal text integration.\n- Presents TGDMat, a text‑guided joint diffusion model that generates crystal lattices, atomic types, and coordinates while embedding textual structural knowledge.\n- Aims to accelerate crystalline materials discovery by reducing reliance on costly DFT calculations and limited labeled data.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17670": {
+    "title": "Structure of Measurement-Induced Entanglement in Infinite-Randomness Critical States",
+    "summary": "- Measurement‑induced entanglement in 1D infinite‑randomness critical states decays as a power law with universal exponent \\((3-\\sqrt/2\\) for both random XXZ and random transverse‑field Ising models.\n- The minimal number of measurements required to generate this entanglement obeys a universal scaling form.\n- Finite‑density measurements leave critical exponents unchanged; “measurement‑altered criticality” is absent, preserving or destroying criticality only by density.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17677": {
+    "title": "Hydrodynamic memory in overdamped colloidal dynamics",
+    "summary": "- Hydrodynamic memory survives in overdamped colloidal dynamics, yielding power‑law decay of velocity autocorrelation.\n- A closed‑form overdamped Langevin equation is derived, governed by a single dimensionless crossover parameter.\n- The model predicts stronger memory for smaller particles and higher forcing, guiding experiments to detect the exponential‑to‑power‑law transition.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17678": {
+    "title": "Brownian motion with geometry-dependent hydrodynamic memory",
+    "summary": "- Uses Lorentz reciprocal theorem to express colloid motion via geometry’s Green’s function, yielding Stokes drag and Basset‑like memory.\n- Derives overdamped limit that retains Stokes and memory terms plus a spurious drift.\n- Provides a general tool for passive/active particles in complex confinements.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17707": {
+    "title": "Conditions for the Emergence of Spontaneous Phonon Frequency Combs from Anharmonic Potentials",
+    "summary": "- Spontaneous phonon combs in CrGeTe₃ stem from isotopic disorder, showing ~1–6 cm⁻¹ spacings at 50–200 K but are obscured by linewidths.\n- Observable combs require (i) strongly anharmonic intramolecular/isolated modes and (ii) limited phonon scattering channels.\n- These conditions predict combs in flat E₂g and A₂u modes of WSe₂, with calculated spacings of 7 and",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17716": {
+    "title": "Activity-induced emergent flatness, instabilities and pattern formation in fluid membranes",
+    "summary": "- Large‑scale flatness with orientational long‑range order and positional quasi‑long‑range order, despite microscopic inversion asymmetry.\n- Intermediate‑scale dynamics governed by a KPZ equation with long‑range noise, yielding rough membranes with short‑range translational and long‑range orientational order and exact scaling exponents.\n- Active stresses destabilize membranes at long wavelengths, while strong permeation flow induces finite‑wavevector inst",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17741": {
+    "title": "A Multipolar Approach to Sliding Ferroelectricity",
+    "summary": "- Group‑theory framework connects macroscopic symmetry to microscopic electronic distortions in sliding ferroelectrics.\n- DFT study of honeycomb bilayers (e.g., h‑BN) shows dipole‑ and quadrupole‑like lone‑pair orbital distortions drive polarization.\n- Relative layer motion modulates these multipolar distortions, enabling switchable ferroelectricity.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17791": {
+    "title": "Electric field effects on electrolytes near rough dielectric surfaces by GPU-accelerated code",
+    "summary": "- Electric field can reverse or cancel ion‑density modulation caused by sinusoidal dielectric roughness.\n- Derived analytic critical field for small‑amplitude sinusoidal surfaces and a superposition rule for multi‑mode roughness.\n- Developed a GPU‑accelerated DIELECTRIC LAMMPS package, achieving 4–24× speedup and enabling field‑driven electrolyte simulations.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17794": {
+    "title": "What does \"instant thermalization\" in large-$q$ SYK models mean?",
+    "summary": "- Instantaneous thermalization occurs only for the block \\(t_1,t_2>0\\); the causal Green’s function becomes thermal immediately there.\n- After a quench the effective temperature relaxes with a Planckian rate \\(\\Gamma\\sim T/q\\), not the expected divergent \\(\\Gamma\\sim Tq\\).\n- Off‑diagonal blocks \\(t_1t_2<0\\) stay non‑thermal, setting a finite overall thermalization rate.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17818": {
+    "title": "Entropy spectroscopy of a tunable two-site Hubbard molecule",
+    "summary": "- Developed a single‑sensor entropy protocol for a double quantum dot by shifting both dot levels at fixed detuning.\n- Found entropy drops with increasing interdot tunneling as tunnel splitting exceeds thermal energy, suppressing higher‑energy states.\n- Measurements quantitatively match a two‑site Hubbard model, distinguishing antibonding, singlet, and triplet contributions across atomic, hybridized, and merged regimes.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17872": {
+    "title": "Assessing the Reliability of Anomalous Hall Conductivity Extraction in GdAlSi",
+    "summary": "- SrRuO₃: ordinary Hall subtraction before/after resistivity‑to‑conductivity conversion yields consistent anomalous Hall conductivity.\n- GdAlSi: ambiguous linear regions and longitudinal resistance handling produce wildly different anomalous Hall conductivity estimates.\n- Nonlinear Hall response can be misinterpreted; careful background analysis is essential for reliable extraction in quantum materials.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.18592": {
+    "title": "Optical investigation of the electronic structure of a ferromagnetic Weyl semimetal CeAlSi",
+    "summary": "- Optical conductivity remains unchanged across \\(T_C\\), implying localized Ce 4f states.\n- DFT+DMFT with localized 4f reproduces spectra and small effective mass, indicating weak Weyl‑4f coupling.\n- Low‑temperature scattering hints at ferromagnetic fluctuations despite the weak interaction.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.18614": {
+    "title": "Orbital-Induced Peierls Transitions: How Orbitals Orchestrate Lattice Instability",
+    "summary": "- Orbital anisotropy and Jahn‑Teller shifts generate effective 1D electronic dispersion, enabling Peierls‑like lattice distortions in higher‑dimensional systems.\n- Edge‑sharing ligand octahedra around transition metals most commonly host this orbital‑induced Peierls transition; face‑sharing geometries are rarer.\n- The review discusses mechanisms, material examples, high‑temperature undistorted phases, and local effects such as molecular‑orbital formation.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.18744": {
+    "title": "Electronic correlations shape the low-energy optical response of the kagome antiferromagnets Mn$_3$Sn and Mn$_3$Ge",
+    "summary": "- Mn₃Sn’s low‑energy optical transitions require DFT+U (U = 4 eV, J = 25 eV), revealing strong electron correlations; Mn₃Ge is captured without Hubbard terms.\n- Mn₃Sn has ~3× larger optical effective mass and a 3D, Mn‑d dominated band structure; both compounds show a linear σ₁(ω) from overlapping interband transitions, not Weyl‑",
+    "timestamp": "2026-09-17"
+  },
+  "2609.18761": {
+    "title": "Exact and fast series expansions for quantum models with long-range interactions",
+    "summary": "- Introduces a deterministic graph‑zeta framework that replaces noisy Monte‑Carlo lattice sums with high‑precision, fast computations for long‑range quantum models.\n- Reformulates graph‑embedding sums into treewidth‑classified blocks, using closed Epstein‑zeta forms for tw ≤ 2 and tensor‑network bucket elimination for tw >\n- Benchmarks transverse‑field Ising models in 1D–3D, matching Monte‑Carlo results at a fraction of the cost while enabling dense, momentum‑resolved spectra and large‑scale parameter scans.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.19050": {
+    "title": "Spinon-Induced Phonon Dynamics in Chiral and $\\pi$-Flux Quantum Spin Liquids",
+    "summary": "- Phonon spectrum remains unrenormalized by spinon interactions.\n- Sound attenuation and phonon thermal conductivity reveal distinct QSL fingerprints.\n- Chiral QSL fails to generate a phonon thermal Hall effect despite breaking time‑reversal symmetry.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.17945": {
+    "title": "Magnetically coupled charge-transport crossover and giant negative magnetoresistance in iodine-incorporated Cr$_2$Se$_3$",
+    "summary": "- Iodine‑doped Cr₂Se₃ orders antiferromagnetically below ~52 K and shows a high‑T transport anomaly near 150 K, marking a magnetically coupled crossover.\n- Hall and third‑harmonic data reveal hole‑like conduction above 150 K, multichannel, inhomogeneous transport below, and a non‑saturating –78 % MR at 25 K/12 T.\n- Raman and AR",
+    "timestamp": "2026-09-17"
+  },
+  "2609.18332": {
+    "title": "Direct observation of phonon mode with an antisymmetric Raman tensor",
+    "summary": "- Detected a 266 cm⁻¹ phonon in Cr₂O₃’s antiferromagnetic chiral phase via polarization‑resolved Raman spectroscopy.\n- Identified the mode as an antisymmetric Raman‑active \\(A_2\\) phonon carrying intrinsic phonon angular momentum, enabled by Cr vacancies breaking local rotational symmetry.\n- Confirmed frequency and elliptical atomic motion with first‑principles calculations treating lattice and spins as coupled slow degrees of freedom.",
+    "timestamp": "2026-09-17"
+  },
+  "2609.18354": {
+    "title": "Complex magnetic properties of EuAgAs single crystals",
+    "summary": "- EuAgAs orders antiferromagnetically below T_N with pronounced magnetic anisotropy.\n- Multiple field‑induced metamagnetic transitions reveal a noncollinear low‑field magnetic structure.\n- The transition sequence mirrors that of skyrmion‑hosting rare‑earth compounds, indicating competing interactions stabilize the complex magnetic phases.",
+    "timestamp": "2026-09-17"
   }
 }
