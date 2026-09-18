@@ -2003,5 +2003,90 @@
     "title": "Complex magnetic properties of EuAgAs single crystals",
     "summary": "- EuAgAs orders antiferromagnetically below T_N with pronounced magnetic anisotropy.\n- Multiple field‑induced metamagnetic transitions reveal a noncollinear low‑field magnetic structure.\n- The transition sequence mirrors that of skyrmion‑hosting rare‑earth compounds, indicating competing interactions stabilize the complex magnetic phases.",
     "timestamp": "2026-09-17"
+  },
+  "2609.19191": {
+    "title": "Machine-Learning Exploration of Defect Topologies and Thermodynamic Stability in Graphene with Atomic Vacancies",
+    "summary": "- Combined semi‑empirical thermodynamics, interpretable ML, and symbolic regression to map graphene vacancy stability.\n- Gradient‑boosted tree (RMSE ≈ 5 kcal/mol) predicts heat of formation; SHAP identifies vacancy concentration and inter‑vacancy distance as key drivers.\n- Symbolic regression produces a compact closed‑form expression reproducing the heat of formation for many‑vacancy configurations.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19192": {
+    "title": "Comprehensive First-Principles Investigation of the Structural, Mechanical, Electronic, and Optical Properties of Homoelemental Phase T-GaN Monolayer",
+    "summary": "- T‑GaN is a dynamically stable tetragonal monolayer with alternating 4‑ and 8‑membered rings, containing both Ga‑Ga/N‑N and Ga‑N bonds.\n- It displays pronounced in‑plane anisotropy, with critical strains of ~5 % (x‑direction) and ~0 % (y‑direction).\n- The material is a non",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19229": {
+    "title": "Melting of corundum ({\\alpha}-Al2O3) under compression to 8 GPa: A decreasing melting slope",
+    "summary": "- Melting temperature of α‑Al₂O₃ rises from 2317 K at 0 GPa to 3090 K at 7 GPa.\n- Simon‑Glatzel fit: a = 60 GPa, c = 334, giving a closed‑form melting curve.\n- Melting slope dTₘ/dp decreases from 138 K/GPa to 78 K/GPa, indicating negative curvature (d²Tₘ/dp² < .",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19260": {
+    "title": "Hysteresis in Atomic Josephson Junctions",
+    "summary": "- Demonstrated hysteresis and retrapping in an underdamped atomic Josephson junction using a velocity‑sweep protocol.\n- Classical‑field simulations of a 2‑D bosonic superfluid reproduce the hysteresis loop and retrapping current, matching the RCSJ model.\n- Hysteresis originates from persistent phase slips and vortex‑antivortex nucleation; the retrapping current follows Stewart‑McCumber scaling, linking atomic and superconducting junctions.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19264": {
+    "title": "Bad metallicity in the semi-quantum regime of the Hubbard model",
+    "summary": "- Infinite‑\\(U\\) Hubbard model at low hole density exhibits a semi‑quantum regime: \\(T\\)-linear resistivity above the Ioffe–Regel limit while compressibility remains \\(T\\)-independent.\n- Cooling induces quasi‑local ferromagnetic “spin cages” around doped holes, enabling local quantum motion within a fluctuating spin background.\n- The resulting bad‑metal behavior mirrors that seen in many materials, underscoring the generic influence of strong local correlations.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19282": {
+    "title": "Non-Abelian Anyon Condensation: a Path-Integral Monte Carlo Approach",
+    "summary": "- Sign‑free path‑integral Monte Carlo for Kitaev quantum doubles $\\mathcal D(G)$ via non‑invertible 1‑form symmetries and a matterization isometry mapping link‑only models to $G$ gauge–Higgs theories.\n- Generalized Fredenhagen–Marcu order parameters detect anyon condensation; for $G=S_3$ a first‑order transition occurs",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19283": {
+    "title": "Valley-Helical Superconductivity Driven by Repulsion and Quantum Geometry: Applications to Time-Reversal Symmetric Rhombohedral Graphene",
+    "summary": "- Valley‑helical superconductivity arises from Kohn‑Luttinger repulsion in systems with opposite Berry curvature, yielding opposite chiralities in each valley.\n- In time‑reversal‑symmetric rhombohedral graphene (N = 4–, this state dominates over conventional intervalley pairing across wide filling and displacement‑field ranges.\n- The valley‑helical phase hosts topological edge modes, anomalous magnetic responses, and Kekulé‑like bond order, distinguishing it from standard superconductors.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19289": {
+    "title": "Momentum-dependent precessional and nutational spin pumping in a honeycomb antiferromagnet",
+    "summary": "- Precessional spin pumping is almost zero at Γ but reaches ~100 % at K/M, whereas nutational pumping is maximal at Γ and drops to ~70 % at zone edges in MnPS₃.\n- Nutational pumping scales strongly with the inertial",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19292": {
+    "title": "Universal Suppression of Dissipation across Conformal Interface in Open Quantum Critical Systems",
+    "summary": "- Universal suppression of dissipation across conformal interfaces in 1D quantum critical chains.\n- Introduced mode‑resolved relaxation coefficient \\(c_{\\rm relax}\\) to track Liouvillian rapidity modes.\n- Found \\(c_{\\rm relax}\\) depends only on interface transmission, independent of boundary conditions, dissipation strength, or location.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19303": {
+    "title": "Unified Transport and Susceptibility Analysis of a Thin BSCCO Film: From Local Pairing to Global Phase Coherence",
+    "summary": "- 30‑nm BSCCO film shows broadened superconducting transition due to disorder and phase fluctuations.\n- Transport data modeled with Gaussian \\(T_c\\) distribution + Ambegaokar–Halperin phase‑slip dynamics; susceptibility extended with superconducting fraction and connectivity factor.\n- Transition proceeds in stages: local pairing → growing superconducting fraction → magnetic screening → global phase coherence.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19450": {
+    "title": "Energy partitioning of wave packets in one-dimensional systems",
+    "summary": "- Gaussian wave packet in a 1D critical fermionic system splits into counter‑propagating energy modes during real‑time evolution.\n- Luttinger liquid theory accurately predicts the energy carried by each mode in the low‑energy regime.\n- Energy partitioning is non‑universal, depending on the packet’s width, unlike charge fractionalization.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19572": {
+    "title": "Universality of the $1/9$ Magnetization Plateau and Quantum-Disordered States in the Kagome Family $\\mathrm{Cs_8AB_3Ti_{12}F_{48}}$ ($A=\\mathrm{Rb},\\mathrm{Li}$; $B=\\mathrm{K},\\mathrm{Na}$)",
+    "summary": "- Chemical pressure reshapes fractional magnetization plateaus in Cs₈AB₃Ti₁₂F₄₈ kagome antiferromagnets.\n- Expanded lattices (Rb/K, Li/K) exhibit a robust 1/9 plateau but no 1/3 plateau; compressed Li/Na shows neither plateau nor a quantum‑disordered ground state.\n- Expansion preserves a fully connected kagome exchange network and gapless quantum‑disordered ground state, while compression reorganizes the network into weakly coupled quasi‑1D subsystems, inducing successive magnetic transitions.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19618": {
+    "title": "Vestigial chirality from fluctuating loop currents on the kagome lattice",
+    "summary": "- Three‑Q loop‑current order on the kagome lattice melts either directly or in two stages, leaving an intermediate phase with long‑range chirality but restored translational symmetry.\n- The two‑stage transition occurs when chirality‑changing domain walls are only ~12–13 % more costly than same‑chirality translation walls.\n- Ginzburg–Landau scaling shows the vestigial chiral order persists with amplitude fluctuations, providing a thermodynamic route to time‑reversal symmetry breaking above the CDW critical temperature.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19638": {
+    "title": "Fractional quantum spin Hall crystals from hidden density-wave order",
+    "summary": "- Mixed singlet‑triplet d‑density wave produces hidden bond order, breaking translation symmetry and yielding time‑reversed Chern bands without conventional charge or spin density.\n- At odd‑denominator fractional fillings, interactions transform this symmetry‑broken topological state into a fractional quantum spin Hall liquid with crossed charge‑spin transport.\n- Phase boundaries: strong inter‑spin coupling or dilute fillings favor charge order; at half filling, spin‑decoupled limit gives a homogeneous correlated liquid akin to a composite Fermi liquid.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19795": {
+    "title": "Pressure induced structural phase transition and magneto-elastic coupling in Eu doped LaCrO$_3$",
+    "summary": "- Orthorhombic → rhombohedral transition at ~6 GPa, confirmed by synchrotron XRD and Raman.\n- Low‑frequency soft‑mode lattice instabilities drive the transition; Raman anomalies appear at ~5 GPa.\n- Pressure induces antiferromagnetic ordering, linked to structural changes observed in XRD, Raman, and magnetization.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.19857": {
+    "title": "Tunable flat band on the surface of a rhombohedral kagome ferromagnet",
+    "summary": "- STM on Fe₃Sn₂ shows a sharp surface flat band at the Fermi level.\n- First‑principles reveal the flatness originates from interlayer hopping in rhombohedral‑stacked kagome planes, not intralayer interference.\n- The band exhibits magnetic‑field‑dependent fine structure, valley‑symmetry breaking, and a diamagnetic shift from orbital moments.",
+    "timestamp": "2026-09-18"
+  },
+  "2609.20020": {
+    "title": "Corner entanglement scaling with projected entangled pair states",
+    "summary": "- Developed a thermodynamic‑limit PEPS method to extract corner entanglement entropy in 2D.\n- Showed corner contribution scales with effective correlation length at quantum critical points, confirming finite‑entanglement scaling.\n- Corner coefficients agree with other techniques, validating the method for diagnosing strongly correlated 2D quantum criticality.",
+    "timestamp": "2026-09-18"
   }
 }
