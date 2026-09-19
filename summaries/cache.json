@@ -2088,5 +2088,55 @@
     "title": "Corner entanglement scaling with projected entangled pair states",
     "summary": "- Developed a thermodynamic‑limit PEPS method to extract corner entanglement entropy in 2D.\n- Showed corner contribution scales with effective correlation length at quantum critical points, confirming finite‑entanglement scaling.\n- Corner coefficients agree with other techniques, validating the method for diagnosing strongly correlated 2D quantum criticality.",
     "timestamp": "2026-09-18"
+  },
+  "2609.20813": {
+    "title": "Statistics, 't Hooft Anomaly, and the Else-Nayak Index: a careful comparison of concepts",
+    "summary": "- Highlights flaws in using symmetry patch operators to link anomalies with topological statistics.\n- Demonstrates that symmetric hopping operators (commuting with symmetry) establish a one‑to‑one correspondence between statistics and anomalies.\n- Interprets this relation through boundary matter coupled to a DW gauge field, where symmetry equals residual gauge invariance after fixing the background.",
+    "timestamp": "2026-09-19"
+  },
+  "2609.20802": {
+    "title": "Locally optimized variational evolution for quantum many-body systems",
+    "summary": "- Variational evolution principle replaces global fidelity with a cost on local reduced density matrices, targeting local observables’ intrinsic complexity.\n- Implemented via locally optimized matrix‑product states, producing closed‑form equations of motion that preserve short‑time coherence and exploit thermalisation.\n- Quantum‑classical hybrid algorithm validated on Quantinuum H2 and IBM Heron processors, reproducing characteristic local dynamics.",
+    "timestamp": "2026-09-19"
+  },
+  "2609.20767": {
+    "title": "Spacetime Dynamics of Altermagnetic Magnons",
+    "summary": "- Real‑space spreading of a localized spin excitation shows a cross‑shaped pattern inside an otherwise circular wavefront, revealing altermagnetic order.\n- Finite next‑nearest‑neighbor coupling \\(J_2\\) splits magnon branches and induces direction‑dependent group velocities; reversing the sign of \\(J_2\\) rotates the anisotropic pattern by \\(90^\\circ\\) and boosts propagation speeds.\n- These spacetime dynamics provide a complementary, real‑space probe for identifying unconventional magnetic order in solids and synthetic quantum systems.",
+    "timestamp": "2026-09-19"
+  },
+  "2609.20755": {
+    "title": "Engineering Weak Universality with Quantum Dots",
+    "summary": "- Quantum‑dot architectures realize Ashkin‑Teller and XYZ/8‑vertex models using resonator‑mediated and Coulomb interactions.\n- Tunable critical exponents along the Ashkin‑Teller and eight‑vertex lines, linked by a duality between local order and topological strings.\n- Measurable exponent shifts (~10 % for Ashkin‑Teller, larger for eight‑vertex) in short chains, surpassing experimental uncertainties.",
+    "timestamp": "2026-09-19"
+  },
+  "2609.20597": {
+    "title": "Lyapunov-controlled thermalization: an exact real-time example",
+    "summary": "- KMS satisfaction after a drive stops does not guarantee equilibrium; hidden memory persists.\n- In a large‑N, large‑q SYK quench, post‑quench correlators are thermal, yet a second quench reveals initial‑state memory via pre‑quench‑time correlators.\n- The decay of this nonequilibrium witness is governed by the Lyapunov exponent λ_L, setting the timescale for effective thermal indistinguishability.",
+    "timestamp": "2026-09-19"
+  },
+  "2609.20526": {
+    "title": "Multiconfigurational Analysis of Local Electronic Structure of $\\mathrm{RuO_2}$ Using Relativistic Embedded Clusters",
+    "summary": "- SA‑CASSCF/NEVPT2+SOC on RuO₂ shows 4d orbit",
+    "timestamp": "2026-09-19"
+  },
+  "2609.20502": {
+    "title": "Unconstrained compact lattice QED$_{2+1}$ coupled to phonons: Gauss sectors, orthogonal semimetal, and deconfined criticality",
+    "summary": "- Unconstrained compact QED$_{2+1}$ with phonons favors the physical Gauss sector, driving confinement and symmetry breaking.\n- An orthogonal semimetal (OSM) phase appears where fermions shed gauge charge, mixing Gauss sectors; enforcing Gauss’s law destabilizes OSM and introduces AFM/VBS monopoles.\n- Transitions from OSM to AFM/VBS display deconfined quantum criticality, showing that deconfinement in compact QED$_{2+1}$ is unstable to AFM or V",
+    "timestamp": "2026-09-19"
+  },
+  "2609.20472": {
+    "title": "Collective Charge-\\(2e\\) Bosonic Excitations in Charge-Ordered Systems",
+    "summary": "- Defines “bichargons”: two degenerate, gapped bosonic modes carrying ±2 e charge in a charge‑ordered state.\n- Thermal bichargons give a Seebeck response when",
+    "timestamp": "2026-09-19"
+  },
+  "2609.20434": {
+    "title": "Non-Thermal Effects in Fermionic Atoms Coupled to Open Cavities",
+    "summary": "- Fermionic Fermi‑Hubbard model coupled to an open cavity reaches a non‑thermal steady state with a non‑thermal distribution.\n- This distribution cancels the heat current between fermions and cavity, and in some regimes an effective low‑frequency temperature can be defined.\n- Weak Hubbard interactions drive a crossover to equilibrium, while cavity fluctuations reshape the mean‑field superradiance phase diagram.",
+    "timestamp": "2026-09-19"
+  },
+  "2609.20432": {
+    "title": "Emergent Surface Kondo Flat Band Driven by Competing Interactions in a Topological Ferromagnet",
+    "summary": "- Magnetism drives spontaneous spatial separation of distinct correlated electronic phases within a single crystal.\n- Bulk UAsS is a metallic ferromagnet with moderate band renormalization and a topological electronic structure featuring nodal lines and Weyl points.\n- Surface‑sensitive ARPES and STM/STS uncover a Kondo flat band, revealing a strongly correlated surface state absent in the bulk.",
+    "timestamp": "2026-09-19"
   }
 }
