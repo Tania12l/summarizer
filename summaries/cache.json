@@ -2138,5 +2138,85 @@
     "title": "Emergent Surface Kondo Flat Band Driven by Competing Interactions in a Topological Ferromagnet",
     "summary": "- Magnetism drives spontaneous spatial separation of distinct correlated electronic phases within a single crystal.\n- Bulk UAsS is a metallic ferromagnet with moderate band renormalization and a topological electronic structure featuring nodal lines and Weyl points.\n- Surface‑sensitive ARPES and STM/STS uncover a Kondo flat band, revealing a strongly correlated surface state absent in the bulk.",
     "timestamp": "2026-09-19"
+  },
+  "2609.20908": {
+    "title": "Deformation-induced amorphous complexion transitions elevate strength and ductility",
+    "summary": "- Plastic deformation at room temperature creates amorphous intergranular films in CuZr nanocrystals, mainly at incoherent twin boundaries.\n- These films show short‑ to medium‑range order gradients, forming metallic‑glass‑like cores that enhance strength and toughness.\n- The transition doubles yield strength, fracture strain, and tensile toughness versus a reference alloy.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.20916": {
+    "title": "Bootstrapping Disordered Quantum Systems",
+    "summary": "- Bootstrap framework bounds disorder‑averaged ground‑state observables by extending operator algebra to include disorder variables and encoding distributions via moments.\n- Applied to 1D random transverse‑field Ising model, producing tight bounds on energy density, short‑range spin‑spin correlators, and energy variance for discrete, uniform, and Gaussian disorder.\n- The bootstrap gap (upper‑minus‑lower bound) maps the phase diagram, remaining small in paramagnetic/ferromagnetic phases and growing in the Griffiths regime.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.20922": {
+    "title": "Metallic N\\'eel order stabilized by coupling between inequivalent Hubbard layers",
+    "summary": "- Two inequivalent Hubbard layers analyzed with unrestricted Hartree‑Fock.\n- Strong interlayer coupling suppresses stripe order, yielding a commensurate Néel‑ordered metal.\n- The metallic phase displays hole pockets at (±π/2, ±π/, matching ARPES data for multilayer cuprates.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.20927": {
+    "title": "Bootstrapping Classical Systems with Quenched Disorder",
+    "summary": "- Bootstrap framework for disorder‑averaged observables in classical systems using positivity, equations of motion, and explicit coupling expectations.\n- Constraints cast as linear and semidefinite programs, yielding bounds on single‑ and two‑replica correlators via Gram‑matrix positivity.\n- Applied to 2D random‑site Ising and 1D disordered contact process; identifies Griffiths‑region kinks and recovers known correlation‑length exponent.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.20932": {
+    "title": "Smectic Superconductivity",
+    "summary": "- Soft nonunitary magnetic fluctuations in a 2D Rashba superconductor act as an emergent gauge field, renormalizing superfluid stiffness.\n- The system enters a smectic superconducting state with a finite‑momentum helical phase and vanishing stiffness in one direction, destroying quasi‑long‑range order at any finite temperature.\n- Weak lattice anisotropy pins the ferromagnetic order, restoring finite stiffness and enabling a vortex‑deconfined regime near magnetic onset, relevant for graphene/TMD heterostructures.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.20958": {
+    "title": "Pressure and Proximity Tuned Twisted Bilayer Graphene",
+    "summary": "- Encapsulated twisted bilayer graphene exhibits non‑radial spin texture yet maintains a purely collinear Edelstein effect.\n- Uniaxial pressure tunes the band structure, changing the number of active Fermi surfaces without disrupting the collinear response.\n- Higher pressure spreads Berry curvature over large regions of the moiré Brillouin zone, altering the system’s quantum geometry and topology.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.20985": {
+    "title": "Shape Deformation and Braid Statistics of Fractional Quantum Hall Quasiparticles",
+    "summary": "- Berry phase of a FQH quasiparticle loop decomposes into AB, shape‑dependent, and braid parts.\n- Shape term can exceed the order‑one braid contribution, obscuring precise braid statistics.\n- Interference phase jumps can be explained without invoking sharply quantized edge quasiparticle charges.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.20986": {
+    "title": "Faulted loop nucleation and dopant activation in Al-implanted 4H-SiC",
+    "summary": "- High‑temperature (≈900 K) Al implantation forms interstitial‑rich planar clusters that evolve into faulted interstitial loops during annealing, trapping Al and reducing substitutional activation.\n- Lower implantation temperatures preserve disorder that is consumed during regrowth, leading to higher chemical activation within MD‑accessible annealing times.\n- Faulted loops nucleate via merging of locally faulted regions; activation energies are ~1 eV for dislocation nucleation and ~1 eV for stacking‑fault growth, with Frank loops dominating at high T and Shockley partials at early stages",
+    "timestamp": "2026-09-21"
+  },
+  "2609.20990": {
+    "title": "Singular high-harmonic transport above a quantum threshold",
+    "summary": "- Landau‑Zener tunneling in small‑gap insulators produces a singular DC I‑V relation and strong high‑harmonic generation.\n- Harmonic amplitudes decay subexponentially with order, slower than in ordinary conductors or PN diodes.\n- A scaling law links the nth‑harmonic current amplitude to the applied field, enabling THz generation via solid‑state frequency multiplication.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.21002": {
+    "title": "Dual-Sublattice Ferromagnetism Driven by Cooperative Double Exchange and Superexchange at NdNiO$_3$/CaMnO$_3$ Interfaces",
+    "summary": "- Interfacial valence reconstruction produces Mn³⁺ on CaMnO₃ and Ni²⁺ on NdNiO₃ sides.\n- Mn⁴⁺–O–Mn³⁺ double exchange in CaMnO₃ and Ni²⁺–O–Mn⁴⁺ superexchange across the interface generate dual‑sublattice ferromagnetism.\n- XMCD shows ferromagnetic moments on both Mn and Ni, with Ni magnetism concentrated in the interfacial Ni²⁺ component.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.21623": {
+    "title": "Resonant spin mode from retarded relaxation",
+    "summary": "- THz spin resonances in ultrafast dynamics exceed conventional Landau‑Lifshitz predictions; inertial LL‑Gilbert only partially fixes this.\n- Retarded Lindbladian relaxation explains the multiple, nearly equidistant peaks with realistic parameters matching positions and widths.\n- The phenomenological model reproduces the large resonance widths and spacing observed experimentally.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.21631": {
+    "title": "Reformulating Pfaffian Quantum Monte Carlo with the Hybrid Monte Carlo formalism",
+    "summary": "- Pfaffian QMC combined with Hybrid Monte Carlo achieves \\(O(N_\\tau L^\\) scaling, matching DQMC but without pseudofermions.\n- The MD force depends only on the Pfaffian magnitude, allowing a determinant representation and cheap unequal‑time Majorana correlators.\n- Tested on the interacting Kitaev chain, it reproduces exact diagonalization and resolves boundary‑mode overlap across the topological transition.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.21665": {
+    "title": "Orbital character and photoemission signatures of the A-pocket in infinite-layer nickelates",
+    "summary": "- A‑pocket in NdNiO₂ is a strongly hybridized state comprising interstitial‑s, Nd‑d_xy, and Ni‑d_xz/yz orbitals.\n- ARPES simulations confirm that interstitial‑s matrix elements are essential to reproduce the measured Fermi‑surface polarization; omitting them yields disagreement.\n- Proper spectral assignment in infinite‑layer nickelates demands simultaneous consideration of orbital hybridization and photoemission matrix elements.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.21970": {
+    "title": "Machine learning magnetic interactions from neutron powder diffraction data",
+    "summary": "- ML predicts isotropic interaction parameters from powder neutron diffuse scattering with ~2 % accuracy on eight high‑symmetry lattices.\n- It avoids the false‑minimum problem of conventional non‑linear least‑squares refinement.\n- Powder diffuse scattering thus provides a compact fingerprint of a material’s magnetic Hamiltonian.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.21973": {
+    "title": "Unified Field Bosonization Technique for strongly inhomogenous Luttinger Liquids",
+    "summary": "- Unified Field Bosonization Technique (UFBT) delivers closed‑form N‑point correlators for 1D Luttinger liquids with static impurities, bypassing RG or perturbation theory.\n- Validation shows known limits, first‑order interaction agreement, and Schwinger‑Dyson consistency; correlation exponents stay impurity‑independent, only amplitudes and spatial profiles change.\n- Enables analytic studies of transport, Friedel oscillations, and local/dynamic density of states in strongly inhomogeneous Luttinger liquids.",
+    "timestamp": "2026-09-21"
+  },
+  "2609.22051": {
+    "title": "Correlation enhanced magnetism at a superconducting cuprate/manganite interface",
+    "summary": "- Superconductivity coexists with Cu spin polarization induced by a manganite interface.\n- Correlations amplify magnetism, making the superconducting state carry a larger magnetic moment than the normal state.\n- At high exchange fields, a first‑order transition destroys superconductivity, leaving a strongly spin‑polarized pseudogap.",
+    "timestamp": "2026-09-21"
   }
 }
