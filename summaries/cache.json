@@ -2218,5 +2218,100 @@
     "title": "Correlation enhanced magnetism at a superconducting cuprate/manganite interface",
     "summary": "- Superconductivity coexists with Cu spin polarization induced by a manganite interface.\n- Correlations amplify magnetism, making the superconducting state carry a larger magnetic moment than the normal state.\n- At high exchange fields, a first‑order transition destroys superconductivity, leaving a strongly spin‑polarized pseudogap.",
     "timestamp": "2026-09-21"
+  },
+  "2609.22268": {
+    "title": "Efficient spectral Galerkin framework for nonlinear transient heat transfer in finite domains",
+    "summary": "- Spectral Galerkin reformulates nonlinear heat transfer into a linear reference problem, yielding decoupled modal ODEs solved by exponential time differencing.\n- Matches finite‑element accuracy (≤ 1 % error) while delivering 227× faster GPU runtimes for laser‑metal heating.\n- Removes global FE solves and exploits structured grids for efficient GPU parallelization, enabling rapid large‑scale transient analyses.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22287": {
+    "title": "Predicting energy and structural response to force correction in molecular dynamics",
+    "summary": "- Uses leading response coefficients on shared reference trajectories to predict how force corrections alter energy exchange and structural statistics.\n- Introduces residual power and displacement virial to separate energy transfer from restoring‑force changes, revealing timing‑dependent heating and missed structural shifts in anharmonic systems.\n- Validated on silicon, SnSe, and anharmonic chains, showing trade‑offs between scalar calibration and directional accuracy and guiding optimal reference integration in MD.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22300": {
+    "title": "Testing Two-State Access in Brain and Language Model: Human EEG Reproduction, Simulation Audit, and a Proposed Model Assay",
+    "summary": "- Reproduced EEG study confirms two‑state mixture at ~315 ms in active condition, modest predictive gain.\n- Passive session best explained by graded comparator; no across‑window decision.\n- Simulation audit of language‑model test shows no false positives but under‑coverage in concept‑cluster intervals, needing interval validation.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22301": {
+    "title": "Towards the spin-glass transition in finite dimensions via blue percolation",
+    "summary": "- Proved blue percolation in the Chayes‑Machta‑Redner representation of the zero‑field Edwards‑Anderson spin glass in high finite dimensions.\n- Showed that for symmetric iid couplings with finite mean the first percolation onset scales as \\((2dm)^{-1}\\) in periodic joint limits, and provided a computer‑assisted certificate for \\(\\pm1\\) couplings in dimension\n- Established a percolating regime for exponential‑moment disorder with equal infinite‑blue‑sector densities and finite spin‑glass susceptibility; a persistent density imbalance would imply",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22328": {
+    "title": "Universal Response Functions in Driven Dissipative Tunneling Dynamics",
+    "summary": "- Universal two‑parameter response function governs barrier‑crossing in periodically driven, dissipative tunneling.\n- Semiclassical instanton with Floquet modulation and Ohmic coupling factorizes the tunneling exponent into a static term plus a universal function of driving frequency and dissipation strength.\n- Numerical instanton action confirms dynamical averaging at high frequency and a continuous adiabatic‑to‑Floquet crossover.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22334": {
+    "title": "A rank-two spherical transform for eigenvector and singular-vector overlaps",
+    "summary": "- Introduces a rank‑two spherical transform \\( \\mathcal{H}^{(} \\) and its dual \\( \\mathcal{R}^{(} \\).\n- \\( \\mathcal{R}^{(} \\) yields a \\(4\\times4\\) formula for the average product of two hermitized resolvents, giving off‑diagonal eigenvector overlaps for Ginibre, elliptic, and bi‑invariant ensembles.\n- Extends the framework to correlated matrix pairs, providing overlaps between their eigenvectors or singular vectors.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22342": {
+    "title": "Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization",
+    "summary": "- Developed unbiased direct gradient estimator and adaptive minimum‑variance phase (AMVP) estimator to improve weak‑gradient signal‑to‑noise ratio.\n- Enabled reliable neural‑network variational optimization, achieving chemical accuracy for N₂ bond breaking and heavy‑element I₂ with spin‑orbit coupling.\n- Demonstrated compact networks outperforming larger models and DMRG, reducing GPU time by over an order of magnitude.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22365": {
+    "title": "Existence and Uniqueness of Nearest Stealthy Hyperuniform Configurations from Random Initial Conditions",
+    "summary": "- Proved that almost every random 2‑D periodic particle set has a unique nearest stealthy hyperuniform configuration (up to floppy modes) when a finite set of low‑k Fourier modes are constrained to zero.\n- Established uniqueness of the orthogonal displacement under a full‑rank Jacobian, with remaining tangent‑space degrees as first‑order floppy modes preserving the constrained density fluctuations.\n- Implemented a gradient‑based generator that iteratively drives random configurations toward disordered hyperuniform states, suppressing long‑wavelength density fluctuations beyond the explicitly constrained modes.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22366": {
+    "title": "From Ferroionic Instability to Domain Patterns at an Exposed Surfaces of Multiaxial Ferroelectrics",
+    "summary": "- Combines vector polarization, surface electrochemistry, electrostatics, strain, and adsorption to model domain formation on open surfaces of multiaxial ferroelectrics.\n- Uses homogeneous phase maps and depth‑dependent perturbations to link instability wavelengths to optimized domain periods via nonlinear continuation.\n- Demonstrates that identical quadratic surface energies can produce either periodic domains or uniform in‑plane polarization, informing relaxor surface modulations.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22420": {
+    "title": "Bootstrap certification of string order in quantum spin chains",
+    "summary": "- Polynomial‑time bootstrap treats string operators as primary variables, yielding rigorous bounds on long‑range string correlators.\n- Certifies nonlocal string order in cluster Ising and spin‑1 Heisenberg chains, matching DMRG without a variational wavefunction.\n- Bound sharpness depends on operator content, not string length, enabling wavefunction‑free certification of topological order.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22535": {
+    "title": "Approaching the Inverse Neutron Scattering Problem with Neural Networks",
+    "summary": "- Neural networks can infer Hamiltonian parameters from inelastic neutron scattering spectra of quantum magnets.\n- Trained on synthetic data for an eight‑parameter honeycomb Heisenberg model, FCNN, CNN1D, and CNN2D all achieve high predictive accuracy.\n- The models remain robust to substantial experimental noise, reliably recovering parameters even with contaminated spectra.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22589": {
+    "title": "Structural and magnetic properties of TbCuAs$_2$ studied by X-ray and neutron scattering",
+    "summary": "- Determined TbCuAs₂ antiferromagnetic structure and Tb moment direction via neutron diffraction and X‑ray resonant magnetic scattering.\n- Revealed temperature‑dependent interplay between crystal structure and magnetic ordering that explains the low‑temperature resistivity upturn.\n- Identified a common mechanism with other RCuAs₂ (Sm, Gd) compounds linking structural/magnetic features to resistivity anomalies.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22618": {
+    "title": "Probing $d$-wave pairing in the $t$-$t'$-$U$ Hubbard model with tensor-backflow wave functions",
+    "summary": "- Tensor‑backflow wave functions with Lanczos steps achieve energies comparable to neural quantum states for the 2D t‑t′‑U Hubbard model.\n- At n = 875, U = 8, t′ = −2t, the method shows enhanced d‑wave pair correlations with the correct horizontal‑vertical sign pattern.\n- The leading eigenvalue of the pair‑density matrix increases with negative t′, indicating stronger d‑wave pair fluctuations.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.22907": {
+    "title": "On the precise boundary of the N\\'eel antiferromagnetic phase in the Shastry-Sutherland model",
+    "summary": "- Large‑scale DMRG shows finite staggered magnetization for \\(78 \\lesssim J_{1}/J_{2}\\le81\\).\n- No evidence of a quantum spin liquid; PVBS–Néel transition appears direct.\n- Results confirm PVBS boundary near \\(J_{1}/J_{2}\\approx78\\).",
+    "timestamp": "2026-09-22"
+  },
+  "2609.23150": {
+    "title": "Correlation-assisted spin-selective metallicity in strained and bilayer altermagnets",
+    "summary": "- Correlations preserve altermagnetic order even with strong quasiparticle renormalization; magnetic onset precedes loss of coherence.\n- Monolayer doping plus strain produces a fully spin‑polarized Fermi surface near half‑filling; bilayer ferroic stacking and asymmetric doping combine spin splittings and induce intra‑cell charge order.\n- At 5 electrons/4 orbitals the system undergoes a continuous paramagnet‑to‑altermagnet transition",
+    "timestamp": "2026-09-22"
+  },
+  "2609.23645": {
+    "title": "Hund-driven local-itinerant duality of Eu-4$f$ electrons in infinite-layer nickelates",
+    "summary": "- Hund’s coupling drives Eu‑4f electrons through three regimes: nonmagnetic, mixed‑valence with local moments, and fully spin‑polarized divalent.\n- Mixed‑valence state originates from intra‑4f charge transfer between j=5/2 and j=7/2, creating a hole‑doped orbital‑selective Mott state.\n- Low‑energy 4f quasiparticles coexist with Ni‑3d electrons, potentially enhancing superconductivity in Eu‑substituted infinite‑layer nickelates.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.23699": {
+    "title": "Electronic structure and anisotropic magnetotransport in the topological kagome ferromagnet MgMn6Sn6",
+    "summary": "- MgMn₆Sn₆ is a kagome ferromagnet (TC ≈ 295 K) with easy‑plane anisotropy and strongly anisotropic MR that changes from negative (in‑plane) to quadratic (out‑of‑plane).\n- XMCD shows a finite orbital‑to‑spin moment ratio, indicating significant spin‑orbit coupling.\n- ARPES and first‑principles calculations reveal a Dirac‑like crossing at K, a van Hove singularity at M, and a six‑fold symmetric Fermi surface, linking magnetic anisotropy to its electronic structure.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.23978": {
+    "title": "Decoupling the Magnetic Field Operator as an Independent Operator Class in Stochastic Series Expansion Quantum Monte Carlo",
+    "summary": "- Treats magnetic field as an independent operator class in SSE QMC, enabling it to update like other terms.\n- Validated on the 2D antiferromagnetic Heisenberg model; results agree with conventional SSE.\n- Achieves competitive autocorrelation times and simplifies measurement of field‑related observables.",
+    "timestamp": "2026-09-22"
+  },
+  "2609.23993": {
+    "title": "A Majorana Formulation of Time-Dependent Two-Particle Reduced-Density-Matrix Dynamics",
+    "summary": "- Time‑dependent two‑particle RDM algorithm for interacting Majorana fermions, closing BBGKY at the two‑particle level via three‑particle reconstruction.\n- Stabilized by a positivity projection that preserves energy; outperforms Hartree–Fock on Hubbard quenches and Kitaev flux dynamics.\n- Gauge coherence is essential for flux dynamics; the projection induces effective irreversibility impacting long‑time evolution.",
+    "timestamp": "2026-09-22"
   }
 }
