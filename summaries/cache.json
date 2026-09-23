@@ -2313,5 +2313,85 @@
     "title": "A Majorana Formulation of Time-Dependent Two-Particle Reduced-Density-Matrix Dynamics",
     "summary": "- Time‑dependent two‑particle RDM algorithm for interacting Majorana fermions, closing BBGKY at the two‑particle level via three‑particle reconstruction.\n- Stabilized by a positivity projection that preserves energy; outperforms Hartree–Fock on Hubbard quenches and Kitaev flux dynamics.\n- Gauge coherence is essential for flux dynamics; the projection induces effective irreversibility impacting long‑time evolution.",
     "timestamp": "2026-09-22"
+  },
+  "2609.25075": {
+    "title": "Multimodal Visual Sensing of Temperature and Pressure: From Spectroscopic Readout to Multiple Linear Regression-Enhanced RGB Analysis",
+    "summary": "- Tunable KGaGeO4:Bi³⁺,Eu³⁺ host allows selective thermometry or manometry via dopant balance.\n- Bi³⁺ and Eu³⁺ luminescence",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25079": {
+    "title": "Thermally Robust and Strongly Pressure-Responsive NIR Luminescent Manometer Based on Cr3+-Ni2+ Emission",
+    "summary": "- NaLu₂Ga₃Ge₂O₁₂:Cr³⁺,Ni²⁺ exhibits record pressure sensitivity (Ni²⁺ 3T₂→3A₂ band shifts 34 nm GPa⁻¹, ratiometric 158 % GPa⁻¹).\n- Ratiometric NIR readout achieves a thermal‑invariance factor of 19 900 K GPa⁻¹, the highest known.\n- Combines high pressure sensitivity, NIR operation, and thermal robustness for accurate pressure sensing under temperature variations.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25205": {
+    "title": "Re-entrant p-wave superconductivity in a Chern Dartboard Insulator",
+    "summary": "- Exact 2‑band superconductor theory with inter‑orbital pairing and HK interactions applied to a Chern dartboard insulator.\n- HK interaction lifts the doubly‑occupied band, inducing superconductivity in the BCS‑predicted insulating phase.\n- Re‑entrant insulator–superconductor–insulator transition occurs (U = 1, μ = due to the interplay of HK interactions and inter‑orbital pairing.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25210": {
+    "title": "Kitaev spin liquid in superconducting networks",
+    "summary": "- Realizes Kitaev honeycomb Hamiltonian in a superconducting metamaterial using Cooper‑pair boxes and semiconductor–superconductor heterostructures.\n- Bond‑directional interactions arise from normal and anomalous virtual propagation, controlled by out‑of‑plane flux and semiconductor Fermi energy.\n- Numerical analysis identifies an experimentally accessible regime with suppressed corrections, enabling equilibrium quantum spin liquids.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25223": {
+    "title": "Scaling of qubit coherence in quantum dot based Majorana chains: Rabi and Ramsey oscillations of Majorana qubits formed by four and six quantum dots",
+    "summary": "- Rabi oscillations remain length‑independent in the pristine limit, but disorder limits coherence via three competing dephasing channels.\n- Ramsey oscillations in six‑dot chains suffer larger leakage because the third site suppresses unwanted splittings yet requires larger detuning that excites bulk states.\n- Neither Rabi nor Ramsey coherence universally improves with chain length; extra dots help only if inter‑chain tunneling fluctuations are suppressed, while Ramsey coherence depends on detuning‑induced energy‑splitting fluctuations.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25226": {
+    "title": "Disorder-promoted stability",
+    "summary": "- Heterogeneity can enhance stability in high‑dimensional, non‑Hermitian network dynamics, contrary to earlier findings.\n- Disorder acts as a stabilizing resource across neural, power‑grid, material, and ecological networks.\n- Non‑reciprocal interactions in one‑dimensional dynamics also yield stability via non‑Hermitian effects.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25242": {
+    "title": "From Effective Temperature to Non-Boltzmann State Selection in Driven-Dissipative Quantum Criticality",
+    "summary": "- Large‑N analysis uncovers an overdamped open quantum‑critical regime distinct from the closed Lipkin–Meshkov–Glick model.\n- Fluctuations in the quantum‑critical fan are governed by an effective temperature \\(T_{\\rm eff}\\), which",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25243": {
+    "title": "Extended symmetric quantum phase in a honeycomb Heisenberg model with sublattice-selective interactions",
+    "summary": "- Identified an extended symmetric phase (4 ≲ J′₂/J₁ ≲ on the honeycomb lattice with no magnetic, valence‑bond, or chiral order.\n- Numerical evidence (iPEPS, MPS, ED) shows diverging correlation length and algebraic scaling, indicating a gapless spin‑liquid ground state.\n- Proposed a symmetry‑protected Z₂ Dirac spin‑liquid parton state as a candidate, while also considering a possible short‑range entangled gapped phase.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25252": {
+    "title": "Approach to Steady-State in Nested Resetting Processes",
+    "summary": "- Derived accumulation times to quantify first‑passage to steady state in nested resetting processes.\n- For equal rates, closed‑form wavefront relaxation with linearly increasing delay along the chain.\n- For heterogeneous rates, exact steady‑state distributions, moments, and accumulation times; relaxation governed by the minimum resetting rate and its multiplicity.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25263": {
+    "title": "Order-parameter-dependent mobility in the Convective-Viscous Cahn-Hilliard equation",
+    "summary": "- Mobility in Cahn‑Hilliard equations can depend on the order parameter, yet constant mobility is often assumed.\n- The paper analyzes reciprocal linear and quadratic mobility forms and obtains exact traveling‑wave solutions.\n- Reciprocal quadratic mobility provides a good approximation to polynomial mobilities within a limited parameter range.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25283": {
+    "title": "Thermally melted quadrupolar order and intrinsically quantum phases in 5$d^1$ double perovskites",
+    "summary": "- Classical Monte Carlo on the j = 3/2 FCC lattice shows thermal melting of the intermediate‑temperature quadrupolar phase in 5d¹ double perovskites.\n- Four‑sublattice AFM and FM phases stay robustly classical, while the coplanar canted FM[110] state collapses, revealing it as an intrinsically quantum phase.\n- Thermal fluctuations selectively destabilize quadrupolar order, mapping the boundary between classical and quantum stability.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25384": {
+    "title": "Lattice in Line: Optimized DMRG ordering for complex lattice geometries",
+    "summary": "- Optimized DMRG site ordering via proxy loss functions: bandwidth \\(B\\), cutwidth \\(C\\), and average interaction range \\(R\\).\n- Lexicographic targeting of \\((C,R)\\) gives the lowest energies; \\(B\\) only indirectly reduces \\(C\\) and is largely irrelevant.\n- A staged CP‑SAT (Google OR‑Tools) solver outperforms classic heuristics and QUBO formulations for lattice compilation.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25418": {
+    "title": "Coherent lattice dynamics distinguish Holstein and Su-Schrieffer-Heeger electron-phonon coupling",
+    "summary": "- Time‑dependent DMRG of a 1D Mott insulator with Holstein vs. SSH phonon coupling.\n- Electronic responses are alike, but Holstein yields long‑lived coherent phonon oscillations at resonance, SSH does not.\n- Coherent lattice dynamics thus serve as a direct nonequilibrium probe of the microscopic e‑ph coupling mechanism.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25494": {
+    "title": "Efficiency of Continuous-Time Quantum Monte Carlo Updates in the Ferromagnetic State of the Doped SU(3) Fermi-Hubbard Model",
+    "summary": "- Segment‑based CT‑HYB solver efficiency examined for doped SU(Hubbard model in DMFT.\n- Double‑flip update gives lowest autocorrelation in ferromagnetic regime; flavor‑permutation update excels in paramagnetic regime.\n- Effectiveness traced to distinct occupation changes induced by each update.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25585": {
+    "title": "Model Fractional Quantum Hall States on Lattices: Exact Parent Hamiltonians and Routes to Realization",
+    "summary": "- Built Hermitian parent Hamiltonians whose zero‑mode manifold consists of lattice‑sampled continuum LLL model states.\n- Short‑range density interactions stabilize Laughlin ground states at ν=1/3, 1/4; onsite repulsion yields a Moore–Read triplet at ν=\n- Multiband calculations show Laughlin manifolds remain robust to interband mixing, whereas the Moore–Read triplet loses spectral isolation and crosses competing states near the interband scale.",
+    "timestamp": "2026-09-23"
+  },
+  "2609.25829": {
+    "title": "Strong coupling polarons in cavity quantum materials: limits of cavity-induced electron mass renormalization",
+    "summary": "- Mass renormalization stems from field‑mediated coupling between electrons and polarizable cavity mirrors.\n- 2D electron path integral solved exactly with quantum Monte Carlo.\n- Upper bound set by the Landau‑Pekar polaron in planar geometry, linking cavity control to dielectric engineering.",
+    "timestamp": "2026-09-23"
   }
 }
