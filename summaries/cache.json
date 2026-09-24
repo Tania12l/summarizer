@@ -2393,5 +2393,95 @@
     "title": "Strong coupling polarons in cavity quantum materials: limits of cavity-induced electron mass renormalization",
     "summary": "- Mass renormalization stems from field‑mediated coupling between electrons and polarizable cavity mirrors.\n- 2D electron path integral solved exactly with quantum Monte Carlo.\n- Upper bound set by the Landau‑Pekar polaron in planar geometry, linking cavity control to dielectric engineering.",
     "timestamp": "2026-09-23"
+  },
+  "2609.26807": {
+    "title": "Exact Collision Vertex for Stress and Heat Flux",
+    "summary": "- Exact nonlinear generating vertex for collisional stress and heat‑flux in hard‑sphere Boltzmann equation.\n- Stress hierarchy reduces to a universal traceless tensor times a scalar radial law; heat flux obtained by exact contraction.\n- DSMC tests confirm predictions; convergence independent of the Gaussian foot used in Hermite representation.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26815": {
+    "title": "Electrothermal Compact Drift Model of TiO$_2$ Memristors: Verilog-A Implementation and Dimensionless Regime Mapping",
+    "summary": "- ATDM couples Strukov‑style drift to an Arrhenius‑mobility heat balance, adding one thermal state while keeping the electrical state variable.\n- Verilog‑A implementation matches a reference model within 009 % peak‑voltage error and recovers isothermal limits at zero activation energy.\n- Dimensionless analysis introduces thermal lag ε and switching number Θ, mapping valid quasi‑static regimes and proving the reduced stroboscopic map is strictly increasing, precluding period‑doubling or chaos.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26844": {
+    "title": "Suppressed Defect Emission and Enhanced Blue Luminescence of Zn-Doped CuBr Quantum Dots synthesized in Room-Temperature Synthesis",
+    "summary": "- Zn doping suppresses defect emission and enhances blue luminescence in CuBr QDs.\n- Eco‑friendly room‑temperature synthesis yields 46 nm QDs with reduced bandgap and improved quantum confinement.\n- Resulting QDs exhibit 4 % color purity (CIE 1520, and extended carrier lifetimes.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26845": {
+    "title": "Analytical Solution of the Nonlinear Boltzmann Equation For Multicomponent Systems",
+    "summary": "- Exact analytical solutions of the nonlinear relativistic Boltzmann equation for homogeneous, isotropic massless multicomponent systems with anisotropic scattering.\n- For two-component systems, three solution classes: equilibrium, a hybrid Maxwell‑Jüttner plus nontrivial distribution, and shared nontrivial dynamics.\n- The hybrid Maxwell‑Jüttner structure and shared nontrivial dynamics are unprecedented in kinetic theory and relativistic contexts.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26869": {
+    "title": "Easy-plane anisotropy of magnetic fluctuations in UTe2",
+    "summary": "- INS shows AFM spin fluctuations at Y are isotropic in the ac‑plane but vanish along b, disproving Ising anisotropy.\n- Results favor a d‑vector along b, excluding AFM exchange as the triplet pairing glue.\n- A tight‑binding model with itinerant and localized 5f moments reproduces the overdamped excitations via FM intra‑dimer interactions and Landau damping.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26871": {
+    "title": "Experimental Characterization of the Passive Mechanical Behavior of Rat Pelvic Floor Muscles: Effects of Test Conditions and Pregnancy",
+    "summary": "- Rat levator ani passive tensile properties were tested under varying preconditioning, loading rates, and storage; pregnancy did not significantly alter peak strain.\n- Preconditioning effects depended on loading rate: at 5 %/s peak strain tapered near 2 % preconditioning, while at 1 %/s no tapering occurred up to 15 %.\n- Rat samples displayed larger peak strains and lower high‑strain stiffness compared to digitized human cadaver levator ani data.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26881": {
+    "title": "Fermion bag study of the two-dimensional Majorana-Hubbard model at finite hopping",
+    "summary": "- Hamiltonian fermion‑bag QMC removes the sign problem for \\(g\\lesssim7\\) on lattices up to 256 sites.\n- Interactions strengthen U(‑charged dimerization, suppress the neutral channel, and restore U(symmetry in the even‑bond component while the odd component remains nematic.\n- Results show a gapless Majorana semimetal throughout the sign‑problem‑minimal window.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26916": {
+    "title": "Interlayer-correlated fractional quantum Hall state in a trilayer electron system",
+    "summary": "- Detected a ν = 5/7 fractional quantum Hall state in a high‑quality GaAs trilayer quantum well.\n- The state matches the predicted Ψ₃₃₃₁₁ wavefunction: 1/3 intralayer and 1 interlayer correlations.\n- Establishes a new Halperin‑Laughlin member, extending interlayer coherence to three layers.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26925": {
+    "title": "First Passage in the Presence of Jump Rate Fluctuations: A Transition from Infinite to Finite Mean",
+    "summary": "- Symmetric random walk on 1D lattice has divergent mean first‑passage time.\n- Introducing stochastic jump‑rate fluctuations can make the mean first‑passage time finite.\n- A phase transition occurs: broad rate fluctuations → finite mean; weak fluctuations → infinite mean.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26943": {
+    "title": "Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter",
+    "summary": "- Viscous dissipation suppresses shape instabilities, letting viscoelastic gels sustain large spherical bubbles while elastic gels form ellipsoidal cavities that rupture quickly.\n- A modified Rayleigh–Plesset model and finite‑element simulations show that higher Deborah numbers favor elastic growth; lower De favors relaxation and spherical morphology.\n- The study establishes viscous dissipation as a key stabilizing mechanism for cavitation in soft matter, impacting tissue damage, ultrasound therapy, and hydrogel characterization.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26957": {
+    "title": "Matrix Density Waves and Fractionally Charged Point Defects in Flavor Weyl Semimetals",
+    "summary": "- Matrix density wave in two‑flavor Weyl semimetals forms a traceless adjoint condensate with order‑parameter manifold \\((S^2\\times S^/\\mathbb Z_2\\).\n- The manifold supports both unit hedgehogs and half‑quantum Alice strings, each generating a full electronic mass gap.\n- Hedgehogs bind a single zero mode carrying \\(\\pm e/2\\) charge, while Alice strings host a chiral mode and flip hedgehog winding when braided.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26971": {
+    "title": "Robust Strange Metallicity across Attractive and Repulsive Hubbard Models",
+    "summary": "- Both attractive and repulsive 2D Hubbard models (|U|/t = exhibit linear‑T resistivity over a broad temperature range, despite differing low‑energy correlations.\n- The linear‑T behavior stems from the U‑even leading term in the conductivity moment expansion and is tied to a Curie‑like compressibility with weakly temperature‑dependent diffusivity.\n- Only at low temperatures do the models diverge: the attractive case shows a diffusivity feature linked to pair formation, while the incoherent regime remains largely insensitive to microscopic details.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.26991": {
+    "title": "Spin Configurations of Anyonic excitations in Moir\\'e Fractional Chern Insulators",
+    "summary": "- Finite‑size twisted bilayer MoTe₂ at 1/3 filling forms a spin‑unpolarized fractional Chern insulator coupled to a planar parabolic quantum dot.\n- The energy gap is large and weakly dependent on dot‑bilayer separation, supporting low‑energy spin‑unpolarized quasiparticles/quasiholes.\n- Charge density shows spin‑unpolarized excitations localize positive charge near the negatively charged QD, unlike spin‑polarized ones.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.27132": {
+    "title": "Exact Equivariance from Ordinary Neural Networks for Lattice Many-Body Dynamics",
+    "summary": "- MLPs with finite‑group averaging yield exactly equivariant surrogates, decoupling symmetry from the network architecture.\n- Accurately predicts Falicov–Kimball hopping energies and Holstein conservative forces, matching exact diagonalization.\n- Enables large‑scale simulations that reproduce charge ordering and CDW coarsening in correlated electron systems.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.27324": {
+    "title": "Mobility-Gap Robustness and St\\v{r}eda-Hall Separation in Disordered Axion Pumping",
+    "summary": "- Second Chern number remains quantized up to \\(W\\approx5\\), beyond the global gap closure at \\(W_g\\approx5\\).\n- Středa–Hall response falls off after gap closure, serving as a control for mobility‑gap protection versus finite‑size artifacts.\n- 3D unitary Anderson transition at each pump slice, with mobility edge at \\(\\tau=0\\) and critical disorder \\(W_c\\approx18\\).",
+    "timestamp": "2026-09-24"
+  },
+  "2609.27642": {
+    "title": "Asymmetric magnetoresistance in 3$d$-5$d$ based La$_{0.67}$Ca$_{0.33}$MnO$_3$/SrIrO$_3$ bilayer: The role of unidirectional anisotropy",
+    "summary": "- 3 d FM La₀.₆₇Ca₀.₃₃MnO₃ / 5 d HM SrIrO₃ bilayer shows magnetic ordering in SIO at ~42 K, inducing Mn/Ir interfacial coupling.\n- Magnetoresistance evolves from negative at high T to positive‑to‑negative crossover as LCMO orders, then becomes asymmetrically positive at low T due to SIO ordering.\n- Asymmetric MR attributed to interface‑driven spin‑scattering between itinerant and localized electrons, highlighting tunable interfacial anisotropy.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.28418": {
+    "title": "Intrinsic anomalous Hall effect in the surface conduction regime of non-magnetic narrow-gap insulator FeSi",
+    "summary": "- Intrinsic anomalous Hall effect appears in FeSi surface conduction below ~55–75 K, showing zero‑field hysteresis without bulk magnetism.\n- Surface conductivity scales with roughness and inversely with thickness, confirming metallic surface states (CSS) below T_CSS ≈55–75 K.\n- Bulk susceptibility and specific heat reveal no phase transition, indicating emergent magnetic order confined to the surface.",
+    "timestamp": "2026-09-24"
+  },
+  "2609.28436": {
+    "title": "Cooperative Domain-Wall Dynamics in a Two-Dimensional Quasiclassical Holstein Model",
+    "summary": "- CDW coarsening in a 2‑D Holstein model shows growth exponents between ¼ and ½, driven by a crossover kinetics \\(\\dot{L}=[D(T)/L][1+L_\\times^2(T)/L^2]\\).\n- At low \\(T\\), binary occupations force cooperative wall rearrangements, giving \\(L(t)\\sim t^{1/4}\\); thermal broadening allows curvature‑driven motion, restoring \\(L(t)\\sim t^{1/2}\\).\n- Fits, rate collapse, and large‑system simulations confirm that microscopic charge conservation generates long‑",
+    "timestamp": "2026-09-24"
   }
 }
