@@ -2483,5 +2483,90 @@
     "title": "Cooperative Domain-Wall Dynamics in a Two-Dimensional Quasiclassical Holstein Model",
     "summary": "- CDW coarsening in a 2‑D Holstein model shows growth exponents between ¼ and ½, driven by a crossover kinetics \\(\\dot{L}=[D(T)/L][1+L_\\times^2(T)/L^2]\\).\n- At low \\(T\\), binary occupations force cooperative wall rearrangements, giving \\(L(t)\\sim t^{1/4}\\); thermal broadening allows curvature‑driven motion, restoring \\(L(t)\\sim t^{1/2}\\).\n- Fits, rate collapse, and large‑system simulations confirm that microscopic charge conservation generates long‑",
     "timestamp": "2026-09-24"
+  },
+  "2609.28593": {
+    "title": "Boundary and bulk perturbations in vectorial active matter",
+    "summary": "- Examines how global anisotropic environments break rotational symmetry in active matter and proposes ways to detect small anisotropies.\n- Studies boundary‑induced symmetry breaking in confined polar active fluids, showing walls generate local anisotropies that penetrate far into the bulk.\n- Demonstrates that boundary effects markedly alter both bulk and boundary dynamics in finite‑size flocking systems.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28620": {
+    "title": "Competing magnetic and spin vestigial orders from continuum field theory",
+    "summary": "- Developed a continuum field theory with independent vector and tensor fields to capture competing antiferromagnetic and spin‑nematic orders.\n- RG analysis finds the multicritical fixed point at imaginary coupling, implying a first‑order triple point; a direct paramagnetic‑to‑AFM transition can be continuous, governed by cubic (3D) or Ising (2D) universality.\n- The model predicts two‑step transitions with an intermediate spin‑vestigial (nematic) phase, controlled by the tensor mass and dimensionality.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28624": {
+    "title": "Stimulation of superconductivity in $d$-wave superconductors",
+    "summary": "- External EM radiation can enhance pairing in disordered \\(d\\)-wave superconductors via the Eliashberg effect, whereas a clean system shows no enhancement.\n- The enhancement is confined to a finite frequency window set by gap, disorder, inelastic scattering, and temperature, with edges governed by quasiparticle redistribution, heating, and pair breaking.\n- Unlike \\(s\\)-wave, the upper frequency threshold is not pinned at \\(2\\Delta\\); it rises above the gap as the critical temperature is approached.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28628": {
+    "title": "Theory of extrinsic contributions to the full orbital current",
+    "summary": "- Developed a microscopic theory of extrinsic orbital Hall effect by solving the quantum‑kinetic equation for wave‑vector off‑diagonal density‑matrix elements, incorporating side‑jump and skew‑scattering within the non‑crossing approximation.\n- Applied the theory to a massive Dirac cone and a particle‑hole‑asymmetric variant, finding disorder‑generated τ⁰ contributions comparable to the intrinsic current that cannot be isolated by disorder‑strength scaling.\n- For the bare Dirac cone, the extrinsic correction cancels the conventional intrinsic value, leaving a total current exactly twice the quantum correction; particle‑hole asymmetry activates conventional skew scattering.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28630": {
+    "title": "Weak-Coupling Pair-Density-Wave from Momentum-Space Nonsymmorphic Symmetry",
+    "summary": "- Momentum‑space nonsymmorphic symmetry turns PDW into the leading weak‑coupling instability in a twisted bilayer checkerboard lattice.\n- At charge neutrality, attractive interactions give spin‑singlet or spin‑triplet PDW; repulsive interactions favor quantum Hall or finite‑Q density waves.\n- Doping preserves PDW dominance via a protected Cooper logarithm; breaking time‑reversal while keeping nonsymmorphic symmetry yields a fully gapped topological spin‑triplet PDW with BdG Chern number",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28636": {
+    "title": "Majorana zero modes in half-quantum vortices of pair density wave superconductors",
+    "summary": "- Spinless honeycomb model exhibits a PDW phase where half‑quantum vortices bind Majorana zero modes.\n- Hartree‑Fock shows PDW relative‑phase stiffness ≈ superfluid stiffness near the PDW–Dirac transition, enabling vortex fractionalization and a field‑driven half‑vortex lattice transition.\n- The resulting two‑flavor half‑vortex lattice hosts a Majorana lattice with geometry‑ and flux‑dependent bands, including Dirac nodes and zero‑energy Fermi lines.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28642": {
+    "title": "Interaction induced flattening of optical transition quantum geometry",
+    "summary": "- Electron‑hole interactions flatten the quantum geometry of excitons, even when built from extended Bloch states.\n- Localized particle‑hole excitations exhibit uniform, flat Hermitian curvature, whereas delocalized ones have non‑vanishing curvature.\n- The resulting flat excitonic geometry quenches third‑order circular photoconductivity and ties the Hall response to that of the ground state in non‑magnetic systems.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28643": {
+    "title": "Defect Poisoning of Quantum Spin Ice",
+    "summary": "- Dilution as low as 2 % of magnetic vacancies qualitatively changes low‑energy physics of quantum spin ice.\n- Vacancy‑induced quantum fluctuations connect percolating spin clusters, dominating over clean‑system dynamics.\n- Experimental signatures of quantum spin ice may be obscured by such defects, as shown by large‑scale QMC and exact diagonalization.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28647": {
+    "title": "Compact representation of strongly correlated Green's functions: the MOR+EC way to explore phase space",
+    "summary": "- MOR+EC merges eigenvector continuation with model‑order reduction to compute Green’s functions efficiently across parameters and frequencies.\n- Achieves ~10⁻⁴ relative error and 16–91× speedup versus exact diagonalization, enabling high‑resolution phase‑space",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28655": {
+    "title": "Bayesian Monitoring of a Diffusive Particle in One Dimension",
+    "summary": "- Bayesian tracking of a 1‑D diffusing particle with noisy continuous measurements yields a bounded Shannon entropy for constant monitoring, quantified via KPZ exact results.\n- When monitoring intensity decays as \\(t^{-\\alpha}\\), entropy grows logarithmically: \\(\\overline{S(t)}\\sim \\tfrac12\\ln t\\) for \\(\\alpha>1/2\\) and \\(\\overline{S(t)}\\sim \\alpha\\ln t\\) for \\(0<\\alpha<1/2\\).\n- These regimes are derived through a replica mapping to a time‑dependent Lieb‑Liniger Hamiltonian, confirmed by simulations of discrete polymer models.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28680": {
+    "title": "Altermagnetic Kondo Logic via Floquet Symmetry Conversion",
+    "summary": "- Floquet symmetry conversion with an in‑plane AC field exposes hidden altermagnetic spin splitting, creating a local spin‑dependent hybridization channel.\n- The resulting Kondo resonance splits with a crystalline form factor identical to the altermagnet, enabling Kondo tomography of the spin texture.\n- The Kondo splitting is tunable by field orientation, providing a symmetry‑controlled route to Kondo‑based logic gates.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28738": {
+    "title": "Imaging an obstructed Wannier orbital",
+    "summary": "- Phase‑resolved imaging of an obstructed Wannier orbital in an acoustic flat‑band metamaterial, locating its f‑like center in a void between lattice sites.\n- Boundary states appear only when the lattice termination severs the orbital, confirming the bulk‑boundary correspondence of obstructed atomic insulators.\n- The platform directly probes single‑particle quantum geometry relevant to electronic flat‑band phenomena such as unconventional superconductivity.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.28786": {
+    "title": "Plane-Wave Photon-Fock Cavity QED-DFT: Chiral-Cavity-Induced Topology in Graphene",
+    "summary": "- Plane‑wave × photon‑Fock framework for the velocity‑gauge Pauli–Fierz Hamiltonian, enabling first‑principles cavity QED of periodic solids.\n- Application to monolayer graphene in linear and chiral cavities yields a polarization‑selective Haldane gap with distinct DOS, real‑space, and circular‑dichroism signatures.\n- Brillouin‑zone Berry‑curvature analysis shows a non‑monotonic Chern‑number sequence (1 → 3 → –1 → 1 → 2 → –1 → , confirming chiral‑cavity‑induced topological phases.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.29004": {
+    "title": "Exact selection of a toric-code vison crystal in a flux-conditioned Kitaev model",
+    "summary": "- Exactly solvable Kitaev extension where conserved ℤ₂ fluxes dictate both signs and connectivity of Majorana hopping.\n- At a tuned loop point the matter Hamiltonian fragments into independent Majorana rings, yielding a frustrated Ising term plus a non‑negative residual that selects 2/3‑vison crystal ground states.\n- The crystal ground space maps to a sheared square‑lattice toric code, giving fourfold topological degeneracy and demonstrating exact gauge‑matter feedback.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.29241": {
+    "title": "Mixed-Valent Magnetism in CeFe$_2$ from Multi-Impurity DFT+DMFT",
+    "summary": "- Multi‑impurity DFT+DMFT reproduces Ce and Fe spin/orbital moments and total saturation moment, matching XMCD data.\n- Ce 4f occupancy ≈ 85 with variance 27 shows strong valence fluctuations; spectral function contains Fermi‑level weight plus incoherent features.\n- Bath‑mediated polarization and configuration mixing are identified as the essential drivers of CeFe₂’s electronic structure and magnetism.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.29400": {
+    "title": "Thermal quasi-Devil's staircase in an anisotropic triangular-lattice Rydberg array",
+    "summary": "- Realizes a thermal quasi‑Devil’s staircase in finite anisotropic triangular‑lattice Rydberg arrays via Ising‑antiferromagnet mapping.\n- Shows winding‑sector crossovers emerge when thermal fluctuations overcome topological barriers, detectable through winding distributions and structure factors.\n- Provides experimentally feasible predictions for current Rydberg platforms, linking energy–entropy balance to commensurate–incommensurate transitions.",
+    "timestamp": "2026-09-25"
+  },
+  "2609.29728": {
+    "title": "Exact phase diagram of the XXZ Heisenberg chain in a staggered magnetic field",
+    "summary": "- Exact analytical relation between exchange anisotropy and staggered field yields a highly degenerate ground‑state manifold with off‑diagonal long‑range order on the phase boundary.\n- The boundary separates a ferromagnetic phase from a gapless Luttinger liquid, with a first‑order transition confirmed by DMRG.\n- Reducing anisotropy further drives the gapless phase into a gapped quantum‑disordered phase, completing the full phase diagram.",
+    "timestamp": "2026-09-25"
   }
 }
