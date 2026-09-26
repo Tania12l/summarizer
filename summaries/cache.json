@@ -2568,5 +2568,50 @@
     "title": "Exact phase diagram of the XXZ Heisenberg chain in a staggered magnetic field",
     "summary": "- Exact analytical relation between exchange anisotropy and staggered field yields a highly degenerate ground‑state manifold with off‑diagonal long‑range order on the phase boundary.\n- The boundary separates a ferromagnetic phase from a gapless Luttinger liquid, with a first‑order transition confirmed by DMRG.\n- Reducing anisotropy further drives the gapless phase into a gapped quantum‑disordered phase, completing the full phase diagram.",
     "timestamp": "2026-09-25"
+  },
+  "2609.30265": {
+    "title": "Upper critical dimension for dirty Weyl semimetal-to-metal quantum phase transitions",
+    "summary": "- Lower and upper critical dimensions for the disorder‑driven Weyl semimetal‑to‑metal transition are \\(d_{\\ell}=2\\) and \\(d_{u}=4\\).\n- Numerical ADOS yields a correlation‑length exponent \\(\\nu\\approx5\\) for \\(d\\ge4\\) and a dynamic exponent \\(z\\approx d/2\\) for \\(d\\ge3\\).\n- Field‑theoretic RG confirms \\(z=d/2\\) exactly, enabling analytical treatment near both critical dimensions.",
+    "timestamp": "2026-09-26"
+  },
+  "2609.30202": {
+    "title": "Incipient superconductivity and tunable Chern insulators in twisted Bernal bilayer-trilayer graphene",
+    "summary": "- Incipient superconductivity emerges from a displacement‑field‑driven trivial insulator at ν = −2, showing a sharp transition and critical current but no zero resistance.\n- Chern insulators with |C| ≤ 3 form at integer/fractional moiré fillings for electron doping over 05°–50°, tunable by twist angle and carrier density.\n- In‑plane magnetic field expands the superconducting pocket beyond",
+    "timestamp": "2026-09-26"
+  },
+  "2609.30162": {
+    "title": "From dimensional reduction to tetramerization in mixed ferro-antiferro breathing pyrochlores",
+    "summary": "- Classical Monte Carlo and Gaussian approximation show thermal order‑by‑disorder selects a collinear Type‑I \\(X=(1,0,\\) state via a strong first‑order transition.\n- Pseudofermion FRG and DMRG reveal a nonmagnetic window with nearly ideal tetramer correlations on antiferromagnetic tetrahedra, while the structure factor still peaks at \\(X\\).\n- A third‑order effective Hamiltonian and exact diagonalization confirm that reversing inter‑tetrahedron coupling drives a uniform tetramer selection, matching the high‑temperature expansion of local singlet dynamics.",
+    "timestamp": "2026-09-26"
+  },
+  "2609.30142": {
+    "title": "Disorder-induced quantum Fisher information in topological quantum systems",
+    "summary": "- Disorder leaves the toric‑code ground state unchanged but boosts the QFI for estimating perturbations when a separable probe evolves under the disordered Hamiltonian.\n- In the ordered case, optimal product probes give a transient quartic‑time scaling of QFI, with quadratic and cubic terms vanishing.\n- The disorder‑enhanced QFI remains high over a range of perturbation strengths, encoding times, and survives dephasing, bit‑flip, and amplitude‑damping noise.",
+    "timestamp": "2026-09-26"
+  },
+  "2609.30124": {
+    "title": "Characterizing quasiparticles in strongly correlated systems using nonlinear spectroscopy in quantum simulators",
+    "summary": "- Nonlinear spectroscopy and fluctuation protocols identify quasiparticle charge sign without synthetic gauge fields.\n- Second‑order density/current responses and third‑order cumulants distinguish electron‑ vs hole‑like carriers; hole‑doping in a Fermi‑Hubbard ladder reverses the sign, matching Hall coefficient behavior.\n- The method applies to hard‑core bosons, where finite‑momentum, finite‑frequency drives reveal carrier sign and are amplified near resonant collective modes.",
+    "timestamp": "2026-09-26"
+  },
+  "2609.30101": {
+    "title": "Leg-Tied Tensor Network States: Entanglement Beyond Virtual Bonds",
+    "summary": "- LETTA shares physical legs among tensors, directly encoding long‑range correlations while a virtual MPS backbone captures short‑range entanglement.\n- Uses a deterministic DMRG‑style variational algorithm with exact contractions over active tie‑boundary sets.\n- Outperforms same‑bond‑dimension MPS on 2D J₁–J₂ Heisenberg and 3D transverse‑field Ising models, reaching larger‑MPS accuracy with ~10× fewer parameters.",
+    "timestamp": "2026-09-26"
+  },
+  "2609.30066": {
+    "title": "Beyond Bond Gauge: Exact Tensor-Network Tangent Spaces at Weighted Graph States",
+    "summary": "- Exact tangent‑space characterization for weighted graph state PEPS (q ≥ , with non‑bond gauge variations given by",
+    "timestamp": "2026-09-26"
+  },
+  "2609.30025": {
+    "title": "Orientational Ordering of Janus Particle Arrays as Classical Compass Spin Systems",
+    "summary": "- Janus particle orientations map to classical compass spins with bond‑dependent interactions, modeled by a 120° compass and Kern–Frenkel potentials.\n- Monte Carlo simulations reveal a low‑temperature sixfold ordered phase, a high‑temperature disordered phase, and an intermediate quasi‑long‑range regime with two BKT transitions driven by thermal order‑by‑disorder.\n- Adding higher‑order terms alters the emergent anisotropy: a quadratic term reverses the sixfold selection, while a cubic term lifts the degeneracy and selects lattice‑aligned directions observed experimentally.",
+    "timestamp": "2026-09-26"
+  },
+  "2609.29472": {
+    "title": "Selective strain tuning of nonequilibrium multiferroic dynamics in BiFeO$_\\text3$",
+    "summary": "- Tensile strain suppresses ultrafast photoinduced reduction of ferroelectric displacement in BiFeO₃.\n- Antiferrodistortive oxygen‑octahedra rotation (magnetic order) remains strain‑insensitive.\n- Strain acts as a selective control knob for ultrafast multiferroic dynamics.",
+    "timestamp": "2026-09-26"
   }
 }
