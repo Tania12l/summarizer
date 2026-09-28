@@ -2613,5 +2613,90 @@
     "title": "Selective strain tuning of nonequilibrium multiferroic dynamics in BiFeO$_\\text3$",
     "summary": "- Tensile strain suppresses ultrafast photoinduced reduction of ferroelectric displacement in BiFeO₃.\n- Antiferrodistortive oxygen‑octahedra rotation (magnetic order) remains strain‑insensitive.\n- Strain acts as a selective control knob for ultrafast multiferroic dynamics.",
     "timestamp": "2026-09-26"
+  },
+  "2609.30284": {
+    "title": "Von Neumann's Two Quantum Entropies",
+    "summary": "- Von Neumann introduced two quantum entropies (1927 and to define thermodynamic entropy.\n- The 1927 entropy (von Neumann entropy) vanishes for pure states and is best viewed as an entanglement measure.\n- The 1929 entropy, nonzero for almost all pure states, should be regarded as the true thermodynamic entropy.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30300": {
+    "title": "The Scale Invariance Behind Boltzmann Counting",
+    "summary": "- Exact scale invariance in Boltzmann counting yields specific entropy without asymptotic approximation.\n- Resolving Gibbs excess at multinomial level uncovers a state‑dependent scale structure that generates a continuum reference measure.\n- For an ideal gas, these scales acquire operational meaning via reversible work, linking combinatorial origins to continuous statistical mechanics.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30311": {
+    "title": "Synchronizing Spectral and Interference Criticalities at an Exceptional Point",
+    "summary": "- Loss imbalance in a superconducting double‑dot system drives a Bogoliubov sector to an exceptional point, synchronizing spectral and interference criticalities.\n- At the EP, CAR and ECT interference boundaries coalesce, creating a CAR‑dominated window that opens with a square‑root critical law.\n- Detuning/retuning controls the synchronization, and the resulting bifurcation is directly observable in nonlocal conductance.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30346": {
+    "title": "What Becomes of the Antiferromagnetic String When Long Range Neel Order Is Lost? Exact Results",
+    "summary": "- Loss of long‑range Néel order permits a projective RP² description, yielding half‑vortex defects.\n- Half‑vortex pairs are logarithmically confined, V(R)=κ ln(R/r_core) with κ=πρ_s/2, instead of a 1D string.\n- Antiferromagnetic confinement survives as a global 2D spin texture, replacing the local path‑dependent string.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30347": {
+    "title": "Loop content of bond percolation on hyperbolic triangulations: an exact identity and a $1/\\lambda$ expansion",
+    "summary": "- Homology of bond‑percolation clusters on disk patches of regular \\(\\{3,q\\}\\) triangulations for \\(q=7\\)–\\(20\\).\n- Total persistent \\(H_1\\) per vertex is nearly linear in \\(1/\\lambda(q)\\), where \\(\\lambda(q)\\) is the asymptotic ring‑size ratio.\n- Exact identity reduces loop persistence to the minimum‑spanning‑tree weight minus a boundary term; first‑order \\(1/\\lambda\\) expansion yields the closed‑form intercept \\(5/4-2\\pi/(3\\sqrt\\) and agrees with measurements.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30363": {
+    "title": "Disentangling the Toric Code",
+    "summary": "- Finite‑dimensional ancillae cannot render commuting‑projector Hamiltonians (Ising, toric code) on‑site because fractionalized excitations obstruct it.\n- Infinite‑dimensional ancillae (e.g., rotors) enable disentanglement, producing on‑site symmetries for both models.\n- The findings align lattice and QFT anomaly analyses, while finite ancillae may lead to non‑invertible on‑site obstructions.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30365": {
+    "title": "Repulsion-Driven $p - i p$ Superconductivity in a Single Valley Revealed by DMRG",
+    "summary": "- Repulsion drives spinless chiral \\(p\\)-wave superconductivity in a single‑valley Dirac system on the Qi‑Wu‑Zhang lattice.\n- Pairing starts at low doping on a small, isotropic Fermi pocket, tied to band quantum geometry rather than dispersion details.\n- At higher doping a pair‑density‑wave coexists with zero‑momentum pairing, with order‑parameter winding opposite to the parent anomalous Hall state.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30368": {
+    "title": "Is the fractional Chern insulator-superconductor transition in twisted MoTe$_2$ direct?",
+    "summary": "- Reassesses transport data near a fractional Chern insulator in twisted MoTe₂, questioning a direct anyon‑superconductor transition.\n- Proposes that a reentrant integer quantum Hall effect (RIQHE) intervenes, extending to low displacement fields at very low temperatures.\n- A patchwork model reproduces the phase diagram and predicts a split transition with a narrow RIQHE region at low electronic temperatures.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30372": {
+    "title": "Non-vanishing Density of States in Disordered Weyl Semimetals",
+    "summary": "- Shows that weak short‑range disorder produces a finite zero‑energy density of states in 3D Weyl semimetals.\n- Employs a supersymmetric saddle‑point calculation: instanton is a j = ½ hedgehog, fluctuations give a convergent one‑loop prefactor.\n- Derives ρ(=A w⁻⁴ exp(–s*/w²) (A≈5, s*≈which matches numerics over four orders of magnitude.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30380": {
+    "title": "Anyonic molecules through the trion looking glass",
+    "summary": "- Anyons bind to electronic trions near defects, forming an anyonic molecule.\n- The bound state shows a few‑meV PL red‑shift that scales with the anyon’s fractional charge and kinetic energy.\n- Numerical results agree with twisted MoTe₂ experiments, revealing both universal and non‑universal anyon traits.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30381": {
+    "title": "Cooper pair charge Kondo effect in a hybrid quantum dot - superconductor device",
+    "summary": "- Four‑dot hybrid device near particle‑hole symmetry shows a charge Kondo effect driven by Cooper‑pair crossed Andreev reflections.\n- The two‑channel Kondo physics turns the system into a double Cooper‑pair splitter, spatially separating Cooper pairs from incoming electrons.\n- RG analysis predicts non‑Fermi‑liquid signatures and observable fractional conductance over a broad temperature and anisotropy range.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30518": {
+    "title": "Nuclear spin-lattice relaxation rate near a two-dimensional antiferromagnetic quantum critical point",
+    "summary": "- Zero‑point spin fluctuations alter the nuclear spin‑lattice relaxation rate 1/T₁ near a 2D antiferromagnetic quantum critical point in the self‑consistent renormalization framework.\n- For weak mode‑mode coupling (y₁ < 1/T₁ follows thermal‑fluctuation behavior; for strong coupling (y₁ > 1/T₁ shows a local maximum versus temperature.\n- The local maximum observed in ⁶³Cu 1/T₁ of lightly doped La",
+    "timestamp": "2026-09-28"
+  },
+  "2609.30871": {
+    "title": "Systematic Evolution of Magnetic Anisotropy and Crystal-electric-field Ground States in SmTr2Ge2",
+    "summary": "- Magnetic anisotropy shifts from easy ab‑plane (Co, Ni) to easy c‑axis (Cu, Ag).\n- CEF ground‑state level crossing occurs between Ni and Cu, with systematic change in first excited level.\n- Magnetic properties correlate with local structural parameters, linking ligand environment to Sm 4f states.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.31001": {
+    "title": "Multiorbital periodic Anderson model for CeRh2As2",
+    "summary": "- Built a multiorbital periodic Anderson model for CeRh₂As₂ that includes Γ₇ and Γ₆ 4f doublets, non",
+    "timestamp": "2026-09-28"
+  },
+  "2609.31319": {
+    "title": "Criticality enabled long-range order in a U(1)-symmetric spin-1 Heisenberg chain with biquadratic interactions",
+    "summary": "- Numerical study of anisotropic spin‑1 Heisenberg chain confirms U(symmetry breaking at critical point.\n- Magnetization exponent β≈29 agrees with ε‑expansion β≈28; Luttinger parameter diverges with exponent tied to Nahum transition.\n- Finite‑size spectra give dynamical critical exponent z≈2, supporting Nahum’s field‑theory predictions.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.31616": {
+    "title": "A Unified Spin-Fermion Framework for Magnetic Diversity in Chromium Monopnictides",
+    "summary": "- Chromium monopnictides (CrSb, CrAs, CrP) evolve from altermagnetism → double‑helical AFM → no long‑range order as ligand itinerancy increases with chemical pressure.\n- A unified spin‑fermion model shows that Cr\\(^{1+}\\) \\(d^5\\) moments coupled to itinerant pnictogen states undergo exchange‑parameter reconstruction across NiAs → MnP structures.\n- The resulting magnetic phase diagram explains the contrasting orders via competing Cr–Cr exchanges and proximity to a frustrated regime in CrP.",
+    "timestamp": "2026-09-28"
+  },
+  "2609.31618": {
+    "title": "Quantum Representation Selects Neutral Skyrmion Molecules",
+    "summary": "- Quantum states on each lattice site select Skyrmion compositions that cancel their sideways gyroscopic force, forming gyroscopically neutral molecules.\n- Two SU(magnet models show the neutral composition changes from a pair to a trimer while classical energies stay identical, isolating the quantum‑state effect.\n- Mean‑field analysis finds both pair and trimer bound and locally stable; the trimer remains robust to interaction variations and moves with little deformation.",
+    "timestamp": "2026-09-28"
   }
 }
