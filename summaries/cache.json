@@ -2698,5 +2698,90 @@
     "title": "Quantum Representation Selects Neutral Skyrmion Molecules",
     "summary": "- Quantum states on each lattice site select Skyrmion compositions that cancel their sideways gyroscopic force, forming gyroscopically neutral molecules.\n- Two SU(magnet models show the neutral composition changes from a pair to a trimer while classical energies stay identical, isolating the quantum‑state effect.\n- Mean‑field analysis finds both pair and trimer bound and locally stable; the trimer remains robust to interaction variations and moves with little deformation.",
     "timestamp": "2026-09-28"
+  },
+  "2609.31672": {
+    "title": "From a three-fluid junction to Young's law: Constitutive and rigid-support limits of wetting",
+    "summary": "- Links Neumann balance at a three‑fluid junction to Young’s law through a viscoelastic continuum limit.\n- Demonstrates that stiffening a solid suppresses displacement yet permits reversible wet‑dry migration, producing Young’s angle while retaining capillary reaction forces.\n- Provides two rigorous convergence results (finite‑strain clamped model and quadratic half‑space model) explaining coexistence of local Neumann ridges with distant Young angles.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.31707": {
+    "title": "Blockwise friction heterogeneity redistributes stretching in a 2D Gaussian polymer under Batchelor-Kraichnan random flow",
+    "summary": "- Friction heterogeneity leaves equilibrium conformation unchanged but changes block mobilities and relaxation spectrum.\n- In a Batchelor‑Kraichnan flow, the high‑friction block stretches more than the low‑friction block, with asymmetry increasing with friction contrast.\n- Random strain preferentially amplifies the slowest mode, and the effect persists even when global relaxation timescales are matched.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.31721": {
+    "title": "Growth and Interface Engineering of Superconducting TiN on Sapphire by Thermal-Laser Epitaxy",
+    "summary": "- TLE grows TiN on sapphire up to 1150 °C, boosting superconducting performance.\n- High ammonia pressure and temperature create voids at the TiN‑sapphire interface, raising defect density.\n- An 850 °C TiN seed layer suppresses voids, achieving Tc = 8 K, RRR = 2, and 19 µΩ cm resistivity.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.31730": {
+    "title": "R-transforms for non-Hermitian block random matrices: a spherical integral approach",
+    "summary": "- Extends spherical‑integral method to compute $\\mathcal{R}$‑transforms for non‑Hermitian matrices with a fixed $K\\times K$ block structure.\n- Introduces a rank‑$K$ spherical integral yielding a scalar $H$‑transform on $2K\\times2K$ overlap matrices and a matrix‑valued $\\mathcal{R}$‑transform capturing joint block correlations.\n- Uses replica analysis to conjecture a subordination relation for sums of independent block matrices, enabling determination of spectral boundaries for large block‑structured non‑Hermitian ensembles.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.31761": {
+    "title": "A Robust \"Shrink-and-wrap\" Piecewise Construction Transforms 3-Dimensional Mesh Structures into Mechanical Metamaterials",
+    "summary": "- Introduces a “shrink‑and‑wrap” transformation that turns any triangular or tetrahedral mesh into a 3‑D mechanical metamaterial with guaranteed negative Poisson ratio.\n- Embeds counter‑rotating mechanisms within each simplex, enabling locally programmable stiffness while preserving overall geometry.\n- Demonstrated on convex polyhedra, CSG‑designed models, and 3‑D reconstructions from mobile‑phone video, showing scalability to arbitrary complex objects.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.31831": {
+    "title": "Emergent low-energy many-body Hilbert spaces in Chern bands",
+    "summary": "- Dominant many‑body subspace in Chern bands is density‑dependent and built from conformal Hilbert spaces (CHS).\n- Short‑range Coulomb interactions select the smallest CHS, yielding an anyonic description via the many‑body quantum metric.\n- Band mixing is strongly suppressed by ideal trace conditions and short‑range interactions, even at strong coupling.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.31839": {
+    "title": "Zoology of chiral superconductors in Chern bands",
+    "summary": "- Target‑phase optimization uncovers chiral superconductors in a minimal Chern‑band model with screened Coulomb interactions.\n- Exact diagonalization finds a rich set of chiral phases (f‑i f, p±i",
+    "timestamp": "2026-09-29"
+  },
+  "2609.31846": {
+    "title": "Read-Rezayi fractional Chern insulators in modulated Bernal graphene",
+    "summary": "- Realized a $\\mathbb{Z}_3$ Read‑Rezayi fractional Chern insulator at $\\nu=3/5$ in modulated Bernal bilayer graphene with screened Coulomb interactions.\n- Band structure emulates lowest and first Landau levels; at $\\nu=1/2$ the ground state corresponds to the Moore‑Read state.\n- Employed target‑phase optimization with band‑projected exact diagonalization to efficiently identify non‑Abelian phases in realistic high‑dimensional models.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.31860": {
+    "title": "Mechanical Clustering of Cells via the ExtraCellular Matrix",
+    "summary": "- Contractile cells form long‑range aligned/densified ECM fiber bands that mechanically couple cells into clusters.\n- Finite‑element modeling shows ~10 % cell volume fraction suffices for internal stiffening via stress‑band mediation, far below percolation threshold.\n- Percolation of these fiber bands triggers a sharp transition to bulk stiffening, illustrating long‑range cell–cell mechanical communication shapes tissue mechanics.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.31872": {
+    "title": "Connecting finite-size scaling and renormalization-group flows in Anderson localization on random graphs",
+    "summary": "- Finite‑size scaling of eigenfunction moments and RG flows of multifractal dimensions $D_q$ are connected in the Anderson transition on small‑world random graphs.\n- RG flows for $D_q$ with $q<1/2$ confirm a strongly multifractal localized phase, clearly distinct from the localized regime at strong disorder.\n- A single beta function for eigenfunction moments collapses data across disorder strengths, supporting single‑parameter scaling and excluding Kosterlitz‑Thouless‑like two‑parameter behavior.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.32012": {
+    "title": "Chiral Weyl-Kondo semimetallic state through enhanced correlation in CeGaGe",
+    "summary": "- CeGaGe transitions from achiral I4₁md to chiral P4₃ at low T, enabling a chiral Weyl‑Kondo semimetal.\n- Anomalous Hall conductivity remains constant below the Kondo temperature (~7 K) and falls sharply above it, tracking Kondo coherence rather than magnetic order.\n- First‑principles calculations confirm Kramers‑Weyl and symmetry‑enforced band crossings near the Fermi level in the chiral phase.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.32266": {
+    "title": "Symmetry-permuting entanglers for non-invertible symmetry-protected topological phases",
+    "summary": "- Symmetry‑permuting finite‑depth local unitary circuits connect 1+1D SPT phases with non‑invertible symmetries.\n- The three Rep(D₈) SPT phases, previously disconnected by symmetric entanglers, are linked by such circuits.\n- An explicit matrix‑product unitary reproduces the TQFT‑predicted anyon permutation on string order parameters.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.32633": {
+    "title": "GEM: An implementation of the ghost-Gutzwiller approximation for simulating interacting quantum systems",
+    "summary": "- GEM: open‑source Python package implementing the ghost‑Gutzwiller approximation for equilibrium properties of multi‑orbital lattice models.\n- Supports zero‑ and finite‑temperature calculations, symmetry‑broken phases, and integrates with TRIQS for model construction, self‑consistent solving, and observable evaluation.\n- Validated against benchmark results, demonstrating computational efficiency relative to more demanding quantum embedding approaches.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.32968": {
+    "title": "How Much Do We Understand Ce L3 XANES? Ab Initio Insights into Configuration-Specific Screening at the Multiplet--Continuum Frontier",
+    "summary": "- Coupled multiplet–continuum XSpectruplet model links local multiplet dynamics to continuum photoelectron propagation in self‑consistent Kohn–Sham potentials.\n- Two Ce⁴⁺ screening states in CeO₂ split by ~3 eV, weighted 63 %/30 %, arise from collective orbital rehybridization, not extra 4f occupancy.\n- Ce³⁺ in CePO₄ shows a localized 4f¹ spectator that directly participates in multip",
+    "timestamp": "2026-09-29"
+  },
+  "2609.33454": {
+    "title": "Kitaev-Heisenberg model on the square-hexagon-dodecagon lattice",
+    "summary": "- Gapped toric‑code phase in the anisotropic Kitaev model on the SHD lattice, with a single Dirac point at the phase boundary; vortex excitations on square, hexagon, and dodecagon plaquettes realize distinct \\(e/m\\) anyon assignments.\n- In the isotropic Kitaev–Heisenberg model, robust toric‑code phases persist near the Kitaev limits, while four collinear magnetic orders emerge, identified via PEPS, ED, and spin‑wave calculations.\n- The full phase diagram is mapped by tracking Majorana zero modes and vortex‑bound states, delineating transitions between topological and magnetic phases.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.33568": {
+    "title": "Generalized {\\eta}-pairing eigenstates in three-component Hubbard models under a transverse field",
+    "summary": "- Generalized η‑pairing operator for three‑component Hubbard model under transverse field yields exact eigenstates via restricted spectrum‑generating algebra.\n- Eigenstates show off‑diagonal long‑range order; a tensor‑product state realizes quantum many‑body scar dynamics with long‑range magnetic order.\n- Three quench protocols are proposed and numerically validated to prepare the scar state.",
+    "timestamp": "2026-09-29"
+  },
+  "2609.33777": {
+    "title": "Scaling Theory for Learning Low-Energy Quantum Subspaces",
+    "summary": "- Low‑energy subspace can be learned efficiently from nearby sampled states; error scales as \\(d^{2(q+}\\).\n- For gapped local ground states on \\(n\\) sites, error \\(\\sim d^2 (n d^^q\\); \\(nd^2\\) is the natural scaling variable, giving sampling cost \\(K=O([\\log(1/\\varepsilon)]^D)\\).\n- Numerical results on Heisenberg and transverse‑field Ising chains confirm the scaling law and enable finite‑size probes of criticality.",
+    "timestamp": "2026-09-29"
   }
 }
