@@ -2783,5 +2783,85 @@
     "title": "Scaling Theory for Learning Low-Energy Quantum Subspaces",
     "summary": "- Low‑energy subspace can be learned efficiently from nearby sampled states; error scales as \\(d^{2(q+}\\).\n- For gapped local ground states on \\(n\\) sites, error \\(\\sim d^2 (n d^^q\\); \\(nd^2\\) is the natural scaling variable, giving sampling cost \\(K=O([\\log(1/\\varepsilon)]^D)\\).\n- Numerical results on Heisenberg and transverse‑field Ising chains confirm the scaling law and enable finite‑size probes of criticality.",
     "timestamp": "2026-09-29"
+  },
+  "2609.35838": {
+    "title": "Memory-induced optimal switching in a dynamic Ising-Kuramoto model",
+    "summary": "- Combines Ising spins and continuous phases in a globally coupled stochastic system with Glauber switching and Ornstein‑Uhlenbeck noise.\n- Shows a nonmonotonic synchronization threshold \\(K_c\\) minimized at an optimal finite switching rate, balancing Glauber response against memory susceptibility.\n- Confirms via theory and simulations the appearance of antiphase composite order, mode mixing, and a τ‑dependent shift of the optimal switching rate.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.35940": {
+    "title": "Discrete Scale Invariance of Ising Mesons",
+    "summary": "- Discrete scale invariance emerges in mesons of a marginal \\(1/r^4\\) transverse‑field Ising chain via an inverse‑square attraction between dressed domain walls.\n- The scale‑anomaly exponent, fixed by spontaneous magnetization and two‑kink threshold curvature, governs meson hierarchy, binding‑energy ratios, and log‑periodic scattering.\n- Exact diagonalization and weak‑field analysis confirm coupled energy–size scaling, realizing quantum limit‑cycle physics in a many‑body magnetic system.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.35960": {
+    "title": "Advancing Fuzzy-Sphere CFTs: $\\mathrm{SO}(3)$-Rotation-Resolving Exact Diagonalization, 3D Ising Heavy Primaries, and Quasi-Hole-Space Projection",
+    "summary": "- SO(-resolving exact diagonalization for fuzzy-sphere CFTs, cutting costs by hundreds.\n- Discovered ~100 3D Ising primaries, including heavy scalars up to Δ≈5 and resolved parity‑odd tension.\n- Quasi‑hole projection shrinks Hilbert space for critical points tied to fractional quantum Hall states, linking CFTs with topological order.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.35977": {
+    "title": "Topological Band Theory for High-Dimensional Parameter Spaces",
+    "summary": "- Extends quantum‑Hall band theory to high‑dimensional flux‑parameter manifolds from genus‑>1 Riemann surfaces and higher‑form gauge couplings.\n- Identifies richer topological invariants (first Chern class + higher curvature terms) that yield protected Kubo‑like responses from current correlations.\n- Illustrates the framework with hyperbolic band theory on the genus‑two Bolza surface, relevant to recent synthetic‑dimension experiments.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.35984": {
+    "title": "Nonreciprocal Chiral Automata",
+    "summary": "- Introduces a lattice‑gas cellular automaton with chiral collisions that yields a nonzero odd pressure coefficient.\n- Shows that a local parity‑breaking collision acts as an effective magnetic field, converting bulk viscosity into odd pressure.\n- Derives general relations between Hall viscosity, odd pressure, and odd torque and their parity‑even counterparts.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36027": {
+    "title": "Spectroscopy of phonon-coupled integer and fractional Chern insulators: emergence of polarons and chirality deficit of graviton mode",
+    "summary": "- Phonons dress excitons (CI) and magnetorotons (FCI) into polarons that soften and herald charge‑order transitions.\n- Polaron energy minima anticipate the ordering wave vectors of the emergent charge‑ordered phases.\n- In FCIs, electron‑phonon coupling boosts opposite‑chirality graviton weight, producing a chirality deficit.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36036": {
+    "title": "Magnetoplasmon molecule",
+    "summary": "- Identified a four‑particle excitation (magnetoplasmon molecule) in a 2D electron gas under magnetic field.\n- Molecule consists of two electrons and two Fermi holes of opposite spin; one hole participates in plasma oscillations while the other neutralizes charge.\n- Studied coupling between the magnetoplasmon molecule and a magnetoexciton condensate.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36041": {
+    "title": "Linking Topological Medium Range Order and Density-Wave Coherence to Metallic Glass Ductility",
+    "summary": "- Combined synchrotron G(r) and 4D‑STEM to quantify geometric and topological medium‑range order in Zr‑based metallic glasses.\n- G(r) coherence length predicts baseline ductility, while topological motifs (Cu‑rich FCC vs Zr‑rich HCP) modulate mechanical response.\n- Increasing Zr suppresses FCC‑like MRO, enlarges coherence volume, and promotes HCP‑like order, enhancing ductility.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36051": {
+    "title": "Excitonic Stripe Order in the Two-Orbital Hubbard-Kanamori Model",
+    "summary": "- Excitonic stripe order emerges as a spatially modulated inter‑orbital particle‑hole coherence in the two‑orbital Hubbard‑Kanamori model.\n- The sign of Hund’s exchange selects the condensate: ferromagnetic Hund favors triplet excitons, antiferromagnetic Hund stabilizes singlet excitons.\n- Doping produces incommensurate excitonic density waves (stripes and spiral triplet textures), while crystal‑field splitting reshapes nesting and can stabilize triplet order even without pair hopping.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36084": {
+    "title": "Measuring trainable degrees of freedom in materials graph neural networks: a random-subspace intrinsic dimension analysis",
+    "summary": "- Uses random‑subspace intrinsic‑dimension analysis to measure how many trainable directions GNNs need to reach near‑final accuracy.\n- Reveals task‑specific dimensional demands: metallic classification and bulk‑modulus need few subspace dimensions, while band‑gap, formation‑energy, and phonon predictions require more.\n- Shows that larger model widths raise absolute dimensional thresholds but keep fractional thresholds stable, and that dataset size mainly impacts band‑gap models.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36258": {
+    "title": "Magnetic properties and Fermi-surface topology of kagome magnet HoV$_6$Sn$_6$",
+    "summary": "- HoV₆Sn₆ orders ferromagnetically below ~4 K with strong anisotropy (≈5 μB /Ho along c, ≈7 μB /Ho in‑plane).\n- Tunnel‑diode‑oscillator measurements reveal quantum oscillations up to ~9 kT, mapping a multi‑sheet Fermi surface and cyclotron masses.\n- Density‑functional calculations show V‑kagome‑derived flat bands, van Hove singularities, Dirac crossings, and a V‑dominated DOS supporting a ferromagnetic ground state.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36353": {
+    "title": "Quantum metric induced nonlinear transport in the hidden loop-current phase of kagome metal RbV$_3$Sb$_5$",
+    "summary": "- Third‑order nonlinear transport shows a sharp kink and strong anisotropy in the longitudinal cubic response at ~35 K, with a magnetic‑field‑odd transverse component, signaling a hidden low‑T phase with loop‑current order.\n- The quantum‑metric quadrupole directly contributes to the longitudinal third‑order response, revealing time‑reversal symmetry breaking and electronic reconstruction.\n- A loop‑current CDW model reproduces the observed angular dependence, demonstrating that higher‑order nonlinear transport can probe subtle symmetry changes via quantum‑metric effects.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36356": {
+    "title": "Artificial versus Natural Atoms: The uncanny capability of the many-body Schr\\\"odinger equation to produce emergent behavior",
+    "summary": "- Review of 25 years of theory and experiments on artificial atoms/molecules forming Wigner molecules.\n- Wigner molecules show quenching of energy gaps, rovibational spectra, entanglement, pinning, and provide an alternative to the fractional quantum Hall effect.\n- Finite quantum systems promise advances in quantum information, quantum computing, and fundamental many‑body physics.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36706": {
+    "title": "Probing the electronic structure of $\\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy",
+    "summary": "- ARPES and X‑ray probes show strongly technique‑dependent electronic structure in UTe₂.\n- Spectroscopy and DFT+DMFT reveal an intermediate‑valence U 5f ground state with mixed 5f²/5f³ character.\n- The combined data provide key benchmarks for connecting the normal‑state electronic structure to its unconventional superconductivity.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36868": {
+    "title": "Quantized Hyperfine Field at an Implanted $\\mu^+$ Site in PrPb$_3$: Interplay between Localized $f$ Electrons and an Interstitial Charged Particle",
+    "summary": "- μ⁺ spin rotation shows spontaneous precession with harmonic frequencies in PrPb₃, first in f‑electron systems.\n- Precession arises from coupling between μ⁺ spin and hyperfine‑enhanced, Ising‑anisotropic ¹⁴¹Pr nuclear spins.\n- The μ⁺ suppresses nearest‑neighbor ¹⁴¹Pr spin dynamics, indicating a local alteration of the f‑electron state.",
+    "timestamp": "2026-09-30"
+  },
+  "2609.36936": {
+    "title": "Ergodicity in a hole-dopped Anderson spin insulator",
+    "summary": "- A single hole in a 1D t‑JXX chain with random magnetic field can thermalize the spin sector at weak disorder, yielding ergodicity and hole delocalization.\n- At stronger disorder the hole localizes with a finite length, restoring the Anderson spin insulator.\n- Numerical results show a disorder‑controlled transition between these regimes.",
+    "timestamp": "2026-09-30"
   }
 }
