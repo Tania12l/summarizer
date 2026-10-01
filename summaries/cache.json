@@ -2863,5 +2863,105 @@
     "title": "Ergodicity in a hole-dopped Anderson spin insulator",
     "summary": "- A single hole in a 1D t‑JXX chain with random magnetic field can thermalize the spin sector at weak disorder, yielding ergodicity and hole delocalization.\n- At stronger disorder the hole localizes with a finite length, restoring the Anderson spin insulator.\n- Numerical results show a disorder‑controlled transition between these regimes.",
     "timestamp": "2026-09-30"
+  },
+  "2609.38247": {
+    "title": "Accidental accuracy and formal consistency in $GW$+BSE: Exact benchmarks and regime-dependent error cancellation",
+    "summary": "- GW+BSE optical gaps appear accurate because an underestimated GW gap cancels an oversized bare‑exchange kernel, despite formal inconsistency.\n- Benchmarking the extended Hubbard dimer shows this cancellation is optimal only in the weak‑binding regime; the frozen‑W construction fails at all binding strengths.\n- For strongly bound excitons, static kernels break down, indicating the need for beyond‑static‑kernel physics.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38317": {
+    "title": "Hidden Angular Momentum Loop Currents in Symmetric Crystals",
+    "summary": "- Loop currents emerge from lattice dynamics, sustained by quantum and thermal fluctuations.\n- In a symmetric 2‑D elastic lattice, neighboring plaquettes carry opposite currents while site angular momentum averages to zero.\n- Directional elastic interactions in locally symmetry‑lowered environments organize these currents into a compensated, temperature‑persistent pattern.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38365": {
+    "title": "Geometry and Mechanics of Ribbon Gridshells",
+    "summary": "- Ribbon gridshells: thin-sheet metamaterial formed by long, narrow ribbons intersecting at prescribed angles.\n- Coarse-grained equations derived; solutions classified by ribbon intersection patterns, enabling arbitrary Gaussian curvature design.\n- Soft modes exhibit both rigid and anomalously soft behavior, confirmed by experiment and numerics.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38404": {
+    "title": "Energy-Efficient Non-Volatile Photonic Switching via Composition-Engineered Sn-Doped GST",
+    "summary": "- Sn alloying (5–10 at.%) cuts amorphization and crystallization energies, lowering programming energy.\n- 10 at.% Sn devices endure >1000 cycles with modest extinction‑ratio loss; >10 at.% Sn raises energy due to phase segregation.\n- Switching speed unchanged; encapsulation could mitigate PCM migration and void formation.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38451": {
+    "title": "Ab initio calculated diamagnetic and paramagnetic susceptibility of carbonate minerals",
+    "summary": "- DFT‑based calculations reproduce calcite’s diamagnetic susceptibility and AMS, validating the method for diamagnetic phases.\n- New intrinsic diamagnetic reference values are given for magnesite and dolomite, correcting for magnetic‑impurity contamination.\n- Fe²⁺/Mn²⁺ substitution models show paramagnetic anisotropy dominated by orbital magnetisation along the c‑axis, matching experimental trends.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38464": {
+    "title": "Morphodynamics of lipid vesicles under osmotic forcing",
+    "summary": "- Osmotic shock induces rapid buckling, wrinkle smoothing, then slow invagination of lipid vesicles, controlled by a single dimensionless parameter Γ.\n- Linear stability predicts buckling wavelength and growth rate; buckling time scales as Γ⁻², matching simulations.\n- Folding dynamics reverse elastic energy flow, with bending energy released and dissipated by membrane viscosity; folding time scales as Γ⁻²⁄³, confirming the continuum model.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38478": {
+    "title": "Stress-based structure optimization for a range-separated hybrid van der Waals density functional",
+    "summary": "- Ported AHBR RSH vdW‑DF to VASP, enabling robust stress‑based unit‑cell optimization for complex matter.\n- Validated AHBR‑VASP against AHBR‑QE on non‑covalent interactions, bulk cohesion, and distorted‑rocksalt metal monoxides.\n- Applied AHBR‑VASP to predict layer‑stacking motifs in the C₂N covalent‑organic framework, illustrating soft‑matter discovery.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38481": {
+    "title": "Results of Classical and Nonclassical theories of nucleation for ordering transition in barium titanate",
+    "summary": "- Compares classical and nonclassical nucleation theories for the ordering transition in BaTiO₃.\n- Applies a nonclassical model to the first‑order paraelectric cubic → ferroelectric tetragonal transition.\n- Shows that the nonclassical approach captures nucleation behavior in this phase change.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38509": {
+    "title": "Measures of Chaotic Advection in Simulations of Active Nematics",
+    "summary": "- Active MT bundles driven by ATP produce +½ defects that braid, generating chaotic advection quantified by topological entropy and Lyapunov exponent.\n- Continuum models compared: standard Beris‑Edwards (BE) versus Beris‑Edwards with nematic locking (BENL), which enforces collective rotation constraints.\n- BENL reproduces experimental defect dynamics and mixing metrics more accurately, supporting the nematic locking principle.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38520": {
+    "title": "Modeling density variations in two-dimensional microtubule-based active nematics",
+    "summary": "- Introduces a density‑explicit model for 2‑D microtubule active nematics, moving beyond constant‑density assumptions.\n- Generates simulations that reproduce experimental striation patterns and defect creation/annihilation dynamics.\n- Accurately captures behavior in confined geometries, such as circular wells.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38581": {
+    "title": "Theory of criticality-enabled $U(1)$ symmetry breaking in a class of 1+1D systems",
+    "summary": "- Shows spontaneous U(symmetry breaking at 1+1D Lifshitz critical points via two periodic scalars with Berry‑phase coupling.\n- Finds U(‑charged vertex \\(e^{i\\beta\\theta}\\) orders long‑range while conjugate \\(e^{i\\beta\\phi}\\) decays stretched‑exponentially (\\(\\propto|x|^{2/3}\\)).\n- Confirms predictions with large‑N theory, analytic \\(z\\neq1\\) criterion, and DMRG on an itinerant‑fermion chain, revealing long‑range U(",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38740": {
+    "title": "Sign problem and criticality in world-line quantum Monte Carlo methods",
+    "summary": "- World‑line QMC exhibits a sign problem for free fermions, tied to non‑analytic behavior of a hard‑core boson reference model.\n- The sign’s temperature/size dependence reflects the 2D Kosterlitz–Thouless transition of the boson system.\n- Phase‑transition information remains encoded in the sign statistics even when direct sign sampling becomes impractical.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38848": {
+    "title": "Quantum quenches of scar states in the Affleck-Kennedy-Lieb-Tasaki model via Clifford augmented tensor network simulation",
+    "summary": "- Clifford‑augmented MPS efficiently captures highly magical AKLT ground and scar states (high stabiliser Rényi entropy, low entanglement).\n- TDVP evolution shows string order in scar states decays after a quench to the Heisenberg Hamiltonian, with faster decay for larger bimagnon number.\n- The decay illustrates that symmetry‑preserving quenches can strongly affect topological string order even within the same Haldane phase.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.38973": {
+    "title": "Eigenstate thermalization at the edge of the many-body spectrum",
+    "summary": "- Incompatible local \\(\\mathbb{Z}_2\\) symmetries create exponentially large degeneracies yet preserve non‑integrability.\n- Extensive conserved quantities that are mutually incompatible do not destroy ETH.\n- ETH survives deep into the many‑body spectrum, enabling thermalization even near the ground state.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.39175": {
+    "title": "Tunability of the structural and magnetic transition in kagome material: PrIr$_3$B$_2$",
+    "summary": "- Temperature and pressure drive a monoclinic ↔ hexagonal structural transition, fully monoclinic at 280 K or 2 GPa.\n- Monoclinic lattice anomalies at ~250 K and ~110 K correlate with a second MIM transition and resistivity crossover, hinting at charge‑ordered partial Fermi‑surface gapping.\n- Antiferromagnetic ordering at 10 K opens a persistent superzone gap, underscoring robust magnetic and electronic order in the kagome lattice.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.39258": {
+    "title": "Multipartite entanglement hidden in vector-chiral correlations of spin-1/2 chains",
+    "summary": "- Established a bound on nearest‑neighbour vector chirality: QFI per spin ≤ k + 1 for k‑producible states, certifying entanglement depth.\n- Showed multipartite entanglement in J₁–J₂ XXZ spin‑½ chains using iDMRG and thermal pure quantum methods at zero and finite temperatures.\n- Suggested detection via spin‑current coupling to electric polarization, enabling dielectric loss spectroscopy to probe vector‑chiral entanglement.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.39303": {
+    "title": "Varying A-site radius and size disorder to tune magnetic ordering in compositionally complex perovskite oxides",
+    "summary": "- Synthesized single‑phase AM₇O₃ (12 cations) that ferrimagnetically orders 89–115 K.\n- Transition temperature varies with A‑site radius, size disorder, and valence electrons.\n- Demonstrates compositional tuning of magnetic ordering in complex perovskite oxides.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.39404": {
+    "title": "Chiral quantum chaos around exponentially many zero modes in the quantum breakdown model",
+    "summary": "- Zero‑dimensional, all‑to‑all quantum breakdown model shows Z₄ periodicity in fermion number, mirroring SYK symmetry classes.\n- Hosts exponentially many many‑body zero modes protected by a chiral index across all five chiral symmetry classes.\n- Spectral gap scaling and hard‑edge statistics reveal symmetry‑enriched quantum chaos.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.39417": {
+    "title": "Qantum Well Resonant Tunneling Diode Probe of Correlated States in Twisted Bilayer MoS$_2$",
+    "summary": "- Developed a quantum‑well resonant tunneling diode (QWRTD) to probe electronic states in ≈57° twisted bilayer MoS₂.\n- Detected a robust integer insulating state at ν = 1 across all displacement fields, and a displacement‑field‑induced fractional insulating state at ν = 3/4 for D < –75 mV/nm.\n- Temperature and magnetic‑field studies indicate the ν = 3/4 state is a generalized Wigner crystal, with similar correlated states observed in a device at ≈5°.",
+    "timestamp": "2026-10-01"
+  },
+  "2609.39418": {
+    "title": "Weyl superconductivity from Feshbach resonance in the three-dimensional repulsive Hubbard model",
+    "summary": "- 3D Fermi‑Hubbard model superconductivity driven by near‑resonant dopant bound states via a Feshbach‑type mechanism.\n- Strong‑coupling pairing yields a time‑reversal symmetry‑breaking \\(d_{x^2-y^2}+i d_{z^2}\\) order parameter.\n- The superconducting phase hosts gapless Weyl points and a calculable critical temperature.",
+    "timestamp": "2026-10-01"
   }
 }
