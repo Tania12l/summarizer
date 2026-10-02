@@ -2963,5 +2963,95 @@
     "title": "Weyl superconductivity from Feshbach resonance in the three-dimensional repulsive Hubbard model",
     "summary": "- 3D Fermi‑Hubbard model superconductivity driven by near‑resonant dopant bound states via a Feshbach‑type mechanism.\n- Strong‑coupling pairing yields a time‑reversal symmetry‑breaking \\(d_{x^2-y^2}+i d_{z^2}\\) order parameter.\n- The superconducting phase hosts gapless Weyl points and a calculable critical temperature.",
     "timestamp": "2026-10-01"
+  },
+  "2610.00100": {
+    "title": "Transferable Graph Neural Network Surrogates for Molecular Dynamics Across Crystal Symmetries",
+    "summary": "- Single GNN surrogate predicts atomic displacements for MD across FCC Al, BCC Fe, HCP Mg without forces or integration.\n- Achieves sub‑Ångström accuracy (~10⁻⁴ Å²) and stable nanosecond‑scale autoregressive propagation.\n- Reproduces thermodynamic and structural features (RDF, MSD, coordination shells) without symmetry‑specific tuning.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00110": {
+    "title": "Emergence of electronic modes and triplet pairing from spin-1 antiferromagnetic insulators in the Kanamori-Hubbard model",
+    "summary": "- Doping and temperature generate new electronic modes inside the gap of spin‑1 antiferromagnetic insulators in the two‑orbital Kanamori‑Hubbard model.\n- These modes exhibit momentum‑shifted spin‑mode dispersions; doping‑induced modes differ between orbitals, whereas temperature‑induced modes follow the low‑energy spin mode.\n- With weak inter‑orbital repulsion, doping induces onsite spin‑triplet pairing that opens a pair‑breaking gap, while temperature‑induced modes persist.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00124": {
+    "title": "Loading history and window geometry bound compact-state slip ranking during granular shear startup",
+    "summary": "- Compact neural score of stress, pressure, coordination, non‑affine motion, and force‑network metrics ranks near‑slip windows better than prevalence but weaker than loading‑history (elapsed strain) alone.\n- Recovery‑aware analysis keeps 4 % of activity‑gated events, favoring longer preceding intervals, yet remains compatible with a geometry‑null model.\n- No distinct short‑horizon precursor emerges beyond loading history; compact observables provide temporally aligned slip information but are bounded by loading‑history and window‑geometry effects.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00152": {
+    "title": "Quasi-static loading of granular media as a linear complementarity problem",
+    "summary": "- Casts quasi‑static granular response as a linear complementarity problem to handle friction‑induced incremental nonlinearity.\n- Derives the LCP including particle curvature, frictional contact stiffness, and displacement constraints.\n- Identifies eight pathologies (bifurcations and instabilities), including a newly reported continuous‑bounded bifurcation.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00192": {
+    "title": "Migration Flows: Population Scaling and Heavy Tails",
+    "summary": "- Migration between counties explains population scaling of mean intercity flows and heavy‑tailed net‑flow distributions.\n- Density‑dependent departure/arrival activities make mean flows scale with origin/destination populations; county‑pair net flows are Gaussian with SD ∝ mean.\n- Averaging over a correlation distribution yields an intermediate power law with a Gaussian cutoff, and a stochastic model generates the required variance distribution.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00273": {
+    "title": "Tunable flat bands and their signatures in electronic specific heat of an Aharonov-Bohm triangular quantum network",
+    "summary": "- Analytical condition for a momentum‑independent flat band in a triangular AB‑flux quantum network.\n- AB flux tunes the flat‑band energy position via interference and hopping asymmetry.\n- Flat‑band signature appears as a distinct feature in electronic specific heat, linking thermal response to band flatness.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00324": {
+    "title": "Causality violations in cluster GW+DMFT: Exact Lehmann moments and the necessity of non-local vertex corrections",
+    "summary": "- GW self‑energies exhibit causality violations; GW+DMFT, though incorporating exact local self‑energies, still fails to enforce causality.\n- The two‑site dimer hides the violation due to symmetry, while a frustrated three‑site ring exposes explicit Matsubara‑causality violations in both GW and GW+DMFT.\n- Exact Lehmann moments show that the high‑frequency tail requires non‑local irreducible vertex corrections; the local‑only truncation in GW+DMFT leaves non‑local RPA resonances uncorrected.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00326": {
+    "title": "Interior contacts in a narrow quantum Hall bar: a two-dimensional self-consistent screening calculation of the current distribution",
+    "summary": "- 2D self‑consistent Thomas‑Fermi‑Poisson calculation of density, filling factor, and current in a 3 µm GaAs/AlGaAs Hall bar with interior contacts.\n- Three regimes for interior contacts across the ν = 2 plateau: galvanically connected (compressible bulk), floating (Hall potential of incompressible bulk), isolated (closed incompressible rings).\n- Two‑terminal resistance between interior contacts rises sharply in floating/isolated regimes; isolation interval ends before the low‑field edge of the plateau and is set by the disappearance of the incompressible bulk.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00336": {
+    "title": "From Quantized Hall Plateaus to Topological Surfaces: Quantum Capacitance as a Unifying Probe",
+    "summary": "- Quantum capacitance directly probes the density of states of topological boundary modes, linking quantum Hall plateaus and Dirac surface states.\n- Self‑consistent screening splits the bulk into compressible/incompressible regions, yet plateaus stay quantised.\n- Local capacitance shows the bulk is field‑dependent and non‑uniform, challenging the assumption of a uniformly gapped bulk.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00351": {
+    "title": "Thermodynamic origins of multimode spinodal decomposition in multicomponent alloys",
+    "summary": "- Multicomponent alloys typically decompose in one pseudobinary mode because unlike elements mix, limiting unstable composition directions.\n- Balanced repulsive triangles and attractive–repulsive pairs can produce two comparable downhill directions, yielding locally varied solid solutions instead of distinct blocks.\n- A phase‑specific screen found Cu‑In‑Ir‑Ti as a candidate with nearly balanced modes, illustrating a design route for microstructures via spinodal decomposition.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00452": {
+    "title": "Anyon Proliferation and Anyon Superconductivity in Higgsing Transitions via Conformal Embeddings",
+    "summary": "- Higgsing via conformal embeddings reduces the gauge group yet preserves or enlarges topological order, enabling anyon proliferation.\n- In the \\(SO(N)_2 \\hookrightarrow SU(N)_1\\) family (\\(N\\ge3\\)), phases share the same intrinsic order but differ in global \\(U(\\) realization; odd \\(N\\) yields a non‑Abelian transition from a fermionic \\(1/N\\) Laughlin state to a charge‑\\(2e\\) anyon superconductor with the same \\(\\mathbb{Z}_N\\) topological order.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00534": {
+    "title": "Near-infrared magnetic linear and non-reciprocal directional dichroism in the chiral antiferromagnet SmFe3(BO3)4",
+    "summary": "- Near‑infrared magnetic linear dichroism appears below T_N and is tunable by rotating the AFM easy‑plane order with a magnetic field.\n- Non‑reciprocal directional dichroism is observed for 4f–4f transitions in a toroidal geometry, revealing strong electric‑magnetic dipole interference.\n- These optical anisotropies provide a route to image and time‑resolve the in‑plane AFM orientation in rare‑earth ferroborates.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00626": {
+    "title": "Mechanism of Incommensurate Magnetic Order in $\\mathrm{BaCo_2(AsO_4)_2}$: Interplay of Frustrated Further-Neighbor Exchanges and Bond-Directional Anisotropy",
+    "summary": "- Incommensurate spiral stabilized by J₂, J₃ frustration plus Γ, Γ′ anisotropies, without a dominant Kitaev term.\n- Extended J₁–K–Γ–Γ′–J₂–J₃ XXZ model, parameters from ab initio, phase diagram mapped with Luttinger‑Tisza and exact diagonalization.\n- Quantum order‑by‑disorder favors an out‑of‑plane FMₓ phase competing with the spiral, underscoring quantum fluctuation effects.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00681": {
+    "title": "The half-filled optical Su-Schrieffer-Heeger-Hubbard model with uniaxial strain",
+    "summary": "- Strain‐induced anisotropic hopping reduces BOW degeneracy from four to two patterns.\n- Phase diagram mapped in e‑ph vs Hubbard U space; critical temperature for BOW order identified.\n- Directional gap opening in BOW phase revealed via analytic continuation of the spectral function.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.00810": {
+    "title": "Local geometry of the Fermi surface and its effect on the electronic characteristics of normal metals",
+    "summary": "- Fine Fermi‑surface features (nearly cylindrical/paraboloidal strips, local flattenings) can strongly modify galvanomagnetic responses.\n- The resulting effects are highly sensitive to the propagation direction of high‑frequency disturbances and to the orientation of an external magnetic field.\n- Experimental observation of these direction‑dependent phenomena is feasible in both conventional and layered metallic systems.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.01337": {
+    "title": "Robustness of the Verwey transition against remanent strain-induced defects in magnetite",
+    "summary": "- Uniaxial compression of stoichiometric magnetite generates line‑like defects and remanent strain fields.\n- Despite this structural disorder, the Verwey transition temperature and its sharpness are unchanged.\n- Dark‑field X‑ray microscopy and AC magnetic susceptibility confirm the transition’s robustness to strain‑induced defects.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.01371": {
+    "title": "Na$_2$Ir$^\\text{IV}$Cl$_6$: The Missing Member of the Perfectly Cubic Vacancy Ordered $A_2$IrCl$_6$ Family, Another Potential $J_{eff}$ = $\\frac{1}{2}$ Ground State Candidate",
+    "summary": "- First synthesis of anhydrous Na₂IrCl₆ single crystals with a perfectly cubic fcc structure.\n- Shows antiferromagnetic ordering at 91 K and remains water‑free and thermally stable up to 453 K.\n- Offers a new platform to explore a potential J_eff = ½ ground state, contrasting with earlier monoclinic Na₂IrCl₆.",
+    "timestamp": "2026-10-02"
+  },
+  "2610.01551": {
+    "title": "Room-temperature Magnetoelastic Coupling in UIr$_4$Al$_{15}$",
+    "summary": "- Giant magnetoelastic coupling near room temperature in UIr₄Al₁₅, seen as lattice‑parameter and bond‑distance anomalies at the magnetic transition.\n- Structural distortions occur without symmetry breaking, directly linking magnetic alignment to subtle changes in atomic spacing and local bonding.\n- Provides a rare bulk intermetallic platform where magnetism and lattice are strongly intertwined, enabling magnetically responsive quantum materials and sensing applications.",
+    "timestamp": "2026-10-02"
   }
 }
