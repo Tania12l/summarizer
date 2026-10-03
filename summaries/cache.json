@@ -3053,5 +3053,50 @@
     "title": "Room-temperature Magnetoelastic Coupling in UIr$_4$Al$_{15}$",
     "summary": "- Giant magnetoelastic coupling near room temperature in UIr₄Al₁₅, seen as lattice‑parameter and bond‑distance anomalies at the magnetic transition.\n- Structural distortions occur without symmetry breaking, directly linking magnetic alignment to subtle changes in atomic spacing and local bonding.\n- Provides a rare bulk intermetallic platform where magnetism and lattice are strongly intertwined, enabling magnetically responsive quantum materials and sensing applications.",
     "timestamp": "2026-10-02"
+  },
+  "2610.02167": {
+    "title": "Polynomial-time classical and quantum simulation of quantum impurity models",
+    "summary": "- Classical algorithms run in polynomial time to estimate ground‑state energy and partition function of quantum impurity models.\n- Complexity improved from quasipolynomial to polynomial for static properties.\n- Dynamical properties (nonequilibrium Green’s functions) are classically hard but efficiently computable on a quantum computer, capturing full quantum computational power.",
+    "timestamp": "2026-10-03"
+  },
+  "2610.02097": {
+    "title": "A No-Go Theorem for Order-Two Clifford Electric-Magnetic Duality",
+    "summary": "- Z₂ toric code: any locality‑preserving Clifford realizing EM duality cannot be order‑two.\n- Z_N toric code: order‑two Clifford exists only for odd N; impossible for even N.\n- Shows emergent duality group law need not lift to a microscopic Clifford, via unavoidable string crossings.",
+    "timestamp": "2026-10-03"
+  },
+  "2610.02075": {
+    "title": "Universal Bound and Phase Transition in Many-Body Fermionic Non-Gaussianity",
+    "summary": "- Derived universal upper bound and Haar mean of magic Rényi entropy, showing typical Haar‑random states reach maximal density \\(\\ln(4/\\) per Majorana in the large‑system limit.\n- Showed that MRE can differ extensively between states with identical covariance matrices, revealing non‑Gaussianity beyond covariance.\n- Identified a first‑order transition in MRE density during imaginary/real‑time evolution under the SYK Hamiltonian, marked by a kink and permutation‑symmetry breaking, absent in the thermal free energy.",
+    "timestamp": "2026-10-03"
+  },
+  "2610.02006": {
+    "title": "Magnetic Phase Diagrams and Spin Hamiltonian of Monoclinic $α$-RuCl$_3$ from Angle-Dependent Torque Studies",
+    "summary": "- Monoclinic α‑RuCl₃ (≤100 µm) shows a 14 K magnetic transition, higher than the 7 K zigzag order in rhombohedral samples.\n- Torque magnetometry up to 16 T uncovers anisotropic phase diagrams with reduced symmetry and larger critical fields.\n- Field‑induced phases differ from rhombohedral counterparts, implying distinct spin‑Hamiltonian parameters.",
+    "timestamp": "2026-10-03"
+  },
+  "2610.01990": {
+    "title": "Frustration-induced multiferroicity in hauerite MnS2",
+    "summary": "- Below 48 K MnS₂ develops collinear AFM order, doubles the unit cell, breaks inversion symmetry, and shows up to 360 µC/m² ferroelectric polarization (type",
+    "timestamp": "2026-10-03"
+  },
+  "2610.01860": {
+    "title": "Approximation theorems for fermionic Gaussian states",
+    "summary": "- Quantitative monogamy of two‑point correlations in fermionic Gaussian states via Majorana covariance matrices.\n- Product‑state approximations for ground‑state and finite‑temperature energies on high‑degree graphs with error \\(O(D^{-1/2})\\).\n- Finite Gaussian de Finetti theorem (\\(O(k/n)\\) trace‑norm closeness) and \\(O(r^{-1})\\) decay of conditional mutual information, yielding \\(O(r^{-1/2})\\) trace‑norm recoverability.",
+    "timestamp": "2026-10-03"
+  },
+  "2610.01714": {
+    "title": "Complex magnetic phase diagrams in Tb$_2$IrAl$_4$Ge$_2$ and Er$_2$IrAl$_4$Ge$_2$",
+    "summary": "- Tb₂IrAl₄Ge₂ orders antiferromagnetically at 25 K, showing field‑induced metamagnetic transitions and nonlinear Hall effect.\n- Er₂IrAl₄Ge₂ undergoes three zero‑field transitions and hosts multiple low‑field, competing magnetic phases.\n- Both Ir‑based compounds expand the Ln₂MAl₄Ge₂ family, revealing diverse magnetic behavior in the Tb₂NiAl₄Ge₂‑type structure.",
+    "timestamp": "2026-10-03"
+  },
+  "2610.01600": {
+    "title": "Why polar excitons stay sharp: parity protection of the center-of-mass recoil channel in exciton-phonon scattering",
+    "summary": "- Fröhlich coupling generates a universal COM‑recoil channel at \\(q_*=\\sqrt{2M_{\\rm ex}\\hbar\\omega_{\\rm LO}}/\\hbar\\) that yields a \\(1s\\to1s\\) absorption rate ∝ \\(N_{\\rm LO}(T)\\).\n- The recoil linewidth scales as \\(\\gamma_{\\rm LO}^{\\rm recoil}\\propto\\mathcal{F}_{1s,1s}(q_*)^2\\) and vanishes for mass‑symmetric excitons (η≈due to destructive electron–hole interference, explaining the sharp perovskite exciton lines.\n- The observed 27",
+    "timestamp": "2026-10-03"
+  },
+  "2610.01594": {
+    "title": "Mass-asymmetry-controlled exciton dressing and dissociation in a quantum lattice model",
+    "summary": "- Equal‑mass excitons are protected from phonon dressing by an exchange selection rule, preventing polaronic cloud formation.\n- Increasing mass asymmetry breaks this rule, inducing a strong local polaronic dressing and an internal dressing crossover.\n- The dissociation boundary is set by the global balance of Coulomb binding and polaronic stabilization, largely independent of dressing, and the symmetry that blocks dressing also drives dissociation at strong coupling.",
+    "timestamp": "2026-10-03"
   }
 }
