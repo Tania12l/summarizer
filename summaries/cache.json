@@ -3098,5 +3098,95 @@
     "title": "Mass-asymmetry-controlled exciton dressing and dissociation in a quantum lattice model",
     "summary": "- Equal‑mass excitons are protected from phonon dressing by an exchange selection rule, preventing polaronic cloud formation.\n- Increasing mass asymmetry breaks this rule, inducing a strong local polaronic dressing and an internal dressing crossover.\n- The dissociation boundary is set by the global balance of Coulomb binding and polaronic stabilization, largely independent of dressing, and the symmetry that blocks dressing also drives dissociation at strong coupling.",
     "timestamp": "2026-10-03"
+  },
+  "2610.02234": {
+    "title": "Spectral Crossings Diagnose Multiply Quantized Vortex Splitting",
+    "summary": "- Spectral zero‑energy crossings in a two‑component Haldane sphere reveal whether a charge‑\\(r\\) vortex is fused or split into \\(r\\) unit zeros.\n- The critical detuning scales as \\(|\\tau_c|\\sim N^{-(r+}\\) for a fused vortex and \\(\\sim N^{-2}\\) for resolved unit zeros, confirmed by Feshbach reduction and numerics for \\(r=1,2,3\\).\n- When a partially split cluster’s diameter \\(d\\) reaches the magnetic length \\(\\ell_B\\), the scaling crosses over, enabling spectroscopic inference of \\(d\\) below imaging resolution.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02239": {
+    "title": "Reply to \"Comment on 'Topography of Fermi arcs in t-PtBi2 using high-resolution angle-resolved photoemission spectroscopy'\"",
+    "summary": "- Confirmed Fermi arcs in t‑PtBi₂ are disconnected segments crossing EF only between Weyl points, with a finite band gap elsewhere.\n- Found no superconducting gap down to 3 K; the Comment’s claim stems from misidentifying arc locations and using unsuitable interpolated data.\n- Results agree with STM showing surface superconductivity only below 3 K, the temperature at which ARPES data were taken.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02326": {
+    "title": "Fluctuation-induced magnetoresistance in graphene Hall bars at charge neutrality",
+    "summary": "- Quantitative theory of fluctuation‑induced positive magnetoresistance in graphene Hall bars at charge neutrality.\n- Analytic MR expressions depend on Hall‑bar geometry, orientation, and momentum‑relaxation effects.\n- Thermal‑fluctuation coupling of charge transport and hydrodynamic flow boosts conductivity, producing strong MR at weak fields.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02346": {
+    "title": "Traveling waves, phase separation and pattern formation in the active stepping stone model",
+    "summary": "- Minimal run‑and‑tumble active stepping stone model couples migration with birth–death dynamics.\n- Hydrodynamic equations show activity increases invasion wave speed, yet excessive activity breaks wave coherence.\n- In two dimensions, activity triggers dynamic clustering and pattern formation governed by migration rules.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02380": {
+    "title": "Thickness-Controlled Ferroelectric-to-Ionic Transport in CuCrP2S6 at Room Temperature",
+    "summary": "- <40 nm CCPS flakes retain reversible ferroelectric switching; >40 nm flakes lose FE and show Cu⁺‑driven ionic conduction and memristive switching.\n- Thickness dictates the competition between ferroelectricity and ionic transport, while light boosts ionic mobility and couples photo‑ and ferroelectric responses.\n- The work maps distinct thickness regimes, revealing tunable multifunctional electronic, photonic, and neuromorphic behavior in a single vdW material.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02400": {
+    "title": "Chiral Vacuum Engineering of Quantum Hall Matter",
+    "summary": "- Chiral cavity splits co‑rotating modes (vacuum Rabi splitting, bare ground state) from counter‑rotating modes (crossing, energy shifts, two‑mode squeezed ground state) via SU(/SU(1,symmetry.\n- Predicts chirality‑dependent Hall resistivity corrections and asymmetric Shubnikov–de Haas oscillations, absent in achiral cavities.\n- Proposes detecting the squeezed ground state through current‑fluctuation measurements, feasible with recent terahertz chiral cavity parameters.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02409": {
+    "title": "Projective symmetry group classification of fermionic $Z_2$ spin liquids on the dipolar-octupolar pyrochlore magnets",
+    "summary": "- Constructed and classified 48 fermionic Z₂ spin‑liquid PSGs on the dipolar‑octupolar pyrochlore lattice.\n- Identified symmetry‑allowed mean‑field ansätze yielding gapless or flat‑band spinon spectra distinct from spin‑½ and bosonic cases.\n- Computed spinon bands, specific heat, and dynamical structure factor; near‑linear Cₚ(T) and broad continua match experimental gapless fractionalized thermodynamics.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02411": {
+    "title": "Distinguishing sodium-ion penetration and sustained transport in realistic hard carbon nanostructures",
+    "summary": "- Higher carbon density reduces pore accessibility, lowering Na⁺ uptake while charging persists.\n- Na⁺ remains partially solvated and increasingly coordinated to the carbon framework under applied potential.\n- Open HC‑C1 structures enable deeper, sustained Na⁺ displacement; denser carbons show only transient deep penetration before returning to the interface.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02422": {
+    "title": "Highly Tunable Photon-Magnon Coupling Governed by Collective-Mode Profiles in Reconfigurable Dielectric-Resonator Arrays",
+    "summary": "- Site‑selective magnon–photon coupling achieved with reconfigurable dielectric resonator arrays on a microstrip line.\n- Coupling strength governed by the local photon field amplitude; modes with a field node at the YIG sphere show no splitting.\n- Coupled‑mode model and full‑wave simulations predict position‑dependent coupling, enabling post‑fabrication control for hybrid quantum architectures.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02426": {
+    "title": "Breakdown of material-time scaling in the microscopic dynamics of metallic glasses",
+    "summary": "- Diffraction peak shifts follow material‑time scaling via the Tool‑Narayanaswamy‑Moynihan model.\n- Microscopic autocorrelations violate material‑time scaling, exhibiting compressed‑exponential decay even for ±4 K jumps.\n- Transient stress‑mediated volumetric frustration drives the compressed dynamics, disappearing upon equilibration.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02635": {
+    "title": "Fractionalization-Induced Time-Reversal Symmetry Breaking at Continuous Superconducting Transitions in Low-Symmetry Kondo Lattices",
+    "summary": "- Projective time‑reversal on Kondo fields (squared to –forbids a TR‑invariant condensate, enforcing twofold degeneracy of critical modes.\n- The resulting continuous transition simultaneously breaks U((superconductivity) and time‑reversal symmetry, even with only one‑dimensional crystal irreps.\n- An anisotropic Kondo‑Kitaev model illustrates the mechanism, yielding co‑existing superconductivity, TR breaking, and mirror‑symmetry breaking.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.03145": {
+    "title": "Correlated Metals, Metamagnetism, and Orbital Nematic Order in moir\\'e Materials with Neural Quantum States",
+    "summary": "- Neural‑quantum‑state VMC maps the ν = 2 continuum model on a triangular lattice, revealing a phase diagram versus potential strength and Zeeman field.\n- Strong correlations eliminate the expected band insulator, producing a first‑order metal–insulator transition whose critical potential depends on spin polarization.\n- Unpolarized electrons form an s‑wave molecular insulator, while fully polarized electrons form an orbital‑nematic molecular crystal, generating metamagnetic jumps and multicritical points.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.03513": {
+    "title": "Melting phase diagram of the two-dimensional electron solid in a perpendicular magnetic field",
+    "summary": "- Measured thermal melting phase diagram of a 2D electron solid in SiGe/Si/SiGe quantum wells via double‑threshold V‑I onset density.\n- Found that a perpendicular magnetic field raises the onset density (maximal at low T) and increases the melting temperature, in line with theory.\n- Detected a plateau in melting temperature versus electron density at fixed field, hinting at resonance modes in crystallites.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.03569": {
+    "title": "Consistent perturbation expansions in screened interactions",
+    "summary": "- Introduces exact perturbation expansions in screened Coulomb interactions up to second order.\n- Emphasizes a consistent expansion around the Kohn‑Sham system for improved accuracy.\n- Demonstrates superior energy and spectral results on the symmetric Hubbard dimer across correlation regimes.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.03610": {
+    "title": "Decohering Kitaev's Sixteenfold Way: A Holographic Approach",
+    "summary": "- Uses a 3D Walker‑Wang holographic construction to analyze anyon decoherence in 2D topological orders.\n- Conjectures a three‑step mapping (lift → transition → trace out bulk) that yields the mixed‑state density matrix after decoherence.\n- Finds that decohering the fermion in all 16 Kitaev phases produces a mixed topological order, with the 3D bulk becoming the fermionic toric code.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.03678": {
+    "title": "Finite-momentum pairing and magnetic halos in a spin-imbalanced Holstein model",
+    "summary": "- Holstein model’s retarded attraction suppresses the sign problem, allowing unbiased QMC of spin‑imbalanced systems at low temperatures.\n- Magnetization drives a crossover from zero‑momentum to finite‑momentum (FFLO) pairing, evidenced by oscillating pair correlations and a susceptibility peak at non‑zero Q.\n- At high density (n≈FFLO coexists with short‑range checkerboard CDW and long‑range staggered spin “magnetic halos,” providing clear experimental signatures.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.02312": {
+    "title": "Counterdiabatic Quantum Circuits",
+    "summary": "- Presents a Hamiltonian‑free theory for adiabatic gauge potentials (AGP) of parameter‑dependent unitary operators.\n- Computes exact/regularized AGP via a Hermitian banded linear system, avoiding diagonalization or matrix logarithms, with rapid Krylov convergence.\n- Extends counterdiabatic shortcuts and AGP diagnostics to Floquet systems and quantum circuits, demonstrated on the kicked top and integrable brickwork circuits.",
+    "timestamp": "2026-10-05"
+  },
+  "2610.03186": {
+    "title": "Topological phase transition in a symmetric blockade structure",
+    "summary": "- iDMRG on a cylinder maps the full phase diagram of a blockade Hamiltonian with local ℤ₂ symmetry.\n- A single continuous transition separates a topologically ordered phase from a trivial paramagnet, stable up to Rabi drives ≈ the system’s energy scale.\n- The charge gap remains open across the transition, while the symmetric sector gap closes, signaling flux condensation and charge confinement in the trivial phase.",
+    "timestamp": "2026-10-05"
   }
 }
