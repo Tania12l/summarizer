@@ -3188,5 +3188,105 @@
     "title": "Topological phase transition in a symmetric blockade structure",
     "summary": "- iDMRG on a cylinder maps the full phase diagram of a blockade Hamiltonian with local ℤ₂ symmetry.\n- A single continuous transition separates a topologically ordered phase from a trivial paramagnet, stable up to Rabi drives ≈ the system’s energy scale.\n- The charge gap remains open across the transition, while the symmetric sector gap closes, signaling flux condensation and charge confinement in the trivial phase.",
     "timestamp": "2026-10-05"
+  },
+  "2610.03730": {
+    "title": "Uniform meandric systems as percolation on planar maps: conjectures and a numerical study",
+    "summary": "- Numerical analysis of uniform meandric systems via random walk encoding, viewed as critical percolation on random planar maps.\n- Strong negative association found between opposite open crossings; conjectures on asymptotic box‑crossing behavior.\n- Introduces a law‑preserving peak/valley flip dynamics, showing percolation decorrelates faster than the underlying map.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03766": {
+    "title": "Magnon chiral damping beyond the Dzyaloshinskii-Moriya interaction",
+    "summary": "- Antisymmetric Gilbert damping alone generates magnon chiral damping, independent of Dzyaloshinskii‑Moriya interactions.\n- Effective damping becomes wave‑vector dependent: scalar part ∝ k², antisymmetric part ∝ k, reproducing experimental nonreciprocity.\n- In two‑sublattice magnets, cross‑sublattice antisymmetric damping yields nonreciprocal magnon relaxation without DM.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03767": {
+    "title": "Efficient, Geometry-only Prediction of Advection-dominated Particle Transport through Saturated Soils",
+    "summary": "- Introduced minD‑PNM, a pore‑network model that predicts microplastic breakthrough curves using only μCT pore geometry.\n- Uses a \\(t^{-3}\\) transit‑time distribution and minimum‑dissipation partitioning to propagate transport through the network.\n- Benchmarked against lattice‑Boltzmann/immersed‑boundary simulations and quartz‑sediment column experiments, achieving good agreement.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03768": {
+    "title": "From Dirac surface response to Casimir forces in Bumblebee-CFJ electrodynamics",
+    "summary": "- Casimir force between planar massive Dirac sheets and a Lorentz‑violating Bumblebee–CFJ vector sector is computed with Lifshitz scattering using the one‑loop polarization tensor.\n- Repulsion originates from CFJ‑induced TE/TM mode mixing and spatial dispersion, not from Hall conductivity; the surface response stays parity‑even.\n- Increasing Dirac mass weakens the force and changes its long‑range scaling, while the CFJ parameter tunes attractive–repulsive transitions.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03773": {
+    "title": "Tactile Perception through Fluid-Solid Interaction",
+    "summary": "- Fluid‑filled elastomeric channel transduces touch via pressure changes at two external sensors, enabling electronics‑free tactile sensing.\n- Machine‑learning pipeline (feature extraction, soft clustering, neuro‑fuzzy inference) decodes position and force from pressure patterns.\n- Demonstrated 1‑D and 2‑D touch localization, robust to underwater or magnetic‑interference environments.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03774": {
+    "title": "Soap Films Amplify the Air-Water Interface but Neither Produce Detectable H2O2 Nor Enhance Reduction of Gold Ions",
+    "summary": "- Soap films fail to produce detectable H₂O₂ even after 300 cycles.\n- Soap films do not enhance Au³⁺ reduction; gold nanoparticles form spontaneously in bulk.\n- H₂O₂ generation and Au nanoparticle formation are linked to bulk HAuCl₄ chemistry, not to the air‑water interface.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03778": {
+    "title": "Harnessing Measurement Error as a Thermodynamic Resource in Two-Reservoir Information Engines",
+    "summary": "- TRIEs with a two‑level system show monotonic work, efficiency, and fluctuation dependence on measurement error governed by demon control parameters.\n- Conditions identified that allow useful work at any error level and simultaneous optimization of performance metrics.\n- When the demon’s energy cost comes solely from the cold reservoir, the efficiency can exceed the Carnot bound, and a dual‑Otto cycle TRIE with a trapped \\(^{40}\\mathrm{Ca}^+\\) ion is proposed.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03782": {
+    "title": "Predicting and extending the bubble-free operating limit of capillary-fed water electrolysis",
+    "summary": "- Bubble-free limit in capillary-fed electrolyzers is set by separator pore size, balancing nucleation supersaturation and electrolyte permeability.\n- Reducing pore size from 8 µm to 2 µm raises bubble onset from 18 to 73 A cm⁻² and cuts cell voltage by 11 V at 1 A cm⁻².\n- Below ~45 µm pores, electrolyte replenishment limits performance, causing drying before bubble formation.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03790": {
+    "title": "Information Entropy and Dissipation Potential in Stochastic Nambu Nonequilibrium Thermodynamics",
+    "summary": "- Links the Nambu dissipation potential \\(S_{\\mathrm{NB}}\\) to information entropy in stochastic Nambu nonequilibrium thermodynamics.\n- Shows that, with an Einstein‑type relation, the stationary Fokker–Planck distribution is exponential in \\(S_{\\mathrm{NB}}\\), making it the quasipotential of the steady state.\n- Distinguishes \\(S_{\\mathrm{NB}}\\) from Shannon entropy, introduces a Massieu‑type interpretation, a Nambu canonical distribution, and derives fluctuation covariances via a saddle‑point approximation.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03813": {
+    "title": "Surface scalar plasmons on curved interfaces: a venue for analogue gravity",
+    "summary": "- Derived a massive Klein–Gordon equation for scalar surface plasmons on curved interfaces, revealing a geometric potential.\n- Showed that specific curvature can cancel the effective mass, allowing massless SSP propagation.\n- Applied the formalism to an analogue black hole, computing quasinormal mode frequencies and highlighting curvature‑controlled plasmon transport.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03884": {
+    "title": "The ALPS project release 3.0: open source software for strongly correlated systems",
+    "summary": "- Release 0 of ALPS: open‑source libraries and applications for simulating strongly correlated quantum lattice models.\n- New distribution channels (pip, Spack), GitHub CI, MIT license, revamped docs and Jupyter‑notebook tutorials.\n- Modernized C++17 codebase with Boost/NumPy 0 compatibility and major updates to DMFT/DMRG solvers.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.03993": {
+    "title": "ToF-PAX-RIXS: A Time-of-Flight Spectrometer for combined ARPES and RIXS",
+    "summary": "- Combines time‑of‑flight ARPES and PAX‑RIXS in a single multimode electron‑optical column for sequential, identical‑condition measurements.\n- Uses a thin metallic converter to transform scattered soft X‑rays into photoelectrons, preserving energy and momentum transfer information.\n- Benchmarked at the Cu L₃ edge on CaCuO₂, reproducing conventional RIXS spectra with effective energy resolution after deconvolution.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.04290": {
+    "title": "Magneto-transport and electronic structure studies of ternary antimonides, La$T$Sb$_2$ ($T$ = Cu, Ag)",
+    "summary": "- Both LaCuSb₂ and LaAgSb₂ display positive dρ/dT, linear MR, and non‑Fermi‑liquid behavior (2–30 K).\n- LaAgSb₂ exhibits a CDW, causing low‑T core‑level broadening and necessitating multi‑band transport.\n- DFT+U+SOC reproduces valence bands, shows inequivalent Sb sites, and links Sb square nets to the CDW.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.04331": {
+    "title": "State-selective entanglement and point-gap topology in the unidirectional Bose-Hubbard chain",
+    "summary": "- Repulsive interactions suppress skin accumulation in the unidirectional Bose–Hubbard chain, driving a superfluid–Mott transition in the ground state.\n- The ground state becomes uniformly filled with decreasing entanglement, whereas the steady state (largest‑imaginary‑energy eigenstate) shows a nonmonotonic entanglement crossover with four spatial maxima tied to competing doublon–holon sectors.\n- Even at strong interaction the many‑body winding about the origin stays nonzero; projected doublon–holon manifolds reproduce the entropy profile, but the winding becomes ill‑defined as \\(U/t\\to\\infty\\).",
+    "timestamp": "2026-10-06"
+  },
+  "2610.04654": {
+    "title": "Determining the j-Specific Unoccupied 5f Electronic Structure in Actinides",
+    "summary": "- HERFD XAS at M4,5 edges gives j‑specific unoccupied 5f DOS in actinides.\n- Empirical comparison shows HERFD XAS ≈ j‑resolved BIS (IPES).\n- Directly measures separate 5f5/2 and 5f7/2 unoccupied states.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.04663": {
+    "title": "Does a pole in the self-energy imply a violation of the Luttinger theorem?",
+    "summary": "- Luttinger theorem can remain valid even when the self‑energy has a pole.\n- A model with two gapped bands plus a narrow residual Fermi‑liquid band (small residue Z) yields a Green’s function with two zeros and three poles.\n- In Model I (bandwidth renormalized by Z) the Luttinger–Ward analysis holds for any Z > 0; in Model II it requires Z to exceed a density‑dependent critical value.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.04704": {
+    "title": "Peeling off Abelian Anyons and Proliferation Transitions",
+    "summary": "- An invertible one‑form global symmetry in (2+d TQFT “peels off” all Abelian anyons.\n- The peeled anyons are described by U(Chern‑Simons gauge fields coupled to a scalar, forming a transition field theory.\n- This theory exhibits a phase transition from the original TQFT to either a gapless phase or another TQFT, with detailed symmetry fate.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.04958": {
+    "title": "Floquet dressing of bulk metallic bands in 2H-NbSe2",
+    "summary": "- Floquet‑dressed replicas of bulk metallic bands in 2H‑NbSe₂ observed with time‑resolved ARPES, preserving parent‑band dispersion.\n- Polarization‑dependent redistribution of replica weight explained by coherent Floquet–Volkov interference, not simple hybridization.\n- Demonstrates control of itinerant bulk states in a multiband metal without relying on hybridization gaps, enabling manipulation of metallic transport and collective order.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.05175": {
+    "title": "Unveiling High-Energy Ultrafast Responses Driven by Fermi-Level Gap Opening in Charge-Density Waves",
+    "summary": "- Ultrafast pump–probe shows CDW gap in EuAl4 collapses under optical excitation.\n- Gap shrinkage renormalizes interband transitions at the gap edge, yielding large transient reflectivity at high probe energies.\n- Links low‑energy order‑parameter dynamics to high‑energy spectral responses in gapped quantum materials.",
+    "timestamp": "2026-10-06"
+  },
+  "2610.05395": {
+    "title": "Complete Entanglement Structure of the Kitaev Honeycomb Spin Liquid from Exact Tensor Networks",
+    "summary": "- Exact 2‑D tensor‑network construction of all Kitaev honeycomb eigenstates via sequential quantum‑number and Gutzwiller projections (local MPS, \\(D=2\\)).\n- Ground and excited states share bond dimension but differ in Schmidt spectra: area‑law vs volume‑law entanglement, with topological entropy appearing only after Gutzwiller projection.\n- Projection collapses wavefunctions into a single gauge sector, demonstrating that excited states are also topologically ordered and extending the approach to other \\(\\mathbb{Z}_2\\) spin liquids.",
+    "timestamp": "2026-10-06"
   }
 }
