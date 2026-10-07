@@ -3288,5 +3288,95 @@
     "title": "Complete Entanglement Structure of the Kitaev Honeycomb Spin Liquid from Exact Tensor Networks",
     "summary": "- Exact 2‑D tensor‑network construction of all Kitaev honeycomb eigenstates via sequential quantum‑number and Gutzwiller projections (local MPS, \\(D=2\\)).\n- Ground and excited states share bond dimension but differ in Schmidt spectra: area‑law vs volume‑law entanglement, with topological entropy appearing only after Gutzwiller projection.\n- Projection collapses wavefunctions into a single gauge sector, demonstrating that excited states are also topologically ordered and extending the approach to other \\(\\mathbb{Z}_2\\) spin liquids.",
     "timestamp": "2026-10-06"
+  },
+  "2610.06912": {
+    "title": "Correlated Low-Energy Model of Monolayer 1H-NbS$_2$: A cRPA+DMFT Study",
+    "summary": "- Single‑band Nb‑\\(d_{z^2}\\) model reproduces ARPES/STS features, including the Van Hove singularity.\n- cRPA gives \\(U_{\\text{cRPA}}=138\\) eV; DFT+DMFT captures strong correlations and spectral weight redistribution, outperforming static DFT+U.\n- The minimal model reproduces spectral broadening seen in more elaborate multi‑orbital and electron‑phonon treatments, validating the downfolded approach.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.06915": {
+    "title": "Disorder into Correlation: A Microscopic Mechanism for Sub-McIntyre Avalanche Noise",
+    "summary": "- Polar‑optical‑phonon emission confined to a forward cone competes with alloy scattering, limiting carrier cooling.\n- Reduced phonon cooling narrows the ionization path beyond dead space, synchronizing ionizations into a dynamic staircase.\n- Explains sub‑McIntyre avalanche noise in Sb alloys and HgCdTe, making alloy disorder a tunable design parameter.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.06943": {
+    "title": "Time-Reversal Selection Rule for Twist Disorder",
+    "summary": "- Time‑reversal selection rule: twist harmonics that are frame rotations cancel backscattering; those that change coupling scatter.\n- Zero‑set theorem gives universal thickness laws for electrons/phonons, set by band‑edge symmetry; random twist rescale but keep the same scaling order.\n- Unprotected axes yield a transparent energy with heavy‑tailed disorder and an \\(N^{-3}\\) conductance decay; black‑phosphorus films demonstrate symmetry filtering, keeping ~100× more electron than hole conductance at 64 layers.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.06946": {
+    "title": "Interplay between spinodal decomposition and wetting in ternary to quinary mixtures",
+    "summary": "- 2D Cahn–Hilliard simulations of N = 3–5 component mixtures show surface‑directed spinodal decomposition around a filler particle.\n- Wetting versus non‑wetting interfacial tensions generate lattice, droplet, and target (core‑shell) morphologies that later coarsen via curvature‑driven depletion.\n- Coarsening slows with more components, but wetting accelerates it, illustrating how particle–component interactions control microstructural evolution.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.06951": {
+    "title": "$\\mathcal{PT}$-symmetry as Effective Time Reversal Symmetry for Anderson Localization in a Collinear Antiferromagnet",
+    "summary": "- PT symmetry acts as the effective time‑reversal symmetry for Anderson localization in BaMn₂Bi₂, even though ordinary TR symmetry is broken by antiferromagnetic order.\n- Magnetoconductance follows standard TR‑breaking laws, but the degree of symmetry breaking is modulated by magnetocrystalline anisotropy that stabilizes PT‑related sublattices.\n- Transverse magnetic fields strongly suppress localization by canting PT sublattices, whereas longitudinal fields have only a minor effect, highlighting the robustness governed by exchange and magnetocrystalline interactions.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.06985": {
+    "title": "CrystalJev: thinking fast and slow with atomistic foundation models for materials discovery",
+    "summary": "- CrystalJev performs a single frozen‑potential query per unrelaxed structure, outputting calibrated probabilities and finite‑sample guarantees instead of full relaxations.\n- Across 65 Matbench Discovery models, a “stable” call is a probability derived from model errors and candidate population, matching relaxation accuracy at ~1/30th the cost.\n- A value‑of‑information rule sends expensive relaxations only when predictions can change, and prospective tests show single‑pass forecasts overestimate stability by ≤1 % on unseen candidates.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.07007": {
+    "title": "Identifying Plastic Inorganic Semiconductors Requires More Rigorous Criteria",
+    "summary": "- GeSe tolerates ~23 % strain under macroscopic compression perpendicular to layers, yet fractures brittlely when bent along the c‑axis armchair direction.\n- Conventional micropillar compression causes brittle fragmentation, whereas eccentric loading introduces shear that activates interlayer sliding and accommodates deformation.\n- The study demonstrates that single‑direction or single‑scale tests are insufficient; a systematic, multi‑direction, multi‑scale evaluation framework is required to reliably identify plastic inorganic semiconductors.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.07013": {
+    "title": "A numerical and efficient model for thermo-field electron emission calculations",
+    "summary": "- Introduces GETELEC‑3, a fast open‑source solver for the 1D time‑independent Schrödinger equation that replaces Fowler‑Nordheim/Murphy‑Good approximations.\n- Employs the Numerov algorithm (≤1 % uncertainty) and a parallel kernel to compute current density in milliseconds; a neural‑network residual model achieves <4 % error at even lower cost.\n- Supports arbitrary potentials and density of states for metals and semiconductors, with a user‑friendly interface and compiled executable.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.07050": {
+    "title": "Spontaneous Motion Generates Reversible Nonreciprocity in an Achiral Active Elastic Ring",
+    "summary": "- Spontaneous rotation of an achiral active elastic ring creates mechanical nonreciprocity through off‑center elastic forces that couple deformation to propulsion.\n- Reversing the rotation flips the antisymmetric response; a control scheme can preserve directionality while suppressing the near‑Hopf resonance.\n- Near the Hopf threshold, the nonreciprocal response diverges inversely with distance to onset, giving rise to a self‑sustained traveling deformation above threshold.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.07113": {
+    "title": "Direct-Write Chemical Vapor Deposition",
+    "summary": "- 10 µm glass micro‑nozzle enables direct‑write CVD, producing 500 nm Al lines with 30 µm linewidth on TiN/Si in UHV.\n- Continuous single‑pass, maskless growth allows systematic variation of deposition conditions on a single substrate.\n- Transport model couples Knudsen emission and surface diffusion to quantify precursor diffusion length (L_d), which shrinks from 4 µm to 2 µm as temperature increases.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.07146": {
+    "title": "Heavy-fermion hybridization waves from Dirac spinons near a Kondo-breakdown quantum phase transition",
+    "summary": "- Hybridization waves emerge in frustrated Kondo lattices near a Kondo‑breakdown quantum phase transition, where local moments form a Dirac spin liquid.\n- The wave vector \\(\\vec{Q}\\) connects Dirac spinon nodes to low‑energy electronic states, setting the spatial periodicity.\n- The wave amplitude is governed by a kinematic condition between electronic and spinon band structures, explaining observed spatially modulated screening.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.07156": {
+    "title": "Chiral Parafermions in Floquet $\\mathbb{Z}_N$ Topological Order",
+    "summary": "- Realizes $\\mathbb{Z}_N$ Floquet topological order in a driven Kitaev honeycomb model, yielding emergent constrained parafermions coupled to conserved $\\mathbb{Z}_N$ gauge fields.\n- Generates chiral parafermionic Floquet edge modes, whose propagation, fractional quantum‑information transport, and exchange statistics are quantified via correlation functions and the chiral unitary index.\n- Shows dynamical anyon transmutation in the bulk with a non‑equilibrium loop order",
+    "timestamp": "2026-10-07"
+  },
+  "2610.07158": {
+    "title": "Local-moment magnets on all close-packed lattices are equivalent",
+    "summary": "- Hidden symmetry links classical Heisenberg, XY, and Ising magnets on all close‑packed lattices when only nearest‑ and next‑nearest‑neighbour couplings (J₁, J₂) are present.\n- The symmetry guarantees identical ground‑state energies and projected momenta for every close‑packed lattice, yielding a unified phase diagram.\n- Fluctuations break this symmetry, so order‑by‑disorder effects can differ among close‑packed structures.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.07291": {
+    "title": "Odd-parity magnon spin polarization from chiral four-spin exchange in a honeycomb antiferromagnet",
+    "summary": "- Chiral four‑spin exchange creates a momentum‑dependent magnon spin in a honeycomb antiferromagnet at zero field.\n- For a Néel vector tilted by θ₀, the exchange yields intersublattice magnon pairing (∝ cos θ₀ sin² θ₀); biaxial anisotropy mixes longitudinal sectors, producing odd‑in‑momentum, nonquantized mode spins while keeping magnon energies reciprocal.\n- A temperature gradient induces spin density along the Néel axis; reversing the four‑spin coupling flips the spin",
+    "timestamp": "2026-10-07"
+  },
+  "2610.07915": {
+    "title": "Two-exciton bound states in the Merrifield exciton model",
+    "summary": "- Exact solution of two‑exciton states in a finite Merrifield chain via Bloch states and plane‑wave ansatz, giving closed‑form energies and wavefunctions.\n- Demonstrated that at most two bound‑state types exist (above or below the scattering continuum) and mapped their parameter regimes across the Brillouin zone.\n- Offers quantitative benchmarks for exciton dynamics and optical responses in molecular aggregates.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.08266": {
+    "title": "Gradual Localization of Itinerant Cobalt 3d Electrons in the Pyrochlore Ferromagnetic Metal LuInCo4",
+    "summary": "- Powder neutron diffraction reveals a q = 0 collinear ferromagnetic structure with a 9 µB Co moment.\n- Single‑crystal data exclude antiferromagnetic or helical order; diffuse q = 0 scattering broadens as temperature decreases.\n- Low‑temperature metamagnetism is attributed to a ferromagnetic instability enhanced by gradual localization of itinerant Co‑3d electrons.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.08304": {
+    "title": "Symmetry protected quantum many body scars through half-gauging",
+    "summary": "- Studies quantum many‑body scars in stochastic‑matrix‑form Hamiltonians with symmetry defect insertion.\n- Determines when scars survive defect insertion and shows half‑gauging creates symmetry‑protected scarred interfaces.\n- Concludes that half‑gauged scarred systems are robust and generalizable to higher dimensions.",
+    "timestamp": "2026-10-07"
+  },
+  "2610.08309": {
+    "title": "Exchange self-energy and vertex corrections to static screening in the two-dimensional electron gas",
+    "summary": "- Analytically derived leading beyond‑ring corrections (exchange self‑energy and vertex) to the static polarizability of a 2D electron gas.\n- Individual divergent terms cancel, yielding a finite result that reproduces the Hartree‑Fock compressibility and renormalizes the Thomas‑Fermi wave vector.\n- Exchange converts the one‑sided 2D Kohn kink into a sharp two‑sided peak, boosting Friedel oscillations 2–3× over RPA and affecting Kohn‑Luttinger pairing.",
+    "timestamp": "2026-10-07"
   }
 }
