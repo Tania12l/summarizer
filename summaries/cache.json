@@ -3378,5 +3378,90 @@
     "title": "Exchange self-energy and vertex corrections to static screening in the two-dimensional electron gas",
     "summary": "- Analytically derived leading beyond‑ring corrections (exchange self‑energy and vertex) to the static polarizability of a 2D electron gas.\n- Individual divergent terms cancel, yielding a finite result that reproduces the Hartree‑Fock compressibility and renormalizes the Thomas‑Fermi wave vector.\n- Exchange converts the one‑sided 2D Kohn kink into a sharp two‑sided peak, boosting Friedel oscillations 2–3× over RPA and affecting Kohn‑Luttinger pairing.",
     "timestamp": "2026-10-07"
+  },
+  "2610.08874": {
+    "title": "Thermal Diffusivity in Metallic Nanowire Aerogels",
+    "summary": "- Ag/Cu nanowire aerogels (20–500 mg cm⁻³) exhibit lower thermal diffusivity for 30 nm wires than 60 nm, due to surface scattering.\n- Compaction densifies the aerogel yet reduces diffusivity ~300×, driven mainly by the thickness term rather than transport coefficient changes.\n- Densification preserves the percolative network, showing aerogels cannot be treated as homogeneous bulk materials.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.08907": {
+    "title": "Zero Mode Operators and Charge-Conjugation Defects in Non-Abelian Fractional Quantum Hall-Superconductor Heterostructures",
+    "summary": "- Developed a bulk‑to‑boundary mapping that turns bulk Wilson operators into localized zero‑mode operators for non‑Abelian FQH‑SC heterostructures.\n- Revealed a generalized zero‑mode algebra that separates zero‑mode anyons from local operators, showing tunneling probes bulk monodromy while direct anyon transfer probes \\(G\\)-crossed associativity.\n- Applied the framework to recover \\(\\mathbb{Z}_{2m}\\) parafermions in Laughlin states, \\(\\mathbb{Z}_2^{(n",
+    "timestamp": "2026-10-08"
+  },
+  "2610.08921": {
+    "title": "Exact solutions for kinematics across interaction-deformed Fermi surfaces",
+    "summary": "- Exact rates of change for occupation deficit inside and surplus outside the interacting Fermi surface are derived when interactions are tuned at fixed density.\n- These rates equal the weight swept by the deforming surface plus the change of Luttinger’s integrand at fixed momentum; the surface term difference equals the flux of incoherent weight \\(1-Z_{\\vec k}\\).\n- The resulting identities hold with or without Luttinger’s theorem, offering precise kinematic relations for interaction‑deformed Fermi surfaces.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.08924": {
+    "title": "Superconducting edge contact to a buried Ge quantum well",
+    "summary": "- Edge‑contact method combining anisotropic dry etch and wet etch accesses buried Ge quantum wells.\n- Josephson junctions show near‑unity transparency; QPCs exhibit Andreev plateau ≈ 4e²/h.\n- Quantized supercurrent in superconducting QPCs confirms high‑quality hybrid integration.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.08934": {
+    "title": "Remote magnon sensing detects the universal phase stiffness jump in Bi$_2$Sr$_2$CaCu$_2$O$_{8+\\delta}$",
+    "summary": "- Contactless, all‑optical detection of superconducting phase stiffness using propagating antiferromagnetic magnons in CrSBr.\n- Magnon group velocity rises below Tc, quantitatively encoding Meissner‑screened phase stiffness and revealing the universal BKT phase‑stiffness jump in underdoped Bi₂Sr₂CaCu₂O₈₊δ under parallel field.\n- Establishes magnons as local probes of superconducting electrodynamics and 2D phase‑ordering physics in bulk cuprates.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.08942": {
+    "title": "Matter wave bistability with a momentum chirped Bose-Einstein condensate",
+    "summary": "- Momentum‑chirped BECs cancel interaction‑induced resonance shifts, yielding sharp, multi‑valued Fabry‑Perot transmission spectra.\n- Interaction‑assisted tunneling and bistability arise in a quasi‑1D BEC cavity of two Gaussian barriers, with an analytically optimized chirp.\n- The effect enables matter‑wave switching and high‑precision velocity sensing, with sensitivity estimates provided.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.08955": {
+    "title": "From continuum neural quantum states to effective lattice models: Fluctuating Wigner molecules in moir\\'e superlattices",
+    "summary": "- Maps continuum neural quantum states to site‑resolved charge and spin statistics, revealing emergent effective degrees of freedom.\n- Discovers a low‑spin ground state at ν = 3 in moiré TMDs, with triangular Wigner molecules, strong doublon–hole charge fluctuations, and spin‑singlet cores.\n- Motivates a spinful two‑orbital Hubbard model to capture intertwined charge and antiferromagnetic spin correlations.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.08957": {
+    "title": "Probing magnetic interactions in real space via magnetic pair distribution function analysis",
+    "summary": "- mPDF probes short‑range magnetic correlations, enabling extraction of exchange interactions in paramagnets.\n- A mean‑field model with Onsager reaction field is used to fit mPDF data and determine exchange parameters.\n- The method reproduces literature exchange values for several tested materials.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.08958": {
+    "title": "Phase diagram of a semiflexible magnetic polymer in three dimensions",
+    "summary": "- Coupled conformational, stiffness, and two‑state spin degrees of freedom in a semiflexible magnetic polymer on an FCC lattice.\n- Zero‑field phase diagram: first‑order coil‑to‑globule/ferromagnetic collapse at low stiffness, globule‑to‑crystal transition at lower T, and direct coil‑to‑crystal transition at high stiffness.\n- Monte Carlo and variational free‑energy analysis shows how bending rigidity and magnetic interactions reorganize polymer phases, linking flexible magnetic polymers to semiflexible homopolymers.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.08984": {
+    "title": "Valley transitions during spin shuttling in Si/SiGe heterostructures",
+    "summary": "- Valley excitations threaten coherent spin shuttling; modeled as a two‑level valley system in a mobile quantum dot.\n- Three regimes found; at ~tens of m/s the ground‑state valley is preserved, enabling distance‑independent coherent shuttling.\n- Partial Landau‑Zener strategy proposed, yielding higher valley‑shuttling fidelity than the standard Landau‑Zener approach.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.09036": {
+    "title": "Ambipolar metal-insulator transition in bilayer MoSe2",
+    "summary": "- Contact‑free RF reflectometry measures sheet resistance in bilayer MoSe₂, revealing both electron and hole metal‑insulator transitions.\n- Critical densities differ fourfold yet share similar Coulomb‑to‑kinetic energy ratios, matching solid‑liquid coexistence seen by STM.\n- Magnetoresistance peaks at each transition, indicating a field‑driven Pomeranchuk‑like expansion of the Wigner solid against the correlated liquid.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.09210": {
+    "title": "Multiorbital Anisotropy and Magnetic Excitations in Trilayer Nickelate Pr$_4$Ni$_3$O$_{10}$",
+    "summary": "- XAS/RIXS resolve planar vs out‑of‑plane Ni–O hybridization in Pr₄Ni₃O₁₀.\n- Dispersive magnetic excitations soften at the incommensurate SDW wave vector.\n- Spin‑wave analysis shows strong intra‑trilayer exchange comparable to in‑plane couplings, largely independent of rare‑earth substitution.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.09345": {
+    "title": "Polarized neutron diffraction with ex-situ $^3$He neutron spin filter and two-dimensional detector for noncollinear incommensurate magnetic order",
+    "summary": "- Developed a ³He neutron spin filter combined with a 2‑D detector to capture polarized scattering outside the horizontal plane.\n- Created a data‑reduction scheme that maps 2‑D intensity maps to 3‑D reciprocal‑space distributions while correcting for imperfect ³He polarization.\n- Applied the method to Mn₃WO₆, successfully observing polarization‑dependent intensities of its out‑of‑plane incommensurate magnetic order.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.09453": {
+    "title": "Inhomogeneous cluster DMFT study on p-n junction Mott gap closing in Hubbard lattice",
+    "summary": "- Mott gap closes when the potential drop ≈ 35 t (U = 8 t), matching the 2×2 plaquette excitation energy.\n- Drop direction barely changes the threshold; diagonal orientation yields a stronger zero‑energy coherent peak because of preserved orbital degeneracy.\n- Inhomogeneous 2×2 plaquette DMFT shows the metallic phase dominates over the Mott insulator under comparable electric‑field strengths, aligning with experimental gap‑closing data.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.09656": {
+    "title": "Unified treatment of local dynamical interactions in correlated metals using Eliashberg theory",
+    "summary": "- Unified GW and Fan‑Migdal self‑energies into a single effective interaction, producing Eliashberg equations from the Hedin‑Baym framework.\n- Solved local dynamical equations to obtain temperature‑dependent quasiparticle spectra, emphasizing the low‑energy transport window.\n- Applied to Sr₂RuO₄: band renormalization agrees with experiment and DMFT, but low‑energy linewidth and resistivity are underestimated in the bubble approximation.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.10027": {
+    "title": "Efficient Optimization of Tensor Rings with Low-Rank Environments",
+    "summary": "- Two‑site Ring‑DMRG reduces local operations to \\(O(p\\chi^\\) by compressing long environments to low‑rank form.\n- Robustness achieved via gauge transformations, a generalized Davidson solver, and SVD‑based truncation when the environment is separable (alternating optimization otherwise).\n- For critical systems, the needed environment rank \\(p\\) stays bounded with system size, giving tensor rings an advantage over tensor trains in the thermodynamic limit.",
+    "timestamp": "2026-10-08"
+  },
+  "2610.10030": {
+    "title": "Fourth-order perturbation theory for the Frohlich polaron: Analytic structure of the weak-coupling series and the crossover to strong coupling",
+    "summary": "- Fourth‑order Rayleigh–Schrödinger series for 3D Frohlich polaron ground‑state energy and effective mass computed; third‑ and fourth‑order mass coefficients are new.\n- Series converges with radius ≈ 5; ratio/Pade analysis reveals a power‑law singularity (exponent ≈ marking the weak‑to‑strong coupling crossover.\n- Pade approximants from weak‑coupling data agree with diagrammatic Monte Carlo masses to < 1 % for α ≤ 5, suggesting the singularity is a",
+    "timestamp": "2026-10-08"
   }
 }
