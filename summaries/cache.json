@@ -3463,5 +3463,75 @@
     "title": "Fourth-order perturbation theory for the Frohlich polaron: Analytic structure of the weak-coupling series and the crossover to strong coupling",
     "summary": "- Fourth‑order Rayleigh–Schrödinger series for 3D Frohlich polaron ground‑state energy and effective mass computed; third‑ and fourth‑order mass coefficients are new.\n- Series converges with radius ≈ 5; ratio/Pade analysis reveals a power‑law singularity (exponent ≈ marking the weak‑to‑strong coupling crossover.\n- Pade approximants from weak‑coupling data agree with diagrammatic Monte Carlo masses to < 1 % for α ≤ 5, suggesting the singularity is a",
     "timestamp": "2026-10-08"
+  },
+  "2610.10555": {
+    "title": "Magnetic localization and spectral asymmetry of a charged particle at a screw dislocation",
+    "summary": "- Radial dynamics combine an inverse‑square term from the screw‑modified conserved quantity \\(\\mathcal{J}=\\ell-\\beta k\\) with a magnetic harmonic confinement.\n- For \\(q\\mathcal{B}_0\\neq0\\) the spectrum is exactly solvable: equally spaced levels with an orientation‑dependent shift; opposite \\(\\mathcal{J}\\) values share spatial profiles but different energies.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.10645": {
+    "title": "Axiomatic Incompatibility Between Thermal Equilibrium and Volume-Dependent Entropy in Ideal Gas Theory",
+    "summary": "- Volume‑dependent entropy for an ideal gas contradicts the thermal equilibrium axiom in reversible isothermal processes.\n- The paper shows entropy must depend only on temperature, introducing a “pseudo‑isothermal” process (small adiabatic + isochoric steps) to recover classical work and heat relations.\n- The corrected entropy matches Maxwell’s kinetic theory but differs from the Planck–Boltzmann microstate count, indicating a fundamental split between thermodynamic and statistical entropies.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.10647": {
+    "title": "Efficiency fluctuations in quantum heat engines with non-quasi-static adiabatic strokes",
+    "summary": "- Analyzed efficiency fluctuations in quantum Carnot and Otto engines with pistons executing non‑quasi‑static adiabatic strokes at constant speed, alongside quasi‑static isothermal/isochoric steps.\n- Modeled pistons as single quantum particles in a 1‑D box; two‑point measurements capture stochastic work from unitary evolution during non‑equilibrium strokes.\n- Demonstrated that piston speed introduces additional quantum fluctuations, modifying the average efficiency of both engine types.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.10668": {
+    "title": "Theory of Topologically Ordered Superfluids in 2+1 Dimensions",
+    "summary": "- Introduces topologically ordered superfluids (TOSFs) that support gapped anyons while remaining gapless via Goldstone modes.\n- Shows a duality: gauging U(_c maps a TOSF to a gapped topological order with U(_dual symmetry and zero Hall conductance; gauging U(_dual recovers the TOSF.\n- Provides algebraic and field‑theoretic tools, including parton constructions, to classify TOSFs and realize non‑Abelian vortex excitations.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.10679": {
+    "title": "SC$^\\sharp$: superconductivity intertwined with topological order",
+    "summary": "- Introduces SC$^\\sharp$ as a class of (2+D gapped superconductors whose elementary vortices are intrinsically non‑Abelian and cannot be factorized into invertible superconductor vortices plus bulk anyons.\n- Proves no‑go results: elementary vortex quantum dimension ≥ √6, ruling out Fibonacci fusion, and constructs infinite families via systematic anyon condensation.\n- Defines primitive SC$^\\sharp$ phases that cannot arise by disordering lower‑charge condensates, revealing new intertwined topological order.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.10682": {
+    "title": "Spin Chain with Continuous Exponential Symmetry: Topological Phase and Beyond",
+    "summary": "- 1D spin‑S chains with a continuous exponential symmetry \\(U(\\rtimes\\mathbb Z_2\\) where the U(charge unit decays as \\(q^{L-j}\\).\n- Integer \\(S\\): odd \\(q\\) supports a nontrivial \\(\\mathbb Z_2\\) Haldane‑type SPT with protected edge modes; even \\(q\\) yields only trivial phases.\n- Half‑odd‑integer \\(S\\): odd \\(q\\) forbids a unique symmetric gapped ground state (Lieb–Schultz–Mattis), while even \\(q\\) produces a novel “half‑SPT” phase with a single‑edge",
+    "timestamp": "2026-10-09"
+  },
+  "2610.10700": {
+    "title": "Millisecond phonon lifetimes in piezoelectric nanomechanical resonators",
+    "summary": "- 21 ms phonon lifetimes (Q > 4×",
+    "timestamp": "2026-10-09"
+  },
+  "2610.10706": {
+    "title": "Symmetric Mode Ansatz: Theory of Magnon Collective Modes in Chern Insulators",
+    "summary": "- Introduces the symmetric mode ansatz (SyMA) to analytically describe magnon spectra in Chern insulators, matching numerical results at integer and fractional fillings.\n- Proves SyMA exactness in specific Hubbard models (Haldane, ideal continuum) and derives magnon‑gap bounds from Chern number, Berry curvature, and quantum metric.\n- Shows uniform quantum geometry stabilizes Ising ferromagnetism and gapped magnons in moiré Chern insulators such as twisted MoTe₂.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.10709": {
+    "title": "Beyond Dry Flocking: Shape-Dependent Hydrodynamic Alignment",
+    "summary": "- Shape‑dependent hydrodynamic coupling of Marangoni swimmers drives flocking beyond dry‑matter assumptions.\n- Triangular paper boats exhibit disorder‑to‑order and re‑entrant order‑to‑disorder transitions with camphor concentration and density.\n- A reaction‑diffusion model of camphor fields reproduces the transitions, highlighting surface‑tension‑gradient propulsion.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.10710": {
+    "title": "Cooper Instability of a Magnetic Wigner Crystal",
+    "summary": "- Explored Cooper pairing driven by collective modes in a magnetic Wigner crystal of rhombohedral hexalayer graphene.\n- Showed that broken time‑reversal symmetry removes the Cooper logarithm, so a finite attraction threshold is needed for pairing.\n- Hartree–Fock/TDHF calculations reveal that phonon‑mediated attraction can exceed this threshold, yielding bound electron pairs.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.10764": {
+    "title": "Gauging Modulated Symmetries: Bond Algebras, Higher-Form Symmetries, and Symmetry-Enriched Topological Order",
+    "summary": "- Constructive framework for modulated symmetries in lattice systems, using finite-dimensional representations of space group acting on finite Abelian internal symmetry.\n- Kernel construction yields symmetry-allowed local interactions and an algebra of open operators; gauging maps these to extended Wilson/boundary operators preserving algebraic relations.\n- In deconfined phase, the algebra realizes a mixed ’t Hooft anomaly, enabling microscopic realization of Abelian crystalline symmetry‑enriched topological phases with preserved electric‑magnetic braiding.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.11126": {
+    "title": "Probing and Manipulating Quantum Materials with Strong-field Terahertz and Mid-infrared Radiation",
+    "summary": "- Strong-field THz/MIR pulses probe and drive nonlinear electronic dynamics in quantum materials.\n- Enables selective coupling of collective modes and symmetry‑sensitive responses.\n- Facilitates field‑induced modifications of electronic structure and ordered states, as demonstrated at SECUF.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.11562": {
+    "title": "Multipolar fluctuations in localized $4f^2$-electron systems from dynamical mean-field theory: application to $\\mathrm{PrCdNi}_4$",
+    "summary": "- Extended DFT+DMFT multipolar analysis to 4f² systems using j‑j coupling in the j=5/2 subspace to reproduce CEF splittings.\n- Derived multipolar susceptibilities and inter‑multiplet interactions by mapping single‑particle to many‑particle bases.\n- Applied to PrCdNi₄, predicting a (3z²–r²) antiferroquadrupolar order at q = (2π, π, driven by competing nearest‑ and fourth‑nearest‑neighbor interactions.",
+    "timestamp": "2026-10-09"
+  },
+  "2610.11838": {
+    "title": "Magnon band splitting without altermagnetism in CuF2",
+    "summary": "- CuF₂’s monoclinic structure hosts weakly coupled square‑lattice layers (J₁≈115 K) with 4 % and 8 % interplane couplings that double the magnetic unit cell, eliminating altermagnetic band splitting.\n- Strong Dzyaloshinskii–Moriya interactions (|D|/J₁≈cant spins, pin the Néel vector to the b‑axis, and produce non‑chiral magnon band splitting.\n- Combined ab initio, linear spin‑wave, and magnetization studies confirm the spin‑½ model and highlight relativistic effects in a 3d al",
+    "timestamp": "2026-10-09"
   }
 }
