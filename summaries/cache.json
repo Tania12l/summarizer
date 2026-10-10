@@ -3533,5 +3533,50 @@
     "title": "Magnon band splitting without altermagnetism in CuF2",
     "summary": "- CuF₂’s monoclinic structure hosts weakly coupled square‑lattice layers (J₁≈115 K) with 4 % and 8 % interplane couplings that double the magnetic unit cell, eliminating altermagnetic band splitting.\n- Strong Dzyaloshinskii–Moriya interactions (|D|/J₁≈cant spins, pin the Néel vector to the b‑axis, and produce non‑chiral magnon band splitting.\n- Combined ab initio, linear spin‑wave, and magnetization studies confirm the spin‑½ model and highlight relativistic effects in a 3d al",
     "timestamp": "2026-10-09"
+  },
+  "2610.12348": {
+    "title": "Constructing Large and Structured Decoherence-Free Subspaces in Hybrid Quantum Systems",
+    "summary": "- Build large decoherence‑free subspaces by coupling matter to a dissipative bosonic mode, selecting matter null states through global dissipation constraints.\n- Employ Lie‑algebra representation theory (e.g., \\(\\mathfrak{sl}(2,\\mathbb{C})\\)) to design many‑body operators whose null states form exponentially large DFS with volume‑law entanglement and long‑range kinetic correlations.\n- Illustrate with a lossy cavity coupled to directed tunneling in 1D, revealing symmetry‑constrained Liouvillian skin",
+    "timestamp": "2026-10-10"
+  },
+  "2610.12339": {
+    "title": "True vs false Fermi surfaces in the Pseudogap regime and their transformation with doping and temperature in the Hubbard Model",
+    "summary": "- DiagMC and TPSC+ reveal that the pseudogap breaks Fermi‑li",
+    "timestamp": "2026-10-10"
+  },
+  "2610.12294": {
+    "title": "Transducing quantum-spin-ice correlations into Weyl Fermi-arc transport at a synthetic Kondo lattice interface",
+    "summary": "- Coupled Eu₂Ir₂O₇/Tb₂Ti₂O₇ interface transduces quantum‑spin‑ice correlations into Weyl Fermi‑arc transport.\n- Low‑T transport evolves from sixfold → twelvefold → re‑entrant sixfold anisotropy, a feature absent in classical‑spin‑ice interfaces.\n- Interfacial coupling involves both dipolar and transverse multipolar Tb moments, enabling frustrated quantum magnetism to imprint distinct Weyl signatures.",
+    "timestamp": "2026-10-10"
+  },
+  "2610.12257": {
+    "title": "Pressure-induced double-dome superconductivity in doped kagome metal Cs(V0.86Ta0.14)3Sb5 without charge density wave",
+    "summary": "- Ta‑doping suppresses CDW and boosts Tc to 29 K in Cs(V₀.₈₆Ta₀.₁₄)₃Sb₅.\n- Pressure induces a non‑monotonic Tc: slight drop → peak at 61 GPa → decline to 3 GPa → rise to 46 K at 7 GPa, forming two superconducting domes.\n- The double‑dome behavior occurs without CDW, showing it is intrinsic to V‑based kagome superconductors.",
+    "timestamp": "2026-10-10"
+  },
+  "2610.12193": {
+    "title": "Orbital magnetic susceptibility and de Haas-van Alphen effect of a flat band from quantum geometry",
+    "summary": "- Flat band acquires field‑induced dispersion via first‑order orbital moment and second‑order quantum‑geometry term, giving a purely geometric orbital susceptibility.\n- At the flat‑band chemical potential the $\\mathcal{M}=0",
+    "timestamp": "2026-10-10"
+  },
+  "2610.12136": {
+    "title": "Dynamical many-body control of high harmonic generation in a Mott insulator",
+    "summary": "- HHG up to 23rd order in La₂CuO₄ shows a 4 eV cutoff set by Hubbard bands, independent of field strength.\n- Time‑resolved spectra separate carrier creation, intraband acceleration, and interband recombination, revealing photo‑doping‑induced many‑body band reconstruction.\n- Above a critical excitation density, many‑body interactions suppress nonlinear intraband currents, making HHG a sensitive probe of correlation‑driven electronic changes.",
+    "timestamp": "2026-10-10"
+  },
+  "2610.12075": {
+    "title": "Field-resolved hierarchy of superconducting energy gaps in PdTe",
+    "summary": "- PdTe exhibits two distinct superconducting gaps (~5 meV and ~1 meV) revealed by point‑contact Andreev spectra.\n- Both gaps close at the same Tc, yet they collapse at different magnetic fields (~5 kG for the lower gap, ~5 kG for the higher).\n- The higher‑energy gap persists to fields where zero resistance is lost, indicating a hierarchy of field‑robust superconducting responses.",
+    "timestamp": "2026-10-10"
+  },
+  "2610.12044": {
+    "title": "Strange-metal behavior in correlated molecular conductors",
+    "summary": "- κ-(BEDT‑TTF)₄Hg₃₋δX₈ (X = Br, Cl) exhibits ρ(T) ∝ T and σ(ω) ∝ ω⁻⁰·⁷, classic strange‑metal signatures.\n- The linear‑in‑frequency scattering rate reaches the Planckian dissipation limit, tied to incommensurate anion layers.\n- Large‑scale spatial modulation of the anion layers is essential for the strange‑metal state, implying a general route for correlated strange metals.",
+    "timestamp": "2026-10-10"
+  },
+  "2610.11982": {
+    "title": "Magnon dynamics driven by the symplectic quantum metric in a chiral soliton lattice",
+    "summary": "- Symplectic quantum metric dominates magnon dynamics in a 1D chiral soliton lattice.\n- Wave‑packet velocity acquires a geometric term ∝ ∂k (quantum metric), overtaking group velocity for flat bands.\n- Motion is a bounded trajectory whose phase‑space area is fixed by the symplectic metric.",
+    "timestamp": "2026-10-10"
   }
 }
