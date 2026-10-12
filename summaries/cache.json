@@ -3578,5 +3578,90 @@
     "title": "Magnon dynamics driven by the symplectic quantum metric in a chiral soliton lattice",
     "summary": "- Symplectic quantum metric dominates magnon dynamics in a 1D chiral soliton lattice.\n- Wave‑packet velocity acquires a geometric term ∝ ∂k (quantum metric), overtaking group velocity for flat bands.\n- Motion is a bounded trajectory whose phase‑space area is fixed by the symplectic metric.",
     "timestamp": "2026-10-10"
+  },
+  "2610.12511": {
+    "title": "Spinodal-controlled freeze-out and nucleation at the first-order superfluid-supersolid transition of a dipolar gas",
+    "summary": "- Spinodal‐controlled first‑order superfluid–supersolid transition in a dipolar tube shows a delay exponent ≈ 36 (≈ 1/when crossing the metastable window.\n- Reverse ramps exhibit comparable delays beyond the crystal fold, yielding dynamical hysteresis.\n- Initial thermal noise (5–10 nK) seeds crystalline patches inside the metastable window, with faster nucleation near the spinodal and at higher temperatures, and nucleation is strongly preparation‑dependent.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12555": {
+    "title": "Flat-band quantum geometry from embedded quench dynamics",
+    "summary": "- On‑site quench in a 1D lattice coupled to a 2D flat‑band bath isolates flat‑band dynamics, filtering out dispersive excitations.\n- Late‑time on‑site occupations encode integrated overlaps of flat‑band states at commensurate momenta, revealing quantum distances.\n- The protocol offers a direct, site‑resolved measurement of the integrated flat‑band quantum metric in ultracold‑atom lattices.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12557": {
+    "title": "Frustrated Topological Orbital Magnetism",
+    "summary": "- Frustration + Aharonov‑Bohm fluxes produce topological semimetals with orbital dipole, quadrupole, and ferrotoroidic orders.\n- Non‑Abelian nodal‑line toroidizations generate current‑induced Hall effects; 2‑in‑2‑out/3‑in‑1‑out patterns correspond to Weyl charges, yielding anisotropic linear/nonlinear Hall responses.\n- Experimental signatures are proposed to identify these distinct frustrated topological orbital magnetic orders in candidate materials.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12563": {
+    "title": "Enhanced Coulomb pseudopotentials in high-pressure hydrides from first principles",
+    "summary": "- First‑principles RPA calculations reveal Coulomb pseudopotentials μ* far above the empirical 1–15 range, e.g., μ*≈39 for Mg₂IrH₆.\n- Strong Coulomb repulsion scales with the Fermi‑level density of states, suppressing Tc by up to ~40 K compared to standard μ* assumptions.\n- These findings reconcile earlier Tc discrepancies and indicate that conventional μ* values overestimate Tc in high‑density‑of‑states hydrides.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12573": {
+    "title": "Odd-parity surface magnetism in a Kondo insulator",
+    "summary": "- Spin‑polarized tunneling between a SmB₆ nanowire tip and Fe₁₊ₓTe shows magnetic contrast that reverses sign when bias is reversed.\n- Time‑reversal symmetry must be broken at the SmB₆ surface; a mean‑field surface transition at T_c ≈ 10 K condenses an odd‑parity Kondo hybridization, producing out‑of‑plane magnetization and gapping the Dirac states.\n- The spin‑resolved spectral function becomes odd in",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12635": {
+    "title": "Entropic-ordered superfluid",
+    "summary": "- Introduces a minimal classical lattice model (modified 3D XY with soft rotors) that exhibits superfluidity at arbitrarily high temperatures.\n- Demonstrates spontaneous breaking of global U(symmetry above a positive critical temperature driven by entropic order.\n- Analyzes high‑temperature hydrodynamics, confirming fluctuation‑dissipation consistency and the persistence of long‑lived Goldstone modes despite large noise variance.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12645": {
+    "title": "Search for free non-Abelian anyons in paired composite-fermion states",
+    "summary": "- Paired composite‑fermion FQH states generally form Abelian bound states of quasiparticles/quasiholes, masking non‑Abelian statistics.\n- The ν = 1/2 state in wide quantum wells hosts free quasiparticles/quasiholes, making it a prime candidate for observing non‑Abelian braiding.\n- Studying these bound states can uncover the underlying topological structure of the paired states.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12652": {
+    "title": "Entropy Production in Mesoscopic Electronic Transport Beyond Weak-Coupling",
+    "summary": "- Full entropy‑production statistics in coherent mesoscopic conductors derived beyond weak coupling via Landauer–Büttiker scattering.\n- Cumulant‑generating function obeys fluctuation symmetry for all coupling strengths; analytic forms given in weak and strong limits.\n- Higher‑order cumulants expose resonant transport and coherent fermionic partitioning, while coupling‑induced broadening modifies but does not break the symmetry.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12663": {
+    "title": "Spectral optimization of spherical lattices and applications to classical and quantum interacting spin systems",
+    "summary": "- Gradient‑descent optimization of spherical lattices via Laplacian spectrum reduces multiplet splitting.\n- Optimized icosahedral lattices yield uniform triangles and restore rotational symmetry in critical Ising/ Potts models.\n- They reproduce 3D Ising CFT primary dimensions; only higher‑ℓ descendants show weak symmetry breaking.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12700": {
+    "title": "Improving the lower bound on the Laughlin gap: An SDP search",
+    "summary": "- SDP optimization of auxiliary operators boosts the proven Laughlin gap constant from 046 to ≈219, giving a gap ≥ 1/5 on large spheres.\n- Product‑twirl and staircase bounds sharpen intermediate estimates, enabling the larger constant without altering the original certificate.\n- Exact rational arithmetic certifies the result; heuristic and ED data suggest the true gap may approach ≈4, beyond the current auxiliary‑operator framework.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12726": {
+    "title": "Homogeneous to multi-scale inhomogeneous complex magnetism in Ba3LnRu2O9 (Ln = Gd, Ho), Revealed by muSR and Machine-Learned Muon-Site Calculations",
+    "summary": "- Ba₃HoRu₂O₉ shows two magnetic transitions (46 K, 10 K) and a multi‑scale, inhomogeneous ground state with broad local‑field distributions and persistent spin dynamics.\n- Ba₃GdRu₂O₉, with S‑state Gd³⁺, displays a single, homogeneous antiferromagnetic transition at 5 K.\n- MuSR combined with machine‑learning muon‑site calculations attributes the Ho compound’s broad field spectrum to distinct coexisting magnetic domains at different crystallographic sites.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12798": {
+    "title": "Quadratic XY-anisotropy correction to the spontaneous staggered magnetization of the gapped XYZ spin-$1/2$ chain",
+    "summary": "- Closed‑form coefficient for quadratic XY‑anisotropy response of staggered magnetization in the gapped XYZ spin‑½ chain.\n- Coefficient = rational term + Lambert series; strictly negative, bounded, asymptotic to a rational function in the Ising limit.\n- Near the isotropic point it diverges as (Δ‑⁻⁵⁄²; with XY anisotropy ∝ (Δ‑⁵⁄⁴ the order‑parameter ratio approaches a Gaussian in the scaling variable.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12840": {
+    "title": "Ground-State Phase Diagram of the Effective Model with Antiferromagnetic Nearest-Neighbor and Ferromagnetic Next-Nearest-Neighbor Interactions in 1/1 Periodic Approximants to Icosahedral Quasicrystals",
+    "summary": "- Enumerated all magnetic moment configurations on a 1/1 periodic approximant to map the ground‑state phase diagram for antiferromagnetic \\(J_1\\) and ferromagnetic \\(J_2\\).\n- Found non‑collinear ferrimagnetic and antiferromagnetic orders stabilized by the \\(J_2/J_1\\) ratio and crystal‑field anisotropy, with magnetic space groups \\(R\\bar{3}\\), \\(C2'/m'\\), \\(Pm'm'2\\), and",
+    "timestamp": "2026-10-12"
+  },
+  "2610.12996": {
+    "title": "Real-Time Relaxation Dynamics of Dark Excitons in Mirror-Symmetric Monolayers",
+    "summary": "- Derived mirror‑parity σh for finite‑momentum excitons in D₃h monolayers, yielding exact exciton‑phonon selection rules across the Brillouin zone.\n- Found the lowest exciton band’s parity flips across a closed contour; even phonons couple same‑parity states, odd phonons couple opposite‑parity states.\n- Computed exciton linewidths and solved the real‑time Boltzmann equation for monolayer GaN, benchmarking against h‑BN.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.13009": {
+    "title": "Odd-Parity Crystalline Electric Field and Multipoles in Icosahedral Quasicrystal and Approximant: Magnetic Toroidal and Electric Dipoles in Ce-Based Systems",
+    "summary": "- Odd‑parity crystalline electric field at Ce sites in icosahedral quasicrystals and approximants generates electric dipole and magnetic toroidal (MT) dipole multipoles.\n- Vortex‑type noncollinear magnetism in the 1/1 approximant produces cluster‑level MT moments that align ferroically, yielding an electro‑magnetic response.\n- Tuning the 4f–5d energy separation (e.g., via valence crossover) enhances resonance between local MT dipoles and cluster MT moments, stabilizing the observed magnetic structure.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.13155": {
+    "title": "X-ray absorption spectroscopic studies of oxygen-deficient double perovskite oxide NdBaCo$_2$O$_{5+\\delta}$ ($\\delta \\sim 0.65$)",
+    "summary": "- Correlation found between oxygen‑vacancy distribution, magnetic inhomogeneity, and charge transport in NdBaCo₂O₅.₆₅.\n- XANES and DFT+U reveal δ≈75, Ba²⁺ oxidation state, and Co vacancies at both basal and apical sites.\n- Basal‑site vacancies explain the Griffith phase and variable‑range‑hopping conduction mechanism.",
+    "timestamp": "2026-10-12"
+  },
+  "2610.13346": {
+    "title": "Interplay of disorder and spin liquid physics in the triangular-lattice antiferromagnet YbZn2GaO5",
+    "summary": "- 71Ga NMR shows Ga/Zn site mixing and broad quadrupolar frequencies, evidencing structural disorder.\n- Spin‑lattice relaxation follows a power‑law to 3 K",
+    "timestamp": "2026-10-12"
   }
 }
