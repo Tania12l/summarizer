@@ -3663,5 +3663,50 @@
     "title": "Interplay of disorder and spin liquid physics in the triangular-lattice antiferromagnet YbZn2GaO5",
     "summary": "- 71Ga NMR shows Ga/Zn site mixing and broad quadrupolar frequencies, evidencing structural disorder.\n- Spin‑lattice relaxation follows a power‑law to 3 K",
     "timestamp": "2026-10-12"
+  },
+  "2610.13946": {
+    "title": "An entangling Hubbard quasiparticle collider on a digital quantum processor",
+    "summary": "- Demonstrated doublon–holon scattering in a 21‑site Fermi‑Hubbard chain on IBM Boston, measuring transmission probabilities that agree with Bethe‑ansatz predictions.\n- Showed collision‑induced entanglement via superposition of transmitted/reflected quasiparticles, inferred from particle‑number fluctuations.\n- Control experiment with two doublons revealed no interaction dependence or fluctuations, confirming distinguishability effects.",
+    "timestamp": "2026-10-13"
+  },
+  "2610.13899": {
+    "title": "$q$-deformed Weil-Petersson Volumes from the Spectral Edge of DSSYK and Supersymmetric Extensions",
+    "summary": "- q‑deformed Weil–Petersson volumes arise as top‑degree parts of Okuyama’s discrete volumes via topological recursion on the DSSYK spectral curve.\n- The same volumes are obtained from a double‑scaled matrix model by zooming into the soft edges of the DSSYK density; the hard edge of \\(\\mathcal{N}=1\\) DSSYK yields candidate \\(q\\)-deformed \\(\\mathcal{N}=1\\) super Weil–Petersson volumes.\n- These candidate volumes are polynomials that reduce to the known super volumes as \\(q\\to1\\) and differ only by irrelevant terms that",
+    "timestamp": "2026-10-13"
+  },
+  "2610.13666": {
+    "title": "A new approach to the Kondo effect: sophomore's dream function and Lee-Yang zeros",
+    "summary": "- Uses a sophomore’s dream–based partition function to map the Kondo crossover onto a ladder of equidistant Lee‑Yang zeros.\n- Summing the ladder gives a universal Gamma‑function backbone Γ(α+T_K/(2πT)) with α = ½ set by the Friedel sum rule.\n- Derives a compact, one‑parameter Fano‑lineshape crossover formula, extendable to SU(N) Coqblin‑Schrieffer, underscreened, Anderson, and lattice Kondo models.",
+    "timestamp": "2026-10-13"
+  },
+  "2610.13444": {
+    "title": "Magnetic-field-induced detwinning of orientational domains in altermagnet $α$-MnTe: A single-crystal neutron diffraction study",
+    "summary": "- In-plane field along \\([-1,1,0]\\) detwins α‑MnTe, aligning the Néel vector to \\([1,1,0]\\) with an ordered moment of \\(62\\,\\mu_B\\) per Mn at 2 K, 2 T.\n- Domain population becomes \\(r_A:r_B:r_C\\approx97:03:0\\), yielding a near‑single‑orientation state but not a true single domain due to unpolarized diffraction limits.\n- Reflections show anomalous temperature dependence (60–88 K), hinting at intrinsic piezomagnetic or magnetoelastic",
+    "timestamp": "2026-10-13"
+  },
+  "2610.13401": {
+    "title": "Temperature evolution of spin dynamics in extended Kitaev models within an Abrikosov fermion theory beyond mean field",
+    "summary": "- Developed finite‑temperature Abrikosov‑fermion mean‑field + RPA to compute dynamical spin structure factor in extended Kitaev models.\n- Reproduces low‑energy dispersionless peak and high‑energy continuum of the pure Kitaev model, with temperature‑driven shift and continuum narrowing due to reduced bond amplitudes.\n- Shows momentum‑dependent softening of the static response in the FM Kitaev–Γ model, with the low‑energy peak’s energy controlled by the sign of the Heisenberg coupling.",
+    "timestamp": "2026-10-13"
+  },
+  "2610.13251": {
+    "title": "Ultrafast laser-stimulated field emission from a metal: a non-equilibrium Green's functions approach",
+    "summary": "- Developed a non‑equilibrium Green’s function framework that incorporates strong electron‑electron correlations for ultrafast laser‑stimulated field emission from metallic nanotips.\n- Demonstrated that emission spectra result from filtering the emitter’s local density of states through field‑dressed vacuum propagators, covering both strong‑field and multi‑photon regimes.\n- Uncovered a dynamic back‑action regime where optical‑field‑induced periodic polarization reshapes the far‑field spectrum via self‑consistent Dyson equation solutions.",
+    "timestamp": "2026-10-13"
+  },
+  "2610.13250": {
+    "title": "Zak Phase Quantization without Global Symmetry through Destructive Interference",
+    "summary": "- Zak phase remains quantized via destructive interference that localizes Bloch states to a topological parent, even when global symmetry is broken.\n- Verified in an inversion‑broken 1D model and a reflection‑broken armchair nanoribbon, preserving π Zak phase and edge states.\n- Perturbations breaking the interference continuously dequantize the Zak phase, though a near‑π regime with boundary response can persist.",
+    "timestamp": "2026-10-13"
+  },
+  "2610.13246": {
+    "title": "Theory of exciton-exciton interactions in crystalline systems",
+    "summary": "- Developed a microscopic theory of exciton‑exciton interactions valid for any crystalline semiconductor, including systems with strong band hybridization.\n- Demonstrated that quantum geometry and flat‑band effects significantly alter biexciton spectra compared to conventional models.\n- Provides a framework for quantitative predictions of biexciton formation and correlated excitonic phases in modern materials.",
+    "timestamp": "2026-10-13"
+  },
+  "2610.13233": {
+    "title": "Percolation of Data Constraints and Reorganization of Boolean Function States in Parity Learning",
+    "summary": "- Neural nets reorganize Boolean function states as parity data grow, measured by inverse subsystem purity (effective Schmidt rank).\n- Small data additions broaden the Schmidt spectrum (differentiation); larger additions reconcentrate it (target‑selective recoherence), boosting target alignment and accuracy.\n- Learning unfolds in three stages—constraint identifiability, function‑state organization, predictive accuracy—allowing re‑differentiation (retreat) without changing graph connectivity.",
+    "timestamp": "2026-10-13"
   }
 }
