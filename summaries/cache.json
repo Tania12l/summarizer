@@ -3708,5 +3708,55 @@
     "title": "Percolation of Data Constraints and Reorganization of Boolean Function States in Parity Learning",
     "summary": "- Neural nets reorganize Boolean function states as parity data grow, measured by inverse subsystem purity (effective Schmidt rank).\n- Small data additions broaden the Schmidt spectrum (differentiation); larger additions reconcentrate it (target‑selective recoherence), boosting target alignment and accuracy.\n- Learning unfolds in three stages—constraint identifiability, function‑state organization, predictive accuracy—allowing re‑differentiation (retreat) without changing graph connectivity.",
     "timestamp": "2026-10-13"
+  },
+  "2610.18854": {
+    "title": "A hierarchy of exact lower bounds on the Laughlin spectral gap",
+    "summary": "- Uses Knabe’s inequality and a finite SDP to compute exact lower bounds on the Laughlin spectral gap for any flux number, including the thermodynamic limit.\n- The SDP size depends only on cutoff parameters; an algorithm produces exact feasible points, turning numerical bounds into rigorous results.\n- Demonstrates rank stability of the SDP as flux → ∞, enabling extension of the method to other pseudopotentials such as Moore‑Read and Read‑Rezayi.",
+    "timestamp": "2026-10-14"
+  },
+  "2610.18742": {
+    "title": "Emergent Loop Geometry in Gauge-Equivariant Graph Neural Networks",
+    "summary": "- G‑equivariant GNNs generate ordered gauge‑link products via local message passing, forming closed lattice walks.\n- Depth drives rapid contour‑length growth but only modest spatial expansion, yielding long paths confined to compact regions.\n- Loop‑expanded fermionic observables show high‑order dependence on nearby gauge fields preserves locality, illustrating depth’s dual role in reach and representation richness.",
+    "timestamp": "2026-10-14"
+  },
+  "2610.18722": {
+    "title": "Superexchange coupling between a dilute Gd3+ probe and orphan spins in a valence-bond glass",
+    "summary": "- Gd³⁺ EPR linewidth in Ba₂YMoO₆ is twice that of Ba₂YNbO₆, implying ~2 K superexchange with orphan spins.\n- Dipolar coupling is too weak; transferred f‑d superexchange dominates the static broadening.\n- The half‑field Δm_S = ±2 satellite collapses in the magnetic host, indicating dynamical dephasing while the g‑factor stays unchanged, evidencing random internal fields.",
+    "timestamp": "2026-10-14"
+  },
+  "2610.18681": {
+    "title": "Explicitly correlated ground states with a feedback-free variational hybrid algorithm",
+    "summary": "- Hybrid scheme: quantum prepares a low‑entanglement momentum‑space MPS, classical rotates to real space, and the Jastrow correlator is optimized entirely in post‑processing without quantum‑classical feedback.\n- Tested on a 32‑qubit 4×4 Hubbard lattice (bond dimension 4 MPS): achieved 16 % relative energy error, reduced to 5 % after calibration.\n- Outperforms other feedback‑free hybrids, needing fewer samples than quantum‑selected CI and fewer two‑qubit gates than quantum Krylov.",
+    "timestamp": "2026-10-14"
+  },
+  "2610.18441": {
+    "title": "Altermagnetic Ground States on the Ammann--Beenker Tiling",
+    "summary": "- Exact altermagnetic ground states identified for a classical Heisenberg model on the Ammann–Beenker tiling using the parity of its 4‑D hypercubic parent lattice.\n- The ground state is coplanar altermagnet with spin‑group symmetry \\([C_{2x}\\parallel C_{8z}]\\); translational symmetry is absent, so conventional momentum‑space spin splitting is inaccessible.\n- Coupling to itinerant electrons produces spin‑resolved transport with \\(g\\)-wave symmetry, confirming altermagnetic behavior in this nonperiodic system.",
+    "timestamp": "2026-10-14"
+  },
+  "2610.18279": {
+    "title": "Coherent Phonon Generation from Prethermal Carrier Populations in a Semiconductor",
+    "summary": "- Coherent A₁ phonon amplitude in Te varies only weakly with photon energy across the band gap, challenging thermalized‑carrier models.\n- The spectral response is reproduced by a prethermal force weighted by optical matrix elements and deformation potentials, showing transition selectivity.\n- Fits give a transition‑state lifetime of a few femtoseconds, underscoring prethermal carrier populations as the main driver of coherent‑phonon generation.",
+    "timestamp": "2026-10-14"
+  },
+  "2610.18211": {
+    "title": "Unexpected stabilization of a single-$q$ charge density wave in pristine 1T-TiSe$_2$",
+    "summary": "- ARPES reveals a 2×1 single‑q CDW forms first, before the other two components.\n- Lower‑temperature transitions add the remaining q‑vectors, completing the 2×2 triple‑q phase.\n- Free‑energy and phonon‑anharmonicity calculations show repulsive coupling, making the subcomponents inequivalent in phase and amplitude.",
+    "timestamp": "2026-10-14"
+  },
+  "2610.18175": {
+    "title": "Non-Hermitian Statistical Geometry",
+    "summary": "- Extends braid/fusion data to a complex space of spectral and relative‑geometric degrees of freedom via non‑Hermitian statistical geometry.\n- Shows that two adjacent braid generators require an extra gauge‑invariant modulus from relative eigenline geometry, beyond the projective exchange spectrum.\n- Demonstrates in Kitaev‑Majorana networks that braid consistency locks these coordinates, while nonzero Kato curvature reveals path‑dependent exchange dynamics.",
+    "timestamp": "2026-10-14"
+  },
+  "2610.18124": {
+    "title": "Local error correction prolongs time-crystalline memory",
+    "summary": "- Stochastic local bit‑flip error correction extends a 2D disordered Ising time crystal’s lifetime by up to a factor of two on a superconducting processor.\n- A repetition code (distances 3 and on a honeycomb lattice with up to 68 qubits, including ancilla and mid‑circuit syndrome measurements, stabilizes spatial order at late times.\n- Syndrome measurements without correction accelerate decay, underscoring the need for conditional correction to preserve time‑crystalline memory.",
+    "timestamp": "2026-10-14"
+  },
+  "2610.17984": {
+    "title": "Direct view of exciton and carrier dynamics in twisted bilayer graphene",
+    "summary": "- Ghost‑Fano exciton observed inside hybridization gap via time‑resolved ARPES.\n- Layer‑polarized Dirac cones exhibit different peak electronic temperatures due to interlayer electric field.\n- Ultrafast interlayer energy redistribution leads to similar cooling dynamics in both layers.",
+    "timestamp": "2026-10-14"
   }
 }
