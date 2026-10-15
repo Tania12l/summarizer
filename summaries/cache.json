@@ -3758,5 +3758,100 @@
     "title": "Direct view of exciton and carrier dynamics in twisted bilayer graphene",
     "summary": "- Ghost‑Fano exciton observed inside hybridization gap via time‑resolved ARPES.\n- Layer‑polarized Dirac cones exhibit different peak electronic temperatures due to interlayer electric field.\n- Ultrafast interlayer energy redistribution leads to similar cooling dynamics in both layers.",
     "timestamp": "2026-10-14"
+  },
+  "2610.18882": {
+    "title": "Phase separating microdomains in highly coarse-grained lipids",
+    "summary": "- Developed a highly coarse‑grained 2D lipid monolayer model with spherical S, U, C particles and modified Lennard‑Jones interactions.\n- Simulations across cholesterol fractions (x = 1–show S and C particles co‑segregate into ordered microdomains, surrounded by U particles.\n- Defined order parameter Φ; its time‑averaged value rises with x, and radial distribution functions confirm structural ordering within domains.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.18885": {
+    "title": "Mechanisms leading to axial segregation of bidisperse particles in rotating tumblers",
+    "summary": "- Radial segregation forms a high‑density mixed layer above a low‑density monodisperse layer, triggering a Rayleigh‑Taylor‑like instability that drives axial band formation.\n- DEM simulations across size ratios, tumbler dimensions, species fractions, and fill levels map the conditions for axial segregation.\n- Increasing particle size ratio improves packing, raises mixed‑layer density, and accelerates axial segregation.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.18949": {
+    "title": "Virtual-Alloy Physics-Aware Semantic System for extrapolative prediction of perovskite solar cells",
+    "summary": "- V‑PaSS interpolates relaxed crystal graphs of 23 pure $ABX_3$ endpoints via Vegard’s law with learned band‑gap bowing to represent arbitrary mixed‑cation/halide perovskite absorbers.\n- Device stacks are encoded by layer sequence, polarity (n‑i‑p or p‑i‑n), interfacial band offsets, and a scientific‑language model for chemical descriptions.\n- In an institution‑grouped protocol, V‑PaSS achieves 861 % MAE, a 2 % relative gain over a gradient‑boosted baseline, and the lowest error on unseen absorber",
+    "timestamp": "2026-10-15"
+  },
+  "2610.18965": {
+    "title": "Measurement-induced criticality for non-Abelian anyons: The monitored golden chain",
+    "summary": "- Measurement-only dynamics of the golden chain (k = realize a non‑unitary CFT with 1/L Lyapunov gaps and logarithmic entanglement scaling.\n- The process maps to a random tensor network, giving an effective central charge in the Shannon entropy and a dynamical exponent z =\n- Conserved topological charge is learnable in O(L) time, extending the self‑dual critical point of the toric code to all k ≥",
+    "timestamp": "2026-10-15"
+  },
+  "2610.18967": {
+    "title": "Non-Abelian quantum Hall states at strong Landau level mixing: finding anyons with first-principles AI",
+    "summary": "- Momentum‑resolved neural‑network wave function solves ν=3/2 spin‑polarized quantum Hall with full Landau‑level mixing.\n- Degenerate ground‑state manifold exhibits √2 quantum‑dimension anyons, revealing Ising non‑Abelian order.\n- Overlap calculations show anti‑Pfaffian is favored by Landau‑level mixing, matching experimental observations.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.18980": {
+    "title": "Transmission representation of the Josephson free energy beyond the short-junction limit",
+    "summary": "- Generalizes Beenakker’s short‑junction transmission formula to arbitrary lengths using a Matsubara sum with frequency‑dependent transmissions.\n- Establishes finite‑temperature bounds on the quartic‑to‑quadratic coefficient ratio: \\(-1 \\le \\alpha_r \\le 7/80\\).\n- Presents a four‑site junction with \\(\\alpha_r>0\\), disproving the conjectured upper bound \\(\\alpha_r \\le 0\\).",
+    "timestamp": "2026-10-15"
+  },
+  "2610.18994": {
+    "title": "Full-Continuum Ultrafast Quantum Gas Microscopy",
+    "summary": "- Ultrafast 4 µs fluorescence imaging of ultracold ^162Dy gas in continuous space, 8 nm PSF, 72 % single‑atom fidelity.\n- Statistical configuration‑inference model recovers overlapping atom positions from single snapshots, 7 % reconstruction fidelity.\n- Extends quantum‑gas microscopy beyond lattice bases, enabling atom‑resolved counting statistics and higher‑order spatial correlations in continuum systems.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.18999": {
+    "title": "Electron-Mediated Phonon Polaritons in Quantum Cavities",
+    "summary": "- Developed gauge‑invariant theory of cavity phonon polaritons including electronic screening, dissipation, and hybridization.\n- Found that electronic screening suppresses polariton formation in metals, while interband resonances in gapped, time‑reversal‑symmetric systems enhance coupling down to monolayer thickness.\n- Demonstrated a no‑go theorem: gauge invariance forces photon decoupling from a critical soft phonon, preventing photon condensation.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19006": {
+    "title": "Nanoscale Mapping of Strain-engineered Excitons in Monolayer WSe$_2$",
+    "summary": "- Cryogenic s‑SNOM resolves sub‑diffraction exciton resonance shifts in monolayer WSe₂ under engineered strain.\n- Nano‑indentation on polymer induces compressive strain and exciton blueshift, whereas draping over dielectric pillars produces tensile strain and redshift.\n- Direct strain‑exciton mapping clarifies the origin of strain‑localized single‑photon emitters in 2",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19017": {
+    "title": "Topological superconductivity in layered d-wave altermagnetic metals",
+    "summary": "- Multilayer d‑wave altermagnetic metals with odd‑parity helical p‑wave pairing support mirror‑symmetric phases hosting multiple helical Majorana edge modes, characterized by mirror Chern and winding numbers.\n- Rashba spin‑orbit coupling gaps helical pairs but can preserve counter‑propagating Majorana modes, producing second‑order topological phases with corner Majorana modes and hybrid‑order phases with both edge and corner modes.\n- Interlayer coupling generates a layer symmetry that enables N‑fold Majorana corner modes in N‑layer systems, linking",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19269": {
+    "title": "Spectral signatures of spin textures and the emergence of a pseudogap",
+    "summary": "- Mean‑field symmetry breaking generates frequency‑ and momentum‑dependent self‑energies that mimic strong‑correlation fingerprints.\n- In the 2D Hubbard model, doped antiferromagnets self‑consistently form stripe‑like antiphase domains separated by hole‑rich interfaces.\n- These states produce pseudogap spectral features: nodal‑antinodal dichotomy, Fermi arcs, and a complementary Luttinger surface.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19276": {
+    "title": "Signatures of symmetry-stabilized Dirac fermions in correlated oxide CaNbO3 thin films",
+    "summary": "- Oxygen‑octahedral rotations in CaNbO₃ thin films tune nonsymmorphic symmetry, stabilizing Dirac‑like electronic states.\n- Compressive tetragonal strain produces Dirac‑electron bands; relaxed orthorhombic films show nodal‑line crossings, both with high‑mobility metallic transport and Shubnikov‑de Haas oscillations.\n- Berry‑phase evidence and first‑principles calculations confirm topological character, establishing octahedral symmetry as a design knob for topological states in correlated oxides.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19334": {
+    "title": "Evidence for hidden order and its potential correlation with electron-hole asymmetry in iridate superlattices",
+    "summary": "- Hidden order appears only in hole‑doped iridate superlattices, evidenced by strong magnetic scattering and robust coherence above TN.\n- Electron‑hole asymmetry: insulating and AFM states stay coupled in electron‑doped samples but decouple in hole‑doped ones.\n- Octahedral rotations/tilts ruled out; the hidden order suggests a new platform for exploring unconventional ordering in spin‑orbit‑entangled materials.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19370": {
+    "title": "Odd-to-Even-Layer Switch of Spontaneous Excitonic State in $\\rm{TiSe_{2}}$ Thin Films",
+    "summary": "- Odd‑layer TiSe₂ films show CDW‑renormalized bands without excitonic features, whereas even‑layer films display a notched valence band and broadened conduction",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19406": {
+    "title": "Multiple Superconducting Phases under Pressure for Different Field Directions in UTe2",
+    "summary": "- Multiple superconducting phases in UTe₂ arise from spin‑triplet pairing and orbital degrees of freedom.\n- AC calorimetry under pressure maps field‑temperature phase diagrams for all three principal axes.\n- Pressure evolution of these phases is highly anisotropic, revealing complex fluctuation‑driven phenomena.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19713": {
+    "title": "Room-Temperature Metallic 2D Ferromagnetism Stabilized by Quantum Metric",
+    "summary": "- Dice‑lattice bands in YCl show a 5 eV flat‑band splitting, revealing uniform ferromagnetism instead of density‑wave order.\n- Quantum metric near K/K′ crossings stabilizes this metallic 2D FM, tipping the instability toward uniform ferromagnetism.\n- RPA/Hartree–Fock analysis predicts a Curie temperature above room temperature, enabling energy‑efficient high‑density magnetic memories.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19727": {
+    "title": "Role of Gd 5d-Au 5d hybridization for the magnetic properties of Au-Al-Gd quasicrystal approximants",
+    "summary": "- Gd 4f electrons are localized in all Au‑Al‑Gd approximants, yet valence states differ with magnetic ground state.\n- Gd 5d–Au 5d hybridization near the Fermi level supplies a local exchange pathway between Gd 4f moments, with strength varying among samples.\n- Orbital‑selective X‑ray spectroscopy maps this hybridization, offering a microscopic picture of magnetism in rare‑earth quasicrystal approximants.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19770": {
+    "title": "Beyond Kitaev exchange: $\\Gamma'$-driven magnetism in Ag$_3$LiRh$_2$O$_6$",
+    "summary": "- Ag₃LiRh₂O₆ shows a dominant ferromagnetic Kitaev exchange K₁ and a large off‑diagonal Γ₁′, second only to K₁.\n- Γ₁′ accounts for the 94 K ordering temperature and its rapid suppression under pressure, driving a FM‑to‑zigzag transition.\n- Spin‑wave calculations reveal a nontrivial magnon band topology arising from Γ₁′, amplified by strong trigonal crystal‑field splitting.",
+    "timestamp": "2026-10-15"
+  },
+  "2610.19809": {
+    "title": "Interplay of electric field and electronic correlations in pairing competition in bilayer nickelates",
+    "summary": "- Electric field (layer potential ε) favors intralayer d‑wave pairing over interlayer s± by raising V_d and lowering V_s±.\n- Increasing U strengthens both pairing channels, especially d‑wave; crystal‑field splitting suppresses both, making s± relatively more competitive; Hund’s coupling shifts the balance toward s± at low bias and d‑wave at high bias.\n- Bias-induced charge redistribution between layers enhances antiferromagnetic spin correlations and interorbital parallel‑spin correlations, linking charge, magnetism, and pairing competition.",
+    "timestamp": "2026-10-15"
   }
 }
