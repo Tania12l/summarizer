@@ -3853,5 +3853,95 @@
     "title": "Interplay of electric field and electronic correlations in pairing competition in bilayer nickelates",
     "summary": "- Electric field (layer potential ε) favors intralayer d‑wave pairing over interlayer s± by raising V_d and lowering V_s±.\n- Increasing U strengthens both pairing channels, especially d‑wave; crystal‑field splitting suppresses both, making s± relatively more competitive; Hund’s coupling shifts the balance toward s± at low bias and d‑wave at high bias.\n- Bias-induced charge redistribution between layers enhances antiferromagnetic spin correlations and interorbital parallel‑spin correlations, linking charge, magnetism, and pairing competition.",
     "timestamp": "2026-10-15"
+  },
+  "2610.20713": {
+    "title": "Transport in multilayer graphene: resistance from stacking faults",
+    "summary": "- Landauer‑based 1D model for c‑axis transport in multilayer graphene with arbitrary stacking.\n- Calculated fault resistances show large, non‑Gaussian sample‑to‑sample variations due to Fermi‑surface mismatch.\n- Rhombohedral slab embedded in Bernal leads behaves insulating, despite both phases being metallic.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.20717": {
+    "title": "All-temperature superfluidity in two dimensions",
+    "summary": "- BKT superfluidity survives to arbitrarily high temperatures in a (2+‑D theory where a complex scalar couples to a critical O(N) model.\n- At the biconical fixed point the phase stiffness scales linearly with temperature and with N, rendering vortex operators irrelevant for large N.\n- Vortex fugacity is exponentially suppressed in N, ensuring stability of the high‑temperature superfluid phase.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.20723": {
+    "title": "Boundary-induced geometrical frustration in a square Rydberg-atom lattice",
+    "summary": "- Odd‑size lattices select a single striated domain; even‑size lattices seed incompatible corner domains, yielding a π/2‑rotation invariant state with a central defect.\n- At larger detunings a π‑rotation invariant state appears, featuring two opposite‑corner domains separated by a diagonal defect.\n- Experiments on Aquila and tensor‑network simulations confirm that boundaries and lattice size dictate global ordering in programmable quantum matter.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.20724": {
+    "title": "Long-lived local coherences at high temperature from frozen domain walls",
+    "summary": "- Shows that local coherences in spin chains with quantum‑group symmetry decay only algebraically, not faster than any power law.\n- Derives a Mazur bound $C(t)\\gtrsim1/t^2$ and computes explicit decay $C(t)\\sim1/\\sqrt{t}$ (large anisotropy) and $C(t)\\sim t^{-2/z}$ (general anisotropy).\n- Demonstrates that frozen domain walls in integrable and chaotic models (XXZ, Fredkin) protect long‑lived coherences even at high temperature.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.20734": {
+    "title": "Quantum oscillations in a solvable model of a Kondo insulator",
+    "summary": "- Introduced solvable SYK‑enhanced periodic Anderson model; insulating state remains robust under strong interactions.\n- Derived interacting Lifshitz‑Kosevich formulas: SdH frequencies shift slightly, dHvA frequency unchanged.\n- SdH amplitude strongly enhanced by gap renormalization; dHvA amplitude largely unaffected.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.20755": {
+    "title": "Resonant enhancement of Raman scattering in a MoS$_2$ nanotube",
+    "summary": "- Whispering‑gallery modes in a MoS₂ nanotube wall doubly resonantly enhance Raman scattering, scaling as \\((Q_{\\rm pump}Q_{\\rm sc})^2\\).\n- Excitonic dispersion near the A exciton compresses the mode ladder, allowing a phonon‑energy match (A₁g at 1551 meV) without geometric tuning.\n- A detuned resonance splits the peak into a pump‑ and scattered‑resonant doublet, confined to the TM→TM channel and excluding E₁g.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.20779": {
+    "title": "Enabling large language model agents for high-fidelity many-body perturbation theory calculations",
+    "summary": "- LLM agents (Opus 7, GPT‑fail to reliably build MBPT workflows, achieving only 54 %, 36 %, and 19 % success on GW, GW‑BSE, and GWPT benchmarks.\n- Errors stem from cross‑stage inconsistencies that appear only after several workflow steps, highlighting the need for expert knowledge and consistency.\n- The AI‑Donkey framework merges curated expert rules with deterministic execution, enabling accurate GW, GW‑BSE, and GWPT calculations across tested agents.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.20812": {
+    "title": "Modeling Transport and Mechanics in Anion Exchange Membranes to Optimize Continuous CO2 Separations",
+    "summary": "- Developed a transient finite‑element model coupling water diffusion, hygroscopic swelling, and nonlinear viscoelastic deformation in a Fumasep FAA‑3‑50 anion‑exchange membrane.\n- Compared uncoupled, one‑way, and fully coupled formulations; found that mechanical feedback alters local transport but diffusion remains the primary driver.\n- Validated the fully coupled model against experimental swelling/transport data, confirming its predictive capability for nonuniform hydration conditions.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.20834": {
+    "title": "Identifying intercalation electrodes for electrochemical ion recovery and desalination",
+    "summary": "- Developed a high‑throughput workflow screening 20,414 Li/Mg/Ca/Na/K intercalation structures for seawater‑compatible ion recovery/desalination.\n- Constructed seawater Pourbaix diagrams, redefined metastability limits, and calculated average intercalation voltages to evaluate electrode viability.\n- Generated computational selectivity maps to identify promising cation‑intercalation materials beyond current olivine‑FePO₄ and spin",
+    "timestamp": "2026-10-16"
+  },
+  "2610.20837": {
+    "title": "Transition-Metal-Oxygen Covalency Controls Ligand-Hole Stability in Li-Rich Cathode",
+    "summary": "- Ligand holes govern charge compensation in Li‑rich cathodes, with stability tied to TM‑O covalency.\n- Li₂MnO₃ is strongly negative‑charge‑transfer, so delithiation quickly generates unstable ligand holes.\n- Higher TM‑O hybridization in Li₂RuO₃/Li₂IrO₃ keeps holes delocalized, enhancing voltage stability and cyclability.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.21154": {
+    "title": "Modified anisotropy and distinct phase diagrams in the nearly isotropic $S=1$ triangular-lattice antiferromagnet $\\mathrm{Rb_2Ni(SeO_3)_2}$",
+    "summary": "- Easy‑axis anisotropy (g_c > g_ab) in Rb₂Ni(SeO₃)₂, opposite to K₂Ni(SeO₃)₂’s easy‑plane.\n- Néel transition splits into two near 10 T; 21–37 T magnetization plateau for H∥c and H∥ab.\n- Distinct phase diagrams for Rb₂Ni(SeO₃)₂ versus K₂Ni(SeO₃)₂",
+    "timestamp": "2026-10-16"
+  },
+  "2610.21209": {
+    "title": "Plasmon Collapse in a Directional Strange Metal",
+    "summary": "- MoOCl₂ exhibits anisotropic transport: coherent Fermi‑liquid behavior along one in‑plane axis and incoherent strange‑metal behavior along the orthogonal axis.\n- In the strange‑metal direction the plasmon becomes overdamped, reverses dispersion at \\(q_c\\approx008\\,\\text{Å}^{-1}\\), and collapses into a broad continuum with a high‑energy cutoff \\(E_c\\approx75\\,\\text{eV}\\).\n- Both \\(q_c\\) and \\(E_c\\) vary with sample thickness, indicating dimensional control over the plasmon collapse.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.21317": {
+    "title": "Thermodynamic-limit bootstrap: Solving fractional quantum Hall ground states",
+    "summary": "- Quantum‑many‑body bootstrap solves fractional quantum Hall ground states directly in the thermodynamic limit, giving rigorous energy lower bounds and identifying topological order.\n- Benchmarks on Laughlin, Pfaffian, and Coulomb systems reproduce exact pair correlations, orbital‑entanglement spectra, and match DMRG/ED extrapolations.\n- Applied to ν=1/4 and ν=12/5, it uncovers a composite Fermi liquid and \\(\\overline{\\mathrm{RR}}_3\\) topological order, showing versatility for both gapped and gapless states.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.21523": {
+    "title": "Non-equilibrium Muon Dynamics Imitating Fractional Spin Excitations in a Quantum Spin Chain",
+    "summary": "- Gaussian, field‑resilient muon polarization decay observed in AgCuVO₄.\n- DFT reveals two nearby muon sites; a two‑state hopping model explains the decay via quantum delocalization.\n- Non‑equilibrium muon dynamics can mimic signatures of fractional spin excitations.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.21580": {
+    "title": "Flat-band ferrimagnetism in the edge-centered honeycomb antiferromagnet: From harmonic flat magnon to broad continuum",
+    "summary": "- Edge‑centered honeycomb spin‑½ Heisenberg AFM has a 2:3 sublattice imbalance that yields a flat magnon band in linear spin‑wave theory.\n- Lieb–Mattis theorem guarantees a ferrimagnetic ground state, with the flat mode localized on edge sites.\n- Quantum Monte Carlo and analytic continuation reveal the harmonic flat mode dissolves into a broad continuum, showing interaction‑driven breakdown of the flat band.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.21761": {
+    "title": "Probing Deconfined Quantum Criticality Point on a Digital Quantum Computer",
+    "summary": "- Demonstrated a superconducting quantum computer can resolve a DQ",
+    "timestamp": "2026-10-16"
+  },
+  "2610.21854": {
+    "title": "Interlocked Vortex Order in the Frustrated $A_3$V$_9$Te$_{13}$ Lattice ($A$=Cs,Rb)",
+    "summary": "- Frustrated V sublattice favors a vortex/anti‑vortex antiferromagnetic ground state, lowest in energy.\n- This phase hosts kagome‑like electronic features: Dirac crossings, van Hove singularities, flat bands; Cs‑based is metallic with 6 Weyl points, Rb‑based shows a ~27 meV SOC gap.\n- The spin pattern is rigid—fixing one triangle fixes all—and the Néel temperature is nearly field‑independent, matching experiments.",
+    "timestamp": "2026-10-16"
+  },
+  "2610.22134": {
+    "title": "Putting a Temperature on Electron Correlation",
+    "summary": "- Links electron‑correlation measures to a conjugate “correlation temperature” in reduced‑density‑matrix functional theory, enabling mean‑field‑level treatments.\n- Expresses correlation energy as a function of the one‑particle reduced density matrix, rationalizing methods such as i‑DMFT.\n- Validates the framework analytically on the Hubbard dimer and numerically on small molecules, assessing how much correlation can be captured at mean‑field cost.",
+    "timestamp": "2026-10-16"
   }
 }
