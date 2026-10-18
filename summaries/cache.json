@@ -3943,5 +3943,50 @@
     "title": "Putting a Temperature on Electron Correlation",
     "summary": "- Links electron‑correlation measures to a conjugate “correlation temperature” in reduced‑density‑matrix functional theory, enabling mean‑field‑level treatments.\n- Expresses correlation energy as a function of the one‑particle reduced density matrix, rationalizing methods such as i‑DMFT.\n- Validates the framework analytically on the Hubbard dimer and numerically on small molecules, assessing how much correlation can be captured at mean‑field cost.",
     "timestamp": "2026-10-16"
+  },
+  "2610.22361": {
+    "title": "Band-Resolved Superconducting Gaps via the Thermal Hall Effect in CeRu2",
+    "summary": "- Thermal Hall transport separates superconducting gaps on electron and hole Fermi surfaces in CeRu₂.\n- Gap magnitudes: Δ_e ≈ 13 K on heavy Ce 4f electron sheets; Δ_h ≈ 8 K on hole sheets.\n- Low‑field sign reversal of κ_xy confirms the larger gap resides on the electron band.",
+    "timestamp": "2026-10-18"
+  },
+  "2610.22348": {
+    "title": "Parafermions in polarized $ν=2/3$ Fractional Quantum (Anomalous) Hall Heterostructures",
+    "summary": "- Demonstrates that spin‑polarized ν=2/3 edges proximitized by superconductors can host Z₃ parafermion zero modes via a double sine‑Gordon charge sector.\n- Uses bosonization/renormalization‑group analysis to show that gapping the emergent neutral dipole sector leaves a single dominant tunneling and pairing channel.\n- Finds that while clean systems need fine‑tuned interactions, correlated edge disorder generically stabilizes the parafermion modes.",
+    "timestamp": "2026-10-18"
+  },
+  "2610.22307": {
+    "title": "Extended strange metal and superconductivity in partially filled moiré Hubbard bands",
+    "summary": "- Extended strange metal (ESM) emerges in partially filled Hubbard band of twisted bilayer WSe₂, persisting to 100 mK across a wide range of doping and small twist angles.\n- ESM spans multiple symmetry‑breaking ground states and appears distinct from quantum‑critical strange metals, suggesting an intrinsic state of matter.\n- A new superconducting dome develops from the ESM, located far from both the Mott insulator and van Hove singularity.",
+    "timestamp": "2026-10-18"
+  },
+  "2610.22257": {
+    "title": "Local wave-packet spectroscopy of the Drude weight in Tomonaga-Luttinger liquids",
+    "summary": "- Local pulse generates two counter‑propagating packets with charges ±qK moving at velocity v.\n- Linear charge polarization P(t)=2qDt yields the Drude weight D=vK from real‑time dynamics.\n- TDVP XXZ simulations confirm packet behavior and Drude weight, matching Bethe‑Ansatz results.",
+    "timestamp": "2026-10-18"
+  },
+  "2610.22253": {
+    "title": "Pt-induced semimetallic transport and enhanced thermoelectric response in the half-Heusler alloy YNi_{0.5}Pt_{0.5}Bi",
+    "summary": "- Pt alloying turns YNiBi semimetallic: hole‑dominated, 9 × 10¹⁹ cm⁻³ carriers, 18 % MR at 300 K/14 T.\n- Seebeck ↑ → 130 µV K⁻¹, κ ↓ → 15 W m⁻¹ K⁻¹, power factor 7 µW",
+    "timestamp": "2026-10-18"
+  },
+  "2610.22212": {
+    "title": "$d$-wave superconductivity in quintuple-layer bulk superconductor La$_6$Ni$_5$O$_{12}$",
+    "summary": "- Spin‑singlet \\(d_{x^2-y^2}\\) wave is energetically favored in La\\(_6\\)Ni\\(_5\\)O\\(_{12}\\); V‑shaped DOS,",
+    "timestamp": "2026-10-18"
+  },
+  "2610.22140": {
+    "title": "A rigid commensurate host and a defect that switches: vacancies in the frustrated alternating spin-(1, 1/2) Heisenberg chain",
+    "summary": "- Discontinuous loss of Lieb–Mattis moment → critical singlet (gap ∝ 1/L, c ≈ 8, wavevector 3π/.\n- Vacancy collapses total spin S = L/4→0; doped chain flips from triplet to singlet at J₂* ≈ 3068, with the triplet delocalized over the two chain segments.\n- Correlation transmission through the vacancy saturates to a finite T ≈ 1 (no L⁻¹ law); longitudinal correlator vanishes in the triplet sector.",
+    "timestamp": "2026-10-18"
+  },
+  "2610.22037": {
+    "title": "Exciton superfluidity in two-dimensional bilayers at zero and high magnetic fields",
+    "summary": "- Zero‑field exciton superfluidity persists for any finite separation; the pairing scale falls exponentially with the square of separation, governed by static screening in the high‑density limit.\n- The RPA‑screened interaction plus second‑order crossed‑rung corrections largely cancel plasmon‑enhanced pairing, yielding a controlled linearized gap equation without a cutoff.\n- In quantum Hall bilayers (ν_T = , Hartree‑Fock gives uniform coherence at all separations, but a finite‑wave‑vector collective‑mode instability drives an excitonic supersolid, separating loss of spatial uniformity from loss of coherence.",
+    "timestamp": "2026-10-18"
+  },
+  "2610.21955": {
+    "title": "Spin-1/2 Heisenberg diamond-like decorated honeycomb lattice in a magnetic field from the perspective of localized magnons and exact diagonalization",
+    "summary": "- Ground‑state phase diagram includes Lieb‑Mattis ferrimagnet, dimer‑tetramer, monomer‑dimer, spin‑canted, and saturated phases, producing magnetization plateaus and both continuous and discontinuous transitions.\n- In the highly frustrated regime, a localized‑magnon effective lattice‑gas model accurately captures low‑temperature magnetism and thermodynamics, matching exact diagonalization.\n- At intermediate frustration, finite‑temperature specific‑heat data reveal Ising criticality at the field‑induced monomer‑dimer to Lieb‑Mattis ferrimagnetic transition.",
+    "timestamp": "2026-10-18"
   }
 }
