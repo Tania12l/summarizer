@@ -3988,5 +3988,85 @@
     "title": "Spin-1/2 Heisenberg diamond-like decorated honeycomb lattice in a magnetic field from the perspective of localized magnons and exact diagonalization",
     "summary": "- Ground‑state phase diagram includes Lieb‑Mattis ferrimagnet, dimer‑tetramer, monomer‑dimer, spin‑canted, and saturated phases, producing magnetization plateaus and both continuous and discontinuous transitions.\n- In the highly frustrated regime, a localized‑magnon effective lattice‑gas model accurately captures low‑temperature magnetism and thermodynamics, matching exact diagonalization.\n- At intermediate frustration, finite‑temperature specific‑heat data reveal Ising criticality at the field‑induced monomer‑dimer to Lieb‑Mattis ferrimagnetic transition.",
     "timestamp": "2026-10-18"
+  },
+  "2610.22385": {
+    "title": "Universal link between structural relaxation and self-diffusion in simple supercooled liquids",
+    "summary": "- Universal scaling links self‑diffusion and structural relaxation time at constant dynamical heterogeneity.\n- Fractional Stokes‑Einstein exponent is invariant across liquids of different fragility.\n- Scaling reproduces data for supercooled water and silica, underscoring dynamical heterogeneity’s central role.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22386": {
+    "title": "Noise-Induced Restoration of Entropy Concavity Near Gaussian Equilibrium",
+    "summary": "- Demonstrates that adding Gaussian noise restores concavity of entropy for partially thermalized one‑dimensional states, deriving an exact endpoint‑curvature formula separating OU‑restoring and fourth‑cumulant terms.\n- Extends the result to nonsmooth generalized‑Gaussian densities \\(e^{-a|x|^p}\\) (\\(p>3/2\\)) and proves an outer‑region theorem bounding endpoint obstructions to two near‑equilibrium sectors.\n- Provides spectral and MMSE reformulations of the key inequality \\(A\\ge2\\delta\\), proving it near Gaussian equilibrium and sharpening bounds for the leading non‑Gaussian Hermite mode.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22387": {
+    "title": "QMBL: the Quantum Many-Body Leaderboard. A live record of published ground-state energies for lattice Hamiltonians",
+    "summary": "- Introduces QMBL, an interactive leaderboard cataloging published ground‑state energies for lattice Hamiltonians.\n- Current release v0 lists 1,434 energies across 395 instances of six model families, with 153 unsolved cases.\n- Serves as a consensus layer for variational results and a target list for the companion benchmark “QMBL: Open Problems.”",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22391": {
+    "title": "Thermodynamics of coupled electromagnetic and mass fields",
+    "summary": "- Unified Gibbs–Duhem relation incorporating kinetic free‑energy links free‑energy, chemical potentials, pressure, and transport momentum.\n- Lagrangian framework unifies diffusion, momentum transport, and electromagnetic dynamics, reproducing Cahn–Hilliard/Korteweg coupling.\n- Distinguishes dissipative vs nondissipative transport; isentropic propagation speed follows from pressure‑density derivative, yielding sound and light speeds.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22394": {
+    "title": "Visualizing surface-reaction-driven chloride migration and cascading failure in sulfide solid electrolytes",
+    "summary": "- Cryo‑4D‑STEM shows Li₆PS₅Cl degrades mainly at the surface, while Li₅.₅PS₄.₅Cl₁.₅ undergoes rapid interior amorphization and outward Cl redistribution.\n- DFT indicates a lower Cl‑migration barrier in the high‑Cl electrolyte; Cl removal creates vacancies that distort the PS₄ framework, destabilizing the lattice.\n- Surface treatment suppresses Cl segregation, improving moisture tolerance and retaining 9 % of initial capacity after 150 cycles at 33 C.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22402": {
+    "title": "Synergistic Self-Driven Nanoconfinement and Dynamical Heterogeneity in Deeply Supercooled \"No Man's Land\" Water",
+    "summary": "- Self‑generated nanocluster “soft skeleton” creates intrinsic nanoporous confinement in deeply supercooled water (150–235 K).\n- Low‑density (~925 g cm⁻³) phase is a distinct, stable liquid with pronounced structural and dynamical heterogeneity, separate from glass or spinodal states.\n- Nonlinear temperature dependence of density and compressibility is explained as a structurally driven anomaly, clarifying water’s thermodynamics in the “no‑man's land”.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22414": {
+    "title": "Semiclassical Analysis of Wave Dynamics via Wigner Transforms: Applications to the Quantum Harmonic, Anharmonic, and Dirac Oscillator",
+    "summary": "- Semiclassical Wigner‑function dynamics for single‑band (harmonic, anharmonic) and two‑band (Dirac) oscillators.\n- First‑order corrections (Moyal, Littlejohn‑Flynn, Berry) and a dimensionless accuracy parameter for anharmonic and Dirac cases.\n- Construction of single‑branch almost coherent states to compare Wigner evolution with the Sundaram‑Niu formalism.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22463": {
+    "title": "Probing nonequilibrium transport and density profiles in tilted interacting fermion chains with local reservoirs",
+    "summary": "- Local particle reservoirs in a tilted, interacting fermion chain reveal transport and density profiles via Lindblad dynamics.\n- Transmission range narrows with increasing tilt; interactions can either compensate field‑induced energy costs or suppress transport in polarized regimes.\n- A weakly coupled extraction probe yields a current directly proportional to local occupation, enabling detection of staggered density modulations and bulk relaxation.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22473": {
+    "title": "Anyon bound states in MoTe$_2$ Fractional Chern Insulators",
+    "summary": "- Anyon–exciton bound states form between a mobile dipolar exciton and an \\(e/3\\) quasihole in twisted bilayer MoTe\\(_2\\) fractional Chern insulators.\n- MeV‑scale binding and strong exciton–quasihole entanglement arise from exciton mobility and interlayer distance, with spatial correlations revealing a localized \\(e/3\\) depletion core and a moiré‑induced octupolar charge distribution.\n- Interlayer tunneling anisotropy deforms the internal octupolar profile while preserving the total charge, linking the anyon’s internal structure to the underlying electronic quantum geometry.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22479": {
+    "title": "Fractional Chern insulators and composite Fermi liquids vs. charge order in twisted MoTe$_2$",
+    "summary": "- Twisted MoTe₂ at ~7° hosts spin‑valley‑locked Chern bands with bandwidth < interaction scale, enabling Landau‑level‑like phases (QH, composite Fermi liquid, charge order).\n- Exact diagonalization reveals charge‑ordered states at ν = −¼, −⅓, −½, −⅔, tunable by displacement field and twist angle.\n- Band‑mixing beyond a single valley band is crucial to reconcile numerical phase diagrams with experimental observations.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22498": {
+    "title": "Attraction from repulsion in an interacting Chern band: chiral superconductivity, generalized Hall crystals, and competing fractional Chern insulators",
+    "summary": "- Tensor‑network study of repulsive spinless fermions on a checkerboard Chern band uncovers competing FCIs, chiral p‑wave superconductivity, and a Hall crystal.\n- Enhancing band dispersion turns Jain‑sequence FCIs into chiral SC on both sides of half filling; at half filling strong coupling yields a doubled‑unit‑cell Hall crystal with quantized Hall conductance.\n- Weak‑coupling RPA shows metallic fluctuations generate long‑range attraction, reproducing the SC pairing symmetry and selecting the Hall crystal via Hartree‑Fock.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22585": {
+    "title": "Bulk-Defect Correspondence in Algebraic Classical Spin Liquids",
+    "summary": "- Pinch‑point singularities in momentum space carry a winding number that fixes the low‑energy structure of algebraic spin liquids.\n- Nonmagnetic vacancies in 2D expose this invariant through real‑space winding of surrounding spin textures, proving a bulk‑defect correspondence.\n- The correspondence is shown for rank‑\\(n\\) U(spin liquids and verified numerically on kagome, checkerboard, and honeycomb‑snowflake lattices, allowing vacancy probes of emergent gauge theories.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22844": {
+    "title": "Coexistence of Griffiths phase and superparamagnetic-like behavior in La-doped antiferromagnetic CaMnO3",
+    "summary": "- La₀.₁₉Ca₀.₈₁MnO₃ is a single‑phase orthorhombic manganite exhibiting a Griffiths phase below 280 K and superparamagnetic‑like clusters up to 370 K.\n- A‑site disorder creates exchange randomness that stabilizes magnetic clustering within the antiferromagnetic regime.\n- Curie‑Weiss deviation below 280 K signals the Griffiths singularity, while persistent clusters above T_N reveal a complex, disorder‑driven magnetic state.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.22965": {
+    "title": "Kitaev, semi-Dirac, and spinon quantum spin Hall liquids on the square-hexagon-dodecagon lattice: A parent projective symmetry group classification",
+    "summary": "- Classifies fermionic parton mean‑field states on the square‑hexagon‑dodecagon lattice via projective symmetry groups, linking its $Z_2$ PSGs to the $p6mm$ lattice with time reversal.\n- Identifies an exactly solvable Kitaev spin liquid with a single $Z_2$ PSG, Majorana band doubling from dodecagon flux, and a non‑Abelian Ising phase driven",
+    "timestamp": "2026-10-19"
+  },
+  "2610.23013": {
+    "title": "Transport Signatures of a Kinetically Self-Trapped Nagaoka Polaron",
+    "summary": "- Calculated dynamical mobility of a single hole in the square‑lattice $t$‑model via resummation‑based QMC and analytic continuation.\n- Found a crossover from incoherent Drude‑like response to a finite‑frequency peak as temperature lowers, indicating vanishing dc mobility.\n- Identified the peak as an internal mode of a hole confined by its ferromagnetic cloud, demonstrating transport as a probe of kinetic self‑trapping.",
+    "timestamp": "2026-10-19"
+  },
+  "2610.23015": {
+    "title": "Crystal Field-Phonon Coupling in ErFeO$_3$ Single Crystal Via Inelastic Neutron Scattering",
+    "summary": "- CF excitations (~5 meV, 12 meV) hybridize with phonons, shifting energies, redistributing intensity, and narrowing linewidths.\n- Coupling strengthens from 300 K to 650 K, then slightly weakens at 750 K; thermally suppressed CF peaks re‑emerge through phonon interaction at specific Q.\n- DFT phonon calculations confirm the CF‑phonon coupling, underscoring its major influence on the excitation spectra of rare‑earth orthoferrites.",
+    "timestamp": "2026-10-19"
   }
 }
