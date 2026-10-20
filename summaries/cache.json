@@ -4068,5 +4068,85 @@
     "title": "Crystal Field-Phonon Coupling in ErFeO$_3$ Single Crystal Via Inelastic Neutron Scattering",
     "summary": "- CF excitations (~5 meV, 12 meV) hybridize with phonons, shifting energies, redistributing intensity, and narrowing linewidths.\n- Coupling strengthens from 300 K to 650 K, then slightly weakens at 750 K; thermally suppressed CF peaks re‑emerge through phonon interaction at specific Q.\n- DFT phonon calculations confirm the CF‑phonon coupling, underscoring its major influence on the excitation spectra of rare‑earth orthoferrites.",
     "timestamp": "2026-10-19"
+  },
+  "2610.23865": {
+    "title": "Universal electrical resistivity in iron-based high-temperature superconductors",
+    "summary": "- Shows that IBS in‑plane resistivity follows a parallel‑channel model (Bloch‑Grüneisen + Arrhenius hopping).\n- Attributes the varied ρ(T) shapes across 11, 111, 122, 1111, 1144, 42214 families to changes in Θ_D and E_a.\n- Uses derived Θ_D to estimate electron‑phonon coupling λₑ₋ph, linking resistivity to superconducting pairing.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.24047": {
+    "title": "Multiple propagating modes in random polycrystals",
+    "summary": "- Finite‑element simulations show coherent elastic waves in isotropic polycrystals split into multiple propagating modes.\n- When the wavelength nears the grain size, a single low‑frequency mode bifurcates into two observable modes for both transverse and longitudinal excitations, matching dispersion‑equation roots.\n- The third theoretical root has much higher attenuation; attenuation hierarchy, not root count, dictates which modes actually propagate.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.24065": {
+    "title": "Two quantum spin liquid states coexisting in the kagome antiferromagnet herbertsmithite",
+    "summary": "- Neutron scattering on ZnCu₃(OH)₆Cl₂ matches the Heisenberg model energy density, confirming the Hamiltonian.\n- DMRG reveals two nearly degenerate gapped QSLs: one preserving point‑group symmetry, the other breaking it with anisotropic correlations.\n- Experimental spectra are best reproduced by a mixture of the two QSLs",
+    "timestamp": "2026-10-20"
+  },
+  "2610.24071": {
+    "title": "Monolayer van der Waals kagome lattice for high-temperature flat-band physics",
+    "summary": "- First true 2D monolayer kagome lattice (A₂T₃X₄) with an isolated flat band just below the Fermi level.\n- Nano‑ARPES confirms the flat band; gate tuning can bring it to the Fermi level for partially filled flat‑band physics.\n- Achieves >220× the flat‑band electron density of moiré systems, opening a new high‑density 2D flat‑band regime.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.24101": {
+    "title": "Quantifying the Kinetic and Thermodynamic Origins of the Glass-Forming Ability in Metals",
+    "summary": "- GFA measured by critical cooling rate \\(R_c\\), strongly correlated with crystallization rate \\(\\mathcal{K}_X\\).\n- \\(\\mathcal{K}_X=(IU^^{1/4}\\) splits into kinetic (attachment/diffusion) and thermodynamic (nucleation barrier) terms; thermodynamics dominates.\n- Nucleation barrier \\(\\Delta G_c \\sim \\tilde\\gamma^3/\\Delta\\tilde\\mu^2\\); the balance of interfacial energy \\(\\tilde\\gamma\\) and driving force \\(\\Delta\\tilde\\mu\\) varies across materials.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.24136": {
+    "title": "Gate-defined quantum dot and charge noise analysis in a Forksheet transistor",
+    "summary": "- Cryogenic 14‑nm nMOS Forksheet transistor operates at 10 mK with improved characteristics.\n- Gate defines a quantum dot tunable to the single‑electron regime.\n- Charge‑noise amplitude: ⟨S₀⟩ = 10 µeV/√Hz at 1 Hz, minimum 3 µeV/√Hz.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.24151": {
+    "title": "Boundary Element Modeling for THz-SNOM Near-Field Probes",
+    "summary": "- Developed a boundary element method (BEM) to model electrostatic near‑field of a blunt‑cone AFM tip for THz‑SNOM.\n- Used a modified Green’s function and augmented linear system to enforce equipotentiality and charge neutrality, enabling efficient surface‑charge distribution calculation.\n- Validated BEM against 3‑D COMSOL simulations, achieving accurate field‑decay predictions with far fewer mesh elements.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.24208": {
+    "title": "Kohler's Rule Holds in the Strange Metallic Hubbard Model",
+    "summary": "- Kohler’s rule surprisingly holds in the hole‑doped Hubbard‑Hofstadter model despite T‑linear resistivity and lack of quasiparticles.\n- The rule emerges below a crossover temperature \\(T^\\star \\approx t\\), marked by local singlet formation and changes in double occupancy and specific heat.\n- Findings suggest that strong correlations and strange metallicity alone do not cause anomalous magnetoresistance; Kohler scaling reflects a broader many‑body quantum coherence.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.24226": {
+    "title": "Role of chirality in the polarizer-filter dichotomy in nonmagnetic junctions",
+    "summary": "- Spin polarizers need chiral junctions; achiral junctions act as spin filters.\n- Junction symmetry—not just molecular chirality—determines polarizing behavior; geometry can toggle achiral molecules between polarizer and filter.\n- Linear two‑terminal MR cannot detect polarization; a nonlocal measurement distinguishes polarizers from filters and probes time‑reversal symmetry breaking.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.24633": {
+    "title": "Theory of High-Temperature Fractional Chern Phases in Monolayer van der Waals Kagome Materials A$_2$T$_3$X$_4$",
+    "summary": "- Monolayer A₂T₃X₄ kagome sheets provide intrinsic topological flat bands and strong Coulomb interactions, enabling high‑temperature fractional Chern insulators.\n- Exact diagonalization reveals ferromagnetism over wide fillings, producing fractional Chern insulators, composite Fermi liquids, and charge‑ordered states; Cs₂Pd₃S₄ shows a ~26 meV many‑body gap.\n- Bilayer stacks with antiparallel magnetizations support fractional quantum spin Hall insulators at realistic interlayer separations.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.24734": {
+    "title": "Microwave probing of magnetic phases in a dipolar-exchange magnet LiGdF$_4$",
+    "summary": "- Low‑temperature magnetic resonance on LiGdF₄ shows a resonance spectrum change below T_N = 19 K, indicating magnetic ordering.\n- Field‑induced phase transitions appear for H∥[001], with a distinct low‑field phase exhibiting a well‑resolved resonance spectrum.\n- Competing dipolar and exchange interactions create magnetic frustration, explaining delayed ordering and the complex phase diagram.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.25046": {
+    "title": "Interaction-driven competing instabilities in two-dimensional checkerboard quadratic band crossing semimetals",
+    "summary": "- Analyzed all 16 marginal short‑range interactions in a 2D checkerboard QBCP semimetal using momentum‑shell RG, uncovering single, discrete, and continuous fixed‑point families.\n- Determined dominant instabilities—nematic spin‑nematic, quantum anomalous Hall, chiral superconductivity, and quantum spin Hall—whose hierarchy depends on RG trajectories.\n- Showed off‑diagonal interactions generate new orders, continuous fixed‑point groups allow systematic tuning of the leading phase, and full RG flow, not just fixed points, dictates the final state.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.25081": {
+    "title": "Dzyaloshinskii-Moriya interactions and deconfined criticality in SrCu$_2$(BO$_3$)$_2$",
+    "summary": "- DM terms preserve deconfined criticality; symmetry forbids spinon mass.\n- In‑plane DM twists spinons, moving Dirac nodes",
+    "timestamp": "2026-10-20"
+  },
+  "2610.25082": {
+    "title": "Dzyaloshinskii-Moriya interactions in the SU(2) gauge theory of the Shastry-Sutherland Dirac spin liquids",
+    "summary": "- Classified SU(gauge‑theory fermion bilinears for Shastry–Sutherland Dirac spin liquids under spin–orbit‑locked space group; treated DM interactions at leading \\(1/N\\) and one‑loop order.\n- Linear DM terms cannot gap spinons or destabilize the SO(point; they generate only conserved spin currents, fixing a crossover scale \\(T^*\\approx03\\!-\\!17\\)",
+    "timestamp": "2026-10-20"
+  },
+  "2610.25102": {
+    "title": "Large exchange bias from coupled antiferromagnetic order and glassy magnetic freezing in $Co_{0.36}NbS_{2}$",
+    "summary": "- Co₀.₃₆NbS₂ orders antiferromagnetically at TN ≈ 26 K and exhibits glassy freezing of a subset of moments below TB ≈ 12 K.\n- Field‑cooling produces a large exchange‑bias shift (|HEB| ≈ 4 kOe at 8 K) that disappears above TB.\n- The bias shows training, sweep‑field, and cooling‑field dependence, indicating coupling of frozen uncompensated moments to the antiferromagnetic matrix.",
+    "timestamp": "2026-10-20"
+  },
+  "2610.25112": {
+    "title": "Frustration-Assisted Electrical Switching in $Co_xTaS_2$",
+    "summary": "- Demonstrated nonvolatile anisotropic resistance switching in near‑stoichiometric CoₓTaS₂ driven by current pulses, with activation current density ~10× lower than Hall‑active phase.\n- Identified two distinct temperature‑dependent dynamical regimes and slow, history‑dependent magnetic relaxation linked to frustration‑induced glassy dynamics.\n- Established magnetic frustration and collective glassy behavior as key mechanisms enabling efficient electrical reconfiguration in this van der Waals antiferromagnet.",
+    "timestamp": "2026-10-20"
   }
 }
