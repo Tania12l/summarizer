@@ -4238,5 +4238,95 @@
     "title": "Spin fluctuations and nearly isotropic quasiparticles in the doped three-dimensional Hubbard model",
     "summary": "- Computed momentum‑resolved self‑energy and spin susceptibility for doped 3D Hubbard model (n = 4–95, U/t = 4–using connected‑determinant diagrammatic Monte Carlo.\n- Near half filling (n ≈ 7–9, T/t ≈ antiferromagnetic spin fluctuations amplify the susceptibility peak up to sevenfold and raise the momentum‑dependent scattering rate 4–5× above second‑order values, driven by an effective interaction ≈ 2U/3 that is nearly uniform across the Brillouin zone.\n- Fluctuations remain short‑ranged (correlation length ≤ 2 lattice spacings); two‑particle self‑consistent theory captures the peak but overest",
     "timestamp": "2026-10-21"
+  },
+  "2610.28760": {
+    "title": "Dynamical Tunneling Blockade in Layer-Pseudospin Ferromagnets",
+    "summary": "- Low bias: static state with parallel valley pseudospins; high bias: layer‑spin precession locks valleys antiparallel.\n- Dynamical tunneling blockade suppresses interlayer tunneling, eliminating ac current and sharply reducing dc current.\n- Contrasts with conventional quantum Hall double layers, revealing a new nonequilibrium regime in flat‑band systems.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.28786": {
+    "title": "Theory of the intrinsic optical anomalous Hall responses in time-reversal symmetry breaking superconductors",
+    "summary": "- Unified theory of intrinsic optical Hall effect in TRSB multiband superconductors, linking the response to quantum‑geometric interband velocity (Berry connection).\n- Distinguishes unitary vs nonunitary TRSB states: interband pairing is required for unitary Hall response, while nonunitary states can exhibit Hall via single‑electron tunneling if spin‑orbit coupling is present.\n- Identifies two tunneling channels—single‑electron and Cooper‑pair—driven by interband processes, and derives an effective theory by integrating out hole degrees of freedom.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.28812": {
+    "title": "Polymer-Mediated Hotspot Evolution in Shock-Induced Pore Collapse in 1,3,5,7-Tetranitro-1,3,5,7-tetrazocane (HMX)-based Explosives",
+    "summary": "- Polystyrene expansion into voids during shock collapse boosts PV work and hotspot temperatures, accelerating HMX decomposition.\n- Hotspots nucleate at polymer–HMX interfaces; void size governs PV work, shock temperature, and reaction onset.\n- Reactive MD shows binder chemistry and interfacial deformation jointly dictate self‑sustaining detonation initiation.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.28844": {
+    "title": "Paramagnetic phase of MnTe$_2$: complete one phonon Raman spectrum",
+    "summary": "- First‑order Raman spectrum of paramagnetic MnTe₂ fully resolved, revealing all five phonon modes (Ag, Eg, three Tg) and the previously missing Tg mode at ~107 cm⁻¹.\n- DFT reproduces the spectrum, confirms Eg–Tg near‑degeneracy, and uncovers a dense manifold of low‑energy antiferromagnetic spin states within a few meV of the ground state.\n- Long‑wavelength (633/785 nm) excitation yields strong inelastic scattering, detecting a 2Ag overtone near 360 cm⁻¹ and indicating enhanced near‑IR absorption",
+    "timestamp": "2026-10-22"
+  },
+  "2610.28854": {
+    "title": "Two quantum skyrmions form a magnon Josephson junction",
+    "summary": "- Two quantum skyrmions bind into a molecule that behaves as a magnon Josephson junction, \\(H=E_C n^2-W\\cos\\theta\\).\n- DMRG on the \\(J_1\\)–\\(J_2\\) triangular lattice gives \\(E_C\\) from the energy curvature at seven flipped spins and \\(W\\simeq02J_1\\), half the skyrmion–antiskyrmion tunneling splitting, independent of anisotropy.\n- The helicity qubits on either side are strongly coupled through this intrinsic interaction, offering a new qubit architecture.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.28857": {
+    "title": "Resonant Inverse Photoelectron Spectroscopy of Ce and U Oxides",
+    "summary": "- Soft‑X‑ray RIPES examines M5 (Ce) and N5 (U) transitions in CeO₂ and UO₂.\n- Data confirm Ce 5d states are intrinsic to the resonance process in CeO₂.\n- Highlights a strong link between resonance features and cerium dioxide’s electronic structure.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.28877": {
+    "title": "Ultrafast and Anisotropic Exciton Transport in Layered NbOI$_2$",
+    "summary": "- Ultrafast, highly anisotropic exciton diffusion in NbOI₂, with D≈160 cm² s⁻¹ along the nonpolar axis, ~2× higher than the polar direction.\n- Diffusion anisotropy reflects the low‑symmetry crystal structure and ranks among the highest for van der Waals semiconductors.\n- Fabrication and encapsulation protocols that ensure long‑term environmental stability are identified, highlighting the need for interface protection.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.28967": {
+    "title": "Strain-Induced Interfacial Bond Evolution and Facet-dependent Strain Response of Electronic Properties in Oxidized Silicon Nanowires",
+    "summary": "- Strain concentrates at the Si‑SiO₂ interface, elongating Si–Si bonds and triggering localized rupture.\n- Oxidation state and crystallographic facet orientation jointly dictate how electronic properties shift under strain.\n- Reactive MD plus DFT reveal facet‑dependent strain responses in oxidized silicon nanowires.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.28996": {
+    "title": "Hereditary Effective Atom Theory for Large-Scale Atomic Structure Prediction",
+    "summary": "- Introduces Hereditary Effective Atom Theory (HEAT), a genetic algorithm with differentiable effective‑atom representation for large‑scale structure prediction.\n- Uses a crossover that superimposes parent structures and relaxes the result, enabling efficient global search.\n- Outperforms baselines on 240‑atom H sublattice recovery, 364‑atom edge‑dislocation core prediction, and 1150‑atom twisted‑bilayer WSe₂ reconstruction.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.29016": {
+    "title": "Influence of embedding depth on the pullout of a plate from a confined granular medium",
+    "summary": "- Peak and steady‑state drag of a pulled plate depend on depth and inter‑particle friction.\n- High friction lets wall forces boost drag until failure; steady state redirects chains upward, reducing wall effects.\n- Low friction lets overburden pressure dominate at deep depths, suppressing dilation and slowing the decay of steady‑state drag.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.29180": {
+    "title": "Valence-Driven Structural Transformation and Phase Coexistence in Chemically Substituted EuPd2Si2",
+    "summary": "- EuPd₂Si₂ undergoes a valence transition at 143 K; Ge substitution lowers Tv (87 K at x = and alters lattice constants.\n- Synchrotron X‑ray diffraction shows Eu²⁺/Eu³⁺ phase coexistence across Tv, with peak broadening indicating strain‑stabilized segregation.\n- The gradual transition couples structural strain to electronic valence, yielding an inverse linear Tv–lattice‑parameter relationship.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.29260": {
+    "title": "Interplay of disorder and phonons in two-dimensional transport",
+    "summary": "- Bilayer MoSe₂ resistivity is governed mainly by screened charged impurities and neutral defects; acoustic phonons give only a minor correction.\n- A resistivity minimum appears on both metallic and insulating sides: on the insulating side from activated carriers, on the metallic side from disorder–phonon interplay.\n- Boltzmann transport with RPA screening reproduces experimental temperature‑ and density‑dependent data, confirming phonons are negligible over the measured range.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.29324": {
+    "title": "Ab Initio Approach for Quantum Magnets with Coupled Cluster and Transcorrelation",
+    "summary": "- Ab initio determination of nearest‑neighbour exchange \\(J_1\\) in five oxygen‑bridged spin‑½ quantum magnets using embedded‑cluster 2‑determinant CCSD.\n- Basis‑set errors are large; CBS extrapolation shifts \\(J_1\\) by up to 50 meV, while transcorrelated Hamiltonians recover CBS accuracy with modest basis sizes.\n- First demonstration of transcorrelated methods in strongly correlated solids, showing high accuracy and affordable cost for magnetic coupling predictions.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.29341": {
+    "title": "Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models",
+    "summary": "- Multiloop functional renormalization group reformulated in quantics tensor‑train representation, handling full three‑frequency vertex dependence without explicit high‑frequency parametrization.\n- Achieves quantitative agreement with reference methods and reproduces low‑energy NRG self‑energy; uncovers a quadratic frequency term in the scattering rate at low temperatures.\n- Reveals distinct spin, orbital, and charge responses in a two‑orbital impurity under Hund coupling and altermagnetic conditions, with Hund coupling suppressing orbital response while enhancing spin polarization.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.29366": {
+    "title": "Hybridization-Induced Enhancement of the Thermoelectric Response in the Kagome Material CsCr$_6$Sb$_6$",
+    "summary": "- Hybridization of flat kagome bands with dispersive bands in CsCr₆Sb₆ creates a Kondo‑like heavy‑fermion state, boosting Seebeck and Nernst coefficients below ~70 K.\n- The Nernst coefficient follows universal heavy‑fermion scaling (30–80 K), signaling strongly renormalized quasiparticles and short‑range antiferromagnetic correlations.\n- Maxima in Seebeck and Nernst signals near 20–25 K indicate combined",
+    "timestamp": "2026-10-22"
+  },
+  "2610.29448": {
+    "title": "Chiral-Nematic Lattice Instability in Charge Density Wave of 1T-TiSe2",
+    "summary": "- Ab initio calculations reveal a chiral monoclinic (CCDW in 1T‑TiSe₂ stabilized by cooperative phonon condensation, reproducing the observed energy gap and topography.\n- The potential is exceptionally soft along the symmetry‑breaking direction, allowing the lattice to fluctuate through fully asymmetric configurations while preserving an average chiral structure.\n- This dynamical chiral CDW reconciles chiral domains seen in imaging with symmetry loss in bulk spectroscopy, highlighting lattice instability and fluctuations as the microscopic origin of chirality.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.29482": {
+    "title": "On thermal Hall effect in boson systems",
+    "summary": "- Investigates thermal Hall effect (THE) in bosonic magnon systems, especially skyrmion lattice insulators.\n- Derives new temperature‑dependent formulas, revealing a finite 1/T residual term when anomalous magnon interactions are present.\n- Suggests THE can detect topological transitions in magnon spectra and may mimic a Meissner‑like effect at low temperatures.",
+    "timestamp": "2026-10-22"
+  },
+  "2610.29635": {
+    "title": "Confirmation of complex non-collinear Fe(II) spin ordering in the iron oxychalcogenide La$_2$O$_2$Fe$_2$OSe$_2$ by broad range $^{139}$La-NQR",
+    "summary": "- 139La‑NQR confirms non‑collinear spin‑ice antiferromagnetic order in La₂O₂Fe₂OSe₂ below ~90 K.\n- νQ, 2νQ, and 3νQ resonances agree with prior NMR/Mössbauer data, validating the magnetic structure.\n- No substantial change in the La electric‑field gradient is observed below TN, contradicting earlier claims.",
+    "timestamp": "2026-10-22"
   }
 }
