@@ -4413,5 +4413,50 @@
     "title": "Impact of localized $4f$ magnetism on Berry curvature and the intrinsic anomalous Hall effect in CeRu$_2$Si$_2$",
     "summary": "- Intrinsic AHC stays finite in CeRu₂Si₂ even when Ce 4f states are localized and absent from the Fermi surface.\n- AHC magnitude depends on the occupied Ce 4f state, as exchange splitting of conduction bands is induced.\n- Localized 4f magnetism creates Berry curvature near the Fermi surface, allowing nonmagnetic conduction bands to contribute to a large intrinsic AHE.",
     "timestamp": "2026-10-23"
+  },
+  "2610.31653": {
+    "title": "Onsager Algebras and Lattice Fermions",
+    "summary": "- Exact Onsager algebra of free lattice fermions (staggered, Wilson, overlap) in 4D Hamiltonian/Euclidean settings.\n- Reduces to full \\(U(2N)\\) chiral symmetry for \\(N\\) massless Dirac fermions in the continuum.\n- Trade‑off between generator locality and maximal compact subgroup; quantisation varies by formulation.",
+    "timestamp": "2026-10-24"
+  },
+  "2610.31591": {
+    "title": "Screening strongly correlated materials in solid oxide cells with quantum simulation",
+    "summary": "- GW+DMFT/SEET framework predicts oxygen‑vacancy formation energies, migration barriers, and electronic conductivity for SOFC/SOEC electrodes.\n- Builds correlated impurity models from DFT‑screened candidates and estimates quantum‑computing resources (qubit counts, thermal state prep, measurement).\n- Benchmarks convergence against classical solvers to assess quantum advantage and connect microscopic observables to macroscopic device performance.",
+    "timestamp": "2026-10-24"
+  },
+  "2610.31564": {
+    "title": "Occupancy Driven Phase Transitions in Gapped Systems",
+    "summary": "- Thermal excitations in gapped systems can shrink the gap; beyond a critical occupancy the system becomes unstable.\n- The transition shows a divergent specific heat without an order parameter or full gap closure.\n- Demonstrated with a two‑level model, superfluid ⁴He, and the hidden‑order transition in URu₂Si₂.",
+    "timestamp": "2026-10-24"
+  },
+  "2610.31541": {
+    "title": "Sign-problem-free Bosonic Auxiliary Field Quantum Monte Carlo",
+    "summary": "- Developed bosonic auxiliary‑field QMC (BAFQMC) that eliminates the sign problem.\n- Proved time‑reversal symmetry and reflection positivity as sufficient conditions for sign‑problem‑free simulations, even on frustrated lattices.\n- Benchmarked on a two‑flavor Bose‑Hubbard model on a triangular lattice, achieving quantitative agreement with exact diagonalization.",
+    "timestamp": "2026-10-24"
+  },
+  "2610.31350": {
+    "title": "Graph-Recurrent Learning of Emergent Collective Dynamics",
+    "summary": "- Introduces a graph‑recurrent neural network (GRNN) that learns emergent collective dynamics from trajectory data without explicit microscopic equations.\n- Combines gated recurrent memory with graph message passing to capture both temporal memory and spatial coupling in local hidden states.\n- Successfully reproduces temporal/spatial correlations and dynamical scaling of charge‑density‑wave order in the Holstein model, enabling efficient data‑driven descriptions of complex collective behavior.",
+    "timestamp": "2026-10-24"
+  },
+  "2610.31269": {
+    "title": "Monodromy Defects of 3D Wilson-Fisher Criticality on the Fuzzy Sphere",
+    "summary": "- Realized monodromy defects on a fuzzy sphere by threading symmetry‑selective Aharonov–Bohm flux through the poles.\n- Computed defect spectra and OPE coefficients for $\\mathbb{Z}_2$ (3D Ising), $\\pi$‑twist (3D O(), and three O(monodromies, finding no symmetry‑preserving relevant scalar deformations.\n- Demonstrated stability of these defects against symmetry‑preserving relevant perturbations, confirming their robustness in interacting 3D CFTs.",
+    "timestamp": "2026-10-24"
+  },
+  "2610.31142": {
+    "title": "Interaction-enhanced antiferromagnetic correlations in a Kondo ladder with a gapped band structure",
+    "summary": "- Narrow indirect band gap suppresses conventional RKKY, weakening spin correlations.\n- Moderate on‑site Coulomb interaction boosts antiferromagnetic correlations and edge‑induced staggered magnetization.\n- Interaction‑driven magnetic instability occurs regardless of Kondo coupling sign.",
+    "timestamp": "2026-10-24"
+  },
+  "2610.30846": {
+    "title": "Fit-error corrected auxiliary master equation approach for low-temperature nonequilibrium dynamical mean-field theory",
+    "summary": "- Corrects AMEA’s low‑temperature fit error by scaling the auxiliary self‑energy with the ratio of physical/auxiliary self‑energies.\n- Uses an approximate solver (IPT) to compute this ratio, yielding exact correction when either the fit or solver is exact.\n- Benchmarks on spin‑polarized Anderson impurity and weakly coupled Hubbard layer, demonstrating improved DMFT accuracy.",
+    "timestamp": "2026-10-24"
+  },
+  "2610.30743": {
+    "title": "Anyon Chern bands of opposite sign and reversed drift",
+    "summary": "- Laughlin quasihole in a modulated magnetic field splits into bands with Chern numbers +6 and –\n- The C = –3 band drives quasihole drift opposite to the conventional E × B direction.\n- Band topology, set by many‑body Berry curvature, controls anyon motion and may shape itinerant anyon phases.",
+    "timestamp": "2026-10-24"
   }
 }
