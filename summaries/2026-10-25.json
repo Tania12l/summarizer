@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Quantum-magneto oscillations in a supramolecular Mn(II)-[3 x 3] grid",
+    "authors": "O. Waldmann, S. Carretta, P. Santini, R. Koch, A. G. M. Jansen, G. Amoretti, R. Caciuffo, L. Zhao, L. K. Thompson",
+    "abstract": "The magnetic grid molecule Mn(II)-[3 x 3] has been studied by high-field torque magnetometry at 3He temperatures. At fields above 5 T, the torque vs. field curves exhibit an unprecedented oscillatory behavior. A model is proposed which describes these magneto oscillations well.",
+    "url": "https://arxiv.org/abs/cond-mat/0401304v1",
+    "published": "2004-01-16",
+    "summary": "- High‑field torque magnetometry on Mn(II)-[3 × 3] grid reveals oscillatory torque vs. field above 5 T.\n- Oscillations observed at 3 He temperatures, indicating quantum‑magneto effects.\n- A theoretical model successfully reproduces the magneto‑oscillation behavior."
+  },
+  {
+    "title": "Ferromagnetism in Fe-doped SnO2 thin films",
+    "authors": "J. M. D. Coey, A. P. Douvalis, C. B. Fitzgerald, M. Venkatesan",
+    "abstract": "Thin films grown by pulsed-laser deposition from targets of Sn0.95Fe0.05O2 are transparent ferromagnets with Curie temperature and spontaneous magnetization of 610 K and 2.2 Am2kg-1, respectively. The 57Fe Mossbauer spectra show the iron is all high-spin Fe3+ but the films are magnetically inhomogeneous on an atomic scale, with only 23 % of the iron ordering magnetically. The net ferromagnetic moment per ordered iron ion, 1.8 Bohr magnetons, is greater than for any simple iron oxide. Ferromagnetic coupling of ferric ions via an electron trapped in a bridging oxygen vacancy (F center) is proposed to explain the high Curie temperature",
+    "url": "https://arxiv.org/abs/cond-mat/0401293v1",
+    "published": "2004-01-16",
+    "summary": "- Fe‑doped SnO₂ thin films are transparent ferromagnets with TC ≈ 610 K and Ms ≈ 2 Am²/kg.\n- Mossbauer spectra reveal high‑spin Fe³⁺; only ~23 % of Fe ions are magnetically ordered, each carrying ~8 µB.\n- Ferromagnetism attributed to Fe³⁺ coupling through an electron trapped in an oxygen vacancy (F‑center)."
+  },
+  {
+    "title": "Ultrafast Conductivity Dynamics in Pentacene Probed using Terahertz Spectroscopy",
+    "authors": "V. K. Thorsmolle, R. D. Averitt, X. Chi, D. J. Hilton, D. L. Smith, A. P. Ramirez, A. J. Taylor",
+    "abstract": "We present measurements of the transient photoconductivity in pentacene single crystals using optical-pump THz-probe spectroscopy. We have measured the temperature and fluence dependence of the mobility of the photoexcited charge carriers with picosecond resolution. The pentacene crystals were excited at 3.0 eV which is above the bandgap of ~2.2 eV and the induced change in the far-infrared transmission was measured. At 30 K, the carrier mobility is mu ~ 0.4 cm^2/Vs and decreases to mu ~ 0.2 cm^2/Vs at room temperature. The transient terahertz signal reveals the presence of free carriers that are trapped on the timescale of a few ps or less, possibly through the formation of excitons, small polarons, or trapping by impurities.",
+    "url": "https://arxiv.org/abs/cond-mat/0401296v1",
+    "published": "2004-01-16",
+    "summary": "- Measured picosecond photoconductivity in pentacene crystals via optical‑pump THz‑probe.\n- Mobility drops from ~4 cm²/Vs at 30 K to ~2 cm²/Vs at room temperature.\n- THz signal indicates rapid (< ps) trapping of photoexcited carriers, likely by excitons, polarons, or impurities."
+  },
+  {
+    "title": "Phases of a rotating Bose-Einstein condensate with anharmonic confinement",
+    "authors": "A. D. Jackson, G. M. Kavoulakis, E. Lundh",
+    "abstract": "We examine an effectively repulsive Bose-Einstein condensate of atoms that rotates in a quadratic-plus-quartic potential. With use of a variational method we identify the three possible phases of the system (multiple quantization, single quantization, and a mixed phase) as a function of the rotational frequency of the gas and of the coupling constant. The derived phase diagram is shown to be universal and the continuous transitions to be exact in the limit of weak coupling and small anharmonicity. The variational results are found to be consistent with numerical solutions of the Gross-Pitaevskii equation.",
+    "url": "https://arxiv.org/abs/cond-mat/0401292v1",
+    "published": "2004-01-16",
+    "summary": "- Identified three phases (multiple, single, mixed quantization) in a rotating BEC with quadratic‑plus‑quartic confinement.\n- Derived a universal phase diagram; continuous transitions exact for weak coupling and small anharmonicity.\n- Variational predictions agree with Gross‑Pitaevskii numerical solutions."
+  },
+  {
+    "title": "Observation of narrow fluorescence from doubly driven four-level atoms at room temperature",
+    "authors": "Uday Kumar Khan, Jimmy Sebastian, N. Kamaraju, Andal Narayanan, R. Srinivasan, Hema Ramachandran",
+    "abstract": "Unusually narrow fluorescence peaks are seen from Rubidium-85 atoms under the action of two driving laser fields that are in a three dimensional molasses configuration. One of the lasers is held at a fixed detuning from the \"cooling\" transition, while the other is scanned across the \"repumping\" transitions. The fluorescence peaks are split into symmetric pairs, with the seperation within a pair increasing with the detuning of the cooling laser. For large detunings additional small peaks are seen. A simple model is proposed to explain these experimental observations.",
+    "url": "https://arxiv.org/abs/cond-mat/0401280v1",
+    "published": "2004-01-16",
+    "summary": "- Narrow fluorescence peaks appear in Rb‑85 under dual‑laser 3D molasses; one laser fixed detuned from cooling transition, the other scanned over repumping lines.\n- Peaks form symmetric pairs whose separation increases with cooling‑laser detuning; large detunings yield additional small peaks.\n- A simple model explains the observed spectral features."
+  },
+  {
+    "title": "Fluorescence from doubly driven four-level atoms - A density matrix approach",
+    "authors": "Andal Narayanan, R. Srinivasan, Ashok Vudayagiri, Uday Kumar Khan, Hema Ramachandran",
+    "abstract": "The unusually narrow features in the fluorescence from Rubidium-85 driven by cooling and repumper laser fields, reported in an earlier experiment [1] are explained on the basis of a four-level density matrix calculation. Quantum effects alter the efficiency of atom transfer by the probe (repumper) laser to the levels connected by the pump (cooling) laser. This combined with the double resonance condition [1], results in velocity selection from co-propagating and counter propagating probe and pump beams resulting in narrow fluorescence peaks from a thermal gas at room temperature.",
+    "url": "https://arxiv.org/abs/cond-mat/0401279v1",
+    "published": "2004-01-16",
+    "summary": "- Four‑level density‑matrix model reproduces narrow Rb‑85 fluorescence peaks under cooling and repumper lasers.\n- Quantum interference alters probe‑induced population transfer, sharpening double‑resonance velocity selection.\n- Co‑ and counter‑propagating beam geometry yields narrow fluorescence peaks in a room‑temperature thermal gas."
+  },
+  {
+    "title": "Optical conductivity of small adiabatic polarons with a long-range electron-phonon interaction",
+    "authors": "B. Ya. Yavidov",
+    "abstract": "The hopping of an electron, interacting with many ions of a lattice via the long-range (Fröhlich) electron-phonon interaction and optical absorption are studied at zero temperature. Ions are assumed to be isotropic three-dimensional oscillators. The optical conductivity and a renormalized mass of small adiabatic Fröhlich polarons is calculated and compared with those of small adiabatic Holstein polarons.",
+    "url": "https://arxiv.org/abs/quant-ph/0401089v4",
+    "published": "2004-01-15",
+    "summary": "- Calculated optical conductivity and effective mass of small adiabatic Fröhlich polarons at zero temperature.\n- Compared results with small adiabatic Holstein polarons, highlighting differences due to long‑range electron‑phonon coupling.\n- Modeled ions as isotropic 3D oscillators to analyze electron hopping and optical absorption."
+  },
+  {
+    "title": "A first principles simulation of rigid water",
+    "authors": "M. Allesch, E. Schwegler, F. Gygi, G. Galli",
+    "abstract": "We present the results of Car-Parrinello (CP) simulations of water at ambient conditions and under pressure, using a rigid molecule approximation. Throughout our calculations, water molecules were maintained at a fixed intramolecular geometry corresponding to the average structure obtained in fully unconstrained simulations. This allows us to use larger time steps than those adopted in ordinary CP simulations of water, and thus to access longer time scales. In the absence of chemical reactions or dissociation effects, these calculations open the way to ab initio simulations of aqueous solutions that require timescales substantially longer than presently feasible (e.g. simulations of hydrophobic solvation). Our results show that structural properties and diffusion coefficients obtained with a rigid model are in better agreement with experiment than those determined with fully flexible simulations. Possible reasons responsible for this improved agreement are discussed.",
+    "url": "https://arxiv.org/abs/cond-mat/0401267v1",
+    "published": "2004-01-15",
+    "summary": "- CP simulations of water with rigid molecules use larger time steps, enabling longer time scales.\n- Structural properties and diffusion coefficients from the rigid model match experiments better than flexible simulations.\n- The approach paves the way for ab initio studies of aqueous solutions (e.g., hydrophobic solvation) beyond current time‑scale limits."
+  },
+  {
+    "title": "Origin of asymmetric reversal modes in ferromagnetic/antiferromagnetic multilayers",
+    "authors": "B. Beckmann, U. Nowak, K. D. Usadel",
+    "abstract": "Experimentally an asymmetry of the reversal modes has been found in certain exchange bias systems. From a numerical investigation of the domain state model evidence is gained that this effect depends on the angle between the easy axis of the antiferromagnet and the applied magnetic field. Depending on this angle the ferromagnet reverses either symmetrically, e. g. by a coherent rotation on both sides of the loop, or the reversal is asymmetric with a non uniform reversal mode for the ascending branch, which may even yield a zero perpendicular magnetization.",
+    "url": "https://arxiv.org/abs/cond-mat/0401232v1",
+    "published": "2004-01-14",
+    "summary": "- Asymmetric reversal modes appear in certain exchange‑bias multilayers.\n- Domain‑state simulations show the effect depends on the angle between the AFM easy axis and the applied field.\n- At specific angles the FM reverses symmetrically via coherent rotation; at others it reverses asymmetrically, sometimes producing zero perpendicular magnetization."
+  },
+  {
+    "title": "Vortex waves and the onset of turbulence in $^3$He-B",
+    "authors": "K. L. Henderson, C. F. Barenghi",
+    "abstract": "In a recent experiment Finne et al. discovered an intrinsic condition for the onset of quantum turbulence in $^3$He-B, that q=alpha/(1-alpha')<1, where alpha and alpha' are mutual friction parameters. The authors argued that this condition corresponds to Kelvin waves which are marginally damped, so for q>1 Kelvin waves cannot grow in amplitude and trigger vortex reconnections and turbulence. By analysing both axisymmetric and non-axisymmetric modes of oscillations of a rotating superfluid, we confirm that in the long axial wavelength limit the simple condition q=1 is indeed the crossover between damped and propagating Kelvin waves.",
+    "url": "https://arxiv.org/abs/cond-mat/0401212v1",
+    "published": "2004-01-13",
+    "summary": "- Finne et al. identified the intrinsic turbulence onset criterion \\(q=\\alpha/(1-\\alpha')<1\\) in \\(^{3}\\)He‑B.\n- The criterion corresponds to marginally damped Kelvin waves; for \\(q>1\\) waves cannot grow to trigger reconnections.\n- Analysis of rotating‑superfluid modes confirms \\(q=1\\) as the crossover between damped and propagating Kelvin waves in the long‑wavelength limit."
+  },
+  {
+    "title": "Onsager Algebras and Lattice Fermions",
+    "authors": "Ioanna Kourkoulou, David Tong",
+    "abstract": "We study the exact Onsager algebra of free lattice fermions in staggered, Wilson, and overlap incarnations, working in both Hamiltonian and Euclidean formulations in four spacetime dimensions. In each case, we show that the exact lattice algebra emanates the full chiral symmetry of the low-energy theory: if there are $N$ massless Dirac fermions in the continuum, the Onsager algebra reduces to a $U(2N)$ chiral symmetry. The details of which generators are quantised or ultra-local differ between formulations. There is also a trade-off between the locality of generators and the maximum compact subgroup of the Onsager algebra.",
+    "url": "https://arxiv.org/abs/2610.31653v1",
+    "published": "2026-10-22",
+    "summary": "- Exact Onsager algebra of free lattice fermions (staggered, Wilson, overlap) in 4D Hamiltonian/Euclidean settings.\n- Reduces to full \\(U(2N)\\) chiral symmetry for \\(N\\) massless Dirac fermions in the continuum.\n- Trade‑off between generator locality and maximal compact subgroup; quantisation varies by formulation."
+  },
+  {
+    "title": "Screening strongly correlated materials in solid oxide cells with quantum simulation",
+    "authors": "Ouns El Harzli, Jelle Bor, Linde Wester, Leonid Zhukov, Hanl Park, Jean-François Bobier, Matt Langione, Antonino Marco Saitta, Jonathan Owens, Richard Hart, Yudong Cao, François Jamet",
+    "abstract": "We develop an end-to-end framework for assessing a quantum-computing application in industrial materials science: the screening of strongly correlated oxygen-electrode materials for SOFCs and SOECs. We formulate the materials problem in terms of interface observables including oxygen-vacancy formation energies, vacancy migration barriers, and electronic conductivity. We describe how these observables can be obtained using a diagrammatic GW-based embedding, either GW+DMFT or self-energy embedding theory (SEET), applied to a DFT-screened shortlist. The atomistic electrode/electrolyte interface defines the electronic structure problem from which the correlated impurity models are constructed. Quantum impurity solvers would provide the finite-temperature impurity Green's functions required by the embedding. The computational challenges that classical solvers may encounter as the interacting active space grows, together with the polynomial scaling of quantum Hamiltonian simulation for efficiently represented discretized models, open an opportunity for quantum advantage. We identify the benchmarks needed to assess this opportunity through convergence of vacancy and migration energetics and comparison with the best applicable classical solvers. We provide illustrative logical qubit counts and identify the thermal state preparation, simulation, measurement, and repeated-solve costs needed for a complete resource assessment. We connect microscopic observables to macroscopic engineering metrics using a continuum model for mixed ionic--electronic conducting oxygen electrodes that couples oxygen surface exchange, solid-state oxygen transport, electrode microstructure, and finite electrode thickness. Finally, we estimate the potential worldwide business value of improved electrode materials under SOFC and SOEC deployment scenarios informed by public technical targets and electrolyser deployment data.",
+    "url": "https://arxiv.org/abs/2610.31591v1",
+    "published": "2026-10-22",
+    "summary": "- GW+DMFT/SEET framework predicts oxygen‑vacancy formation energies, migration barriers, and electronic conductivity for SOFC/SOEC electrodes.\n- Builds correlated impurity models from DFT‑screened candidates and estimates quantum‑computing resources (qubit counts, thermal state prep, measurement).\n- Benchmarks convergence against classical solvers to assess quantum advantage and connect microscopic observables to macroscopic device performance."
+  },
+  {
+    "title": "Occupancy Driven Phase Transitions in Gapped Systems",
+    "authors": "Ian Madden, Alex Kociubinski, Wouter Montfrooij",
+    "abstract": "Systems characterized by an energy gap between the ground state and excited states support a growing number of thermal excitations upon raising the temperature. Provided these excitations interact with each other, their number affects the size of the energy gap akin to a harmonic oscillator where the oscillation frequency is damping dependent. Here we show that once a critical number of excitations is reached, the excitation population becomes thermodynamically unstable and the system transitions between two states. This transition is marked by a divergence in the specific heat, which does not have to be accompanied by an order parameter, nor by the full closure of the gap. We illustrate the thermodynamics using a simple two level system and superfluid $^4$He as examples, and we argue that the hidden order transition in URu$_2$Si$_2$ is an example of such an occupancy driven transition in the absence of an order parameter.",
+    "url": "https://arxiv.org/abs/2610.31564v1",
+    "published": "2026-10-22",
+    "summary": "- Thermal excitations in gapped systems can shrink the gap; beyond a critical occupancy the system becomes unstable.\n- The transition shows a divergent specific heat without an order parameter or full gap closure.\n- Demonstrated with a two‑level model, superfluid ⁴He, and the hidden‑order transition in URu₂Si₂."
+  },
+  {
+    "title": "Sign-problem-free Bosonic Auxiliary Field Quantum Monte Carlo",
+    "authors": "Yin-Kai Yu, Zhong-Chao Wei, Zi-Xiang Li",
+    "abstract": "The sign problem poses a fundamental barrier to numerically exact quantum Monte Carlo simulations, severely hindering our understanding of quantum many-body physics across disciplines ranging from condensed matter to particle and nuclear physics. Geometrical frustration makes this barrier especially acute for interacting bosons. Here, we develop a bosonic auxiliary-field quantum Monte Carlo (BAFQMC) method and rigorously prove that time-reversal symmetry and reflection positivity each provide a general sufficient condition for sign-problem-free simulations. Crucially, under either criterion, BAFQMC evades the sign problem even on frustrated lattices where conventional world-line and stochastic-series-expansion methods fail. Benchmarking our approach on a two-flavor Bose-Hubbard model on the triangular lattice yields excellent quantitative agreement with finite-temperature exact diagonalization. By establishing unifying principles to solve the sign problem in BAFQMC, our work substantially expands the reach of unbiased, numerically exact simulations for frustrated bosonic matter.",
+    "url": "https://arxiv.org/abs/2610.31541v1",
+    "published": "2026-10-22",
+    "summary": "- Developed bosonic auxiliary‑field QMC (BAFQMC) that eliminates the sign problem.\n- Proved time‑reversal symmetry and reflection positivity as sufficient conditions for sign‑problem‑free simulations, even on frustrated lattices.\n- Benchmarked on a two‑flavor Bose‑Hubbard model on a triangular lattice, achieving quantitative agreement with exact diagonalization."
+  },
+  {
+    "title": "Graph-Recurrent Learning of Emergent Collective Dynamics",
+    "authors": "Ali Rayat, Acacia Lee, Gia-Wei Chern",
+    "abstract": "Collective ordering in correlated electron systems emerges from microscopic dynamics, yet the evolution of observable textures need not admit a closed, memoryless description. We introduce a graph-recurrent neural network (GRNN) framework that learns such emergent dynamics directly from trajectories without specifying microscopic equations of motion. The framework integrates gated recurrent memory with graph message passing: local hidden states encode information beyond the instantaneous observables, while spatial coupling allows this information to propagate between sites. The observable and hidden fields evolve jointly through a shared local rule, providing a scalable representation of dynamics with spatial interactions and temporal memory. We demonstrate this framework on the emergent dynamics of charge-density-wave order in the semiclassical Holstein model, successfully reproducing temporal and spatial correlations and dynamical scaling during domain coarsening. By learning finite-time evolution directly, the GRNN offers a route to efficient, data-driven descriptions of collective dynamics with unresolved microscopic degrees of freedom.",
+    "url": "https://arxiv.org/abs/2610.31350v1",
+    "published": "2026-10-22",
+    "summary": "- Introduces a graph‑recurrent neural network (GRNN) that learns emergent collective dynamics from trajectory data without explicit microscopic equations.\n- Combines gated recurrent memory with graph message passing to capture both temporal memory and spatial coupling in local hidden states.\n- Successfully reproduces temporal/spatial correlations and dynamical scaling of charge‑density‑wave order in the Holstein model, enabling efficient data‑driven descriptions of complex collective behavior."
+  },
+  {
+    "title": "Monodromy Defects of 3D Wilson-Fisher Criticality on the Fuzzy Sphere",
+    "authors": "Yin Tang, W. Zhu",
+    "abstract": "Monodromy (twist) line defects arise as the boundaries of topological symmetry surfaces, which are among the simplest non-trivial conformal defects with direct realizations as magnetic vortex in quantum magnets, as Wilson and t Hooft lines of gauge theories, and as the replica twist operators in quantum information theory. However, their interacting dynamics remains difficult to characterize non-perturbatively. Here we design a way to realize the monodromy boundary conditions in the fuzzy-sphere regularization by threading a symmetry-selective Aharonov-Bohm flux through the two poles of the sphere. We apply this construction to the $\\mathbb{Z}_2$ twist of the 3D Ising conformal field theory (CFT), $π$-twist of the 3D O(2) CFT and three inequivalent monodromies of O(3) (centre twist, z-axis $π$-twist and the reflection). For each defect, we extract the low-lying defect spectrum together with bulk-to-defect and defect-defect operator product expansion coefficients, which characterize the operators living on the defect line, their mutual interactions, and how they couple to the surrounding critical bulk. Among the low-lying defect primaries resolved in our spectra, we find no relevant scalar perturbation that preserves all the symmetries of the corresponding defect. The relevant deformations identified in our calculations break at least one preserved symmetry, providing evidence that these monodromy defects are stable against symmetry-preserving relevant perturbations. These results establish a systematic set of non-perturbative conformal data for monodromy defects beyond the Ising twist. Our construction therefore turns the symmetry flux into a tunable knob of the fuzzy-sphere regularization, opening a route to exploring the response of critical matter to distinct defects.",
+    "url": "https://arxiv.org/abs/2610.31269v1",
+    "published": "2026-10-22",
+    "summary": "- Realized monodromy defects on a fuzzy sphere by threading symmetry‑selective Aharonov–Bohm flux through the poles.\n- Computed defect spectra and OPE coefficients for $\\mathbb{Z}_2$ (3D Ising), $\\pi$‑twist (3D O(), and three O(monodromies, finding no symmetry‑preserving relevant scalar deformations.\n- Demonstrated stability of these defects against symmetry‑preserving relevant perturbations, confirming their robustness in interacting 3D CFTs."
+  },
+  {
+    "title": "Interaction-enhanced antiferromagnetic correlations in a Kondo ladder with a gapped band structure",
+    "authors": "Tatsuya Kaneko, Ritsuki Hirabayashi, Yutaka Akagi",
+    "abstract": "We investigate magnetic correlations in the two-leg Kondo-Hubbard ladder using the density-matrix renormalization group method. We focus on a parameter regime in which the noninteracting electronic system has a narrow indirect band gap. In this regime, there is no Fermi surface, and the conventional Fermi-surface-based Ruderman-Kittel-Kasuya-Yosida picture is not directly applicable; magnetic correlations between localized spins become weaker as the noninteracting band gap increases. We find that a moderate on-site Coulomb interaction enhances the antiferromagnetic correlations between localized spins. This enhancement, which is also seen in the staggered magnetization induced by a pinning field at the edges, occurs for both ferromagnetic and antiferromagnetic Kondo couplings. Our results show that electron-electron interactions can enhance magnetic correlations between localized spins even when the underlying noninteracting electronic structure is gapped, suggesting an interaction-driven route to magnetic instabilities in narrow-gap Kondo-lattice systems.",
+    "url": "https://arxiv.org/abs/2610.31142v1",
+    "published": "2026-10-22",
+    "summary": "- Narrow indirect band gap suppresses conventional RKKY, weakening spin correlations.\n- Moderate on‑site Coulomb interaction boosts antiferromagnetic correlations and edge‑induced staggered magnetization.\n- Interaction‑driven magnetic instability occurs regardless of Kondo coupling sign."
+  },
+  {
+    "title": "Fit-error corrected auxiliary master equation approach for low-temperature nonequilibrium dynamical mean-field theory",
+    "authors": "Sebastian Alois Fuchs, Enrico Arrigoni, Tommaso Maria Mazzocchi",
+    "abstract": "The auxiliary master equation approach (AMEA) is a nonperturbative impurity solver for steady-state nonequilibrium dynamical mean-field theory (DMFT). It replaces the physical hybridization function by that of a small auxiliary open quantum system, whose parameters are fitted to reproduce it, and then solves the resulting many-body problem essentially exactly. AMEA's accuracy is thus limited by the quality of this fit: since the fastest-varying part of the hybridization is set by the distribution function, whose Fermi edges sharpen at low temperature, the fit tends to overestimate the temperature, especially for weak reservoir coupling. For the auxiliary hybridization itself, however, AMEA's self-energy is essentially exact. We correct for the fit error by estimating, via an approximate solver applicable to arbitrary hybridization functions, the ratio between the self-energies of the physical and auxiliary hybridizations, and using it to extend AMEA's self-energy from the auxiliary to the physical case. This fit-error correction becomes exact whenever either the fit or the approximate solver is exact. We benchmark the scheme using the nonequilibrium Kajueter-Kotliar iterated perturbation theory (IPT), generalized here to spin-polarized solutions, as the approximate solver; other approximate solvers, such as the noncrossing approximation, can be used as well. Applied to an Anderson impurity model with a spin-polarized bath, and within DMFT to a Hubbard layer weakly coupled to two metallic reservoirs, the correction largely removes the spurious heating from the AMEA fit and from insufficient thermalization by the reservoirs, while preserving the correct description of the Mott insulator, which IPT alone cannot fully recover.",
+    "url": "https://arxiv.org/abs/2610.30846v1",
+    "published": "2026-10-22",
+    "summary": "- Corrects AMEA’s low‑temperature fit error by scaling the auxiliary self‑energy with the ratio of physical/auxiliary self‑energies.\n- Uses an approximate solver (IPT) to compute this ratio, yielding exact correction when either the fit or solver is exact.\n- Benchmarks on spin‑polarized Anderson impurity and weakly coupled Hubbard layer, demonstrating improved DMFT accuracy."
+  },
+  {
+    "title": "Anyon Chern bands of opposite sign and reversed drift",
+    "authors": "Zhenyu Xiao, Minxuan Wang, Shinsei Ryu",
+    "abstract": "The elementary charged excitations of fractional quantum Hall states are anyons. Without continuous translation symmetry, they acquire a dispersion and richer dynamics. We study the Laughlin quasihole at filling $1/3$ in a periodically modulated magnetic field, a common model of fractional Chern insulators in two-dimensional materials. From the microscopic wave functions, we derive the commutator of its guiding-center coordinates, set by a many-body Berry curvature that governs its wave packets. A modulation with two flux quanta per unit cell splits the quasihole band into bands with Chern numbers $6$ and $-3$; such opposite signs are generic as long as a weak modulation opens a gap between the anyon bands. In the $C=-3$ band, the quasihole drifts against $\\mathbf{E}\\times\\mathbf{B}$, although the magnetic field has the same sign everywhere. Perturbation theory in the modulation explains these results, and large-scale Monte Carlo calculations confirm them. Anyon bands thus acquire their own topology, which controls anyon motion and may shape the phases of itinerant anyons.",
+    "url": "https://arxiv.org/abs/2610.30743v1",
+    "published": "2026-10-22",
+    "summary": "- Laughlin quasihole in a modulated magnetic field splits into bands with Chern numbers +6 and –\n- The C = –3 band drives quasihole drift opposite to the conventional E × B direction.\n- Band topology, set by many‑body Berry curvature, controls anyon motion and may shape itinerant anyon phases."
+  },
+  {
+    "title": "Impact of localized $4f$ magnetism on Berry curvature and the intrinsic anomalous Hall effect in CeRu$_2$Si$_2$",
+    "authors": "Takehiro Kobayashi, Shunsuke Hirai, Ibuki Terada, Michi-To Suzuki",
+    "abstract": "The intrinsic anomalous Hall effect (AHE), originating from Berry curvature, has been extensively studied in $f$-electron systems, including Ce-based compounds. However, how the magnetism of localized $f$ electrons affect the intrinsic AHE remains unclear. Here, we investigate this issue in CeRu$_2$Si$_2$ by calculating the intrinsic anomalous Hall conductivity (AHC) for several occupied Ce-$4f$ states using first-principles LDA+$U$ calculations combined with Wannier interpolation method. We find that the intrinsic AHC remains finite even when the Ce-$4f$ states are localized and do not contribute directly to the Fermi surface, and that its magnitude depends on which Ce-$4f$ state is occupied. We show that localized $4f$-electron magnetism induces exchange splitting in the conduction bands, generating Berry curvature in specific regions near the Fermi surface. This mechanism enables conduction bands that are derived from nonmagnetic orbitals and form the Fermi surface to contribute to the intrinsic AHE, suggesting a route to realizing large intrinsic AHE in $f$-electron materials.",
+    "url": "https://arxiv.org/abs/2610.30684v1",
+    "published": "2026-10-22",
+    "summary": "- Intrinsic AHC stays finite in CeRu₂Si₂ even when Ce 4f states are localized and absent from the Fermi surface.\n- AHC magnitude depends on the occupied Ce 4f state, as exchange splitting of conduction bands is induced.\n- Localized 4f magnetism creates Berry curvature near the Fermi surface, allowing nonmagnetic conduction bands to contribute to a large intrinsic AHE."
+  }
+]
