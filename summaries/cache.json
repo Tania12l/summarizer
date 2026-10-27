@@ -4553,5 +4553,100 @@
     "title": "Unconventional charge density wave order in ErTe$_{3}$: symmetry breakings and fluctuations probed by Raman scattering",
     "summary": "- Mirror‑symmetry breaking appears simultaneously with CDW onset, implying a single‑component order parameter.\n- Polarization‑resolved Raman scattering maps point‑group symmetry changes across the CDW transition.\n- No significant ferro‑axial fluctuations are observed above T_CDW in the A₂g symmetry channel.",
     "timestamp": "2026-10-26"
+  },
+  "2610.33101": {
+    "title": "Chemistry-resolved disagreement between Materials Project-compatible PBE(+U) and r2SCAN stability verdicts in the GNoME materials database",
+    "summary": "- GNoME’s PBE(+U)-based stability labels conflict with r2SCAN predictions for many materials.\n- Disagreement varies by chemistry: ~4 % for plain quaternary intermetallics versus ~31 % for lanthanide‑free 3d‑containing quaternary oxides.\n- Materials with a Materials Project Hubbard‑U element show a ~5× higher odds of disagreement, independent of U application or hull proximity.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.33141": {
+    "title": "On the Doppler Effect in Static Materials: Vortices and Black, White and Worm-Hole Like Wave Trajectories",
+    "summary": "- Demonstrates Doppler effect in a static material by using direction‑dependent waveguide lengths ℓ/(1∓v/c).\n- Implements a lattice of paired waveguides to reproduce the field pattern of a moving source.\n- Realizes vortex, black‑hole, and wormhole analogues to illustrate wave trajectories.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.33147": {
+    "title": "The Ising lattice gas and the surface diffusion of CO on Cu(001) at finite coverage",
+    "summary": "- Applied memory equation to Ising lattice gas (Kawasaki dynamics) → ISF decays as superposition of exponential modes, bounded by a sum‑rule‑determined initial rate.\n- Derived closed‑form static structure factor and effective hop rate (exact in 1D); single‑exponential bound reproduces correlation time only at weak coupling, while strong attraction lengthens it up to ~9×.\n- Modeled CO/Cu(surface diffusion: lattice‑gas fit requires nearest‑neighbour repulsion 35–50 meV to match measured dephasing rates along two crystal directions.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.33196": {
+    "title": "Cooperation of itinerant and localized physics in the magnetic phase diagram of 214 Ruddlesden-Popper iridates",
+    "summary": "- Sr₂IrO₄ and Ba₂IrO₄ occupy an intermediate regime where itinerant and localized electrons cooperate to stabilize antiferromagnetism.\n- DMFT on a realistic three‑orbital t₂g Hubbard model with spin‑orbit coupling shows Ba₂IrO₄ is slightly more correlated than Sr₂IrO₄.\n- Only the two‑peak structure in the optical conductivity unambiguously signals this cooperative regime; gap evolution and spin‑polaron features do not.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.33211": {
+    "title": "Orbital Hall response of spin-1 fermions with a curved central band",
+    "summary": "- Derived intrinsic orbital Hall conductivity for a spin‑1 fermion model with linear and quadratic momentum terms, attributing the response to interband coherence.\n- Found differential orbital Hall response exhibits distinct scaling singularities from linear and quadratic bands, independent of ultraviolet cutoff.\n- Established that the multiband quantum geometry of spin‑1 fermions dictates transverse orbital transport, extending analysis beyond two‑band models.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.33247": {
+    "title": "Evolution of microstructure and crystallographic texture in a novel Zr-4Nb-2Al alloy during hot rotary swaging",
+    "summary": "- Multi‑step induction‑assisted hot rotary swaging at 880 °C (β) and 780 °C (α+β) reduced a 12 mm rod to 3 mm (72 % area reduction).",
+    "timestamp": "2026-10-27"
+  },
+  "2610.33252": {
+    "title": "Winding-Controlled Topological Descendants of Antialtermagnets",
+    "summary": "- Phase winding of transverse masses dictates additive Chern contributions of Dirac points.\n- h‑wave",
+    "timestamp": "2026-10-27"
+  },
+  "2610.33264": {
+    "title": "Unified First-Principles Theory of Finite-Wave-Vector Photocurrents in Crystals",
+    "summary": "- First‑principles theory of second‑order dc photocurrents driven by spatially structured light, introducing tensors ξ (phase‑gradient) and ζ",
+    "timestamp": "2026-10-27"
+  },
+  "2610.33303": {
+    "title": "Chern non-trivial two-dimensional square-net nodal line semimetal",
+    "summary": "- 2D \\(p_xp_y\\) square‑net tight‑binding model with two sublattices and momentum‑dependent SOC gaps a nodal line.\n- SOC breaks time‑reversal symmetry, producing a Chern insulator with \\(C=2\\) and two chiral edge modes per edge.\n- Spin sectors are unitarily equivalent, ruling out a \\(\\mathbb{Z}_2\\) phase and clarifying symmetry constraints for Chern topology.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.33310": {
+    "title": "Exploring Joint-Embedding Predictive Architectures for Self-Supervised Representation Learning of Powder X-ray Diffraction Patterns",
+    "summary": "- Self‑supervised Joint Embedding Predictive Architecture (JEPA) learns 1‑D XRD embeddings via masked latent‑space prediction.\n- Frozen JEPA representations enable lightweight probes to match large supervised vision‑transformer accuracy for space‑group classification and lattice‑parameter estimation.\n- Latent space naturally orders crystallographic transformations; interpolations generate realistic multi‑phase diffraction patterns without explicit supervision.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.33585": {
+    "title": "Exact Magnetic Confinement of a Doped Hole by Kinetic Frustration",
+    "summary": "- Kinetic frustration in a sawtooth Hubbard chain exactly confines a doped hole, creating a singlet region surrounded by polarized triplet dimers.\n- The confinement length equals the magnetization \\(M\\); the hole forms a standing wave with exponential tails, and triplet bonds become perfectly reflecting at \\(t_2/t_1=[2+4\\cos(\\pi/(\\ell_{\\rm s}+)]^{-1/2}\\).\n- A magnetic field selects \\(M\\), shrinking the singlet region stepwise; at \\(h=0\\) it spans the system, while for any \\(h>0\\) it remains finite as",
+    "timestamp": "2026-10-27"
+  },
+  "2610.34230": {
+    "title": "Tuning from intrinsic to disorder-dominated quantum states in a kagome antiferromagnet",
+    "summary": "- ~05 % irradiation defects collapse 1/9 and 1/3 magnetization plateaus, showing extreme fragility of kagome QSL states.\n- Defects form correlated moments that reverse",
+    "timestamp": "2026-10-27"
+  },
+  "2610.34295": {
+    "title": "Controllable charge-spin conversion in sliding multiferroic metal Fe3GaTe2",
+    "summary": "- Fe₃GaTe₂ bilayer exhibits controllable Edelstein and spin‑Hall effects driven by interlayer sliding and magnetization orientation.\n- Two degenerate sliding states (ΔE ≈ 3 meV) switch the sign of spin responses via symmetry \\(M_z\\mathcal T\\) or \\(M_z\\).\n- Edelstein spin accumulation reaches ~2 ħ and spin‑Hall conductivity ≈ 10³ (ħ/e) S/cm, both highly tunable by ferroelectric state and magnetization direction.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.34342": {
+    "title": "Fermionic superfluid transition and pairing scale separation in the kagome flat band",
+    "summary": "- Tc scales linearly with interaction strength: \\(T_c = 0314|U|\\) at flat‑band filling \\(\\rho=5/3\\).\n- Large separation between local pair formation and global phase coherence creates a supercompressible pre‑formed‑pair fluid.\n- Flat band boosts both \\(T_c\\) and density compressibility versus van Hove fillings, due to enhanced pair‑density fluctuations.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.34439": {
+    "title": "Theory of the $1/9$ Magnetization Plateau of the Spin-$1/2$ Kagome Heisenberg Antiferromagnet",
+    "summary": "- Spin‑density‑wave state with a 27‑site unit cell found for the 1/9 plateau.\n- Sixfold rotational symmetry is reduced to threefold, forming a tiling of three 9‑site clusters.\n- Infinite PEPS and cluster mean‑field theory give lower energy and consistent local magnetization patterns.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.34470": {
+    "title": "Symmetry-resolved quasilocal entanglement as a key to Mott and pseudogap physics in plaquette CDMFT",
+    "summary": "- Introduces symmetry‑resolved parity‑superselected two‑site entanglement measured by fermionic negativity and relative entropy of entanglement.\n- Extends the resolution to full entanglement in pure and mixed states, applying it to the Hubbard dimer and plaquette CDMFT.\n- Shows that the three symmetry‑resolved components track distinct aspects of Mott and pseudogap physics across interaction‑ and density‑driven transitions.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.34536": {
+    "title": "Quasiparticle Interactions in the $S = 1/2$ Heisenberg Antiferromagnetic Chain CuPzN",
+    "summary": "- Spinon–spinon interactions in CuPzN measured by inelastic neutron scattering; zero‑field spectrum shows the standard multi‑spinon continuum.\n- Magnetic field opens a gap \\(2\\Delta\\) at \\(q\\!\\to\\!0\\) between the uniform precession mode and the shifted continuum, directly quantifying backscattering.\n- Experimental data match matrix‑product‑state simulations and analytic theory, validating experimental quantification of quasiparticle interactions in an isotropic spin‑½ chain.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.34586": {
+    "title": "Spontaneous magnetic diode effect in Co$_{1/3}$TaS$_2$",
+    "summary": "- Spontaneous magnetic diode effect observed in Co₁/₃TaS₂, where chiral lattice and reversible chiral magnetic order produce nonreciprocal resistance.\n- Originates from a noncoplanar spin texture with zero net magnetization, driven by spin–orbit coupling and time‑reversal symmetry breaking.\n- Reversing magnetic handedness flips diode polarity, enabling magnetic control of current direction without external fields.",
+    "timestamp": "2026-10-27"
+  },
+  "2610.34596": {
+    "title": "Non-magnetic impurities as a quantum microscope of finite size effects in spin chains",
+    "summary": "- Mg²⁺ impurities fragment Co²⁺ chains in Ba(Co₁₋ₓMgₓ)₂V₂O₈, creating finite spin‑chain segments.\n- Neutron scattering shows two regimes: spinons confined to chain ends and a collective “cluster mode” in short chains.\n- Chemical substitution serves as a quantum microscope, revealing boundary‑induced excitations in a quasi‑1D antiferromagnet.",
+    "timestamp": "2026-10-27"
   }
 }
