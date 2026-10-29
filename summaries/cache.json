@@ -4728,5 +4728,50 @@
     "title": "Measurement-induced entanglement phases in hyperbolic gauge-Higgs models",
     "summary": "- Measurement‑only dynamics on hyperbolic lattices reveal an “archipelago” phase of separated symmetry‑protected topological",
     "timestamp": "2026-10-28"
+  },
+  "2610.37575": {
+    "title": "Topological Criticality with Charge-\\(3e\\) Fluctuations in the \\(\\mathrm{SU}(3)\\) Triangular-Lattice Hofstadter--Hubbard Model",
+    "summary": "- Integer quantum Hall → SU(_1 chiral spin liquid transition occurs without closing the single‑electron gap, driven by charge‑3e trion (SU(singlet) excitations.\n- iDMRG on the SU(triangular‑lattice Hofstadter–Hubbard model (π/3 flux, one particle/site) shows diverging neutral and 3e correlation lengths near the transition, while the single‑electron correlation length remains short.\n- Findings support a Chern–Simons–Higgs",
+    "timestamp": "2026-10-29"
+  },
+  "2610.37505": {
+    "title": "New Developments in Diagrammatic Monte Carlo for Interacting Lattice Fermions: Efficient Algorithms and Applications",
+    "summary": "- Developed inverse‑flavour expansion and CoS++/determinant‑polynomial sieve to accelerate diagrammatic Monte Carlo for lattice fermions, achieving 24–25× speed‑ups at ninth order.\n- Applied the methods to large‑scale Hubbard models (up to 2048 sites) and computed high‑order thermodynamic observables, including a tenth‑order connected‑determinant calculation on a 3×3 cluster.\n- Introduced a fermionic replica path integral for the second Renyi entropy, yielding precise results (e.g., \\(S_2/N_s=06695\\) on a 50×50 lattice) with Monte Carlo uncertainties \\(0\\times10^{-5}\\).",
+    "timestamp": "2026-10-29"
+  },
+  "2610.37352": {
+    "title": "Coulomb Crystallization in Free Electron Beams",
+    "summary": "- Transient Coulomb crystals form in freely propagating electron pulses up to nine electrons, revealed by energy‑correlation measurements.\n- Leading/trailing electrons generate a self‑induced longitudinal potential that temporarily confines inner electrons into an ordered chain.\n- A statistical‑mechanical model links crystallization to beam geometry and Coulomb‑to‑thermal energy ratio, predicting sustained ordering with weak transverse guiding and spontaneous bunching in continuous beams.",
+    "timestamp": "2026-10-29"
+  },
+  "2610.37092": {
+    "title": "Quantum Fisher Information Deficit as a Geometric Signature of Strong-to-Weak Spontaneous Symmetry Breaking",
+    "summary": "- SW‑SSB evades charged two‑point correlators yet appears as a persistent deficit in the maximal QFI under symmetry‑neutral pair rotations.\n- A model‑independent inequality hierarchy equates this QFI deficit with fidelity and Rényi‑1 correlators, yielding asymptotic long‑range‑order diagnostics.\n- For symmetry‑projected Gibbs states, the deficit is bounded below by the mean energy injected by the pair operation, remaining finite at any finite temperature due to locality, thus providing an information‑geometric signature of thermal SW‑SSB.",
+    "timestamp": "2026-10-29"
+  },
+  "2610.36886": {
+    "title": "Spin-polarized tunneling from a Kondo insulator: equilibrium surface magnetism versus magneto-electric response in SmB$_6$",
+    "summary": "- Spin‑polarized tunneling from SmB₆ to Fe₁₊ₓTe requires surface time‑reversal symmetry breaking; contrast comes from equilibrium surface magnetism and a field‑induced magneto‑electric moment.\n- Within |eV|≲10 meV the equilibrium moment dominates; the field‑induced contribution is only a few percent, becoming comparable only near 100 meV.\n- The equilibrium/field‑induced ratio equals ±2 × bias at the sign‑change",
+    "timestamp": "2026-10-29"
+  },
+  "2610.36799": {
+    "title": "Stripe antiferromagnetic order and spin dynamics in the Shastry-Sutherland Ising compound Er2Be2GeO7",
+    "summary": "- Stripe‑like AF order (k = (0,0,) with tilted Er³⁺ moments appears below TN = 84 K, following 2D Ising criticality.\n- Strong Ising anisotropy from the crystal electric field produces gapped, weakly dispersive spin excitations, well described by mean‑field",
+    "timestamp": "2026-10-29"
+  },
+  "2610.36697": {
+    "title": "Ground-State Properties of a Lattice-Coupled Strongly Correlated Model for Solid Oxygen under Pressure",
+    "summary": "- Derived an effective spin Hamiltonian from a two‑orbital Peierls–Hubbard model with spin–orbit coupling for solid O₂ under pressure.\n- Quantum Monte Carlo on a square lattice shows the tetramer distortion pattern is energetically favored over other patterns.\n- Competing easy‑plane single‑ion and easy‑axis exchange anisotropies enhance lattice distortion, strengthening the preference for tetramerization.",
+    "timestamp": "2026-10-29"
+  },
+  "2610.36686": {
+    "title": "Robustness of Anyonic Time-Domain Interference Against Dephasing",
+    "summary": "- TDB interference decays algebraically with dephasing, whereas spatial interference decays exponentially.\n- Overlapping temporal paths cancel most environmental phase noise, leaving only a small nonoverlapping window to dephase.\n- A Fabry‑Perot fractional quantum Hall device can directly compare TDB and spatial interference, demonstrating TDB’s robustness.",
+    "timestamp": "2026-10-29"
+  },
+  "2610.36659": {
+    "title": "Where Does the Anion-Redox Hole Go? Reliability of Open-Shell Projection-Based Embedding for Li-Rich Cathodes, from DFT Environments to Quantum Solvers",
+    "summary": "- Developed spin‑unrestricted projection‑based embedding, achieving microhartree accuracy for closed‑, broken‑symmetry, and high‑spin DFT references.\n- Applied DMRG‑in‑DFT to Li₂₋ₓMnO₃ clusters; the lowest SCF state consistently places the anion‑redox hole on an O₂ pair, with hole distribution varying by up to 5 e depending on exchange fraction and geometry.\n- Across 82 runs, embedded mean‑field reproduces the hole location (median DMRG change 02–04 e); spin projection across the active/environment boundary can shift integer spin by up to 26 e, but including Mn neighbors reduces this to ≤09 e.",
+    "timestamp": "2026-10-29"
   }
 }
