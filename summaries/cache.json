@@ -4773,5 +4773,55 @@
     "title": "Where Does the Anion-Redox Hole Go? Reliability of Open-Shell Projection-Based Embedding for Li-Rich Cathodes, from DFT Environments to Quantum Solvers",
     "summary": "- Developed spin‑unrestricted projection‑based embedding, achieving microhartree accuracy for closed‑, broken‑symmetry, and high‑spin DFT references.\n- Applied DMRG‑in‑DFT to Li₂₋ₓMnO₃ clusters; the lowest SCF state consistently places the anion‑redox hole on an O₂ pair, with hole distribution varying by up to 5 e depending on exchange fraction and geometry.\n- Across 82 runs, embedded mean‑field reproduces the hole location (median DMRG change 02–04 e); spin projection across the active/environment boundary can shift integer spin by up to 26 e, but including Mn neighbors reduces this to ≤09 e.",
     "timestamp": "2026-10-29"
+  },
+  "2610.40657": {
+    "title": "Variational wavefunctions for ideal anyon gas: superfluid and skyrmion Hall crystal",
+    "summary": "- Built variational wavefunctions that enforce exact anyon statistics using composite‑boson/fermion, parton, and neural‑network correlations on a sphere.\n- Showed that for spinless and SU(semions the paired anyon superfluid is energetically favored; for θ=π/3 SU(anyons the color‑superconducting hyperdeterminant state outperforms skyrmion Hall crystal and other gauge‑symmetry phases.",
+    "timestamp": "2026-10-30"
+  },
+  "2610.40638": {
+    "title": "Entanglement diagnostics of stochastic-resetting steady states: theory and measurement on superconducting qubits",
+    "summary": "- Stochastic resetting drives quantum systems into nonequilibrium steady states whose entanglement depends on whether reset history is resolved or averaged.\n- In a transverse‑field Ising chain, two‑qubit closed‑form solutions reveal phase‑matching resonances, and exact simulations up to 12 qubits show entanglement scaling with chain length.\n- Experiments on IBM superconducting qubits match entropy predictions but exhibit reduced concurrence; a depolarizing noise model explains this, and the Jensen gap equals the Holevo information about the last reset time, increasing with system size.",
+    "timestamp": "2026-10-30"
+  },
+  "2610.40596": {
+    "title": "Algebraic theory of abelian fractons and beyond",
+    "summary": "- Introduces braided fusion complexes (BFCs) to encode fusion, mobility, and braiding of abelian fractons and anyons in translation‑invariant bosonic systems.\n- Proves that every nondegenerate BFT can be realized as a gapped phase and gives constraints on allowed excitations (e.g., X‑cube X/Z sectors cannot appear alone).\n- Extracts a simpler invariant—mutual‑statistics module—for pointlike‑only theories, equivalent to the full BFT when the fusion order is odd.",
+    "timestamp": "2026-10-30"
+  },
+  "2610.40592": {
+    "title": "Toric codes all the way down: decoupling translation-invariant topological CSS codes in higher dimensions",
+    "summary": "- Decouples translation‑invariant topological CSS codes into stacks of higher‑form toric codes via a finite‑depth local Clifford circuit, possible iff translations act trivially on every superselection layer and the layers are not glued together.\n- For codes with finitely many excitation types per layer and \\(m\\) nonzero layers, a coarse‑graining by \\(p^{\\,m-1}\\) in each direction removes the remaining gluing once translations act",
+    "timestamp": "2026-10-30"
+  },
+  "2610.40567": {
+    "title": "Algebraic strong-to-weak symmetry breaking and partial decodability in the surface code",
+    "summary": "- Coherent single‑qubit \\(Z\\) rotations on the triangular surface code drive a transition from a fully decodable phase to a partially decodable critical phase.\n- The dual \\(\\mathbb{Z}_2\\) paramagnet exhibits algebraic strong‑to‑weak symmetry breaking, captured by an \\(\\mathrm{SO}(n)\\) nonlinear sigma model in the replica limit \\(n\\to1\\).\n- Universal signatures—optimal decoding fidelity as a function of aspect ratio and a power‑law decay of dual correlators—are derived analytically and confirmed by large‑scale simulations, revealing a non‑classical character of the algebraic SWSSB phase.",
+    "timestamp": "2026-10-30"
+  },
+  "2610.40526": {
+    "title": "Quasi-Phases of Quantum Matter",
+    "summary": "- Introduces “quasi‑phases”: gapped regimes adjacent to a critical line that cannot be connected by a gapped path from small perturbations of the critical theory.\n- Shows interface modes between such regimes and that both the critical line and the gapped path require a higher‑order multicritical parent theory (e.g., \\(c=3/2\\), \\(c=9/5\\) orbifolds in spin chains).\n- Demonstrates that quasi‑phases can host higher‑dimensional linear representations at interfaces, extending symmetry‑protected topological concepts beyond projective representations.",
+    "timestamp": "2026-10-30"
+  },
+  "2610.40469": {
+    "title": "Chiral $p$-Wave Superconductivity Proximate to a Fractional Chern Insulator and a Topological Charge Density Wave in a Moiré Chern Band",
+    "summary": "- Chiral p‑wave superconductivity appears in a spin‑polarized moiré Chern band of twisted MoTe₂ for 7 ≲ ν ≲ 77, adjacent to a ν = 2/3 fractional Chern insulator and a ν = 3/4 topological charge‑density wave.\n- Exact diagonalization shows pair binding, finite superfluid stiffness, chiral p‑wave correlations, and a",
+    "timestamp": "2026-10-30"
+  },
+  "2610.40371": {
+    "title": "Exact holographic superfluid at the Bogomolny point: transport, large charge, and Rényi entropies",
+    "summary": "- Closed‑form probe‑limit condensate of the Abelian Higgs model at the BF bound and Bogomolny coupling on any static, uncharged AdS$_5$ background.\n- Exact transport results on the planar black brane: superfluid fraction follows the Gorter–Casimir two‑fluid law, with analytic sound speed and attenuation.\n- Analytic large‑charge scaling dimensions in global AdS$_5$ and closed‑form charged Rényi entropies from the hyperbolic slicing.",
+    "timestamp": "2026-10-30"
+  },
+  "2610.40297": {
+    "title": "Topological Quantum Spin Liquids in a Ladder with Majorana fermions and p-wave Superconductivity",
+    "summary": "- Ladder extension of Kitaev model shows three gapped spin‑liquid phases plus a gapless Majorana metal.\n- Static $\\mathbb{Z}_2$ gauge fields give $0$ or $\\pi$ flux, yielding edge Majorana zero modes",
+    "timestamp": "2026-10-30"
+  },
+  "2610.40235": {
+    "title": "Three-dimensional QCA that are not stably circuits",
+    "summary": "- 3D chiral ℤₚ Clifford QCA are not finite‑depth circuits for any odd prime p, even with ancillas and translations.\n- The group of 3D QCA modulo stabilized circuits and translations is not finitely generated.\n- A new invariant of invertible subalgebras is introduced, conjectured to equal the square of the total quantum dimension of the anyon theory modulo rational squares.",
+    "timestamp": "2026-10-30"
   }
 }
