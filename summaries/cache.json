@@ -4823,5 +4823,80 @@
     "title": "Three-dimensional QCA that are not stably circuits",
     "summary": "- 3D chiral ℤₚ Clifford QCA are not finite‑depth circuits for any odd prime p, even with ancillas and translations.\n- The group of 3D QCA modulo stabilized circuits and translations is not finitely generated.\n- A new invariant of invertible subalgebras is introduced, conjectured to equal the square of the total quantum dimension of the anyon theory modulo rational squares.",
     "timestamp": "2026-10-30"
+  },
+  "2610.40704": {
+    "title": "Mpemba effect as an entropy-production race:Finite-amplitude bounds on crossing times in Markovian relaxation",
+    "summary": "- Mpemba effect arises when two Markovian preparations excite different relaxation modes, modeled as an entropy‑production race.\n- The first crossing of relative entropies occurs when the accumulated difference of normalized entropy‑production rates equals the initial logarithmic deficit, yielding lower bounds via entropy‑decay inequalities.\n- Finite‑amplitude crossing bounds are derived without small‑deviation expansions; for a reversible three‑state system the crossing time is tightly bounded \\(1659\\le t_M\\le1674\\).",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40729": {
+    "title": "SKFitter: Symmetry resolved Slater Koster tight-binding models from first principles for s, p, d and f electrons, spin orbit coupling and magnetism",
+    "summary": "- SKFitter builds symmetry‑resolved Slater‑Koster tight‑binding",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40733": {
+    "title": "Co--dsorption of terrylene and tetrapentacontane on hexagonal boron nitride - towards a two-dimensional Shpolskii matrix",
+    "summary": "- Co‑deposited terrylene and tetrapentacontane on hBN creates a ~1 nm alkane layer that disperses emitters without phase separation.\n- Emitters can be tuned from ensembles to isolated single molecules, exhibiting blinking and suppressed diffusion confirmed by confocal, autocorrelation, and FRAP.\n- Top‑side hBN encapsulation boosts photostability, yielding long‑lived emitters under high photon doses, enabling a 2D Shpolskii‑like matrix for quantum applications.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40737": {
+    "title": "Thermal Stability and Structural Relaxation Kinetics of Commercially Pure Titanium",
+    "summary": "- Cryogenic rolling (100 K, true strain yields ~50 nm nanostructured Ti with 30–50 nm coherent scattering regions.\n- Annealing (425–945 K) drives grain growth following LSW kinetics (exponent ≈ and full recrystallization at 945 K; activation energy ≈ 97 kJ mol⁻¹.\n- Relaxation is highly temperature‑dependent, governed by defect‑controlled boundary diffusion and triple‑junction mechanisms.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40739": {
+    "title": "Spectral properties of orthorhombic KSbOSiO$_4$ crystals: studies of infrared, visible and ultraviolet radiation absorption, Raman scattering, cathodoluminescence and photoluminescence",
+    "summary": "- Comprehensive IR, Raman, UV‑Vis, cathodoluminescence, and photoluminescence spectra of orthorhombic KSbOSiO₄ (KSS) crystals, with peak assignments and band‑gap determination.\n- Identification of direct and indirect band gaps and detailed spectral band constituents for KSS.\n- Findings provide essential data for diagnosing KSS‑induced corrosion in historical glass and enamel artifacts.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40755": {
+    "title": "Kibble-Zurek dynamics beyond the thermodynamic limit",
+    "summary": "- Extended Kibble‑Zurek mechanism to ensembles of finite, heterogeneous subsystems.\n- In a polycrystalline model, vortex density scales with an exponent ≈ ½ of the single‑crystal value, explained by grain‑size averaging.\n- Demonstrates microstructure geometry as a tunable control of nonequilibrium critical scaling.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40756": {
+    "title": "Cavity-engineered ferroelectricity in SrTiO$_3$",
+    "summary": "- Demonstrated cavity‑induced ferroelectricity in free‑standing SrTiO₃ membranes via ultrastrong coupling to THz photonic crystal cavities.\n- THz spectroscopy and SHG imaging reveal >400 % signal enhancement and symmetry change, evidencing cavity‑enhanced ferroelectric soft mode.\n- DFT‑based multi‑scale modeling attributes the effect to renormalized piezoelectric/flexoelectric couplings in the cavity‑modified dielectric environment.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40761": {
+    "title": "Moir\\'e metals and continuum models beyond a single valley",
+    "summary": "- Developed a full‑BZ continuum model for moiré metals, extending beyond single‑valley approximations.\n- Introduced an environment‑resolved two‑center hopping that depends on distance and moiré position, learned from commensurate bilayers without fitting.\n- Applied to twisted NbSe₂, the model captures moiré‑induced van Hove singularities, providing a basis for studying superconductivity and CDW competition.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40771": {
+    "title": "Gapless and Non-Equilibrium Topology in Blockaded Ladders",
+    "summary": "- PXYP model with Rydberg‑like blockade creates squeezed‑space correlations, yielding nontrivial string order in and out of equilibrium.\n- Two‑leg ladder hosts a gapless topological ground state that ends at a supersymmetric multicritical point; string order survives parametrically long after a quench.\n- Three‑leg ladder develops an emergent U(symmetry, forming a multicomponent Luttinger liquid where itinerant and internal degrees of freedom are simultaneously critical.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40786": {
+    "title": "Singlet-Triplet Transition of Rotating Moir\\'e Atoms in a Magnetic Field",
+    "summary": "- Two‑electron moiré atoms switch from spin‑triplet rotating droplets (Lz = –to spin‑singlet non‑rotating states as well depth increases.\n- The singlet‑triplet transition moves to deeper wells with stronger magnetic field, opening a window for rotating “rotors” whose orbital moments reverse sign at the transition.\n- Proximity‑induced spin polarization locks rotors into a pinwheel dimer crystal at weak field, providing a magnetometry signature.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40864": {
+    "title": "Quantum Monte-Carlo study of spin-valley ferromagnetism in rhombohedral graphene",
+    "summary": "- QMC analysis of spin‑valley ferromagnetism in rhombohedral graphene using Hartree‑Fock‑derived local‑moment Hamiltonians for quarter‑ and half‑metal phases.\n- Quarter‑metal exhibits a continuous 2D‑Ising transition at \\(T_c \\approx 7\\) K, far below the Hartree‑Fock estimate (~30 K) and consistent with experiments.\n- Half‑metal magnetization depends on spin‑orbit coupling: negligible SOC enhances intervalley Hund’s response; strong SOC (via TMD proximity) produces a spin‑",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40910": {
+    "title": "Triplon thermal Hall response in a honeycomb-lattice $J_1$-$J_2$ Heisenberg antiferromagnet with Dzyaloshinskii--Moriya interactions",
+    "summary": "- Honeycomb‑lattice \\(J_1\\!-\\!J_2\\) VBS with \\(J_2^A\\neq J_2^B\\) breaks inversion, enabling in‑plane DM vectors.\n- Harmonic bond‑operator treatment shows DM + field generate Berry curvature (zero Chern number per band) yet yield finite low‑\\(T\\) triplon thermal Hall conductivity.\n- Dilute‑triplon regime is identified; vanishing Chern numbers do not forbid thermal Hall response, and next‑nearest‑neighbor DM effects are discussed.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.40990": {
+    "title": "Electron-electron interactions mediated by overdamped vibrations: Implications for chirality-induced spin selectivity",
+    "summary": "- Derived Peierls‑mode–mediated two‑body spin interactions (isotropic, anisotropic, Dzyaloshinskii‑Moriya) on a four‑site chiral bridge via Lang‑Firsov transformation.\n- Formulated a master‑equation including fast vibrational relaxation, capturing coherent and dissipative spin dynamics to second order in vibronic coupling.\n- Numerical simulations show acceptor spin polarization from unpolarized injection, with nonmonotonic dependence on damping and bridge filling, confirming CISS viability under rapid vibrational relaxation.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.41409": {
+    "title": "Multiband-Induced Complex Magnetotransport in the Kagome Metal LuNb$_6$Sn$_6$",
+    "summary": "- LuNb₆Sn₆ undergoes a CDW transition at ~80 K, below which its magnetotransport becomes highly non‑linear.\n- Longitudinal conductivity is linear in field below ~1 T, while Hall conductivity shows strong nonlinearity and a field‑induced sign reversal, consistent with high‑mobility multiband electron and hole carriers.\n- Near T_CDW, deviations from the multiband model reveal additional CDW‑related scattering affecting carrier dynamics.",
+    "timestamp": "2026-11-02"
+  },
+  "2610.41619": {
+    "title": "Counting kinks and magnons with the lattice: magnetoelastic effects in Cs$_2$CoBr$_4$",
+    "summary": "- Dilatometry and ultrasound reveal all field‑induced magnetic phases in Cs₂CoBr₄, with distinct lattice anomalies at each transition.\n- Chain‑axis elongation tracks magnetization, interpreted as kinks in the Néel structure and magnons in transverse‑ordered BEC phases, each carrying a fixed lattice distortion.\n- Joint ultrasound‑striction analysis quantifies the magnetoelastic coupling strength throughout the phase diagram.",
+    "timestamp": "2026-11-02"
   }
 }
