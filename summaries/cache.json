@@ -4898,5 +4898,55 @@
     "title": "Counting kinks and magnons with the lattice: magnetoelastic effects in Cs$_2$CoBr$_4$",
     "summary": "- Dilatometry and ultrasound reveal all field‑induced magnetic phases in Cs₂CoBr₄, with distinct lattice anomalies at each transition.\n- Chain‑axis elongation tracks magnetization, interpreted as kinks in the Néel structure and magnons in transverse‑ordered BEC phases, each carrying a fixed lattice distortion.\n- Joint ultrasound‑striction analysis quantifies the magnetoelastic coupling strength throughout the phase diagram.",
     "timestamp": "2026-11-02"
+  },
+  "2611.03635": {
+    "title": "Ultrafast X-ray-induced dephasing of valence electrons",
+    "summary": "- Valence electrons in silicon dephase within <20 fs under ultrafast X‑ray pulses, even when core ionization is minimal.\n- Broadband, chirped X‑ray pulses provide few‑fs time encoding, showing outer‑electron dynamics outrun atomic core motion.\n- Crystallographic studies relying on valence contributions require pulses shorter than ~50 fs, enabling separation of valence and lattice dynamics.",
+    "timestamp": "2026-11-03"
+  },
+  "2611.03565": {
+    "title": "The Virasoro Bootstrap: from the $c\\sim1$ desert to coupled Potts",
+    "summary": "- Developed a 2D bootstrap for \\(c>1\\) using Virasoro blocks via Zamolodchikov recursion and optimal polynomial interpolation.\n- Isolated islands for three decoupled Ising models and a peninsula containing the coupled 3‑state Potts fixed point using mixed correlators.\n- Found that single‑correlator bounds collapse just above \\(c=1\\), ruling out theories without a lightest scalar in their OPE and supporting the absence of compact CFTs in that region.",
+    "timestamp": "2026-11-03"
+  },
+  "2611.03538": {
+    "title": "An Intrinsically Gapless Topological Phase with Dipole Symmetry",
+    "summary": "- Boundary fractionalization in a dipole‑conserving 1D fermion model forces bulk gaplessness, creating an intrinsically gapless SPT (igSPT).\n- The phase hosts a dipolar Luttinger liquid with half‑quantized boundary charges; edge configurations stay exactly degenerate at finite size due to dipole and particle‑hole symmetry.\n- Dipole‑resolved entanglement spectra exhibit shifted conformal towers, indicating distinct conformal boundary conditions, confirmed by solvable limits and DMRG.",
+    "timestamp": "2026-11-03"
+  },
+  "2611.03478": {
+    "title": "Theory of the Ferroaxial Charge Density Wave in 1T-TiSe$_2$",
+    "summary": "- Proposes a secondary \\(L_2^-\\) CDW order to account for ferroaxial and nematic transitions in 1T‑TiSe₂.\n- Landau theory with strain reproduces elastocaloric phase boundaries and ferroaxial symmetry breaking.\n- Predicts a third threefold‑rotational symmetry breaking transition, matching the diverging nematic susceptibility.",
+    "timestamp": "2026-11-03"
+  },
+  "2611.03413": {
+    "title": "Symmetry breaking from conformality loss on holographic Rényi defects",
+    "summary": "- Rényi defect loses conformality at a critical index \\(n_*\\) when a charged operator merges with its alternate‑quantization partner.\n- For \\(n>n_*\\) the defect flows to a source‑free, symmetry‑breaking conformal defect; for \\(n<n_*\\) a symmetry‑breaking source is required, making the breaking spontaneous at large \\(N\\).\n- The mechanism is explicitly realized in the probe Abelian‑Higgs model on AdS\\(_5\\) (Bogomolny point), with unique, source‑free flows on large spheres and a scalar mass window that preserves the merger under backreaction.",
+    "timestamp": "2026-11-03"
+  },
+  "2611.03269": {
+    "title": "From photons to fractons: Casimir effect in higher-rank electrodynamics and its fractonic branch",
+    "summary": "- Three stable massless modes (2 TT tensors + 1 scalar) remain after imposing the fractonic Gauss constraint, giving a Casimir energy 3/2 that of Maxwell for ideal reflectors.\n- The full Lorentz‑covariant theory contains an unstable vector sector with an unbounded Hamiltonian, so its boundary determinants do not describe a stable vacuum.\n- The analysis isolates how the fractonic restriction removes the unstable sector and preserves only the physical radiative spectrum.",
+    "timestamp": "2026-11-03"
+  },
+  "2611.03207": {
+    "title": "Spin SYK-dot chains: entanglement bound and resource estimates towards a quantum advantage",
+    "summary": "- Entanglement in spin SYK‑dot chains is bounded by ⌊p/2⌋ ln 2 plus inter‑dot terms, limiting tensor‑network and quantum simulation efficiency.\n- Quantum advantage appears only for dots ≈15–21 qubits, demanding two‑qubit error rates ≈10⁻⁶, beyond NISQ reach.\n- MPS and variational circuit tests confirm the entanglement bound, energy convergence, and fidelity decay predictions.",
+    "timestamp": "2026-11-03"
+  },
+  "2611.03164": {
+    "title": "Enforced Gaplessness by Combining Non-Anomalous Symmetries",
+    "summary": "- Symmetry spans of two embeddings of a common symmetry into larger non‑anomalous groups can enforce gaplessness.\n- A 1+1D lattice model with a finite‑dimensional local Hilbert space (finite group ↔ U(²) is gapless for all parameter values.\n- The paper also presents a 2+1D example and discusses spans involving only finite symmetries.",
+    "timestamp": "2026-11-03"
+  },
+  "2611.03073": {
+    "title": "Hidden variable $\\mathbb{Z}_2$ topological order in a bilayer kagomé antiferromagnet",
+    "summary": "- Hidden $\\mathbb{Z}_2$ topological order appears in a bilayer kagomé antiferromagnet via pseudospin-$1/2$ variables $\\tau$ (topological) and $\\mu$ (trivial).\n- Physical spin signals mix fractionalized anyon continua with ordinary magnons, obscuring the topological order except in symmetry‑selected probes.\n- The longitudinal intralayer response uniquely reveals the bare two‑vison continuum, offering a clear experimental fingerprint.",
+    "timestamp": "2026-11-03"
+  },
+  "2611.02841": {
+    "title": "Superinsulation, electric confinement in condensed matter",
+    "summary": "- Superinsulation is a quantum phase dual to superconductivity, where U(electromagnetic fields become confining.\n- In granular superconductors, tensionless XY vortices liberate magnetic monopoles that condense, forming magnetic flux tubes that confine electric fields into linear potentials between Cooper pairs.\n- The resulting infinite resistance persists until a finite deconfinement temperature, with experiments confirming the linear confining potential and challenging phase‑only/disorder models.",
+    "timestamp": "2026-11-03"
   }
 }
