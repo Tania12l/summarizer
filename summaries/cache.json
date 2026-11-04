@@ -4948,5 +4948,75 @@
     "title": "Superinsulation, electric confinement in condensed matter",
     "summary": "- Superinsulation is a quantum phase dual to superconductivity, where U(electromagnetic fields become confining.\n- In granular superconductors, tensionless XY vortices liberate magnetic monopoles that condense, forming magnetic flux tubes that confine electric fields into linear potentials between Cooper pairs.\n- The resulting infinite resistance persists until a finite deconfinement temperature, with experiments confirming the linear confining potential and challenging phase‑only/disorder models.",
     "timestamp": "2026-11-03"
+  },
+  "2611.03678": {
+    "title": "When do machine-learning potentials need a configuration-dependent kernel? Learning long-range interactions with Fourier neural operators",
+    "summary": "- FNO learns configuration‑dependent long‑range kernels, reducing charge‑fluctuation errors from 43 % (fixed Coulomb) to <3 % under strong screening.\n- Nonlinear FNO captures inhomogeneous screening effects, cutting force errors by 27‑41 % versus configuration‑independent models.\n- MACE‑FNO matches prescribed‑kernel accuracy in bulk systems and outperforms it at",
+    "timestamp": "2026-11-04"
+  },
+  "2611.03760": {
+    "title": "Restricted triangular ice beyond the solvable manifolds: chiral ice and the critical region of dominant chiral vertices",
+    "summary": "- Introduces two non‑solvable 20‑vertex restrictions on the triangular lattice: chiral ice (12 chiral vertices) and a model excluding only the two alternating vertices.\n- Computes residual entropies via transfer‑matrix on cylinders (up to 12 sites) and finite‑size scaling, confirming criticality described by a free massless field.\n- Shows chiral ice sits at the extreme of a previously suggested ordered region; along two paths the critical behavior is uniform, with no change at the proposed boundary, and",
+    "timestamp": "2026-11-04"
+  },
+  "2611.03762": {
+    "title": "Current-Confined Formation of a Buried Ge/Si Free Surface for Defect Filtering",
+    "summary": "- Current‑confined anodization forms a nanometric free surface at the Ge/Si interface, isolating misfit dislocations while preserving the Ge epilayer.\n- Hole‑limited charge transfer confines current to the interface, enabling ~15 nm separation, localized oxygen enrichment, and controlled Si porosification.\n- Post‑annealing suppresses threading dislocations, halves residual tensile strain (10 %→05 %), and retains the Ge carrier profile, achieving defect filtering and strain control.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.03795": {
+    "title": "Agentic inverse design of spatially programmed materials",
+    "summary": "- LLM agent employs a physics‑based ion‑matter simulator to inverse‑design fabrication recipes for spatially programmed materials.\n- It iteratively selects ion species, energies, angles, and target layers to match a desired depth profile with minimal human input.\n- Demonstrates programmable spatial structure, opening avenues for exploring emergent phenomena and functional phases.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.03804": {
+    "title": "Thermal Phase Transition of Three Dimensional Orthogonal Metals",
+    "summary": "- Finite‑temperature transition of a 3D orthogonal metal survives coupling to a gapless Fermi surface.\n- ARPES shows a sharp drop in low‑energy spectral weight between coherent and orthogonal‑metal regimes, without symmetry breaking.\n- Orthogonal‑metal physics offers a potential explanation for pseudogap‑like behavior in three‑dimensional systems.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.03805": {
+    "title": "Collective Modes of Fractional States Beyond Landau Levels",
+    "summary": "- Sine‑Gordon soliton/breather framework describes collective modes in coupled‑wire fractional states beyond Landau levels.\n- Magnetoroton branch reproduced; its gap increases as the Fubini‑Study metric approaches the ideal trace‑condition.\n- Stability of long‑wavelength quadrupolar (chiral graviton) mode is tied to quantum geometry, revealing a link between fractionalization and geometry.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.03822": {
+    "title": "Coexisting Kondo and Weyl-like transport in kagome heavy-fermion metal, Yb$_y$Co$_3$G$e_{3-x}$Sn$_x$",
+    "summary": "- Yb_yCo₃Ge₃₋ₓSnₓ exhibits both Kondo lattice coherence (single‑ion Kondo scaling in transverse MR) and Weyl‑like transport (unsaturated negative longitudinal MR ∝ B², chiral anomaly).\n- Heat‑capacity and DFT+U calculations give a large Sommerfeld coefficient (~2 J mol⁻¹ K⁻²), confirming heavy quasiparticles.\n- The Kondo and Weyl responses arise from distinct electronic states without Fermi‑level tuning, suggesting a new platform for correlated‑topological materials.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.03831": {
+    "title": "The Inverse Mean First-Passage Time Problem",
+    "summary": "- Inverse problem: find 1‑D potential from given mean first‑passage time τ(x).\n- τ(x) must satisfy derived constraints; power‑law τ∼x^α with α≤2 realizable by monotonic potentials.\n- Superquadratic τ(x) (α>requires distant potential wells; α=2 marks transition between sliding and trapping regimes.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.03833": {
+    "title": "Repulsion-Driven Topological Superconductivity in Twisted MoTe$_2$",
+    "summary": "- DMRG on twisted MoTe₂ reveals repulsion‑driven chiral f‑wave superconductivity in a narrow Chern band, hosting Majorana edge modes and non‑Abelian vortices.\n- The superconducting dome covers fillings –78 ≲ ν ≲ –72 at zero displacement field and expands with finite displacement field; stiffness varies with filling and screening length.\n- Adjacent phases include a fractional Chern insulator, topological charge‑density wave, metal, and a charge‑ordered state that may explain the reentrant integer Hall regime.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.03994": {
+    "title": "Korringa factor in Dirac-nodal-line systems",
+    "summary": "- Korringa factor in Dirac nodal‑line systems varies with temperature, dropping from 71 (high‑T Dirac limit) to 1 (low‑T metallic limit) with a crossover set by the nodal‑line dispersion width.\n- Landau quantization creates singular density‑of‑states peaks that amplify the non‑correlated Korringa factor, producing pronounced peaks even without electron correlations.\n- Two distinct magnetic‑oscillation modes appear: intra‑level oscillations and inter‑level oscillations arising from overlapping singularities of positive and negative Landau subbands at the Fermi level.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.04050": {
+    "title": "Resolving magnetic order and dynamics with polarized neutron scattering: a practical guide to longitudinal polarization analysis",
+    "summary": "- LPA separates magnetic from nonmagnetic scattering by exploiting neutron spin changes.\n- Provides formalism, geometry, and polarization corrections to detect weak moments and spin‑anisotropy.\n- Offers a practical guide for studying quantum materials, including altermagnets, unconventional superconductors, and kagome magnets.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.04333": {
+    "title": "LaQX: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models",
+    "summary": "- LaQX is a JAX‑based open‑source toolkit for neural quantum state simulations of lattice many‑body models, providing modular interfaces for Hamiltonians, sampling, optimization, observables, and parallelism.\n- It supports ground‑state VMC, excited‑state calculations, GFMC refinement, adiabatic evolution, and real‑time time‑dependent VMC, enabling high‑accuracy studies of Hubbard, Heisenberg, and Hofstadter systems.\n- The library is designed for easy extension by developers and large language models, with reproducible examples and documentation available on GitHub.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.04607": {
+    "title": "Why strong spin-orbit coupling does not destabilize the Dirac spin liquid in the Yb delafossites",
+    "summary": "- Strong spin‑orbit coupling in Yb delafossites generates only irrelevant four‑fermion operators, so the U(Dirac spin liquid remains stable.\n- Inversion symmetry eliminates the Dzyaloshinskii–Moriya channel, forbidding mass, density, or current terms at all orders.\n- Interlayer monopole processes appear only in rhombohedral stacking and become relevant only below tens of mK, while at the 120° transition the anisotropy drives a phase change.",
+    "timestamp": "2026-11-04"
+  },
+  "2611.04608": {
+    "title": "Spin-orbit-locked symmetry and the stability of the triangular Dirac spin liquid in the ytterbium delafossites",
+    "summary": "- Spin‑orbit coupling forbids all Dirac mass, density, and current operators, preserving the U(Dirac spin liquid on the triangular lattice.\n- Linear and quadratic spin‑orbit terms generate only irrelevant higher‑spin quartics, so the Heisenberg spin liquid remains Lorentz‑scalar stable.\n- Rhombohedral stacking introduces triplet‑monopole tunneling; at the 120° transition the easy‑plane anisotropy becomes relevant, selecting a chiral‑Ising ordered phase.",
+    "timestamp": "2026-11-04"
   }
 }
