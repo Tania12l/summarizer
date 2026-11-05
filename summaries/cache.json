@@ -5018,5 +5018,80 @@
     "title": "Spin-orbit-locked symmetry and the stability of the triangular Dirac spin liquid in the ytterbium delafossites",
     "summary": "- Spin‑orbit coupling forbids all Dirac mass, density, and current operators, preserving the U(Dirac spin liquid on the triangular lattice.\n- Linear and quadratic spin‑orbit terms generate only irrelevant higher‑spin quartics, so the Heisenberg spin liquid remains Lorentz‑scalar stable.\n- Rhombohedral stacking introduces triplet‑monopole tunneling; at the 120° transition the easy‑plane anisotropy becomes relevant, selecting a chiral‑Ising ordered phase.",
     "timestamp": "2026-11-04"
+  },
+  "2611.05477": {
+    "title": "Shapiro spikes in driven quantum fluids",
+    "summary": "- Shapiro spikes appear in a neutral atomic Josephson junction, with dc‑current resonances scaling as Bessel functions of drive strength.\n- Phase‑winding locks to integer multiples of the drive frequency through quantized‑vortex nucleation and 2π phase slips, creating plateaus.\n- In a locking plateau the dc current and density transfer can reverse direction (negative mobility) while the phase‑winding remains locked.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05478": {
+    "title": "Quasicrystals are Functionally Graded Materials",
+    "summary": "- Quasicrystals mapped exactly to periodic approximants with spatially graded phason, linking them to functionally graded materials.\n- Introduced a quantum‑metric‑based control parameter that dictates when finite approximations are reliable.\n- Built a Hamiltonian that predicts Bragg gaps, quasimomentum equivalence, and quasiperiodic eigenstates to all orders in phason strain, verified numerically and testable via diffraction.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05529": {
+    "title": "Resonantly interacting $2e/3$ anyons: a controlled microscopic theory of anyon superconductivity",
+    "summary": "- Microscopic theory connects lightly doped Laughlin state to a dilute gas of charge‑\\(2e/3\\) anyons via geometric quantization.\n- Effective Hamiltonian includes valley structure, dispersion, statistical and short‑range interactions; ground state is exactly solvable in an Aharonov‑Casher framework.\n- Shows Cooper‑pair off‑diagonal long‑range order in electron coordinates, identifies pairing symmetry and vortex lattice, and pinpoints relevant detuning and marginal three‑body contact perturbations controlling compressibility and sound velocity.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05555": {
+    "title": "Classification and Signatures of Dissipative Quantum Hall-Superconductor Junctions",
+    "summary": "- Dissipation to sub‑gap superconductor modes yields non‑quantized, temperature‑independent conductance in FQH–superconductor junctions.\n- Phase diagram shows this behavior only when an integer mode (ν = 1 ± 1/m) couples strongly to dissipation, matching experiments for ν = 2/3 and integer states but not ν = 1/3, 2/\n- Predicts chirality‑dependent conductance: comparing ν = 4/3 to ν = 2/3 should test the role of relative chir",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05563": {
+    "title": "Bypass Transition via the Non-Hermitian Skin Effect",
+    "summary": "- Non‑Hermitian skin lattices amplify signals directionally, enabling a bypass transition to self‑sustained motion from a finite local excitation while the resting state remains linearly stable.\n- Return‑map theory predicts an exponentially decreasing triggering threshold with chain length and scaling with directional gain; weak noise can ignite motion with a logarithmically growing ignition length.\n- The work establishes a skin‑effect route to bypass transitions, offering a new framework for predicting and controlling nonlinear wave dynamics.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05654": {
+    "title": "DefectSkills: Guiding AI agents through first-principles calculations for point defects in semiconductors and insulators",
+    "summary": "- Introduces DefectSkills, a set of structured prompts that guide AI agents in performing autonomous first‑principles defect calculations with VASP.\n- Encodes expert workflow steps—unit‑cell relaxation, electronic structure, dielectric, phase‑stability, charged‑defect generation, finite‑size corrections, and formation‑energy analysis—into reusable agent skills.\n- Enables consistent, reproducible defect calculations across AI systems by providing human‑in‑the‑loop guidance for setup, execution, post‑processing, and data backup.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05688": {
+    "title": "Medial Model of Elastic Curve Contacts, from Clasps to Knits",
+    "summary": "- Medial axis transformation captures saddle‑shaped contact surfaces between interlocking fibers.\n- Computational tests on a clasp and knit confirm the model’s realism for identical curves.\n- Radical Voronoi (radical axis transform) generalizes the approach to non‑identical curves, showing finite mean‑curvature surfaces.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05710": {
+    "title": "Exact Mirror-Parity Selection Rule for Electron-Phonon Coupling in Two-Dimensional Crystals",
+    "summary": "- Mirror‑parity rule: \\(g_{mn,\\nu}(\\mathbf{k},\\mathbf{q})\\neq0\\) only if \\(s_n(\\mathbf{k})\\,\\chi_\\nu(\\mathbf{q})\\,s_m(\\mathbf{k}+\\mathbf{q})=+1\\).\n- Even phonons couple same‑parity states (even–even or odd–odd); odd phonons couple opposite‑parity states (even–odd).\n- First‑principles test on 2D superconductor Sc₂BCH₄ shows symmetry‑forbidden matrix elements vanish to numerical precision.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05840": {
+    "title": "Interplay between Spin Stripes and Pairing Crossover in the Bilayer Hubbard Model",
+    "summary": "- Spin stripes appear with hole doping, triggering a d‑wave → s±‑wave pairing crossover.\n- The crossover follows the shift of magnetic correlations: interlayer AFM overtakes intralayer AFM.\n- Momentum‑dependent reorganization of the spin structure factor signals fluctuating spin stripes tied to pairing.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.06526": {
+    "title": "Field evolution of the multi-$k$ magnetic states in NdB$_4$ revealed by neutron diffraction",
+    "summary": "- NdB₄ exhibits a 1/5‑magnetization plateau at ~12 kOe, marked by a shift of propagation vectors from (1/5,0,–2//(2/5,0,1/to (0,0,1//(0,0,2/.\n- At ~33 kOe the plateau collapses; non‑integer‑k reflections vanish while k = 0 reflections remain, indicating incomplete field‑polarization.\n- Data support two coupled instabilities: in‑plane all‑in‑all‑out order and an out‑of‑plane spin‑density wave.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.06528": {
+    "title": "Stability of energy gap of macroscopic quantum matter",
+    "summary": "- Shows gapped local Hamiltonians can become gapless under arbitrarily weak local perturbations in the thermodynamic limit.\n- Proves that in 1D unstable gaps require broken translation invariance and fine‑tuning; in higher dimensions fine‑tuned, translation‑invariant Hamiltonians can also be unstable.\n- Highlights implications for phase stability, anyon superconductivity, and higher‑form symmetries.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.06795": {
+    "title": "Hidden entropic order of emergent charges in a classical Amp\\`ere spin liquid",
+    "summary": "- Ising Ampère spin liquid on octochlore lattice: ground states obey zero‑circulation Gauss law, predicting pinch‑point correlations.\n- Maximal charges self‑organize on one sublattice with random signs, forming an entropic sublattice order that erases pinch points and produces no magnetic Bragg peaks.\n- The transition to this hidden order is continuous, in the 3D Ising universality class, while preserving extensive entropy and time‑reversal symmetry.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05471": {
+    "title": "Noise-Induced Topology in Chiral Quantum Walks",
+    "summary": "- Dephasing noise turns chiral asymmetry into a topologically protected skewness, with density profile skew growing while the center remains fixed.\n- Noise induces a non‑Hermitian skin effect: late‑time modes pile up at one edge without drift, and dephasing can trigger a topological phase transition that reverses the asymmetry.\n- The noise‑averaged dynamics is an interacting Lindbladian whose bound‑state band has a point gap; its winding number fixes the asymmetry direction and enables a quantum ratchet on noisy flux ladders.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05663": {
+    "title": "Chiral edge modes from lattice Chern-Simons theory",
+    "summary": "- Lattice Chern‑Simons on a cylinder produces chiral edge modes confined to the two boundaries.\n- These modes realize two commuting lattice U(Kac‑Moody algebras of opposite chirality (Fock space for non‑compact, finite Weyl algebra for compact).\n- Wilson loops admit a natural framing that reproduces the correct framing anomaly.",
+    "timestamp": "2026-11-05"
+  },
+  "2611.05941": {
+    "title": "Rotated-Frame Determinant Discovery for Ground- and Excited-State Quantum Selected Configuration Interaction",
+    "summary": "- RSU samples a state in complementary orbital frames, rotating observed determinants back to the canonical basis to efficiently build a selected‑CI space.\n- RSU is paired with GQE for excited‑state targeting; candidate circuits are classically vetted via selected‑CI diagonalization, requiring only state preparation and sampling on the quantum device.\n- For stretched N₂, RSU reaches chemical accuracy with 5,000 shots versus 20,000 for conventional QSCI, and similar improvements hold for approximate GQE states and excited states.",
+    "timestamp": "2026-11-05"
   }
 }
