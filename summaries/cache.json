@@ -5093,5 +5093,95 @@
     "title": "Rotated-Frame Determinant Discovery for Ground- and Excited-State Quantum Selected Configuration Interaction",
     "summary": "- RSU samples a state in complementary orbital frames, rotating observed determinants back to the canonical basis to efficiently build a selected‑CI space.\n- RSU is paired with GQE for excited‑state targeting; candidate circuits are classically vetted via selected‑CI diagonalization, requiring only state preparation and sampling on the quantum device.\n- For stretched N₂, RSU reaches chemical accuracy with 5,000 shots versus 20,000 for conventional QSCI, and similar improvements hold for approximate GQE states and excited states.",
     "timestamp": "2026-11-05"
+  },
+  "2611.06958": {
+    "title": "Where heat flows and where to change it: gauge-free sensitivity maps of thermal conductivity in disordered solids",
+    "summary": "- Developed two local conductivity maps in harmonic theory: a gauge‑dependent atom‑projection and a gauge‑free mass/bond‑stiffness response obeying an Euler sum rule.\n- The two maps are anti‑correlated: heavy atoms reduce κ where heat flow is low, but increase κ where flow is high, explained by local softness and mode mixing.\n- Temperature dependence shows the anti‑correlation vanishes at room temperature (fixed vibrational amplitude) but persists below ~100 K; paracrystalline silicon grains conduct more heat per atom.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.06980": {
+    "title": "Energy-Based Anisotropic Hysteresis Modeling for Permanent Magnets",
+    "summary": "- Extends energy‑based vector play model to anisotropic magnets by replacing spherical pinning region with ellipsoid reflecting direction‑dependent pinning forces.\n- Geometrically consistent update formula and angularly dependent anhysteretic part are introduced.\n- Accurately reproduces NdFeB hysteresis loops for field inclinations up to 30° from the easy axis.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07014": {
+    "title": "Stability and Relaxation of Electron-Phonon Systems at Strong Coupling",
+    "summary": "- Non‑Markovian Kadanoff‑Baym dynamics eliminates the instability of Migdal‑Eliashberg theory at strong coupling.\n- In the intermediate temperature window (Debye < T < coupling), the relaxation rate is linear in T with a Planckian slope and shows strongly oscillatory decay.\n- Any pre‑superconducting instability must arise beyond MET (e.g., phonon softening, polaronic effects), so the phonon frequency is not a fundamental Tc bound.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07030": {
+    "title": "Agnostic and efficient detection of $\\mathbb{Z}_2$ symmetry-protected topological phases in projected entangled-pair states",
+    "summary": "- Efficient, symmetry‑agnostic test for 2D $\\mathbb{Z}_2$ SPT phases using infinite PEPS, independent of virtual symmetry and bond dimension.\n- Operates directly in the thermodynamic limit, avoiding finite‑size scaling, and extracts cocycle data from the PEPS tensor.\n- Numerically maps phase boundaries beyond fixed‑point wavefunctions, demonstrating practical detection.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07038": {
+    "title": "Topological Transitions of Evanescent Waves",
+    "summary": "- Evanescent modes in Hermitian gaps have complex wavevectors, giving non‑Hermitian dispersion.\n- Spinless time‑reversal symmetry protects in‑gap exceptional points that nucleate in pairs, marked by a $\\mathbb{Z}_2$ index.\n- Bound‑state tails switch from exponential to oscillatory when the energy lies between the in‑gap exceptional point pair.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07053": {
+    "title": "Langmuir kinetics and totally asymmetric volume exclusion in linear chains via Fock space formalism",
+    "summary": "- Exact Doi‑Peliti Fock‑space formalism yields steady‑state observables for TASEP‑LK on finite chains (k ≤ without full diagonalization.\n- Finite‑size stochastic fluctuations smooth domain walls, producing continuous phase crossovers that sharpen toward the continuum limit as k → ∞.\n- Two‑point correlations reveal strong inter‑site cumulants in slow‑kinetics regimes, invalidating simple mean‑field approximations.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07075": {
+    "title": "PFAS-induced modulation of vesicle diffusiophoresis",
+    "summary": "- PFAS partitioning into vesicles raises surface charge, boosting diffusiophoretic motion.\n- PFAS uptake causes significant lipid loss via lipophobic fluorocarbon–alkyl interactions.\n- Results reveal a mechanistic link between PFAS exposure and membrane disruption.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07097": {
+    "title": "Sudden disappearance of a bright exciton in solid helium",
+    "summary": "- Bright exciton peak in solid helium disappears for specific momentum‑transfer directions due to electron‑hole exchange.\n- Near Bragg points, infinitesimal changes in wave‑vector direction cause dramatic spectral changes.\n- The phenomenon is pressure‑dependent, experimentally observed, and predicted to occur in other materials.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07115": {
+    "title": "Nonequilibrium Spin-Glass Order in a Long-Range Quantum Ising Glass and Its Sensitivity to Noise",
+    "summary": "- Quench of transverse field in a long‑range quantum Ising glass reveals non‑equilibrium spin‑glass order.\n- Edwards–Anderson order overshoots for low‑energy shells and undershoots for high‑energy shells, driven by eigenstate rigidity versus pair‑pattern spread.\n- Weak longitudinal dephasing fixes the zero‑field endpoint while erasing finite‑quench response, offering a self‑referenced noise probe for quantum simulators.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07116": {
+    "title": "Universal Negative Correlation between Nonreciprocity and Superconducting Transition Width in FeTe-Based Heterostructures",
+    "summary": "- Magnetochiral anisotropy γ in FeTe heterostructures is insensitive to top‑layer crystal structure, thickness, topology, or magnetism but shows a negative correlation with the superconducting transition width ΔT.\n- Cleaner interfaces (smaller ΔT) sharpen the Berezinskii‑Kosterlitz‑Thouless transition and strongly enhance γ, as demonstrated by MBE‑grown FeTe heterostructures versus stoichiometric FeTe films.\n- A disorder‑based model links interfacial inversion‑symmetry breaking, ΔT, and nonreciprocity",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07131": {
+    "title": "Exact magnetic ground states and competing interlayer exchanges in layered kagome magnets",
+    "summary": "- Coplanar single‑wave‑vector ground state exists for any exchange range in isotropic two‑sublattice kagome magnets.\n- Longer‑range interlayer exchanges can toggle the order between spiral and ferromagnetic, not merely change the spiral period.\n- Propagation vector, internal angle, saturation field, and planar susceptibility alone cannot uniquely fix all six interlayer exchange constants.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07353": {
+    "title": "Observable-Based Learning of Effective Entanglement Hamiltonians",
+    "summary": "- Observable‑matching framework learns effective entanglement Hamiltonians from local QMC correlations.\n- Calibrates lattice Bisognano–Wichmann prefactor and learns spatially varying couplings, outperforming the LBW ansatz for 2D Rényi entropy.\n- Enables accurate von Neumann entropy in (2",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07400": {
+    "title": "Extensions of the Haldane gap proof: higher dimensions, near degeneracy, fermions and tensor-network states",
+    "summary": "- Extends Haldane‑gap proof to arbitrary dimensions using space‑time duality, bounding splittings of near‑degenerate low‑energy states while proving a nonzero gap.\n- Applies to 2+1‑D toric code and transverse‑field Ising model, showing splittings ≤ e⁻ᶜL (or e⁻ᶜL²) and a finite gap in the thermodynamic limit.\n- Generalizes to fermionic systems (symmetric mass generation) and tensor‑network states, establishing exponential decay of all local correlations.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07501": {
+    "title": "Interfacial polarity control of anomalous Hall effect in LaCoO3-SrIrO3 heterostructures",
+    "summary": "- Polarity at SrIrO₃–LaCoO₃ interfaces is tuned by stacking sequence and termination, reversing induced charge sign.\n- ARPES confirms polarity‑driven band shifts, switching SrIrO₃ between electron‑ and hole‑doped states.\n- The anomalous Hall effect appears only for electron‑doped SrIrO₃, revealing a Berry‑curvature‑driven mechanism controlled by interfacial polarity.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07597": {
+    "title": "Negligible Kitaev interaction in the van der Waals antiferromagnet NiBr$_2$ revealed by neutron spectroscopy",
+    "summary": "- Time‑of‑flight neutron spectroscopy mapped well‑defined magnon dispersions in NiBr₂.\n- Linear spin‑wave theory with Heisenberg exchanges (up to 3rd NN), interlayer coupling, and single‑ion anisotropy fits data; no Kitaev term needed.\n- Reduced ligand‑mediated spin‑orbit coupling in NiBr₂ (lighter Br) explains negligible Kitaev interaction, confirming a Heisenberg‑dominated van der Waals antiferromagnet.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07660": {
+    "title": "Ground-state properties of uniaxial magnetic model for antiferromagnetic 1/1 periodic approximants to icosahedral quasicrystals",
+    "summary": "- Ground‑state phase diagram mapped versus \\(J_2/J_1\\) and anisotropy in a 1/1 icosahedral approximant.\n- Non‑collinear AFM orders with \\(\\mathbf{q}=(\\) and \\((\\) plus multiple ferrimagnetic phases identified.\n- Degeneracy analysis uncovers magnetic and topological features useful for interpreting rare‑earth 1/1 approximant experiments.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07681": {
+    "title": "Photoinduced switching of orbital-selective Mott states",
+    "summary": "- Tailored light pulses reverse orbital occupations in a two‑orbital Hubbard‑Kanamori model, switching the orbital‑selective Mott phase.\n- Spectral snapshots reveal an interchange of localized and itinerant orbital characters.\n- Chirping around the lower‑frequency resonance boosts interorbital charge transfer through one‑ and two‑photon channels.",
+    "timestamp": "2026-11-06"
+  },
+  "2611.07848": {
+    "title": "Contrasting fate of holes introduced by Fe or In in kagome metal CoSn",
+    "summary": "- In for Sn shifts flat bands upward toward EF, realizing hole doping.\n- Fe for Co causes a downward band shift, driven by Fe’s local magnetic moment trapping holes.\n- Both substitutions create weakly dispersing states near EF: flat Co kagome bands (In) and localized Fe‑impurity states (Fe).",
+    "timestamp": "2026-11-06"
   }
 }
