@@ -5183,5 +5183,55 @@
     "title": "Contrasting fate of holes introduced by Fe or In in kagome metal CoSn",
     "summary": "- In for Sn shifts flat bands upward toward EF, realizing hole doping.\n- Fe for Co causes a downward band shift, driven by Fe’s local magnetic moment trapping holes.\n- Both substitutions create weakly dispersing states near EF: flat Co kagome bands (In) and localized Fe‑impurity states (Fe).",
     "timestamp": "2026-11-06"
+  },
+  "2611.08488": {
+    "title": "Provable circuit-level thresholds for non-abelian topological phases",
+    "summary": "- Explicit syndrome‑extraction circuits for any 2D non‑chiral topological order via the Turaev‑Viro path integral.\n- Classical on‑the‑fly decoder with a provable threshold under local stochastic circuit‑level noise.\n- Extension of the scheme to realize topological logical gates in non‑abelian phases.",
+    "timestamp": "2026-11-07"
+  },
+  "2611.08476": {
+    "title": "Defect Anomalies at a Distance",
+    "summary": "- Surface defects exhibit Weyl and gravitational anomalies that extend 2D CFT central charges, affecting gapless surface modes.\n- These anomalies, normally contact terms, are encoded at a distance via scheme‑independent integrated bulk stress‑tensor correlators.\n- The authors derive sum rules linking anomalies to defect operator data, prove a lower bound on the boundary Weyl anomaly in 3D CFTs, and provide explicit examples.",
+    "timestamp": "2026-11-07"
+  },
+  "2611.08475": {
+    "title": "Direct transition from a fractional Chern insulator to a topological superconductor",
+    "summary": "- Numerical evidence of a continuous transition from a ν=1/3 Laughlin FCI to a c₋=3/2 topological superconductor by increasing bandwidth.\n- At criticality the electron correlation length diverges at momenta away from the Fermi surface; a vortex‑proliferation theory with magnetic‑translation‑induced six‑valley vortices and extra gauge fields reproduces this spectrum.\n- Doping away from commensurate filling produces a superconducting dome, supporting an anyonic origin of the TSC without a weak‑coupling Fermi‑surface instability.",
+    "timestamp": "2026-11-07"
+  },
+  "2611.08447": {
+    "title": "Dynamical effects induced by synthetic SU(1,1) gauge fields",
+    "summary": "- SU(1,gauge fields produce non‑Abelian non‑compact Bloch oscillations, with stability or amplification set by an auxiliary 1D spectrum.\n- In the unstable adiabatic regime, wavepacket amplification is fixed by a hyperbolic solid angle, revealing an SU(1,topological defect.\n- Threading SU(1,into a bosonic tight‑binding model yields the bosonic Kitaev chain, whose volume or super‑volume entanglement scaling follows the gauge‑field stability; a spinor‑condensate implementation is proposed.",
+    "timestamp": "2026-11-07"
+  },
+  "2611.08424": {
+    "title": "Disorder-blind Mpemba acceleration of quantum state preparation",
+    "summary": "- Blind initial‑state design, using only chain geometry and particle number, can beat disorder‑specific preparation in typical disordered XX chains under strong dephasing.\n- Residual overlap decays as \\(L^{-1/2}\\) only when resistance variance is finite; finite mean resistance guarantees diffusion but not rapid decay.\n- An exact inverse‑generator identity connects overlap to the spatial resistance profile, enabling predictions of winning‑sample fractions and guiding practical preparation circuits and readout.",
+    "timestamp": "2026-11-07"
+  },
+  "2611.08385": {
+    "title": "Anisotropy lifts topological protection of transport in pumped spin chains",
+    "summary": "- Anisotropic XY spin‑½ chain maps to a Rice‑Mele fermion model; Chern numbers predict quantized spin pumping.\n- Real‑space evolution with open boundaries shows non‑quantized transport except at the isotropic limit, where state hybridization is suppressed.\n- Quantized pumping survives only when the transported spin component is conserved; momentum‑space invariants alone cannot guarantee spin transport in anisotropic chains.",
+    "timestamp": "2026-11-07"
+  },
+  "2611.08349": {
+    "title": "Multimagnon bound states in the polarized phase of anisotropic antiferromagnets",
+    "summary": "- Solved two‑magnon bound‑state problem in high‑field polarized antiferromagnets; derived dispersion and binding‑energy bounds.\n- Found spin‑1 easy‑axis bound pairs appear above a critical anisotropy ratio; their condensation yields a spin‑nematic phase.\n- Developed strong‑coupling theory for n‑magnon bound states (n≤2S) in large‑S systems, predicting a hierarchy",
+    "timestamp": "2026-11-07"
+  },
+  "2611.08293": {
+    "title": "Dualities in one-dimensional quantum lattice models: Lie groups, Schur-Weyl duality and symmetry breaking",
+    "summary": "- Framework for gauging continuous symmetries; Schur‑Weyl duality appears naturally with open boundaries.\n- Dual 1‑D lattice models for compact Lie groups; matrix‑product operators construct intertwiners and non‑invertible symmetries.\n- Closed boundaries relate full spectra through twisted conditions, linking to the Peter‑Weyl transform and explaining non‑invertible SSB in tensor‑network algorithms (illustrated for U(and SU().",
+    "timestamp": "2026-11-07"
+  },
+  "2611.08270": {
+    "title": "Spin supersolid in triangular lattice easy-axis spin-1/2 antiferromagnet: a fermionic parton perspective",
+    "summary": "- Fermionic parton mean‑field on a π‑flux Dirac spin liquid yields Y and Y′ supersolid states in the triangular‑lattice XXZ antiferromagnet.\n- RPA reveals a roton minimum at the M point and a gapped pseudo‑Goldstone mode, with the Y state stabilized by fluctuations or weak external fields.\n- Adjusting spinon interaction strength and anisotropy tunes phase stability, consistent with numerical and experimental results.",
+    "timestamp": "2026-11-07"
+  },
+  "2611.08102": {
+    "title": "Accessing Fractional Wilson Lines from U(1) Monodromy Defects on the Fuzzy Sphere",
+    "summary": "- Realized a continuous family of U(monodromy defects in the 3D O(Wilson–Fisher CFT by threading fractional Aharonov–Bohm flux on a fuzzy sphere.\n- Detected charged operators with fractional transverse spin and a protected displacement operator, confirming the defect’s conformal nature.\n- Found no relevant symmetry‑preserving defect scalar; charge‑one monopole operators are the only relevant symmetry‑breaking deformations, supporting the stability of fractional Wilson lines in the dual Abelian Higgs model.",
+    "timestamp": "2026-11-07"
   }
 }
