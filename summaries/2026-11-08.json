@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Quantum-magneto oscillations in a supramolecular Mn(II)-[3 x 3] grid",
+    "authors": "O. Waldmann, S. Carretta, P. Santini, R. Koch, A. G. M. Jansen, G. Amoretti, R. Caciuffo, L. Zhao, L. K. Thompson",
+    "abstract": "The magnetic grid molecule Mn(II)-[3 x 3] has been studied by high-field torque magnetometry at 3He temperatures. At fields above 5 T, the torque vs. field curves exhibit an unprecedented oscillatory behavior. A model is proposed which describes these magneto oscillations well.",
+    "url": "https://arxiv.org/abs/cond-mat/0401304v1",
+    "published": "2004-01-16",
+    "summary": "- High‑field torque magnetometry on Mn(II)-[3 × 3] grid reveals oscillatory torque vs. field above 5 T.\n- Oscillations observed at 3 He temperatures, indicating quantum‑magneto effects.\n- A theoretical model successfully reproduces the magneto‑oscillation behavior."
+  },
+  {
+    "title": "Ferromagnetism in Fe-doped SnO2 thin films",
+    "authors": "J. M. D. Coey, A. P. Douvalis, C. B. Fitzgerald, M. Venkatesan",
+    "abstract": "Thin films grown by pulsed-laser deposition from targets of Sn0.95Fe0.05O2 are transparent ferromagnets with Curie temperature and spontaneous magnetization of 610 K and 2.2 Am2kg-1, respectively. The 57Fe Mossbauer spectra show the iron is all high-spin Fe3+ but the films are magnetically inhomogeneous on an atomic scale, with only 23 % of the iron ordering magnetically. The net ferromagnetic moment per ordered iron ion, 1.8 Bohr magnetons, is greater than for any simple iron oxide. Ferromagnetic coupling of ferric ions via an electron trapped in a bridging oxygen vacancy (F center) is proposed to explain the high Curie temperature",
+    "url": "https://arxiv.org/abs/cond-mat/0401293v1",
+    "published": "2004-01-16",
+    "summary": "- Fe‑doped SnO₂ thin films are transparent ferromagnets with TC ≈ 610 K and Ms ≈ 2 Am²/kg.\n- Mossbauer spectra reveal high‑spin Fe³⁺; only ~23 % of Fe ions are magnetically ordered, each carrying ~8 µB.\n- Ferromagnetism attributed to Fe³⁺ coupling through an electron trapped in an oxygen vacancy (F‑center)."
+  },
+  {
+    "title": "Ultrafast Conductivity Dynamics in Pentacene Probed using Terahertz Spectroscopy",
+    "authors": "V. K. Thorsmolle, R. D. Averitt, X. Chi, D. J. Hilton, D. L. Smith, A. P. Ramirez, A. J. Taylor",
+    "abstract": "We present measurements of the transient photoconductivity in pentacene single crystals using optical-pump THz-probe spectroscopy. We have measured the temperature and fluence dependence of the mobility of the photoexcited charge carriers with picosecond resolution. The pentacene crystals were excited at 3.0 eV which is above the bandgap of ~2.2 eV and the induced change in the far-infrared transmission was measured. At 30 K, the carrier mobility is mu ~ 0.4 cm^2/Vs and decreases to mu ~ 0.2 cm^2/Vs at room temperature. The transient terahertz signal reveals the presence of free carriers that are trapped on the timescale of a few ps or less, possibly through the formation of excitons, small polarons, or trapping by impurities.",
+    "url": "https://arxiv.org/abs/cond-mat/0401296v1",
+    "published": "2004-01-16",
+    "summary": "- Measured picosecond photoconductivity in pentacene crystals via optical‑pump THz‑probe.\n- Mobility drops from ~4 cm²/Vs at 30 K to ~2 cm²/Vs at room temperature.\n- THz signal indicates rapid (< ps) trapping of photoexcited carriers, likely by excitons, polarons, or impurities."
+  },
+  {
+    "title": "Phases of a rotating Bose-Einstein condensate with anharmonic confinement",
+    "authors": "A. D. Jackson, G. M. Kavoulakis, E. Lundh",
+    "abstract": "We examine an effectively repulsive Bose-Einstein condensate of atoms that rotates in a quadratic-plus-quartic potential. With use of a variational method we identify the three possible phases of the system (multiple quantization, single quantization, and a mixed phase) as a function of the rotational frequency of the gas and of the coupling constant. The derived phase diagram is shown to be universal and the continuous transitions to be exact in the limit of weak coupling and small anharmonicity. The variational results are found to be consistent with numerical solutions of the Gross-Pitaevskii equation.",
+    "url": "https://arxiv.org/abs/cond-mat/0401292v1",
+    "published": "2004-01-16",
+    "summary": "- Identified three phases (multiple, single, mixed quantization) in a rotating BEC with quadratic‑plus‑quartic confinement.\n- Derived a universal phase diagram; continuous transitions exact for weak coupling and small anharmonicity.\n- Variational predictions agree with Gross‑Pitaevskii numerical solutions."
+  },
+  {
+    "title": "Observation of narrow fluorescence from doubly driven four-level atoms at room temperature",
+    "authors": "Uday Kumar Khan, Jimmy Sebastian, N. Kamaraju, Andal Narayanan, R. Srinivasan, Hema Ramachandran",
+    "abstract": "Unusually narrow fluorescence peaks are seen from Rubidium-85 atoms under the action of two driving laser fields that are in a three dimensional molasses configuration. One of the lasers is held at a fixed detuning from the \"cooling\" transition, while the other is scanned across the \"repumping\" transitions. The fluorescence peaks are split into symmetric pairs, with the seperation within a pair increasing with the detuning of the cooling laser. For large detunings additional small peaks are seen. A simple model is proposed to explain these experimental observations.",
+    "url": "https://arxiv.org/abs/cond-mat/0401280v1",
+    "published": "2004-01-16",
+    "summary": "- Narrow fluorescence peaks appear in Rb‑85 under dual‑laser 3D molasses; one laser fixed detuned from cooling transition, the other scanned over repumping lines.\n- Peaks form symmetric pairs whose separation increases with cooling‑laser detuning; large detunings yield additional small peaks.\n- A simple model explains the observed spectral features."
+  },
+  {
+    "title": "Fluorescence from doubly driven four-level atoms - A density matrix approach",
+    "authors": "Andal Narayanan, R. Srinivasan, Ashok Vudayagiri, Uday Kumar Khan, Hema Ramachandran",
+    "abstract": "The unusually narrow features in the fluorescence from Rubidium-85 driven by cooling and repumper laser fields, reported in an earlier experiment [1] are explained on the basis of a four-level density matrix calculation. Quantum effects alter the efficiency of atom transfer by the probe (repumper) laser to the levels connected by the pump (cooling) laser. This combined with the double resonance condition [1], results in velocity selection from co-propagating and counter propagating probe and pump beams resulting in narrow fluorescence peaks from a thermal gas at room temperature.",
+    "url": "https://arxiv.org/abs/cond-mat/0401279v1",
+    "published": "2004-01-16",
+    "summary": "- Four‑level density‑matrix model reproduces narrow Rb‑85 fluorescence peaks under cooling and repumper lasers.\n- Quantum interference alters probe‑induced population transfer, sharpening double‑resonance velocity selection.\n- Co‑ and counter‑propagating beam geometry yields narrow fluorescence peaks in a room‑temperature thermal gas."
+  },
+  {
+    "title": "Optical conductivity of small adiabatic polarons with a long-range electron-phonon interaction",
+    "authors": "B. Ya. Yavidov",
+    "abstract": "The hopping of an electron, interacting with many ions of a lattice via the long-range (Fröhlich) electron-phonon interaction and optical absorption are studied at zero temperature. Ions are assumed to be isotropic three-dimensional oscillators. The optical conductivity and a renormalized mass of small adiabatic Fröhlich polarons is calculated and compared with those of small adiabatic Holstein polarons.",
+    "url": "https://arxiv.org/abs/quant-ph/0401089v4",
+    "published": "2004-01-15",
+    "summary": "- Calculated optical conductivity and effective mass of small adiabatic Fröhlich polarons at zero temperature.\n- Compared results with small adiabatic Holstein polarons, highlighting differences due to long‑range electron‑phonon coupling.\n- Modeled ions as isotropic 3D oscillators to analyze electron hopping and optical absorption."
+  },
+  {
+    "title": "A first principles simulation of rigid water",
+    "authors": "M. Allesch, E. Schwegler, F. Gygi, G. Galli",
+    "abstract": "We present the results of Car-Parrinello (CP) simulations of water at ambient conditions and under pressure, using a rigid molecule approximation. Throughout our calculations, water molecules were maintained at a fixed intramolecular geometry corresponding to the average structure obtained in fully unconstrained simulations. This allows us to use larger time steps than those adopted in ordinary CP simulations of water, and thus to access longer time scales. In the absence of chemical reactions or dissociation effects, these calculations open the way to ab initio simulations of aqueous solutions that require timescales substantially longer than presently feasible (e.g. simulations of hydrophobic solvation). Our results show that structural properties and diffusion coefficients obtained with a rigid model are in better agreement with experiment than those determined with fully flexible simulations. Possible reasons responsible for this improved agreement are discussed.",
+    "url": "https://arxiv.org/abs/cond-mat/0401267v1",
+    "published": "2004-01-15",
+    "summary": "- CP simulations of water with rigid molecules use larger time steps, enabling longer time scales.\n- Structural properties and diffusion coefficients from the rigid model match experiments better than flexible simulations.\n- The approach paves the way for ab initio studies of aqueous solutions (e.g., hydrophobic solvation) beyond current time‑scale limits."
+  },
+  {
+    "title": "Origin of asymmetric reversal modes in ferromagnetic/antiferromagnetic multilayers",
+    "authors": "B. Beckmann, U. Nowak, K. D. Usadel",
+    "abstract": "Experimentally an asymmetry of the reversal modes has been found in certain exchange bias systems. From a numerical investigation of the domain state model evidence is gained that this effect depends on the angle between the easy axis of the antiferromagnet and the applied magnetic field. Depending on this angle the ferromagnet reverses either symmetrically, e. g. by a coherent rotation on both sides of the loop, or the reversal is asymmetric with a non uniform reversal mode for the ascending branch, which may even yield a zero perpendicular magnetization.",
+    "url": "https://arxiv.org/abs/cond-mat/0401232v1",
+    "published": "2004-01-14",
+    "summary": "- Asymmetric reversal modes appear in certain exchange‑bias multilayers.\n- Domain‑state simulations show the effect depends on the angle between the AFM easy axis and the applied field.\n- At specific angles the FM reverses symmetrically via coherent rotation; at others it reverses asymmetrically, sometimes producing zero perpendicular magnetization."
+  },
+  {
+    "title": "Vortex waves and the onset of turbulence in $^3$He-B",
+    "authors": "K. L. Henderson, C. F. Barenghi",
+    "abstract": "In a recent experiment Finne et al. discovered an intrinsic condition for the onset of quantum turbulence in $^3$He-B, that q=alpha/(1-alpha')<1, where alpha and alpha' are mutual friction parameters. The authors argued that this condition corresponds to Kelvin waves which are marginally damped, so for q>1 Kelvin waves cannot grow in amplitude and trigger vortex reconnections and turbulence. By analysing both axisymmetric and non-axisymmetric modes of oscillations of a rotating superfluid, we confirm that in the long axial wavelength limit the simple condition q=1 is indeed the crossover between damped and propagating Kelvin waves.",
+    "url": "https://arxiv.org/abs/cond-mat/0401212v1",
+    "published": "2004-01-13",
+    "summary": "- Finne et al. identified the intrinsic turbulence onset criterion \\(q=\\alpha/(1-\\alpha')<1\\) in \\(^{3}\\)He‑B.\n- The criterion corresponds to marginally damped Kelvin waves; for \\(q>1\\) waves cannot grow to trigger reconnections.\n- Analysis of rotating‑superfluid modes confirms \\(q=1\\) as the crossover between damped and propagating Kelvin waves in the long‑wavelength limit."
+  },
+  {
+    "title": "Provable circuit-level thresholds for non-abelian topological phases",
+    "authors": "Yuanjie Ren, Margarita Davydova, Shankar Balasubramanian, Andreas Bauer",
+    "abstract": "We provide an explicit scheme to realize a quantum memory in any 2D non-chiral topological order. For this, we construct syndrome extraction circuits based on the Turaev-Viro path integral as well as a classical algorithm for decoding on the fly. We prove that our scheme has a threshold under a local stochastic circuit-level noise model and discuss how to generalize it to implement topological logical gates.",
+    "url": "https://arxiv.org/abs/2611.08488v1",
+    "published": "2026-11-05",
+    "summary": "- Explicit syndrome‑extraction circuits for any 2D non‑chiral topological order via the Turaev‑Viro path integral.\n- Classical on‑the‑fly decoder with a provable threshold under local stochastic circuit‑level noise.\n- Extension of the scheme to realize topological logical gates in non‑abelian phases."
+  },
+  {
+    "title": "Defect Anomalies at a Distance",
+    "authors": "Oleksandr Diatlyk, Zimo Sun, Yifan Wang",
+    "abstract": "Surface defects carry Weyl and gravitational anomalies that generalize the central charges of two-dimensional conformal field theories (CFTs) and characterize the anomalous response of gapless surface modes to background geometry. These anomalies usually appear as contact terms on the defect. We explain how they are encoded at a distance, in scheme-independent integrated bulk stress-tensor correlators. We derive sum rules for them in terms of defect operator data, establish a lower bound on the boundary Weyl anomaly in three-dimensional CFTs, and illustrate our results with explicit examples.",
+    "url": "https://arxiv.org/abs/2611.08476v1",
+    "published": "2026-11-05",
+    "summary": "- Surface defects exhibit Weyl and gravitational anomalies that extend 2D CFT central charges, affecting gapless surface modes.\n- These anomalies, normally contact terms, are encoded at a distance via scheme‑independent integrated bulk stress‑tensor correlators.\n- The authors derive sum rules linking anomalies to defect operator data, prove a lower bound on the boundary Weyl anomaly in 3D CFTs, and provide explicit examples."
+  },
+  {
+    "title": "Direct transition from a fractional Chern insulator to a topological superconductor",
+    "authors": "Taige Wang",
+    "abstract": "We find numerical evidence for a direct continuous transition from a Laughlin fractional Chern insulator (FCI) to a $c_-=3/2$ topological superconductor (TSC), driven by increasing bandwidth at filling $ν=1/3$ in a repulsively interacting Chern band. At the critical point, the electron correlation length diverges at momentum away from the reference Fermi surface. We develop a generalized theory of superconducting-vortex proliferation for this transition. Magnetic translation organizes the vortices into six valleys, so translation-preserving proliferation requires additional gauge fields. The resulting theory reproduces the momentum structure of the critical spectrum and captures the divergent electron correlation. Upon doping away from commensurate filling, the theory gives rise to a superconducting dome. These results are consistent with an anyonic origin of the topological superconductivity in the absence of a weak-coupling Fermi-surface instability.",
+    "url": "https://arxiv.org/abs/2611.08475v1",
+    "published": "2026-11-05",
+    "summary": "- Numerical evidence of a continuous transition from a ν=1/3 Laughlin FCI to a c₋=3/2 topological superconductor by increasing bandwidth.\n- At criticality the electron correlation length diverges at momenta away from the Fermi surface; a vortex‑proliferation theory with magnetic‑translation‑induced six‑valley vortices and extra gauge fields reproduces this spectrum.\n- Doping away from commensurate filling produces a superconducting dome, supporting an anyonic origin of the TSC without a weak‑coupling Fermi‑surface instability."
+  },
+  {
+    "title": "Dynamical effects induced by synthetic SU(1,1) gauge fields",
+    "authors": "Chenwei Lv",
+    "abstract": "Compact gauge fields are powerful tools for controlling quantum dynamics and topological phases of matter. Non-compact gauge fields are particularly relevant for open systems, where particles or energy are exchanged with the environment. Here, we investigate the wavepacket and entanglement dynamics induced by an $\\mathrm{SU}(1,1)$ gauge field. The wavepacket undergoes non-Abelian non-compact Bloch oscillations, in which the spectrum of an auxiliary one-dimensional quantum problem determines the transition between stable oscillations and unstable amplification. In the unstable adiabatic regime, the wavepacket probes an $\\mathrm{SU}(1,1)$ topological defect, and its amplification is determined solely by a hyperbolic solid angle in Minkowski space. Threading an $\\mathrm{SU}(1,1)$ gauge field through a bosonic tight-binding model yields the bosonic Kitaev model, whose volume or super-volume entanglement scaling is governed by the stability of the gauge field. We further propose an experimental realization of an $\\mathrm{SU}(1,1)$ gauge field in a spinor condensate. Our results can be generalized to other non-compact groups and higher dimensions, providing a geometric framework for entanglement control, selective amplification, and engineering energy transfer.",
+    "url": "https://arxiv.org/abs/2611.08447v1",
+    "published": "2026-11-05",
+    "summary": "- SU(1,gauge fields produce non‑Abelian non‑compact Bloch oscillations, with stability or amplification set by an auxiliary 1D spectrum.\n- In the unstable adiabatic regime, wavepacket amplification is fixed by a hyperbolic solid angle, revealing an SU(1,topological defect.\n- Threading SU(1,into a bosonic tight‑binding model yields the bosonic Kitaev chain, whose volume or super‑volume entanglement scaling follows the gauge‑field stability; a spinor‑condensate implementation is proposed."
+  },
+  {
+    "title": "Disorder-blind Mpemba acceleration of quantum state preparation",
+    "authors": "M Nishanth, Shreyas Sadugol, Payman Mahmoudi, Alexander Yosifov, Aditya Iyer, Roopayan Ghosh, Jinzhao Sun",
+    "abstract": "Using the strong Mpemba effect to accelerate relaxation by initial-state design requires suppressing the slowest mode, which typically needs prior knowledge of the system. However, in disordered systems, this mode is sample-dependent, so a fixed preparation generally retains a slow-mode overlap. We show that a ``blind'' preparation, designed from the clean chain without knowledge of the disorder realisation or its distribution, can start farther from stationarity yet overtake a reference in typical samples of a dephased disordered XX chain. It requires only the chain geometry and the particle number. At strong dephasing, the density dynamics maps to a resistor chain, and an exact inverse-generator identity links the residual overlap to the spatial resistance profile. We find two distinct thresholds: a finite mean resistance suffices for diffusion, but the residual overlap decays as $L^{-1/2}$ with chain length $L$ only when the resistance variance is finite; rare weak links slow this decay. We predict the fraction of samples in which the blind preparation wins, which is an ensemble-level measure of its reliability. Finite-size calculations support both scaling regimes with interactions at strong dephasing. We give preparation circuits and a density readout for the residual overlap.",
+    "url": "https://arxiv.org/abs/2611.08424v1",
+    "published": "2026-11-05",
+    "summary": "- Blind initial‑state design, using only chain geometry and particle number, can beat disorder‑specific preparation in typical disordered XX chains under strong dephasing.\n- Residual overlap decays as \\(L^{-1/2}\\) only when resistance variance is finite; finite mean resistance guarantees diffusion but not rapid decay.\n- An exact inverse‑generator identity connects overlap to the spatial resistance profile, enabling predictions of winning‑sample fractions and guiding practical preparation circuits and readout."
+  },
+  {
+    "title": "Anisotropy lifts topological protection of transport in pumped spin chains",
+    "authors": "Mainak Pal",
+    "abstract": "We investigate the prospect of topological spin pumping and transport in a dimerized spin-$\\frac{1}{2}$ anisotropic XY chain with tunable in-plane anisotropy. Through a Jordan-Wigner transformation, the system maps onto an extended Rice-Mele-type fermionic model whose momentum-space band structure exhibits gapped regions characterized by nonzero Chern numbers ($\\pm 1$) as well as trivial and gapless regimes. Conventional momentum-space analysis therefore predicts quantized Thouless-type spin pumping in parts of the Chern number diagram. However, real-space time evolution under open boundary conditions reveals that the spin transport is generally not quantized away from the isotropic limit. In the anisotropic regime, eigen-energy states within the transporting subspace hybridize during the driving cycle, leading to a transport that depends on details of the driving protocol. Quantized pumping and transport survive only in the isotropic limit, where the Hamiltonian reduces to decoupled Rice-Mele sectors and the transported spin component is conserved. Our results demonstrate that momentum-space topological invariants alone do not guarantee quantized spin transport in anisotropic spin chains. More broadly, they show that the conventional Thouless-pumping framework does not straightforwardly extend to situations where the transported quantity is not conserved, highlighting the importance of real-space diagnostics in topological transport phenomena.",
+    "url": "https://arxiv.org/abs/2611.08385v1",
+    "published": "2026-11-05",
+    "summary": "- Anisotropic XY spin‑½ chain maps to a Rice‑Mele fermion model; Chern numbers predict quantized spin pumping.\n- Real‑space evolution with open boundaries shows non‑quantized transport except at the isotropic limit, where state hybridization is suppressed.\n- Quantized pumping survives only when the transported spin component is conserved; momentum‑space invariants alone cannot guarantee spin transport in anisotropic chains."
+  },
+  {
+    "title": "Multimagnon bound states in the polarized phase of anisotropic antiferromagnets",
+    "authors": "A. El Mendili, M. E. Zhitomirsky",
+    "abstract": "We investigate single-ion bound magnon states in the high-field polarized phase of uniaxial antiferromagnets. By solving the two-particle problem exactly, we determine the dispersion of bound magnon pairs both below and above the continuum. We also obtain rigorous bounds on their binding energies by using the Gershgorin circle theorem. For spin-1 easy-axis systems, two-magnon bound states with zero total momentum emerge as low-energy excitations once the ratio of single-ion anisotropy to exchange exceeds a threshold value. As the field decreases, magnon pairs condense, driving a transition into a spin-nematic phase. Beyond the two-magnon problem, we develop a general strong-coupling approach that describes $n$-magnon single-ion bound states ($n\\leq 2S$) in large-$S$ easy-axis antiferromagnets. The Bose-Einstein condensation of these multi-magnon excitations yields a rich hierarchy of field-induced multipolar phases stabilized by single-ion anisotropy. Comparisons with recent experiments on Na$_2$BaNi(PO$_4$)$_2$ and Sr$_2$CoGe$_2$O$_7$ illustrate the quantitative power of our theory.",
+    "url": "https://arxiv.org/abs/2611.08349v1",
+    "published": "2026-11-05",
+    "summary": "- Solved two‑magnon bound‑state problem in high‑field polarized antiferromagnets; derived dispersion and binding‑energy bounds.\n- Found spin‑1 easy‑axis bound pairs appear above a critical anisotropy ratio; their condensation yields a spin‑nematic phase.\n- Developed strong‑coupling theory for n‑magnon bound states (n≤2S) in large‑S systems, predicting a hierarchy"
+  },
+  {
+    "title": "Dualities in one-dimensional quantum lattice models: Lie groups, Schur-Weyl duality and symmetry breaking",
+    "authors": "Dante Bosgoed, Frank Verstraete, Laurens Lootens",
+    "abstract": "We present a systematic framework for gauging continuous symmetries, and show that the Schur-Weyl duality arises naturally as a realization of this construction with open boundary conditions. Restricting to compact Lie group symmetries, we construct dual models for one-dimensional quantum lattice models exhibiting those symmetries. We demonstrate that matrix product operators enable the explicit construction of intertwiners between the dual theories and their (non-invertible) symmetries. With closed boundary conditions, we can relate the full spectrum of these dual theories by considering all possible twisted boundary conditions.We illustrate how the Peter-Weyl transform appears when the duality acts on the boundary Hilbert space of a $G$-symmetric model. The presented framework generalizes previous work on dualities for unitary fusion category symmetric models. It exemplifies how dualities for both finite and continuous symmetries rely on the relation between a bond algebra and a representation of the symmetry in the lattice as double centralizers. We argue that dual non-invertible spontaneous symmetry breaking is the mechanism that underlies symmetric tensor network algorithms. We illustrate these results for $U(1)$- and $SU(2)$-symmetric quantum lattice models.",
+    "url": "https://arxiv.org/abs/2611.08293v1",
+    "published": "2026-11-05",
+    "summary": "- Framework for gauging continuous symmetries; Schur‑Weyl duality appears naturally with open boundaries.\n- Dual 1‑D lattice models for compact Lie groups; matrix‑product operators construct intertwiners and non‑invertible symmetries.\n- Closed boundaries relate full spectra through twisted conditions, linking to the Peter‑Weyl transform and explaining non‑invertible SSB in tensor‑network algorithms (illustrated for U(and SU()."
+  },
+  {
+    "title": "Spin supersolid in triangular lattice easy-axis spin-1/2 antiferromagnet: a fermionic parton perspective",
+    "authors": "Meng Zeng, Roderich Moessner, Shu Zhang",
+    "abstract": "We study the supersolid order of the spin-1/2 easy-axis XXZ antiferromagnet on the triangular lattice using a fermionic parton mean-field theory built on the $π$-flux Dirac spin liquid, with the mean-field order generated by an on-site spinon interaction term and nearest-neighbor (anisotropic) spin couplings. The collective modes are obtained using the random-phase approximation (RPA). In a finite parameter region, we find the Y state as a self-consistent solution, together with the competing Y' state, which is a $90^\\circ$-rotated Y state inside the order plane. The mean-field energy favors Y', even though the two states are exactly degenerate in the classical limit. However, the Y state can become lower in energy when higher-order corrections due to the fluctuations of the collective modes are considered. The Y state can also be stabilized on the mean-field level by applying small external fields, which we do in two different ways: moment-aligned local field and uniform field along the easy axis. In both cases, the RPA calculation for the stabilized Y state gives a roton minimum at the $M$ point in the excitation spectrum. A gapped pseudo-Goldstone mode above the gapless Goldstone mode is obtained as well, which has also been observed experimentally. Furthermore, we investigate the effects of tuning the spinon interaction strength and the anisotropy in spin couplings in our phenomenological model. Comparison with the recent numerical and experimental results is also discussed.",
+    "url": "https://arxiv.org/abs/2611.08270v1",
+    "published": "2026-11-05",
+    "summary": "- Fermionic parton mean‑field on a π‑flux Dirac spin liquid yields Y and Y′ supersolid states in the triangular‑lattice XXZ antiferromagnet.\n- RPA reveals a roton minimum at the M point and a gapped pseudo‑Goldstone mode, with the Y state stabilized by fluctuations or weak external fields.\n- Adjusting spinon interaction strength and anisotropy tunes phase stability, consistent with numerical and experimental results."
+  },
+  {
+    "title": "Accessing Fractional Wilson Lines from U(1) Monodromy Defects on the Fuzzy Sphere",
+    "authors": "Yin Tang, W. Zhu",
+    "abstract": "Wilson lines are gauge-invariant probes of charge screening and deconfinement, which can detect the response of quantum critical matter to an external charge, but their universal information at strongly-coupled critical points remains hard to access. Here we investigate a continuous family of $U(1)$ monodromy defects of the three-dimensional $O(2)$ Wilson--Fisher conformal field theory, which is dual to fractional Wilson lines in the critical noncompact Abelian Higgs model with one unit-charged scalar. We realize this continuous family of defects within the fuzzy-sphere framework by threading a fractional Aharonov--Bohm flux through the two poles of the sphere. We observe the emergence of charged operators carrying fractional transverse spins, as a characteristic signature of the imposed monodromy. The appearance of displacement operator at its protected dimension supports the conformal nature of this defect line. Crucially, we resolve no relevant symmetry-preserving defect scalar, and identify charge-one monopole operators as relevant symmetry-breaking deformations. Assuming the duality, these results provide non-perturbative evidence that fractional Wilson lines of the critical Abelian Higgs model are stable conformal lines.",
+    "url": "https://arxiv.org/abs/2611.08102v1",
+    "published": "2026-11-05",
+    "summary": "- Realized a continuous family of U(monodromy defects in the 3D O(Wilson–Fisher CFT by threading fractional Aharonov–Bohm flux on a fuzzy sphere.\n- Detected charged operators with fractional transverse spin and a protected displacement operator, confirming the defect’s conformal nature.\n- Found no relevant symmetry‑preserving defect scalar; charge‑one monopole operators are the only relevant symmetry‑breaking deformations, supporting the stability of fractional Wilson lines in the dual Abelian Higgs model."
+  }
+]
