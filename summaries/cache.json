@@ -5323,5 +5323,55 @@
     "title": "Exploring Variational Regularization of Krylov Subspaces",
     "summary": "- Variational Krylov framework optimizes parametrized states to emulate Lanczos couplings while penalizing linear dependencies.\n- Hamiltonian‑inspired ansätze maintain Krylov‑like convergence and improve conditioning; shallow ansätze stay stable but miss low‑energy directions.\n- Performance evaluated on a finite Anderson impurity model, highlighting the trade‑off between expressivity and stability.",
     "timestamp": "2026-11-09"
+  },
+  "2611.12873": {
+    "title": "Tetragonal-to-orthorhombic distortion in CeRh$_{2}$As$_{2}$",
+    "summary": "- CeRh₂As₂ exhibits two superconducting phases under a c‑axis field, with Tc ≈ 31 K following an ordered phase I at T₀ ≈ 46 K.\n- Longitudinal thermal‑expansion measurements show a tetragonal‑to‑orthorhombic distortion (δ ≈ 10⁻⁷) below T₀, breaking fourfold in‑plane symmetry.\n- The symmetry breaking restricts phase I’s order parameter, implying it cannot be multi‑component.",
+    "timestamp": "2026-11-10"
+  },
+  "2611.12836": {
+    "title": "Property F implies weak integrality for non-degenerate pivotal braided fusion categories",
+    "summary": "- Property F forces non‑degenerate pivotal braided fusion categories to be pseudo‑unitary and weakly integral.\n- Consequently, all modular categories with property F are weakly integral, regardless of sphericality.\n- Non‑integer squared total quantum dimension yields infinite braid‑group images, a prerequisite for universal quantum computation.",
+    "timestamp": "2026-11-10"
+  },
+  "2611.12788": {
+    "title": "Ambient-pressure superconductivity in bulk single crystals of La$_5$Ni$_4$O$_{10}$",
+    "summary": "- La₅Ni₄O₁₀ bulk crystals exhibit ambient‑pressure superconductivity, Tc(onset)",
+    "timestamp": "2026-11-10"
+  },
+  "2611.12669": {
+    "title": "Ground-state phase diagram of the spin-1/2 Heisenberg zigzag ladder with anisotropic $Γ$ term revisited",
+    "summary": "- Only gapped phases (Néel, dimer, ferromagnetic, double‑Néel) appear when the anisotropic Γ term is present; the TLL phase exists only for Γ =\n- Néel–dimer and Néel–ferromagnetic transitions are continuous Gaussian (c = critical points, with the TLL parameter numerically determined.\n- Exact diagonalization, DMRG, and low‑energy theory together refine the phase diagram, revising earlier results.",
+    "timestamp": "2026-11-10"
+  },
+  "2611.12658": {
+    "title": "Higher tensor network states in two spatial dimensions: fundamental theorem for open boundary conditions",
+    "summary": "- Introduces 2‑dimensional tensor network states by categorifying matrix product states, using 2‑vector spaces on lattice 2‑cells.\n- Defines representations as module categories over the free monoidal category of the lattice and proves a fundamental theorem: equivalent module categories generate identical states with suitable open boundary conditions.\n- Proposes 2‑injectivity, a categorified analogue of the injectivity condition for matrix product states.",
+    "timestamp": "2026-11-10"
+  },
+  "2611.12569": {
+    "title": "Contrasting one- and two-particle excitations in cuprate strange metals",
+    "summary": "- Optical plasmons in optimally doped cuprates show weak correlation‑induced dispersion but strong low‑energy damping governed by marginal Fermi liquid scattering.\n- Acoustic plasmons exhibit linear‑in‑energy damping consistent with the same marginal Fermi liquid framework.\n- One‑particle ARPES data confirm resilient quasiparticles, while two‑particle EELS/RIXS results are well described by combined electron–hole self‑energies.",
+    "timestamp": "2026-11-10"
+  },
+  "2611.12460": {
+    "title": "Revealing laser-induced modification of weak ferromagnetism through a spin-reorientation phase transition in iron borate Fe$_3$BO$_6$",
+    "summary": "- Femtosecond laser pulses reduce the weak ferromagnetic moment in Fe₃BO₆ via 2p→3d charge‑transfer transitions, triggering a 90° spin‑reorientation (Γ₂→Γ₄).\n- The transition shows a 35 % drop in weak ferromagnetism, with its threshold and latency governed by the diminished moment.\n- The final state is a coexistence of Γ₄ and Γ₂ phases, reached through precessional switching driven by laser‑induced heating.",
+    "timestamp": "2026-11-10"
+  },
+  "2611.12454": {
+    "title": "Real Topology on Symmetry-Invariant Loops Enforces Superconducting Pairing Zeros",
+    "summary": "- 1D real topology on antiunitary‑symmetry‑invariant loops enforces pairing zeros, independent of Fermi‑surface or global band topology.\n- General conditions and lower bounds for pairing zeros are derived for any dimension, pairing channel, and Cooper‑pair momentum, without requiring isolated bands.\n- Isolated zeros carry odd vorticity, yielding Bogoliubov‑de Gennes nodes and zero‑energy boundary modes, as shown in a two‑orbital model.",
+    "timestamp": "2026-11-10"
+  },
+  "2611.12277": {
+    "title": "Positronium resonance of electric monopoles in quantum spin ice",
+    "summary": "- Electric monopoles in quantum spin ice exhibit a double‑peak spectrum: a lower‑energy bound state (positronium‑like) and a higher‑energy scattering continuum.\n- Quantum Monte Carlo with stochastic analytic continuation at the Rokhsar–Kivelson point resolves the exciton‑like bound state of an electric monopole pair.\n- The flippable loop operator locally excites monopole pairs, enabling detection via lattice or optical response.",
+    "timestamp": "2026-11-10"
+  },
+  "2611.12236": {
+    "title": "Commuting-check gauging for fault-tolerant logical measurements",
+    "summary": "- Adds completion qubits to make gauged checks commute for Clifford ℤ₂ symmetries, preserving code distance and low‑density parity‑check structure.\n- Generalizes to qudits, bounds Clifford‑hierarchy level, and achieves fault‑tolerant logical measurement with circuit fault distance Ω(d) in O(d) rounds.\n- Demonstrates by gauging toric codes into the D(D₄) quantum double and back, attaining circuit fault distance equal to the parent code distance.",
+    "timestamp": "2026-11-10"
   }
 }

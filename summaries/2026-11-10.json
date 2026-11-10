@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Quantum-magneto oscillations in a supramolecular Mn(II)-[3 x 3] grid",
+    "authors": "O. Waldmann, S. Carretta, P. Santini, R. Koch, A. G. M. Jansen, G. Amoretti, R. Caciuffo, L. Zhao, L. K. Thompson",
+    "abstract": "The magnetic grid molecule Mn(II)-[3 x 3] has been studied by high-field torque magnetometry at 3He temperatures. At fields above 5 T, the torque vs. field curves exhibit an unprecedented oscillatory behavior. A model is proposed which describes these magneto oscillations well.",
+    "url": "https://arxiv.org/abs/cond-mat/0401304v1",
+    "published": "2004-01-16",
+    "summary": "- High‑field torque magnetometry on Mn(II)-[3 × 3] grid reveals oscillatory torque vs. field above 5 T.\n- Oscillations observed at 3 He temperatures, indicating quantum‑magneto effects.\n- A theoretical model successfully reproduces the magneto‑oscillation behavior."
+  },
+  {
+    "title": "Ferromagnetism in Fe-doped SnO2 thin films",
+    "authors": "J. M. D. Coey, A. P. Douvalis, C. B. Fitzgerald, M. Venkatesan",
+    "abstract": "Thin films grown by pulsed-laser deposition from targets of Sn0.95Fe0.05O2 are transparent ferromagnets with Curie temperature and spontaneous magnetization of 610 K and 2.2 Am2kg-1, respectively. The 57Fe Mossbauer spectra show the iron is all high-spin Fe3+ but the films are magnetically inhomogeneous on an atomic scale, with only 23 % of the iron ordering magnetically. The net ferromagnetic moment per ordered iron ion, 1.8 Bohr magnetons, is greater than for any simple iron oxide. Ferromagnetic coupling of ferric ions via an electron trapped in a bridging oxygen vacancy (F center) is proposed to explain the high Curie temperature",
+    "url": "https://arxiv.org/abs/cond-mat/0401293v1",
+    "published": "2004-01-16",
+    "summary": "- Fe‑doped SnO₂ thin films are transparent ferromagnets with TC ≈ 610 K and Ms ≈ 2 Am²/kg.\n- Mossbauer spectra reveal high‑spin Fe³⁺; only ~23 % of Fe ions are magnetically ordered, each carrying ~8 µB.\n- Ferromagnetism attributed to Fe³⁺ coupling through an electron trapped in an oxygen vacancy (F‑center)."
+  },
+  {
+    "title": "Ultrafast Conductivity Dynamics in Pentacene Probed using Terahertz Spectroscopy",
+    "authors": "V. K. Thorsmolle, R. D. Averitt, X. Chi, D. J. Hilton, D. L. Smith, A. P. Ramirez, A. J. Taylor",
+    "abstract": "We present measurements of the transient photoconductivity in pentacene single crystals using optical-pump THz-probe spectroscopy. We have measured the temperature and fluence dependence of the mobility of the photoexcited charge carriers with picosecond resolution. The pentacene crystals were excited at 3.0 eV which is above the bandgap of ~2.2 eV and the induced change in the far-infrared transmission was measured. At 30 K, the carrier mobility is mu ~ 0.4 cm^2/Vs and decreases to mu ~ 0.2 cm^2/Vs at room temperature. The transient terahertz signal reveals the presence of free carriers that are trapped on the timescale of a few ps or less, possibly through the formation of excitons, small polarons, or trapping by impurities.",
+    "url": "https://arxiv.org/abs/cond-mat/0401296v1",
+    "published": "2004-01-16",
+    "summary": "- Measured picosecond photoconductivity in pentacene crystals via optical‑pump THz‑probe.\n- Mobility drops from ~4 cm²/Vs at 30 K to ~2 cm²/Vs at room temperature.\n- THz signal indicates rapid (< ps) trapping of photoexcited carriers, likely by excitons, polarons, or impurities."
+  },
+  {
+    "title": "Phases of a rotating Bose-Einstein condensate with anharmonic confinement",
+    "authors": "A. D. Jackson, G. M. Kavoulakis, E. Lundh",
+    "abstract": "We examine an effectively repulsive Bose-Einstein condensate of atoms that rotates in a quadratic-plus-quartic potential. With use of a variational method we identify the three possible phases of the system (multiple quantization, single quantization, and a mixed phase) as a function of the rotational frequency of the gas and of the coupling constant. The derived phase diagram is shown to be universal and the continuous transitions to be exact in the limit of weak coupling and small anharmonicity. The variational results are found to be consistent with numerical solutions of the Gross-Pitaevskii equation.",
+    "url": "https://arxiv.org/abs/cond-mat/0401292v1",
+    "published": "2004-01-16",
+    "summary": "- Identified three phases (multiple, single, mixed quantization) in a rotating BEC with quadratic‑plus‑quartic confinement.\n- Derived a universal phase diagram; continuous transitions exact for weak coupling and small anharmonicity.\n- Variational predictions agree with Gross‑Pitaevskii numerical solutions."
+  },
+  {
+    "title": "Observation of narrow fluorescence from doubly driven four-level atoms at room temperature",
+    "authors": "Uday Kumar Khan, Jimmy Sebastian, N. Kamaraju, Andal Narayanan, R. Srinivasan, Hema Ramachandran",
+    "abstract": "Unusually narrow fluorescence peaks are seen from Rubidium-85 atoms under the action of two driving laser fields that are in a three dimensional molasses configuration. One of the lasers is held at a fixed detuning from the \"cooling\" transition, while the other is scanned across the \"repumping\" transitions. The fluorescence peaks are split into symmetric pairs, with the seperation within a pair increasing with the detuning of the cooling laser. For large detunings additional small peaks are seen. A simple model is proposed to explain these experimental observations.",
+    "url": "https://arxiv.org/abs/cond-mat/0401280v1",
+    "published": "2004-01-16",
+    "summary": "- Narrow fluorescence peaks appear in Rb‑85 under dual‑laser 3D molasses; one laser fixed detuned from cooling transition, the other scanned over repumping lines.\n- Peaks form symmetric pairs whose separation increases with cooling‑laser detuning; large detunings yield additional small peaks.\n- A simple model explains the observed spectral features."
+  },
+  {
+    "title": "Fluorescence from doubly driven four-level atoms - A density matrix approach",
+    "authors": "Andal Narayanan, R. Srinivasan, Ashok Vudayagiri, Uday Kumar Khan, Hema Ramachandran",
+    "abstract": "The unusually narrow features in the fluorescence from Rubidium-85 driven by cooling and repumper laser fields, reported in an earlier experiment [1] are explained on the basis of a four-level density matrix calculation. Quantum effects alter the efficiency of atom transfer by the probe (repumper) laser to the levels connected by the pump (cooling) laser. This combined with the double resonance condition [1], results in velocity selection from co-propagating and counter propagating probe and pump beams resulting in narrow fluorescence peaks from a thermal gas at room temperature.",
+    "url": "https://arxiv.org/abs/cond-mat/0401279v1",
+    "published": "2004-01-16",
+    "summary": "- Four‑level density‑matrix model reproduces narrow Rb‑85 fluorescence peaks under cooling and repumper lasers.\n- Quantum interference alters probe‑induced population transfer, sharpening double‑resonance velocity selection.\n- Co‑ and counter‑propagating beam geometry yields narrow fluorescence peaks in a room‑temperature thermal gas."
+  },
+  {
+    "title": "Optical conductivity of small adiabatic polarons with a long-range electron-phonon interaction",
+    "authors": "B. Ya. Yavidov",
+    "abstract": "The hopping of an electron, interacting with many ions of a lattice via the long-range (Fröhlich) electron-phonon interaction and optical absorption are studied at zero temperature. Ions are assumed to be isotropic three-dimensional oscillators. The optical conductivity and a renormalized mass of small adiabatic Fröhlich polarons is calculated and compared with those of small adiabatic Holstein polarons.",
+    "url": "https://arxiv.org/abs/quant-ph/0401089v4",
+    "published": "2004-01-15",
+    "summary": "- Calculated optical conductivity and effective mass of small adiabatic Fröhlich polarons at zero temperature.\n- Compared results with small adiabatic Holstein polarons, highlighting differences due to long‑range electron‑phonon coupling.\n- Modeled ions as isotropic 3D oscillators to analyze electron hopping and optical absorption."
+  },
+  {
+    "title": "A first principles simulation of rigid water",
+    "authors": "M. Allesch, E. Schwegler, F. Gygi, G. Galli",
+    "abstract": "We present the results of Car-Parrinello (CP) simulations of water at ambient conditions and under pressure, using a rigid molecule approximation. Throughout our calculations, water molecules were maintained at a fixed intramolecular geometry corresponding to the average structure obtained in fully unconstrained simulations. This allows us to use larger time steps than those adopted in ordinary CP simulations of water, and thus to access longer time scales. In the absence of chemical reactions or dissociation effects, these calculations open the way to ab initio simulations of aqueous solutions that require timescales substantially longer than presently feasible (e.g. simulations of hydrophobic solvation). Our results show that structural properties and diffusion coefficients obtained with a rigid model are in better agreement with experiment than those determined with fully flexible simulations. Possible reasons responsible for this improved agreement are discussed.",
+    "url": "https://arxiv.org/abs/cond-mat/0401267v1",
+    "published": "2004-01-15",
+    "summary": "- CP simulations of water with rigid molecules use larger time steps, enabling longer time scales.\n- Structural properties and diffusion coefficients from the rigid model match experiments better than flexible simulations.\n- The approach paves the way for ab initio studies of aqueous solutions (e.g., hydrophobic solvation) beyond current time‑scale limits."
+  },
+  {
+    "title": "Origin of asymmetric reversal modes in ferromagnetic/antiferromagnetic multilayers",
+    "authors": "B. Beckmann, U. Nowak, K. D. Usadel",
+    "abstract": "Experimentally an asymmetry of the reversal modes has been found in certain exchange bias systems. From a numerical investigation of the domain state model evidence is gained that this effect depends on the angle between the easy axis of the antiferromagnet and the applied magnetic field. Depending on this angle the ferromagnet reverses either symmetrically, e. g. by a coherent rotation on both sides of the loop, or the reversal is asymmetric with a non uniform reversal mode for the ascending branch, which may even yield a zero perpendicular magnetization.",
+    "url": "https://arxiv.org/abs/cond-mat/0401232v1",
+    "published": "2004-01-14",
+    "summary": "- Asymmetric reversal modes appear in certain exchange‑bias multilayers.\n- Domain‑state simulations show the effect depends on the angle between the AFM easy axis and the applied field.\n- At specific angles the FM reverses symmetrically via coherent rotation; at others it reverses asymmetrically, sometimes producing zero perpendicular magnetization."
+  },
+  {
+    "title": "Vortex waves and the onset of turbulence in $^3$He-B",
+    "authors": "K. L. Henderson, C. F. Barenghi",
+    "abstract": "In a recent experiment Finne et al. discovered an intrinsic condition for the onset of quantum turbulence in $^3$He-B, that q=alpha/(1-alpha')<1, where alpha and alpha' are mutual friction parameters. The authors argued that this condition corresponds to Kelvin waves which are marginally damped, so for q>1 Kelvin waves cannot grow in amplitude and trigger vortex reconnections and turbulence. By analysing both axisymmetric and non-axisymmetric modes of oscillations of a rotating superfluid, we confirm that in the long axial wavelength limit the simple condition q=1 is indeed the crossover between damped and propagating Kelvin waves.",
+    "url": "https://arxiv.org/abs/cond-mat/0401212v1",
+    "published": "2004-01-13",
+    "summary": "- Finne et al. identified the intrinsic turbulence onset criterion \\(q=\\alpha/(1-\\alpha')<1\\) in \\(^{3}\\)He‑B.\n- The criterion corresponds to marginally damped Kelvin waves; for \\(q>1\\) waves cannot grow to trigger reconnections.\n- Analysis of rotating‑superfluid modes confirms \\(q=1\\) as the crossover between damped and propagating Kelvin waves in the long‑wavelength limit."
+  },
+  {
+    "title": "Tetragonal-to-orthorhombic distortion in CeRh$_{2}$As$_{2}$",
+    "authors": "P. Khanenko, M. Pfeiffer, K. Semeniuk, E. Hassinger, P. Thalmeier, J. Wosnitza, A. M. León, G. Zwicknagl, C. Geibel, S. Khim, M. Brando",
+    "abstract": "CeRh$_{2}$As$_{2}$ is best known for its two superconducting phases, which are observed when a magnetic field is applied along the $c$ axis of its tetragonal unit cell. The emergence of superconductivity, with $T_{c} \\approx 0.31$K, is preceded by an ordered state (phase I), with an ordering temperature $T_{0} \\approx 0.46$K. The precise nature of the order parameter in phase I is still unknown, although evidence of dipolar ordering was found. To investigate a possible symmetry breaking at $T_{\\textrm{0}}$, we conducted longitudinal thermal-expansion measurements along the crystallographic [100], [010], [110], and [1$\\overline{1}$0] directions on a single-crystalline sample cut into an octagonal shape. Our results demonstrate the breaking of the fourfold in-plane symmetry below $T_{\\textrm{0}}$, evidencing a small tetragonal-to-orthorhombic distortion (orthorhombicity $δ\\sim 10^{-7}$). The breaking of the tetragonal symmetry at $T_{\\textrm{0}}$ might imply that the superconducting order parameter that develops within phase I cannot be multi-component. More generally, the distortion places restrictions on the possible order parameters for phase I.",
+    "url": "https://arxiv.org/abs/2611.12873v1",
+    "published": "2026-11-09",
+    "summary": "- CeRh₂As₂ exhibits two superconducting phases under a c‑axis field, with Tc ≈ 31 K following an ordered phase I at T₀ ≈ 46 K.\n- Longitudinal thermal‑expansion measurements show a tetragonal‑to‑orthorhombic distortion (δ ≈ 10⁻⁷) below T₀, breaking fourfold in‑plane symmetry.\n- The symmetry breaking restricts phase I’s order parameter, implying it cannot be multi‑component."
+  },
+  {
+    "title": "Property F implies weak integrality for non-degenerate pivotal braided fusion categories",
+    "authors": "Justin Asher, Jonah Berean-Dutcher, Clay Cordova, Julio Parra-Martinez, Richard Tuddenham",
+    "abstract": "We prove that every non-degenerate pivotal braided fusion category with property F is pseudo-unitary and weakly integral. In particular, every modular category with property F is weakly integral. Neither sphericality nor pseudo-unitarity is assumed. Passing to the Drinfeld centre extends the result to degenerate categories whose dimensions are positive on the intersection of the Müger centre with the adjoint subcategory; these include every braided fusion category with a pseudo-unitary Galois conjugate. Physically, the result connects the arithmetic of topological orders to the computational power of anyon braiding: non-integer squared total quantum dimension guarantees infinite braid group images, a necessary condition for universal quantum computation.",
+    "url": "https://arxiv.org/abs/2611.12836v1",
+    "published": "2026-11-09",
+    "summary": "- Property F forces non‑degenerate pivotal braided fusion categories to be pseudo‑unitary and weakly integral.\n- Consequently, all modular categories with property F are weakly integral, regardless of sphericality.\n- Non‑integer squared total quantum dimension yields infinite braid‑group images, a prerequisite for universal quantum computation."
+  },
+  {
+    "title": "Ambient-pressure superconductivity in bulk single crystals of La$_5$Ni$_4$O$_{10}$",
+    "authors": "R. Zhang, P. Reiss, A. Krajewska, M. Isobe, H. Takagi, P. Puphal",
+    "abstract": "Superconductivity in the Ruddlesden-Popper (RP) nickelates has so far been confined either to multilayer compounds under high pressure or to square-planar infinite-layer-type films stabilized by epitaxial strain. Here we report the high-pressure high-temperature (HPHT) growth of bulk single crystals of the quadruple-layer RP nickelate La$_5$Ni$_4$O$_{13}$ ($n=4$) and reproduce the quintuple-layer La$_6$Ni$_5$O$_{16}$ ($n=5$) synthesis, two members of the series that had previously been accessible only as thin films. Topotactic reduction of La$_5$Ni$_4$O$_{13}$ single crystals with CaH$_2$ yields the square-planar phase La$_5$Ni$_4$O$_{10}$, which we show to be a bulk, ambient-pressure superconductor with $T_\\mathrm{c}^\\mathrm{onset} \\approx 18\\,\\mathrm{K}$, a shielding fraction above 60\\%, and a specific-heat jump that confirms a bulk pairing transition. All crystals show besides superconductivity a coexistence with a density-wave or metal-insulator transition. The upper critical field shows a small anisotropy, $γ\\approx 2.4$, which remains finite as $T \\to T_c$, indicating three-dimensional superconductivity with substantial coupling between the four-layer blocks. These results identify the square-planar nickelates $R_{n+1}$Ni$_n$O$_{2n+2}$ as a bulk platform in which the layer number alone tunes the nickel valence into the superconducting regime, without chemical substitution, pressure, or epitaxial constraint.",
+    "url": "https://arxiv.org/abs/2611.12788v1",
+    "published": "2026-11-09",
+    "summary": "- La₅Ni₄O₁₀ bulk crystals exhibit ambient‑pressure superconductivity, Tc(onset)"
+  },
+  {
+    "title": "Ground-state phase diagram of the spin-1/2 Heisenberg zigzag ladder with anisotropic $Γ$ term revisited",
+    "authors": "Toshiya Hikihara, Nobuya Maeshima, Kouichi Okunishi",
+    "abstract": "We study the spin-1/2 Heisenberg antiferromagnet with an anisotropic $Γ$ term on a zigzag ladder, which can be exactly mapped to the spin-1/2 XYZ zigzag ladder by a spin rotation. This model has recently attracted considerable interest as an effective model for the quasi-one-dimensional magnetic semiconductor YbCuS$_2$. For the model, the ground-state phase diagram was previously proposed by Saito and Hotta [Phys. Rev. Lett. 132, 166701 (2024); Phys. Rev. B 110, 024409 (2024)]. We systematically reexamine the phase diagram through complementary numerical and analytical approaches, including exact diagonalization, the density-matrix renormalization group method, and low-energy effective theories. We thereby demonstrate that when the anisotropic $Γ$ term is present, the model exhibits the Néel, dimer, ferromagnetic, and double-Néel phases, all of which have a finite excitation gap. The gapless Tomonaga-Luttinger-liquid (TLL) phase appears only in the isotropic case where the $Γ$ term is absent. We also confirm that the transitions between the Néel and dimer phases and between the Néel and ferromagnetic phases are continuous transitions governed by Gaussian criticality with central charge $c=1$. The TLL parameter characterizing the critical states at the Gaussian transitions is estimated numerically.",
+    "url": "https://arxiv.org/abs/2611.12669v1",
+    "published": "2026-11-09",
+    "summary": "- Only gapped phases (Néel, dimer, ferromagnetic, double‑Néel) appear when the anisotropic Γ term is present; the TLL phase exists only for Γ =\n- Néel–dimer and Néel–ferromagnetic transitions are continuous Gaussian (c = critical points, with the TLL parameter numerically determined.\n- Exact diagonalization, DMRG, and low‑energy theory together refine the phase diagram, revising earlier results."
+  },
+  {
+    "title": "Higher tensor network states in two spatial dimensions: fundamental theorem for open boundary conditions",
+    "authors": "Clement Delcamp, Boris Kjær",
+    "abstract": "We introduce a class of two-dimensional tensor network states obtained by categorifying matrix product states. This procedure leads us to consider bond spaces provided by a 2-vector space associated with the 2-cells of the underlying lattice. Tensor network representations are then defined as module categories over the free monoidal category on a monoidal signature encoding the lattice geometry. We prove a fundamental theorem stating that two representations generating the same states with suitable open boundary conditions are equivalent as module categories. Finally, we introduce a notion of 2-injectivity, a categorified analogue of the injectivity condition for matrix product states.",
+    "url": "https://arxiv.org/abs/2611.12658v1",
+    "published": "2026-11-09",
+    "summary": "- Introduces 2‑dimensional tensor network states by categorifying matrix product states, using 2‑vector spaces on lattice 2‑cells.\n- Defines representations as module categories over the free monoidal category of the lattice and proves a fundamental theorem: equivalent module categories generate identical states with suitable open boundary conditions.\n- Proposes 2‑injectivity, a categorified analogue of the injectivity condition for matrix product states."
+  },
+  {
+    "title": "Contrasting one- and two-particle excitations in cuprate strange metals",
+    "authors": "Falk Röder. Roman Schuster, Martin Knupfer, Axel Lubk, Jörg Fink",
+    "abstract": "In unconventional superconductivity, the pairing mechanism remains one of the central unresolved problems in solid-state physics. Moreover, the normal state shows strong deviations from conventional Fermi-liquid behavior, most notably a scattering rate that is linear in energy and temperature. Here we study the momentum dependence of the energy and damping of collective excitations in optimally doped cuprates in the normal state. In particular, we analyze existing Electron Energy Loss Spectroscopy (EELS) data of Bi2Sr2CaCu2O8 [Phys. Rev. B 44, 7155 (1991)] and new analogous optical plasmon data of Bi2Sr2Ca2Cu3O10. Furthermore, we reanalyze similar Resonant Inelastic Xray Scattering (RIXS) acoustic plasmon data [Phys. Rev. R 6, 043184 (2024)] of La1.84Sr0.16CuO4 and La1.84Ce0.16CuO4. We contrast these two-particle excitation results with one-particle excitations measured by Angle-Resolved Photoemission Spectroscopy (ARPES). Most of the plasmon behavior can be described well by combined self-energies of a hole and an electron. The dispersion of optical plasmons at high energy is only weakly determined by correlation effects, indicating resilient quasiparticles. The damping of the optical plasmons at low energy, however, is strongly influenced by the reduced scattering rates described in the marginal Fermi liquid model for \"strange-metal\" behavior. In addition, the same model describes the linear-in-energy damping of acoustic plasmons. Contrary to some theoretical predictions, we see no overdamped optical plasmons below the classical Lindhard critical wave vector.",
+    "url": "https://arxiv.org/abs/2611.12569v1",
+    "published": "2026-11-09",
+    "summary": "- Optical plasmons in optimally doped cuprates show weak correlation‑induced dispersion but strong low‑energy damping governed by marginal Fermi liquid scattering.\n- Acoustic plasmons exhibit linear‑in‑energy damping consistent with the same marginal Fermi liquid framework.\n- One‑particle ARPES data confirm resilient quasiparticles, while two‑particle EELS/RIXS results are well described by combined electron–hole self‑energies."
+  },
+  {
+    "title": "Revealing laser-induced modification of weak ferromagnetism through a spin-reorientation phase transition in iron borate Fe$_3$BO$_6$",
+    "authors": "A. V. Kuzikova, S. N. Barilo, R. A. Lanovsky, A. V. Sadovnikov, R. V. Pisarev, A. M. Kalashnikova",
+    "abstract": "In the iron oxide Fe$_3$BO$_6$ weak ferromagnetism stems from competing contributions from two-site Dzyaloshinskii-Moriya interactions (DMI) and from on-site anisotropies at the two $4c$ and $8d$ types of nonequivalent Fe$^{3+}$ sites. As a result, spin reorientation (SR) transition $Γ_2$ $\\rightarrow$ $Γ_4$ in Fe$_3$BO$_6$ uniquely comprises 90$^\\circ$ spin switching and a 35% change of weak ferromagnetic moment. We explore ultrafast kinetics of such a transition as a proxy for weak ferromagnetism contributions modified by femtosecond laser pulses. Using magneto-optical pump-probe technique we reveal that the SR transition is triggered by an abrupt decrease of the weak ferromagnetic moment in the $Γ_2$ phase, and relate it to the laser-induced modification of the DMI and anisotropy contributions to the spin canting. By tuning the pump pulse phonon energy between different optical absorption ranges, we show that laser-driven impact on spin canting possesses a nonthermal character and is achieved through the charge-transfer transitions $2p\\rightarrow3d$ within Fe$^{3+}$O$^{2-}_6$ octahedra rather than by localized $3d\\rightarrow3d$ transitions at Fe$^{3+}$. The decreased weak ferromagnetic moment controls the threshold and the latency of the SR transition, as well as a final state. The latter is achieved via the precessional switching to the $Γ_4$ phase activated by the laser-induced heating. Final state is found to be a coexistence of $Γ_4$ and $Γ_2$ phase with modified spin canting persisting even at hundreds of picoseconds.",
+    "url": "https://arxiv.org/abs/2611.12460v1",
+    "published": "2026-11-09",
+    "summary": "- Femtosecond laser pulses reduce the weak ferromagnetic moment in Fe₃BO₆ via 2p→3d charge‑transfer transitions, triggering a 90° spin‑reorientation (Γ₂→Γ₄).\n- The transition shows a 35 % drop in weak ferromagnetism, with its threshold and latency governed by the diminished moment.\n- The final state is a coexistence of Γ₄ and Γ₂ phases, reached through precessional switching driven by laser‑induced heating."
+  },
+  {
+    "title": "Real Topology on Symmetry-Invariant Loops Enforces Superconducting Pairing Zeros",
+    "authors": "Hongyu Lu, Hao Jin, Wang Yao",
+    "abstract": "Normal-state topology can obstruct superconducting pairing and give rise to gapless nodes in the quasiparticle spectrum. However, existing pairing-obstruction mechanisms largely rely on Fermi-surface topology or global Bloch-band topology. Here, we establish a new and general mechanism: one-dimensional (1D) real topology, defined on antiunitary-symmetry-invariant loops, enforces pairing zeros without requiring Fermi-surface or global Bloch-band topology. We derive sufficient conditions and lower bounds for pairing zeros across diverse pairing channels, for both zero and finite Cooper-pair momenta. The theorems apply to systems of arbitrary spatial dimensions without requiring the pairing bands to be globally isolated. We further show that such topologically enforced pairing zeros, if isolated, necessarily carry odd vorticity and can give rise to Bogoliubov-de Gennes nodes and zero-energy boundary modes, as demonstrated in a minimal two-orbital model. Our results reshape the understanding of how normal-state topology can obstruct the superconducting order, highlight the significant role of 1D real topology beyond single-particle band phenomena, and provide a general framework for identifying candidate materials hosting nodal superconductivity.",
+    "url": "https://arxiv.org/abs/2611.12454v1",
+    "published": "2026-11-09",
+    "summary": "- 1D real topology on antiunitary‑symmetry‑invariant loops enforces pairing zeros, independent of Fermi‑surface or global band topology.\n- General conditions and lower bounds for pairing zeros are derived for any dimension, pairing channel, and Cooper‑pair momentum, without requiring isolated bands.\n- Isolated zeros carry odd vorticity, yielding Bogoliubov‑de Gennes nodes and zero‑energy boundary modes, as shown in a two‑orbital model."
+  },
+  {
+    "title": "Positronium resonance of electric monopoles in quantum spin ice",
+    "authors": "José Maria Cruz, Hidemaro Suwa, Masafumi Udagawa",
+    "abstract": "Quantum spin ice attracts considerable attention due to its remarkable low-energy properties, described by the effective gauge theory, which mimics the quantum electrodynamics (QED). The ``effective\" QED in quantum spin ice is beyond the ``real\" QED in our universe in many respects. Above all, the effective QED hosts two kinds of gapped particles, the electric monopole, in addition to the magnetic monopole. Among the two monopoles, the electric monopole is of purely quantum origin, and its character has not been well resolved. In this work, we focus on the Rokhsar Kivelson point of the quantum dimer model, as the low-energy description of the quantum XXZ model on a pyrochlore lattice, and address the excitation spectrum of the electric monopoles, by combining the quantum Monte Carlo simulation with the stochastic analytical continuation. Most strikingly, the electric monopole spectrum exhibits clear double-peak structure, corresponding to the bound states and scattering states of electric monopoles. The lower-energy peak is attributed to the exciton-like bound state of an electric monopole pair, a signal of positronium in quantum spin ice. We found that the flippable loop operator serves as a local physical observable to excite a pair of electric monopoles, implying that monopoles can be detected through lattice or optical response.",
+    "url": "https://arxiv.org/abs/2611.12277v1",
+    "published": "2026-11-09",
+    "summary": "- Electric monopoles in quantum spin ice exhibit a double‑peak spectrum: a lower‑energy bound state (positronium‑like) and a higher‑energy scattering continuum.\n- Quantum Monte Carlo with stochastic analytic continuation at the Rokhsar–Kivelson point resolves the exciton‑like bound state of an electric monopole pair.\n- The flippable loop operator locally excites monopole pairs, enabling detection via lattice or optical response."
+  },
+  {
+    "title": "Commuting-check gauging for fault-tolerant logical measurements",
+    "authors": "Zongyuan Wang",
+    "abstract": "Gauging turns a logical operator into a product of local checks, providing a route to logical measurement and lattice surgery. These checks can fail to commute outside the code space, so measuring one can randomize the outcome of another. In this work, we introduce completion qubits that make the checks commute for Clifford $\\mathbb{Z}_2$ symmetries of qubit stabilizer codes. Adding one completion qubit per noncommuting pair preserves the gauged code space and its distance while keeping the checks Clifford. Completion also preserves the low-density parity-check property with a constant-factor qubit overhead. We generalize completion to qudits and establish bounds on the Clifford-hierarchy level of the completed checks in prime dimensions. Global commutation ensures that a fault-free round fixes the syndrome until the next fault and allows us to bound fault propagation independently of the number of measurement rounds. For qubit codes, we show that gauging and ungauging a distance-$d$ parent code implements a logical measurement with circuit fault distance $Ω(d)$ in $O(d)$ rounds. We demonstrate the construction by gauging two toric codes into the $D(D_4)$ quantum double and back, with an explicit circuit whose circuit fault distance equals the parent code distance. Our results provide a framework for fault-tolerant logical measurements using commuting checks, with applications to magic-state preparation by lattice surgery.",
+    "url": "https://arxiv.org/abs/2611.12236v1",
+    "published": "2026-11-09",
+    "summary": "- Adds completion qubits to make gauged checks commute for Clifford ℤ₂ symmetries, preserving code distance and low‑density parity‑check structure.\n- Generalizes to qudits, bounds Clifford‑hierarchy level, and achieves fault‑tolerant logical measurement with circuit fault distance Ω(d) in O(d) rounds.\n- Demonstrates by gauging toric codes into the D(D₄) quantum double and back, attaining circuit fault distance equal to the parent code distance."
+  }
+]
