@@ -5373,5 +5373,95 @@
     "title": "Commuting-check gauging for fault-tolerant logical measurements",
     "summary": "- Adds completion qubits to make gauged checks commute for Clifford ℤ₂ symmetries, preserving code distance and low‑density parity‑check structure.\n- Generalizes to qudits, bounds Clifford‑hierarchy level, and achieves fault‑tolerant logical measurement with circuit fault distance Ω(d) in O(d) rounds.\n- Demonstrates by gauging toric codes into the D(D₄) quantum double and back, attaining circuit fault distance equal to the parent code distance.",
     "timestamp": "2026-11-10"
+  },
+  "2611.12946": {
+    "title": "Goldstone-Mediated Chiral Superconductivity in Self-Doped Electron Crystals",
+    "summary": "- Goldstone phonons from self‑doped electron crystals can overscreen Coulomb repulsion, enabling chiral topological superconductivity.\n- The mechanism operates near the trivial–topological crystal boundary, producing a small Dirac Fermi sea that couples to phonons.\n- Predictions include a single Majorana edge mode and distinctive nonlinear I‑V signatures testable in rhombohedral graphene.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.12947": {
+    "title": "Borrowed Planckian dissipation in magic-angle twisted graphene",
+    "summary": "- Displacement field \\(D\\) in magic‑angle twisted trilayer graphene breaks mirror symmetry, causing Dirac carriers to inherit Planckian self‑energy from flat bands with weight \\(\\propto D^2+D_0^2\\).\n- Resistivity remains linear in \\(T\\) with slope \\(a(1+D^2/D_0^\\), showing the field tunes scattering rate rather than carrier density.\n- Borrowed dissipation keeps flat‑band transport prefactor and entropy, giving a field‑differential ratio ≈ 46 for a conformal flat band.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.12968": {
+    "title": "Wafer-scale MoS2 and HZO-based Ferroelectric Field Effect Transistors with 4.4 V Memory Window for Back-End Compatible Multibit Memory",
+    "summary": "- Wafer‑scale MoS₂ (2–3 ML) FeFETs with 20 nm Hf₀.₅Zr₀.₅O₂ gate achieve a 4 V memory window, 10⁵ ION/IOFF, and p‑type transport.\n- Polarization‑induced Schottky barrier modulation enables multibit memory, non‑destructive read, zero‑bias retention, low‑voltage operation, and >10⁶ endurance.\n- Ultra",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13032": {
+    "title": "Universal Fold Caustics in Anharmonic Matter-wave Lenses",
+    "summary": "- Anharmonic lens adds cubic aberration, converting harmonic focus into a fold caustic described by an Airy integral.\n- Gross‑Pitaevskii simulations show mean‑field interactions modify near‑focus density and generate a secondary momentum‑space feature absent in the non‑interacting case.\n- Fisher‑information analysis yields a 7 × 10⁻³ relative uncertainty in interaction strength from 10⁵ detected points, demonstrating matter‑wave lenses as precise probes.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13038": {
+    "title": "Point defects and primary radiation damage in Co-free Fe-Ni-Cr-Mn high-entropy alloys from molecular dynamics",
+    "summary": "- Co‑free Fe‑Ni‑Cr‑Mn high‑entropy alloys (HEAs) were modeled with MD; their stacking‑fault energy rises with Ni content (19–44 mJ m⁻²).\n- HEAs show lower threshold displacement energies (48–56 eV) and dumbbell formation energies than Mn‑free alloys; Mn is the most mobile interstitial species.\n- Primary damage at 40 keV yields ~56–72 Frenkel pairs per cascade, ~54–58 % of interstitials cluster, fewer faulted clusters than Ni",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13076": {
+    "title": "Hidden Spin-Supercurrent Counterflow in Conventional Superconductors",
+    "summary": "- Spin‑splitting in a conventional superconductor allows resistive spin currents to vary spatially while the total spin current remains conserved via a counterflow of condensate spin current.\n- Spin injection through a spin‑mixing interface produces opposite resistive and condensate spin currents, yielding a hidden counterflow with zero net spin and charge.\n- This counterflow survives over broad parameter ranges and can be detected through spin‑to‑charge conversion (e.g., spin‑Hall or inverse spin‑Hall signals).",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13081": {
+    "title": "Planckian Charge Equilibration in Fast Scramblers",
+    "summary": "- Shows Planckian charge equilibration rate Γ = 2π(2Δ − d)k_BT/ħ in maximally scrambling SYK/Yukawa models.\n- Finds slowest decay of charge imbalance in low‑T conformal regime via linear response.\n- Concludes maximal scrambling alone does not fix the dimensionless prefactor.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13091": {
+    "title": "Chiral Superconductivity Indifferent to Parent Topology in the Square-Lattice Hofstadter-Hubbard Model",
+    "summary": "- DMRG and parton analysis uncover IQH, CSL, and AFM phases in a π‑flux square‑lattice Hofstadter‑Hubbard model at half filling.\n- Finite‑T DQMC shows a closing charge gap but an open spin gap at the IQH–CSL boundary, signaling topological criticality.\n- Doping any of these phases produces a robust chiral superconductor with spin Chern number Cs = –2, regardless of the parent state.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13101": {
+    "title": "Quantum Control Geometry as a Metric of Chaos",
+    "summary": "- Introduces a quantum geometric susceptibility metric that quantifies eigenstate sensitivity to physically allowed Hamiltonian deformations, offering a continuous measure of chaos.\n- Finds that minimal susceptibility aligns with maximal eigenstate randomness, broad local operator spectra, and suppression of nonhydrodynamic slow modes in canonical chaotic models.\n- Provides an intrinsic, unifying framework linking eigenstate structure to dynamics, enabling comparative assessment of chaos across many‑body systems.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13141": {
+    "title": "Dynamics of R\\'enyi entanglement entropies and Eigenstate Thermalization",
+    "summary": "- Uses spectral representations of subsystem swap operators to link R\\'enyi‑2 purity growth to ETH‑like eigenstate statistics.\n- Shows that purity dynamics are governed by smooth functions determined by initial‑state overlaps and swap matrix elements.\n- Finds that for large subsystems the dynamics collapse to a single fundamental frequency due to locality and bulk spectral dephasing.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13166": {
+    "title": "Study of the frustrated SU(3) Heisenberg chain with SU(3)-symmetric matrix product states",
+    "summary": "- SU(Heisenberg chain with J₁–J₂ studied via SU(-symmetric VUMPS up to D≈\n- Trimerized VBS phase extends to α_c2 ≳ 5, ending below α≈5; no transition near α≈\n- Large‑α regime exhibits massless flow SU(₂ → SU(₁, confirmed by effective central‑charge scaling.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13360": {
+    "title": "A Perspective on Topological Charge Density Wave Materials",
+    "summary": "- Charge‑density waves reshape band structures, defect networks, and electromagnetic responses, prompting a topological reinterpretation.\n- The term “topological CDW” encompasses three distinct phenomena: (i) topology of the order‑parameter and its defects, (ii) topology of the CDW‑reconstructed electronic structure and boundary modes, (iii) axion‑like magnetoelectric response.\n- Experiments in Weyl and kagome materials reveal phase‑defect networks, in‑gap boundary modes, and axion‑like responses linked to CDW order.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13532": {
+    "title": "Field-induced magnetic quantum phase transitions in a bilayer triangular lattice antiferromagnet K$_2$Co$_2$(HPO$_3$)$_2$(C$_2$O$_4$)(H$_2$O)$_2$",
+    "summary": "- NMR reveals a field‑induced magnetic order (5–4 T) with gapless spin‑supersolid behavior, suppressed near 4 T.\n- A second ordered phase appears between 6–18 T, evidenced by NMR spectral splittings and magnetization plateaus at 1/3 and 2/3 of saturation.\n- A quantum phase transition to the fully polarized state occurs at ~18 T, marking the compound as a platform for studying frustrated bilayer triangular‑lattice antiferromagnets.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13695": {
+    "title": "Emergent Quantized Zak Phases without Dimerization in a Multicomponent Fermionic Extended Hubbard Model",
+    "summary": "- Interaction‑induced effective dimerization yields quantized Zak phases for odd fermion numbers \\(n\\ge3\\) in a 1D multicomponent Hubbard model.\n- The quantization is protected by inversion symmetry of the effective Hamiltonian, even without explicit lattice dimerization.\n- Tilted fields produce Bloch oscillations of fermion clusters, allowing Zak phases to be extracted from the Gaussian wave‑packet evolution over one Bloch period.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.13895": {
+    "title": "Thermodynamic Properties of the S=1/2 Zigzag Spin Ladder",
+    "summary": "- Finite‑temperature properties of a spin‑½ zigzag ladder with anisotropic Γ interaction are studied using iTEBD+purification and exact diagonalization.\n- Entropy is suppressed in gapped phases but enhanced near phase boundaries; the specific‑heat gap matches the one‑spinon gap, while ED yields a two‑spinon gap.\n- At J₂/J₁ = 0 the model maps to the exactly solvable XYZ chain via spin rotations.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.14072": {
+    "title": "Local electronic structure of the Co2+ ions in the disordered perovskite phase of Ba3CoNb2O9: a temperature-dependent X-ray absorption and magnetic circular dichroism study",
+    "summary": "- Temperature‑dependent XAS/XMCD on disordered Ba₃CoNb₂O₉ maps Co²⁺ local electronic structure.\n- iPFY spectra and multiplet fits reveal an effectively cubic crystal field and a J_eff = ½ ground state.\n- Confirms Ba₃CoNb₂O₉ as a platform to study disorder effects on J_eff = ½ magnetism.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.14101": {
+    "title": "Particle-hole asymmetry and a fluctuating pair-density-wave state in a lightly doped Mott insulator on the square lattice",
+    "summary": "- Electron‑like \\(t'>0\\) yields robust, nearly uniform \\(d\\)-wave pairing; decreasing \\(t'\\) suppresses pairing.\n- As \\(t'\\) becomes hole‑like, a period‑two plaquette modulation appears, evolving into a charge‑dominated checkerboard with period ≈ 4 \\(a_0\\).\n- DMRG and PEPS show that in the hole‑like regime pair correlations peak at \\((\\pi,,(0,\\pi)\\) and decay within a few sites, while CDW dominates.",
+    "timestamp": "2026-11-11"
+  },
+  "2611.14185": {
+    "title": "Thermodynamic signatures of a nearby quantum critical endpoint in UTe$_2$ under intense magnetic field",
+    "summary": "- Quantum critical endpoint (QCEP) at θ≈70° and μ₀H≈75 T terminates the metamagnetic transition in UTe₂.\n- Magnetization and magnetostriction up to 60 T reveal a pseudo‑gap in magnetic susceptibility for θ<θ_QCEP.\n- The proximity of the QCEP is linked to the emergence of magnetic‑field‑induced superconductivity.",
+    "timestamp": "2026-11-11"
   }
 }
