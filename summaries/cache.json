@@ -5463,5 +5463,25 @@
     "title": "Thermodynamic signatures of a nearby quantum critical endpoint in UTe$_2$ under intense magnetic field",
     "summary": "- Quantum critical endpoint (QCEP) at θ≈70° and μ₀H≈75 T terminates the metamagnetic transition in UTe₂.\n- Magnetization and magnetostriction up to 60 T reveal a pseudo‑gap in magnetic susceptibility for θ<θ_QCEP.\n- The proximity of the QCEP is linked to the emergence of magnetic‑field‑induced superconductivity.",
     "timestamp": "2026-11-11"
+  },
+  "2611.14444": {
+    "title": "Dimensional Crossover and Correlated Spin Dynamics in the Chain-Like van der Waals Antiferromagnet AgCrP$_2$S$_6$",
+    "summary": "- Quasi‑1D S=3/2 antiferromagnet with intrachain exchange J≈100–140 K, seen in a broad susceptibility maximum at ~250 K.\n- 31P NMR shows two K–χ regimes near 250 K, T^5 relaxation below TN, and a critical exponent β≈36, indicating 3D ordering.\n- Dimensional crossover: strong 1D short‑range correlations above TN evolve into 3D antiferromagnetic order within the layered van der Waals host.",
+    "timestamp": "2026-11-12"
+  },
+  "2611.14075": {
+    "title": "Landau Theory of Black-Brane Phase Transitions from Kasner Singularities",
+    "summary": "- Landau theory for black‑brane transition built from interior geometry: normal phase has Reissner–Nordström Cauchy horizon, scalarized phase ends in a Kasner singularity.\n- Conserved radial charge yields grand potential from either endpoint; quadratic term vanishes at criticality, allowing a Landau potential whose coefficients come solely from the terminal singularity.\n- Theory predicts critical scaling of the Kasner order parameter and grand‑potential difference, agreeing with full backreacted numerics for two scalar self‑interaction models.",
+    "timestamp": "2026-11-12"
+  },
+  "2611.14067": {
+    "title": "Evidence of anomalous Hall crystals in moiré rhombohedral graphene",
+    "summary": "- Demonstrated anomalous Hall crystals in hole‑doped moiré rhombohedral graphene through transport and broadband noise measurements.\n- Identified a continuous series of Chern insulators at non‑integer fillings, showing memory, gate hysteresis, and current‑induced noise indicative of spontaneous charge order.\n- Magnetic‑field, temperature, and gate‑dependence studies confirm the AHC as a parent state, distinct from reentrant or integer‑filling quantum Hall phases.",
+    "timestamp": "2026-11-12"
+  },
+  "2611.13852": {
+    "title": "Assessing the expressive power of a gauge-invariant PEPS ansatz across a topological phase transition",
+    "summary": "- GGFPEPS with eight complex parameters reproduces energy and topological entanglement entropy of pure ℤ₂ gauge theory across its phase transition.\n- Reformulated as a Grassmann tensor network and contracted deterministically via HOTRG (L ≤ and CTMRG for infinite volume.\n- Critical coupling from susceptibility peaks matches continuous‑time quantum Monte Carlo results.",
+    "timestamp": "2026-11-12"
   }
 }
