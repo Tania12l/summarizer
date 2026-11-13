@@ -5483,5 +5483,55 @@
     "title": "Assessing the expressive power of a gauge-invariant PEPS ansatz across a topological phase transition",
     "summary": "- GGFPEPS with eight complex parameters reproduces energy and topological entanglement entropy of pure ℤ₂ gauge theory across its phase transition.\n- Reformulated as a Grassmann tensor network and contracted deterministically via HOTRG (L ≤ and CTMRG for infinite volume.\n- Critical coupling from susceptibility peaks matches continuous‑time quantum Monte Carlo results.",
     "timestamp": "2026-11-12"
+  },
+  "2611.17335": {
+    "title": "Long-lived light-driven bimagnons at finite momentum in NiO",
+    "summary": "- Pumped phonon‑assisted two‑magnon absorption in NiO generates long‑lived bimagnons without disrupting long‑range order.\n- One‑magnon linewidth and energy remain unchanged, indicating no photo‑induced demagnetization.\n- Two‑magnon signal peaks ~4 ps after excitation and decays with a 28 ± 11 ps lifetime, >100× longer than prior dephasing times.",
+    "timestamp": "2026-11-13"
+  },
+  "2611.17322": {
+    "title": "Ensemble phase transitions in measurement-unitary hybrid quantum circuits",
+    "summary": "- Hybrid unitary–measurement circuits show ensemble phase transitions in both trajectory and projected ensembles at the measurement‑induced purification critical point, despite their average states remaining maximally mixed.\n- In Haar‑random dynamics the trajectory ensemble jumps from identity to Haar, while the projected ensemble collapses from Haar to a single pure state; in Clifford circuits the projected ensemble is limited to a 1‑design, whereas the trajectory ensemble reaches a k‑design up to k =\n- These transitions illustrate how measurement protocols can steer a subsystem’s ergodicity, providing a physical mechanism for measurement‑ind",
+    "timestamp": "2026-11-13"
+  },
+  "2611.17217": {
+    "title": "Integer and Fractional Chern Plateaus Shaped by Layer-Dependent Disorder",
+    "summary": "- Onsite‑potential disorder yields broad integer Chern plateaus; displacement‑field disorder produces narrow plateaus with Hall‑resistance dips.\n- Partial cancellation of layer‑contributions under displacement‑field disorder weakens bulk localization.\n- Composite‑fermion mean‑field theory predicts fractional plateaus at νh = 2/3 and 3/5, exhibiting the same disorder‑dependent widths.",
+    "timestamp": "2026-11-13"
+  },
+  "2611.17192": {
+    "title": "Cubic, Non-Fermi Liquid Exchange Couplings for Doublet Impurities",
+    "summary": "- Two symmetry‑protected cubic NFL Kondo models: spin‑½ impurity with J=3/2 electrons and the two‑channel quadrupolar Kondo model, preserving time‑reversal symmetry.\n- Two new cubic impurity models (Γ8 with Γ6 or Γ7 electrons) lacking symmetry protection, predicting a novel NFL fixed point for a Kramers doublet impurity.\n- Derivation of cubic perturbations that drive the non‑protected NFL systems away from their scaling regimes.",
+    "timestamp": "2026-11-13"
+  },
+  "2611.17188": {
+    "title": "Optimizing Chern Bands for Moore-Read States: A Parent Hamiltonian Approach",
+    "summary": "- Defines a cost function comparing band‑projected three‑particle spectra to the Moore‑Read parent Hamiltonian to quantify proximity to the ideal state.\n- Applies the optimization to Landau levels and twisted MoTe₂ Chern bands, guiding interaction tuning for fractional quantum anomalous Hall states.\n- Shows that tailored interactions can stabilize Moore‑Read non‑Abelian order without an external magnetic field.",
+    "timestamp": "2026-11-13"
+  },
+  "2611.17182": {
+    "title": "Lattice response theory for subsystem symmetry-protected topological phases",
+    "summary": "- Constructs lattice gauge fields for general subsystem symmetries and derives gauge‑invariant response actions.\n- Shows that these responses correspond to entanglers implementing SSPT stacking, with many phases described by intersection pairings and cluster entanglers.\n- Introduces a new 3+1d SSPT protected by two 2‑foliated planar subsystem symmetries and a global 0‑form symmetry, revealing a mixed ’t Hooft anomaly on its boundary.",
+    "timestamp": "2026-11-13"
+  },
+  "2611.17166": {
+    "title": "The de Haas--van Alphen effect in a two-dimensional nematic Fermi fluid",
+    "summary": "- Landau quantization induces alternating isotropic and nematic phases near a Pomeranchuk instability, with both continuous and first‑order transitions.\n- Nematic order reshapes de Haas–van Al",
+    "timestamp": "2026-11-13"
+  },
+  "2611.17150": {
+    "title": "Reentrant Nematicity from Landau Quantization near a Pomeranchuk Instability",
+    "summary": "- Landau quantization near a quadrupolar Pomeranchuk instability produces alternating",
+    "timestamp": "2026-11-13"
+  },
+  "2611.17144": {
+    "title": "A neural quantum state variational Monte Carlo study of Aharonov-Casher bands",
+    "summary": "- Neural‑network VMC compares fractional Chern insulators to Wigner crystals in the Aharonov‑Casher continuum model.\n- Flux‑attachment wave function captures fractionalized phases; Slater–Jastrow ansatz captures crystalline phases, mapping the ν=1/3, 2/3 phase diagram under strong band mixing.\n- Nonuniform quantum geometry and band mixing differentially influence ν=1/3 vs. 2/3, stabilizing incommensurate crystals and revealing competition between topological and crystalline orders.",
+    "timestamp": "2026-11-13"
+  },
+  "2611.17081": {
+    "title": "Theory of critical behavior at non-polar structural phase transitions from functional renormalization",
+    "summary": "- Extends O(N) models to non‑polar structural transitions by adding a kinetic term \\(h(\\partial_i\\phi_i)^2\\) that couples longitudinal and transverse fluctuations.\n- Functional renormalization‑group analysis shows this extra coupling is irrelevant at the O(d) Wilson‑Fisher fixed point for both thermal and quantum transitions.\n- Quantum criticality does not reduce to",
+    "timestamp": "2026-11-13"
   }
 }
