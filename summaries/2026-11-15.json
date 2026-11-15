@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Quantum-magneto oscillations in a supramolecular Mn(II)-[3 x 3] grid",
+    "authors": "O. Waldmann, S. Carretta, P. Santini, R. Koch, A. G. M. Jansen, G. Amoretti, R. Caciuffo, L. Zhao, L. K. Thompson",
+    "abstract": "The magnetic grid molecule Mn(II)-[3 x 3] has been studied by high-field torque magnetometry at 3He temperatures. At fields above 5 T, the torque vs. field curves exhibit an unprecedented oscillatory behavior. A model is proposed which describes these magneto oscillations well.",
+    "url": "https://arxiv.org/abs/cond-mat/0401304v1",
+    "published": "2004-01-16",
+    "summary": "- High‑field torque magnetometry on Mn(II)-[3 × 3] grid reveals oscillatory torque vs. field above 5 T.\n- Oscillations observed at 3 He temperatures, indicating quantum‑magneto effects.\n- A theoretical model successfully reproduces the magneto‑oscillation behavior."
+  },
+  {
+    "title": "Ferromagnetism in Fe-doped SnO2 thin films",
+    "authors": "J. M. D. Coey, A. P. Douvalis, C. B. Fitzgerald, M. Venkatesan",
+    "abstract": "Thin films grown by pulsed-laser deposition from targets of Sn0.95Fe0.05O2 are transparent ferromagnets with Curie temperature and spontaneous magnetization of 610 K and 2.2 Am2kg-1, respectively. The 57Fe Mossbauer spectra show the iron is all high-spin Fe3+ but the films are magnetically inhomogeneous on an atomic scale, with only 23 % of the iron ordering magnetically. The net ferromagnetic moment per ordered iron ion, 1.8 Bohr magnetons, is greater than for any simple iron oxide. Ferromagnetic coupling of ferric ions via an electron trapped in a bridging oxygen vacancy (F center) is proposed to explain the high Curie temperature",
+    "url": "https://arxiv.org/abs/cond-mat/0401293v1",
+    "published": "2004-01-16",
+    "summary": "- Fe‑doped SnO₂ thin films are transparent ferromagnets with TC ≈ 610 K and Ms ≈ 2 Am²/kg.\n- Mossbauer spectra reveal high‑spin Fe³⁺; only ~23 % of Fe ions are magnetically ordered, each carrying ~8 µB.\n- Ferromagnetism attributed to Fe³⁺ coupling through an electron trapped in an oxygen vacancy (F‑center)."
+  },
+  {
+    "title": "Ultrafast Conductivity Dynamics in Pentacene Probed using Terahertz Spectroscopy",
+    "authors": "V. K. Thorsmolle, R. D. Averitt, X. Chi, D. J. Hilton, D. L. Smith, A. P. Ramirez, A. J. Taylor",
+    "abstract": "We present measurements of the transient photoconductivity in pentacene single crystals using optical-pump THz-probe spectroscopy. We have measured the temperature and fluence dependence of the mobility of the photoexcited charge carriers with picosecond resolution. The pentacene crystals were excited at 3.0 eV which is above the bandgap of ~2.2 eV and the induced change in the far-infrared transmission was measured. At 30 K, the carrier mobility is mu ~ 0.4 cm^2/Vs and decreases to mu ~ 0.2 cm^2/Vs at room temperature. The transient terahertz signal reveals the presence of free carriers that are trapped on the timescale of a few ps or less, possibly through the formation of excitons, small polarons, or trapping by impurities.",
+    "url": "https://arxiv.org/abs/cond-mat/0401296v1",
+    "published": "2004-01-16",
+    "summary": "- Measured picosecond photoconductivity in pentacene crystals via optical‑pump THz‑probe.\n- Mobility drops from ~4 cm²/Vs at 30 K to ~2 cm²/Vs at room temperature.\n- THz signal indicates rapid (< ps) trapping of photoexcited carriers, likely by excitons, polarons, or impurities."
+  },
+  {
+    "title": "Phases of a rotating Bose-Einstein condensate with anharmonic confinement",
+    "authors": "A. D. Jackson, G. M. Kavoulakis, E. Lundh",
+    "abstract": "We examine an effectively repulsive Bose-Einstein condensate of atoms that rotates in a quadratic-plus-quartic potential. With use of a variational method we identify the three possible phases of the system (multiple quantization, single quantization, and a mixed phase) as a function of the rotational frequency of the gas and of the coupling constant. The derived phase diagram is shown to be universal and the continuous transitions to be exact in the limit of weak coupling and small anharmonicity. The variational results are found to be consistent with numerical solutions of the Gross-Pitaevskii equation.",
+    "url": "https://arxiv.org/abs/cond-mat/0401292v1",
+    "published": "2004-01-16",
+    "summary": "- Identified three phases (multiple, single, mixed quantization) in a rotating BEC with quadratic‑plus‑quartic confinement.\n- Derived a universal phase diagram; continuous transitions exact for weak coupling and small anharmonicity.\n- Variational predictions agree with Gross‑Pitaevskii numerical solutions."
+  },
+  {
+    "title": "Observation of narrow fluorescence from doubly driven four-level atoms at room temperature",
+    "authors": "Uday Kumar Khan, Jimmy Sebastian, N. Kamaraju, Andal Narayanan, R. Srinivasan, Hema Ramachandran",
+    "abstract": "Unusually narrow fluorescence peaks are seen from Rubidium-85 atoms under the action of two driving laser fields that are in a three dimensional molasses configuration. One of the lasers is held at a fixed detuning from the \"cooling\" transition, while the other is scanned across the \"repumping\" transitions. The fluorescence peaks are split into symmetric pairs, with the seperation within a pair increasing with the detuning of the cooling laser. For large detunings additional small peaks are seen. A simple model is proposed to explain these experimental observations.",
+    "url": "https://arxiv.org/abs/cond-mat/0401280v1",
+    "published": "2004-01-16",
+    "summary": "- Narrow fluorescence peaks appear in Rb‑85 under dual‑laser 3D molasses; one laser fixed detuned from cooling transition, the other scanned over repumping lines.\n- Peaks form symmetric pairs whose separation increases with cooling‑laser detuning; large detunings yield additional small peaks.\n- A simple model explains the observed spectral features."
+  },
+  {
+    "title": "Fluorescence from doubly driven four-level atoms - A density matrix approach",
+    "authors": "Andal Narayanan, R. Srinivasan, Ashok Vudayagiri, Uday Kumar Khan, Hema Ramachandran",
+    "abstract": "The unusually narrow features in the fluorescence from Rubidium-85 driven by cooling and repumper laser fields, reported in an earlier experiment [1] are explained on the basis of a four-level density matrix calculation. Quantum effects alter the efficiency of atom transfer by the probe (repumper) laser to the levels connected by the pump (cooling) laser. This combined with the double resonance condition [1], results in velocity selection from co-propagating and counter propagating probe and pump beams resulting in narrow fluorescence peaks from a thermal gas at room temperature.",
+    "url": "https://arxiv.org/abs/cond-mat/0401279v1",
+    "published": "2004-01-16",
+    "summary": "- Four‑level density‑matrix model reproduces narrow Rb‑85 fluorescence peaks under cooling and repumper lasers.\n- Quantum interference alters probe‑induced population transfer, sharpening double‑resonance velocity selection.\n- Co‑ and counter‑propagating beam geometry yields narrow fluorescence peaks in a room‑temperature thermal gas."
+  },
+  {
+    "title": "Optical conductivity of small adiabatic polarons with a long-range electron-phonon interaction",
+    "authors": "B. Ya. Yavidov",
+    "abstract": "The hopping of an electron, interacting with many ions of a lattice via the long-range (Fröhlich) electron-phonon interaction and optical absorption are studied at zero temperature. Ions are assumed to be isotropic three-dimensional oscillators. The optical conductivity and a renormalized mass of small adiabatic Fröhlich polarons is calculated and compared with those of small adiabatic Holstein polarons.",
+    "url": "https://arxiv.org/abs/quant-ph/0401089v4",
+    "published": "2004-01-15",
+    "summary": "- Calculated optical conductivity and effective mass of small adiabatic Fröhlich polarons at zero temperature.\n- Compared results with small adiabatic Holstein polarons, highlighting differences due to long‑range electron‑phonon coupling.\n- Modeled ions as isotropic 3D oscillators to analyze electron hopping and optical absorption."
+  },
+  {
+    "title": "A first principles simulation of rigid water",
+    "authors": "M. Allesch, E. Schwegler, F. Gygi, G. Galli",
+    "abstract": "We present the results of Car-Parrinello (CP) simulations of water at ambient conditions and under pressure, using a rigid molecule approximation. Throughout our calculations, water molecules were maintained at a fixed intramolecular geometry corresponding to the average structure obtained in fully unconstrained simulations. This allows us to use larger time steps than those adopted in ordinary CP simulations of water, and thus to access longer time scales. In the absence of chemical reactions or dissociation effects, these calculations open the way to ab initio simulations of aqueous solutions that require timescales substantially longer than presently feasible (e.g. simulations of hydrophobic solvation). Our results show that structural properties and diffusion coefficients obtained with a rigid model are in better agreement with experiment than those determined with fully flexible simulations. Possible reasons responsible for this improved agreement are discussed.",
+    "url": "https://arxiv.org/abs/cond-mat/0401267v1",
+    "published": "2004-01-15",
+    "summary": "- CP simulations of water with rigid molecules use larger time steps, enabling longer time scales.\n- Structural properties and diffusion coefficients from the rigid model match experiments better than flexible simulations.\n- The approach paves the way for ab initio studies of aqueous solutions (e.g., hydrophobic solvation) beyond current time‑scale limits."
+  },
+  {
+    "title": "Origin of asymmetric reversal modes in ferromagnetic/antiferromagnetic multilayers",
+    "authors": "B. Beckmann, U. Nowak, K. D. Usadel",
+    "abstract": "Experimentally an asymmetry of the reversal modes has been found in certain exchange bias systems. From a numerical investigation of the domain state model evidence is gained that this effect depends on the angle between the easy axis of the antiferromagnet and the applied magnetic field. Depending on this angle the ferromagnet reverses either symmetrically, e. g. by a coherent rotation on both sides of the loop, or the reversal is asymmetric with a non uniform reversal mode for the ascending branch, which may even yield a zero perpendicular magnetization.",
+    "url": "https://arxiv.org/abs/cond-mat/0401232v1",
+    "published": "2004-01-14",
+    "summary": "- Asymmetric reversal modes appear in certain exchange‑bias multilayers.\n- Domain‑state simulations show the effect depends on the angle between the AFM easy axis and the applied field.\n- At specific angles the FM reverses symmetrically via coherent rotation; at others it reverses asymmetrically, sometimes producing zero perpendicular magnetization."
+  },
+  {
+    "title": "Vortex waves and the onset of turbulence in $^3$He-B",
+    "authors": "K. L. Henderson, C. F. Barenghi",
+    "abstract": "In a recent experiment Finne et al. discovered an intrinsic condition for the onset of quantum turbulence in $^3$He-B, that q=alpha/(1-alpha')<1, where alpha and alpha' are mutual friction parameters. The authors argued that this condition corresponds to Kelvin waves which are marginally damped, so for q>1 Kelvin waves cannot grow in amplitude and trigger vortex reconnections and turbulence. By analysing both axisymmetric and non-axisymmetric modes of oscillations of a rotating superfluid, we confirm that in the long axial wavelength limit the simple condition q=1 is indeed the crossover between damped and propagating Kelvin waves.",
+    "url": "https://arxiv.org/abs/cond-mat/0401212v1",
+    "published": "2004-01-13",
+    "summary": "- Finne et al. identified the intrinsic turbulence onset criterion \\(q=\\alpha/(1-\\alpha')<1\\) in \\(^{3}\\)He‑B.\n- The criterion corresponds to marginally damped Kelvin waves; for \\(q>1\\) waves cannot grow to trigger reconnections.\n- Analysis of rotating‑superfluid modes confirms \\(q=1\\) as the crossover between damped and propagating Kelvin waves in the long‑wavelength limit."
+  },
+  {
+    "title": "Long-lived light-driven bimagnons at finite momentum in NiO",
+    "authors": "Xian P. Yang, Christopher T. Parzyck, Martin Cross, Ella Blake, Octave Duros, Yinchuan Lv, Hari Paudyal, Che-Min Lin, Sharon S. Philip, Lingjia Shen, Daniel Jost, Giacomo Coslovich, Joshua J. Turner, Choongwon Seo, Elyse Schriber, Michael E. Flatté, Xiaoqin Li, Yuri Suzuki, Durga Paudyal, Harold Y. Hwang, Georgi L. Dakovski, Matthias C. Hoffmann, Wei-Sheng Lee, Alexander H. Reid",
+    "abstract": "Light can manipulate magnetic order and its excitations on ultrafast timescales, including through resonantly driven phonons. In antiferromagnets, light can also create correlated magnon pairs, or bimagnons. Unlike single magnons, whose damping has been measured and modeled in detail, little is known about the lifetime, interactions and decay of such correlated pairs: prior two-magnon measurements show broad linewidths or coherences that dephase within 200 fs. Here we pump the phonon-assisted two-magnon absorption of NiO with mid-infrared pulses, far below its bandgap, and probe the resulting magnetic dynamics at finite momentum with time-resolved resonant inelastic X-ray scattering (RIXS). Upon photoexcitation, the one-magnon linewidth and energy are essentially unchanged, indicating that the long-range magnetic order is preserved without the photocarrier-induced demagnetization characteristic of above-bandgap excitation. A pump-induced two-magnon signal appears on the energy-gain (anti-Stokes) side of the spectrum. Its spectral weight peaks 4 ps after the pump, well beyond our 0.5 ps time resolution, indicative of a delayed growth likely due to momentum redistribution of the light-induced magnon pairs across the Brillouin zone. This two-magnon signal decays with a time constant of $28\\pm11$ ps, exceeding the previously reported two-magnon dephasing time by more than two orders of magnitude. These results establish long-lived light-driven bimagnon correlations beyond the one-magnon state, akin to the higher-order correlations measured in ultracold gases.",
+    "url": "https://arxiv.org/abs/2611.17335v1",
+    "published": "2026-11-12",
+    "summary": "- Pumped phonon‑assisted two‑magnon absorption in NiO generates long‑lived bimagnons without disrupting long‑range order.\n- One‑magnon linewidth and energy remain unchanged, indicating no photo‑induced demagnetization.\n- Two‑magnon signal peaks ~4 ps after excitation and decays with a 28 ± 11 ps lifetime, >100× longer than prior dephasing times."
+  },
+  {
+    "title": "Ensemble phase transitions in measurement-unitary hybrid quantum circuits",
+    "authors": "Saptarshi Mandal, Sthitadhi Roy",
+    "abstract": "The universal properties of state ensembles generated by quantum dynamics provide a refined lens into Hilbert-space ergodicity and deep thermalisation, or lack thereof. We investigate deep-ergodicity breaking transitions of an ancillary qubit entangled with a system undergoing dynamics via hybrid quantum circuits, where unitary evolution is interspersed with projective measurements. Specifically, we analyse the statistical properties of two distinct state ensembles: the trajectory ensemble (TE) conditioned on the measurement outcomes of the hybrid circuit, and the projected ensemble (PE) generated by further projective measurements of the system at the final temporal boundary. We find that both ensembles undergo non-analytic changes -- ensemble phase transitions -- at the critical point of the measurement-induced purification transition, despite their first moments remaining completely maximally mixed and blind to the transition. For Haar-random circuits, the TE transitions from a trivial identity ensemble to the uniform Haar ensemble, while the PE transitions from the Haar ensemble to a trivial singleton pure state. In Clifford circuits, absence of non-stabiliserness limits the PE to a $1$-design, while the TE forms a $k$-design for $k \\leq 3$. We demonstrate that these genuine ensemble transitions offer a clear physical mechanism for the measurement-induced entanglement or purification transitions, illustrating how the capacity to ergodically steer a quantum subsystem shifts from the temporal boundary measurements in the mixed phase to the bulk trajectory measurements in the pure phase.",
+    "url": "https://arxiv.org/abs/2611.17322v1",
+    "published": "2026-11-12",
+    "summary": "- Hybrid unitary–measurement circuits show ensemble phase transitions in both trajectory and projected ensembles at the measurement‑induced purification critical point, despite their average states remaining maximally mixed.\n- In Haar‑random dynamics the trajectory ensemble jumps from identity to Haar, while the projected ensemble collapses from Haar to a single pure state; in Clifford circuits the projected ensemble is limited to a 1‑design, whereas the trajectory ensemble reaches a k‑design up to k =\n- These transitions illustrate how measurement protocols can steer a subsystem’s ergodicity, providing a physical mechanism for measurement‑ind"
+  },
+  {
+    "title": "Integer and Fractional Chern Plateaus Shaped by Layer-Dependent Disorder",
+    "authors": "Ziyue Qi, Zhan Wang, Hongming Weng, Kun Jiang",
+    "abstract": "The realization of integer and fractional Chern insulators in moiré systems provides a lattice setting for exploring how the structure of Bloch wave functions influences the interplay between topology and disorder. Here we investigate how layer-dependent disorder shapes Hall plateau widths and transitions. Using a realistic three-orbital model of twisted bilayer MoTe$_2$, we compare Hall and bulk transport under onsite-potential, displacement-field, and twist-angle disorder. At equal bare disorder strength, onsite-potential disorder produces broad integer plateaus with nearly direct transitions, whereas displacement-field disorder yields narrow plateaus separated by conducting regions with pronounced Hall-resistance dips. These contrasting behaviors arise from the layer composition of the Bloch states: contributions from different layer under displacement-field disorder partially cancel, weakening the bulk localization. Composite-fermion mean-field theory further yields fractional plateaus at $ν_h=2/3$ and $3/5$ with the same disorder dependence of plateau widths. These findings identify layer-dependent disorder as an important mechanism shaping Chern plateau stability in moiré systems beyond bare disorder strength alone.",
+    "url": "https://arxiv.org/abs/2611.17217v1",
+    "published": "2026-11-12",
+    "summary": "- Onsite‑potential disorder yields broad integer Chern plateaus; displacement‑field disorder produces narrow plateaus with Hall‑resistance dips.\n- Partial cancellation of layer‑contributions under displacement‑field disorder weakens bulk localization.\n- Composite‑fermion mean‑field theory predicts fractional plateaus at νh = 2/3 and 3/5, exhibiting the same disorder‑dependent widths."
+  },
+  {
+    "title": "Cubic, Non-Fermi Liquid Exchange Couplings for Doublet Impurities",
+    "authors": "Anna I. Tóth, Davide Marenduzzo, Andrew D. Huxley",
+    "abstract": "We construct non-Fermi liquid (NFL) quantum impurity models for doublet impurities in a cubic metal, involving conduction electrons with half-integer total angular momentum, $J$. We highlight the only two crystal-symmetry-protected NFL quantum impurity models: the spin-half impurity, $J=3/2$ conduction electron Kondo model, and the two-channel Kondo model originally derived in the context of the quadrupolar Kondo model. We show explicitly that the quadrupolar Kondo model preserves time-reversal symmetry. We also construct two cubic quantum impurity models in which NFL behavior is not symmetry-protected. Each has $Γ_8$ and either $Γ_{6}$ or $Γ_{7}$ conduction electrons screening the impurity simultaneously, one model for a non-Kramers doublet and the other for a Kramers doublet impurity ground state. To our knowledge, the latter model has not been considered before; we expect it to realize a new NFL fixed point, but its solution is left for future work. Finally, we derive the relevant cubic perturbation that drives the non-symmetry-protected systems away from their NFL scaling regimes.",
+    "url": "https://arxiv.org/abs/2611.17192v1",
+    "published": "2026-11-12",
+    "summary": "- Two symmetry‑protected cubic NFL Kondo models: spin‑½ impurity with J=3/2 electrons and the two‑channel quadrupolar Kondo model, preserving time‑reversal symmetry.\n- Two new cubic impurity models (Γ8 with Γ6 or Γ7 electrons) lacking symmetry protection, predicting a novel NFL fixed point for a Kramers doublet impurity.\n- Derivation of cubic perturbations that drive the non‑protected NFL systems away from their scaling regimes."
+  },
+  {
+    "title": "Optimizing Chern Bands for Moore-Read States: A Parent Hamiltonian Approach",
+    "authors": "Bishoy M. Kousa, Yung-Chun Chao, Jung-Jung Su, Allan H. MacDonald",
+    "abstract": "The recent realization of fractional quantum anomalous Hall states in moiré materials motivates efforts to stabilize non-Abelian topological order in the absence of a magnetic field. Here, we propose a framework for optimizing interactions to favor the non-Abelian Moore-Read state. Our approach compares band-projected three-particle spectra to that of the Moore-Read parent Hamiltonian, which is defined by a three-body interaction, and quantifies the comparison by defining a cost function that estimates proximity to the ideal Moore-Read limit. We apply our approach to Landau levels and to the Chern bands of twisted MoTe$_2$.",
+    "url": "https://arxiv.org/abs/2611.17188v1",
+    "published": "2026-11-12",
+    "summary": "- Defines a cost function comparing band‑projected three‑particle spectra to the Moore‑Read parent Hamiltonian to quantify proximity to the ideal state.\n- Applies the optimization to Landau levels and twisted MoTe₂ Chern bands, guiding interaction tuning for fractional quantum anomalous Hall states.\n- Shows that tailored interactions can stabilize Moore‑Read non‑Abelian order without an external magnetic field."
+  },
+  {
+    "title": "Lattice response theory for subsystem symmetry-protected topological phases",
+    "authors": "Yuki Furukawa, Takuya Okuda",
+    "abstract": "We develop a framework to study subsystem symmetry-protected topological (SSPT) phases using lattice response theory. We begin with a systematic construction of spacetime lattice gauge fields from general microscopic $X$-type symmetry actions on qudit systems, including global symmetries, subsystem symmetries, and more general modulated symmetries. Given a gauge-invariant response action, we then construct a corresponding entangler and explicitly show that it implements stacking with the SSPT phase described by the response action. We show that a broad class of SSPT phases can be described by intersection pairings and realized by cluster entanglers. We also study SSPT phases beyond intersection pairings, including those described by subsystem analogues of type-II group cocycles involving the Bockstein homomorphism. We construct a new 3+1d SSPT phase protected by two 2-foliated planar subsystem symmetries and a global 0-form symmetry, whose response action is a subsystem analogue of a type-III cocycle. On its boundary, the 0-form symmetry acts by stacking with a 2+1d linear SSPT phase, signaling a mixed 't Hooft anomaly.",
+    "url": "https://arxiv.org/abs/2611.17182v1",
+    "published": "2026-11-12",
+    "summary": "- Constructs lattice gauge fields for general subsystem symmetries and derives gauge‑invariant response actions.\n- Shows that these responses correspond to entanglers implementing SSPT stacking, with many phases described by intersection pairings and cluster entanglers.\n- Introduces a new 3+1d SSPT protected by two 2‑foliated planar subsystem symmetries and a global 0‑form symmetry, revealing a mixed ’t Hooft anomaly on its boundary."
+  },
+  {
+    "title": "The de Haas--van Alphen effect in a two-dimensional nematic Fermi fluid",
+    "authors": "Luís E. Leite Macêdo, Daniel G. Barci",
+    "abstract": "Quantum oscillations are widely used to probe the Fermi surface of metals, but their behavior becomes more complex when electronic interactions can spontaneously deform that surface. We investigate this interplay in a two-dimensional model of interacting electrons capable of developing nematic order, using a uniform mean-field approximation in a perpendicular magnetic field. We show that Landau quantization can favor or suppress nematic order as the field varies, producing alternating isotropic and nematic regions near a Pomeranchuk instability, with both continuous and first-order transitions. Conversely, the evolving nematic order modifies the de Haas--van Alphen oscillations in ways that depend on the thermodynamic conditions. At fixed chemical potential, the oscillation frequency can change significantly even when the cyclotron mass varies only modestly. At fixed particle density, conservation of the Fermi-surface area preserves the leading Onsager frequency, while the cyclotron mass and harmonic amplitudes remain sensitive to nematic order. The magnetization and magnetic susceptibility provide additional signatures of the nematic transitions. These results show how quantum oscillations can both reveal and influence electronic order, offering a framework for interpreting experiments in strongly correlated metals.",
+    "url": "https://arxiv.org/abs/2611.17166v1",
+    "published": "2026-11-12",
+    "summary": "- Landau quantization induces alternating isotropic and nematic phases near a Pomeranchuk instability, with both continuous and first‑order transitions.\n- Nematic order reshapes de Haas–van Al"
+  },
+  {
+    "title": "Reentrant Nematicity from Landau Quantization near a Pomeranchuk Instability",
+    "authors": "Luís E. Leite Macêdo, Daniel G. Barci",
+    "abstract": "Landau quantization can induce nematic order in a two-dimensional Fermi liquid that is isotropic at zero magnetic field. Using a mean-field theory near a quadrupolar Pomeranchuk instability, we show that varying the magnetic field produces alternating nematic and isotropic regions, with transitions that can be either continuous or first order. The resulting nematic state also leaves distinctive signatures in the de Haas--van Alphen oscillations. At fixed chemical potential, the field-dependent deformation of the Fermi surface can produce substantial changes in the oscillation frequency, even when the cyclotron mass varies only modestly. At fixed particle density, conservation of the Fermi-surface area preserves the leading oscillation frequency, while the cyclotron mass and harmonic amplitudes remain sensitive to nematic order. These contrasting behaviors provide experimentally relevant signatures of field-induced nematicity and reveal the importance of thermodynamic constraints in quantum-oscillation measurements.",
+    "url": "https://arxiv.org/abs/2611.17150v1",
+    "published": "2026-11-12",
+    "summary": "- Landau quantization near a quadrupolar Pomeranchuk instability produces alternating"
+  },
+  {
+    "title": "A neural quantum state variational Monte Carlo study of Aharonov-Casher bands",
+    "authors": "Conor Smith, Nicolás Morales-Durán, Jingtian Shi, Andrew J. Millis, Miguel A. Morales, Shiwei Zhang",
+    "abstract": "We use neural-network-based variational Monte Carlo to investigate the competition between fractional Chern insulators and generalized Wigner crystals in the Aharonov-Casher Hamiltonian, a continuum model for moiré materials. We introduce a variational wave function inspired by flux attachment that captures fractionalized phases and, by comparing its energy with that of a Slater--Jastrow ansatz that captures crystalline phases, we determine the phase diagram at fractional fillings in regimes of strong band mixing and for system sizes beyond the reach of other methods. We find that discrete translation symmetry, encoded in a nonuniform quantum geometry, affects fractionalized states at filling fractions $ν=1/3$ and $ν=2/3$ differently, and that band mixing can stabilize incommensurate crystalline ground states. Our results further reveal the delicate competition between topological and non-topological crystalline phases.",
+    "url": "https://arxiv.org/abs/2611.17144v1",
+    "published": "2026-11-12",
+    "summary": "- Neural‑network VMC compares fractional Chern insulators to Wigner crystals in the Aharonov‑Casher continuum model.\n- Flux‑attachment wave function captures fractionalized phases; Slater–Jastrow ansatz captures crystalline phases, mapping the ν=1/3, 2/3 phase diagram under strong band mixing.\n- Nonuniform quantum geometry and band mixing differentially influence ν=1/3 vs. 2/3, stabilizing incommensurate crystals and revealing competition between topological and crystalline orders."
+  },
+  {
+    "title": "Theory of critical behavior at non-polar structural phase transitions from functional renormalization",
+    "authors": "Max Fornoville, Kilian Fraboulet, Michael M. Scherer, Laura Classen",
+    "abstract": "$O(N)$ models provide a versatile framework for describing continuous phase transitions in a wide variety of physical systems. We investigate an extension of these models arising from order parameters that transform under interlocked internal and spatial symmetries which describe transitions towards non-polar structural order. Such order occurs, for instance, in dipolar antiferromagnets, spin-orbit-coupled magnets, non-polar ferroics, and certain nematic systems. The resulting effective theory is an $O(d)$ model with an additional symmetry-allowed kinetic term $h(\\partial_iφ_i)^2$, which modifies the relative stiffness of longitudinal and transverse fluctuations. We study both thermal and quantum phase transitions within this $O(d)$ model using the functional renormalization group (FRG). In contrast to conventional $O(N)$ models, the interlocking of internal and spatial symmetries distinguishes spatial and imaginary-time derivatives, such that the quantum model is not simply obtained from the thermal one by a dimensional extension $d\\rightarrow d+1$. We derive and analyze the corresponding FRG flow equations, paying particular attention to the tensor structure of the two-point function, which is essential for consistently extracting the flow of the kinetic terms. Our analysis shows that the additional kinetic coupling is irrelevant at the $O(d)$ Wilson-Fisher fixed point in both thermal and quantum cases, where quantum-to-classical correspondence thus re-emerges. However, its small but sizable correction-to-scaling exponent gives rise to substantial corrections to scaling in the vicinity of the critical point.",
+    "url": "https://arxiv.org/abs/2611.17081v1",
+    "published": "2026-11-12",
+    "summary": "- Extends O(N) models to non‑polar structural transitions by adding a kinetic term \\(h(\\partial_i\\phi_i)^2\\) that couples longitudinal and transverse fluctuations.\n- Functional renormalization‑group analysis shows this extra coupling is irrelevant at the O(d) Wilson‑Fisher fixed point for both thermal and quantum transitions.\n- Quantum criticality does not reduce to"
+  }
+]
