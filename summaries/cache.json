@@ -5533,5 +5533,55 @@
     "title": "Theory of critical behavior at non-polar structural phase transitions from functional renormalization",
     "summary": "- Extends O(N) models to non‑polar structural transitions by adding a kinetic term \\(h(\\partial_i\\phi_i)^2\\) that couples longitudinal and transverse fluctuations.\n- Functional renormalization‑group analysis shows this extra coupling is irrelevant at the O(d) Wilson‑Fisher fixed point for both thermal and quantum transitions.\n- Quantum criticality does not reduce to",
     "timestamp": "2026-11-13"
+  },
+  "2611.17414": {
+    "title": "Narrow-Band Magnetism Allowed by Quantum Geometry: Altermagnetism and Beyond",
+    "summary": "- Quantum geometry determines whether narrow-band systems favor altermagnetism or conventional ferromagnetism.\n- Strong quantum geometry yields altermagnetic and nematic phases; weak geometry yields only ferromagnetic order.\n- Long‑range projected interactions arise only with strong quantum geometry, enabling altermagnetism.",
+    "timestamp": "2026-11-16"
+  },
+  "2611.17429": {
+    "title": "Invertible parafermionic topological phases in one dimension",
+    "summary": "- Classifies 1D invertible parafermionic phases by boundary projective representations and cohomological invariants.\n- Demonstrates that these phases form a non‑Abelian stacking group of order 2 N³ (e.g., Heisenberg ⋊ ℤ₂ for odd prime N).\n- Constructs explicit Hamiltonians with ℤ_N³ symmetry and computes their protected boundary degeneracy.",
+    "timestamp": "2026-11-16"
+  },
+  "2611.17724": {
+    "title": "Anyon Proliferation at Self-Triality: From a Lattice Model to Adjoint QCD$_3$",
+    "summary": "- Deformed honeycomb color code with \\(S_3\\) symmetry shows competing anyon proliferation driving symmetry breaking while preserving part of topological order.\n- Dual continuum descriptions: bosonic \\(\\mathrm{PSU}(_3\\times\\mathrm{Spin}(_{-1}\\) Chern‑Simons‑Higgs theory and fermionic \\(\\mathrm{PSU}(_{3/2}\\) QCD\\(_3\\) with an adjoint Majorana, matching lattice symmetries and phase diagram.\n- Transition described by Higgs condensation or Majorana mass sign change, indicating a continuous \\(",
+    "timestamp": "2026-11-16"
+  },
+  "2611.17871": {
+    "title": "Evaluate Laughlin spectral gap lower bound in vortexable bands",
+    "summary": "- Derived a particle‑number‑independent lower bound on the Laughlin spectral gap for vortexable Chern bands using only orbital spread and weighted pair repulsion.\n- Showed Landau‑level averaging yields strictly positive gaps even with strong spatial modulation and nodal envelopes.\n- Extended the gap criteria to multicomponent orbital textures and vortex‑coordinate deformations, providing a rigorous foundation for fractional Chern insulator stability.",
+    "timestamp": "2026-11-16"
+  },
+  "2611.17927": {
+    "title": "Classical weak antilocalization in electron hydrodynamics",
+    "summary": "- Classical memory kernel from spatial fluctuations of momentum‑relaxation rate gives a logarithmic, antilocalizing correction to hydrodynamic resistivity.\n- In a Fermi liquid the correction scales as \\(-T^2\\ln(T_\\xi/T)\\); in a Planckian metal as \\(-T\\ln(T_\\xi/T)\\), cut off by momentum relaxation and viscosity.\n- In narrow channels the return effect competes with viscosity renormalization, enabling separation through width scans.",
+    "timestamp": "2026-11-16"
+  },
+  "2611.18029": {
+    "title": "Charge and spin orders of the generalized Wigner crystal phases at fractional fillings in twisted MoTe$_2$: unrestricted Hartree-Fock and variational Monte Carlo studies",
+    "summary": "- 4/3 filling: valley‑polarized charge order, weak delocalization, displacement field induces layer‑polarization and suppresses fluctuations.\n- 3/2 filling: robust two‑component generalized Wigner crystal, stable under displacement field.\n- Larger twist angles favor an intervalley‑coherent phase with strong nonlocal correlations and significant correlation‑energy gain.",
+    "timestamp": "2026-11-16"
+  },
+  "2611.18073": {
+    "title": "Vestiges of magnon fractionalization in the quasi-two-dimensional quantum magnet rouaite Cu$_2$(NO$_3$)(OH)$_3$ with alternating ferro- and antiferromagnetic $S=\\frac{1}{2}$ chains",
+    "summary": "- Hybridized magnons from ferromagnetic and antiferromagnetic S = ½ chains form sharp spin‑wave modes, yet no spinon continuum appears.\n- Frustrated interchain couplings stabilize a long‑range ordered state beyond classical expectations, causing broadening of some magnon branches near the zone center.\n- The broadening is interpreted as vestiges of spin‑fractionalization persisting through the dimensional crossover to a quasi‑2D frustrated network.",
+    "timestamp": "2026-11-16"
+  },
+  "2611.18182": {
+    "title": "Controlled Magnon Chirality and Its Reversal by Anisotropy in Altermagnetic FeF$_2$",
+    "summary": "- Controlled FeF₂ magnetic domains by field cooling, linking imbalance to piezomagnetism.\n- Resolved altermagnetic chiral magnon splitting; observed chirality reversal at Q = (5, 5, .\n- Attributed reversal to transverse single‑ion anisotropy rotating between sublattices, highlighting symmetry‑driven relativistic spin dynamics.",
+    "timestamp": "2026-11-16"
+  },
+  "2611.18294": {
+    "title": "Thermally Hysteretic Room-Temperature Nonlinear Hall Effect in Bulk EuTe4",
+    "summary": "- Bulk EuTe₄ crystals display a giant nonlinear Hall effect up to 400 K.\n- The NLHE shows strong thermal hysteresis, with a voltage ratio ≈ 7 between warming and cooling at 340 K.\n- The behavior is attributed to an inversion‑symmetry‑broken charge density wave, positioning EuTe₄ as a room‑temperature nonlinear electronic platform.",
+    "timestamp": "2026-11-16"
+  },
+  "2611.18377": {
+    "title": "Edge spin generalization for quantum Hall Laughlin droplets with elliptic shapes",
+    "summary": "- Edge spin in quantum Hall Laughlin droplets can fractionalize, inducing an opposite spin at the boundary.\n- Two generalizations are tested for elliptic droplets: one from single‑particle orbitals (valid for non‑interacting states) and one from emergent fluid properties (valid for interacting states).\n- The fluid‑based definition successfully defines edge spin for Laughlin fluids with non‑symmetric, elliptic shapes.",
+    "timestamp": "2026-11-16"
   }
 }
