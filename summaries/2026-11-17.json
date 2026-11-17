@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Quantum-magneto oscillations in a supramolecular Mn(II)-[3 x 3] grid",
+    "authors": "O. Waldmann, S. Carretta, P. Santini, R. Koch, A. G. M. Jansen, G. Amoretti, R. Caciuffo, L. Zhao, L. K. Thompson",
+    "abstract": "The magnetic grid molecule Mn(II)-[3 x 3] has been studied by high-field torque magnetometry at 3He temperatures. At fields above 5 T, the torque vs. field curves exhibit an unprecedented oscillatory behavior. A model is proposed which describes these magneto oscillations well.",
+    "url": "https://arxiv.org/abs/cond-mat/0401304v1",
+    "published": "2004-01-16",
+    "summary": "- High‑field torque magnetometry on Mn(II)-[3 × 3] grid reveals oscillatory torque vs. field above 5 T.\n- Oscillations observed at 3 He temperatures, indicating quantum‑magneto effects.\n- A theoretical model successfully reproduces the magneto‑oscillation behavior."
+  },
+  {
+    "title": "Ferromagnetism in Fe-doped SnO2 thin films",
+    "authors": "J. M. D. Coey, A. P. Douvalis, C. B. Fitzgerald, M. Venkatesan",
+    "abstract": "Thin films grown by pulsed-laser deposition from targets of Sn0.95Fe0.05O2 are transparent ferromagnets with Curie temperature and spontaneous magnetization of 610 K and 2.2 Am2kg-1, respectively. The 57Fe Mossbauer spectra show the iron is all high-spin Fe3+ but the films are magnetically inhomogeneous on an atomic scale, with only 23 % of the iron ordering magnetically. The net ferromagnetic moment per ordered iron ion, 1.8 Bohr magnetons, is greater than for any simple iron oxide. Ferromagnetic coupling of ferric ions via an electron trapped in a bridging oxygen vacancy (F center) is proposed to explain the high Curie temperature",
+    "url": "https://arxiv.org/abs/cond-mat/0401293v1",
+    "published": "2004-01-16",
+    "summary": "- Fe‑doped SnO₂ thin films are transparent ferromagnets with TC ≈ 610 K and Ms ≈ 2 Am²/kg.\n- Mossbauer spectra reveal high‑spin Fe³⁺; only ~23 % of Fe ions are magnetically ordered, each carrying ~8 µB.\n- Ferromagnetism attributed to Fe³⁺ coupling through an electron trapped in an oxygen vacancy (F‑center)."
+  },
+  {
+    "title": "Ultrafast Conductivity Dynamics in Pentacene Probed using Terahertz Spectroscopy",
+    "authors": "V. K. Thorsmolle, R. D. Averitt, X. Chi, D. J. Hilton, D. L. Smith, A. P. Ramirez, A. J. Taylor",
+    "abstract": "We present measurements of the transient photoconductivity in pentacene single crystals using optical-pump THz-probe spectroscopy. We have measured the temperature and fluence dependence of the mobility of the photoexcited charge carriers with picosecond resolution. The pentacene crystals were excited at 3.0 eV which is above the bandgap of ~2.2 eV and the induced change in the far-infrared transmission was measured. At 30 K, the carrier mobility is mu ~ 0.4 cm^2/Vs and decreases to mu ~ 0.2 cm^2/Vs at room temperature. The transient terahertz signal reveals the presence of free carriers that are trapped on the timescale of a few ps or less, possibly through the formation of excitons, small polarons, or trapping by impurities.",
+    "url": "https://arxiv.org/abs/cond-mat/0401296v1",
+    "published": "2004-01-16",
+    "summary": "- Measured picosecond photoconductivity in pentacene crystals via optical‑pump THz‑probe.\n- Mobility drops from ~4 cm²/Vs at 30 K to ~2 cm²/Vs at room temperature.\n- THz signal indicates rapid (< ps) trapping of photoexcited carriers, likely by excitons, polarons, or impurities."
+  },
+  {
+    "title": "Phases of a rotating Bose-Einstein condensate with anharmonic confinement",
+    "authors": "A. D. Jackson, G. M. Kavoulakis, E. Lundh",
+    "abstract": "We examine an effectively repulsive Bose-Einstein condensate of atoms that rotates in a quadratic-plus-quartic potential. With use of a variational method we identify the three possible phases of the system (multiple quantization, single quantization, and a mixed phase) as a function of the rotational frequency of the gas and of the coupling constant. The derived phase diagram is shown to be universal and the continuous transitions to be exact in the limit of weak coupling and small anharmonicity. The variational results are found to be consistent with numerical solutions of the Gross-Pitaevskii equation.",
+    "url": "https://arxiv.org/abs/cond-mat/0401292v1",
+    "published": "2004-01-16",
+    "summary": "- Identified three phases (multiple, single, mixed quantization) in a rotating BEC with quadratic‑plus‑quartic confinement.\n- Derived a universal phase diagram; continuous transitions exact for weak coupling and small anharmonicity.\n- Variational predictions agree with Gross‑Pitaevskii numerical solutions."
+  },
+  {
+    "title": "Observation of narrow fluorescence from doubly driven four-level atoms at room temperature",
+    "authors": "Uday Kumar Khan, Jimmy Sebastian, N. Kamaraju, Andal Narayanan, R. Srinivasan, Hema Ramachandran",
+    "abstract": "Unusually narrow fluorescence peaks are seen from Rubidium-85 atoms under the action of two driving laser fields that are in a three dimensional molasses configuration. One of the lasers is held at a fixed detuning from the \"cooling\" transition, while the other is scanned across the \"repumping\" transitions. The fluorescence peaks are split into symmetric pairs, with the seperation within a pair increasing with the detuning of the cooling laser. For large detunings additional small peaks are seen. A simple model is proposed to explain these experimental observations.",
+    "url": "https://arxiv.org/abs/cond-mat/0401280v1",
+    "published": "2004-01-16",
+    "summary": "- Narrow fluorescence peaks appear in Rb‑85 under dual‑laser 3D molasses; one laser fixed detuned from cooling transition, the other scanned over repumping lines.\n- Peaks form symmetric pairs whose separation increases with cooling‑laser detuning; large detunings yield additional small peaks.\n- A simple model explains the observed spectral features."
+  },
+  {
+    "title": "Fluorescence from doubly driven four-level atoms - A density matrix approach",
+    "authors": "Andal Narayanan, R. Srinivasan, Ashok Vudayagiri, Uday Kumar Khan, Hema Ramachandran",
+    "abstract": "The unusually narrow features in the fluorescence from Rubidium-85 driven by cooling and repumper laser fields, reported in an earlier experiment [1] are explained on the basis of a four-level density matrix calculation. Quantum effects alter the efficiency of atom transfer by the probe (repumper) laser to the levels connected by the pump (cooling) laser. This combined with the double resonance condition [1], results in velocity selection from co-propagating and counter propagating probe and pump beams resulting in narrow fluorescence peaks from a thermal gas at room temperature.",
+    "url": "https://arxiv.org/abs/cond-mat/0401279v1",
+    "published": "2004-01-16",
+    "summary": "- Four‑level density‑matrix model reproduces narrow Rb‑85 fluorescence peaks under cooling and repumper lasers.\n- Quantum interference alters probe‑induced population transfer, sharpening double‑resonance velocity selection.\n- Co‑ and counter‑propagating beam geometry yields narrow fluorescence peaks in a room‑temperature thermal gas."
+  },
+  {
+    "title": "Optical conductivity of small adiabatic polarons with a long-range electron-phonon interaction",
+    "authors": "B. Ya. Yavidov",
+    "abstract": "The hopping of an electron, interacting with many ions of a lattice via the long-range (Fröhlich) electron-phonon interaction and optical absorption are studied at zero temperature. Ions are assumed to be isotropic three-dimensional oscillators. The optical conductivity and a renormalized mass of small adiabatic Fröhlich polarons is calculated and compared with those of small adiabatic Holstein polarons.",
+    "url": "https://arxiv.org/abs/quant-ph/0401089v4",
+    "published": "2004-01-15",
+    "summary": "- Calculated optical conductivity and effective mass of small adiabatic Fröhlich polarons at zero temperature.\n- Compared results with small adiabatic Holstein polarons, highlighting differences due to long‑range electron‑phonon coupling.\n- Modeled ions as isotropic 3D oscillators to analyze electron hopping and optical absorption."
+  },
+  {
+    "title": "A first principles simulation of rigid water",
+    "authors": "M. Allesch, E. Schwegler, F. Gygi, G. Galli",
+    "abstract": "We present the results of Car-Parrinello (CP) simulations of water at ambient conditions and under pressure, using a rigid molecule approximation. Throughout our calculations, water molecules were maintained at a fixed intramolecular geometry corresponding to the average structure obtained in fully unconstrained simulations. This allows us to use larger time steps than those adopted in ordinary CP simulations of water, and thus to access longer time scales. In the absence of chemical reactions or dissociation effects, these calculations open the way to ab initio simulations of aqueous solutions that require timescales substantially longer than presently feasible (e.g. simulations of hydrophobic solvation). Our results show that structural properties and diffusion coefficients obtained with a rigid model are in better agreement with experiment than those determined with fully flexible simulations. Possible reasons responsible for this improved agreement are discussed.",
+    "url": "https://arxiv.org/abs/cond-mat/0401267v1",
+    "published": "2004-01-15",
+    "summary": "- CP simulations of water with rigid molecules use larger time steps, enabling longer time scales.\n- Structural properties and diffusion coefficients from the rigid model match experiments better than flexible simulations.\n- The approach paves the way for ab initio studies of aqueous solutions (e.g., hydrophobic solvation) beyond current time‑scale limits."
+  },
+  {
+    "title": "Origin of asymmetric reversal modes in ferromagnetic/antiferromagnetic multilayers",
+    "authors": "B. Beckmann, U. Nowak, K. D. Usadel",
+    "abstract": "Experimentally an asymmetry of the reversal modes has been found in certain exchange bias systems. From a numerical investigation of the domain state model evidence is gained that this effect depends on the angle between the easy axis of the antiferromagnet and the applied magnetic field. Depending on this angle the ferromagnet reverses either symmetrically, e. g. by a coherent rotation on both sides of the loop, or the reversal is asymmetric with a non uniform reversal mode for the ascending branch, which may even yield a zero perpendicular magnetization.",
+    "url": "https://arxiv.org/abs/cond-mat/0401232v1",
+    "published": "2004-01-14",
+    "summary": "- Asymmetric reversal modes appear in certain exchange‑bias multilayers.\n- Domain‑state simulations show the effect depends on the angle between the AFM easy axis and the applied field.\n- At specific angles the FM reverses symmetrically via coherent rotation; at others it reverses asymmetrically, sometimes producing zero perpendicular magnetization."
+  },
+  {
+    "title": "Vortex waves and the onset of turbulence in $^3$He-B",
+    "authors": "K. L. Henderson, C. F. Barenghi",
+    "abstract": "In a recent experiment Finne et al. discovered an intrinsic condition for the onset of quantum turbulence in $^3$He-B, that q=alpha/(1-alpha')<1, where alpha and alpha' are mutual friction parameters. The authors argued that this condition corresponds to Kelvin waves which are marginally damped, so for q>1 Kelvin waves cannot grow in amplitude and trigger vortex reconnections and turbulence. By analysing both axisymmetric and non-axisymmetric modes of oscillations of a rotating superfluid, we confirm that in the long axial wavelength limit the simple condition q=1 is indeed the crossover between damped and propagating Kelvin waves.",
+    "url": "https://arxiv.org/abs/cond-mat/0401212v1",
+    "published": "2004-01-13",
+    "summary": "- Finne et al. identified the intrinsic turbulence onset criterion \\(q=\\alpha/(1-\\alpha')<1\\) in \\(^{3}\\)He‑B.\n- The criterion corresponds to marginally damped Kelvin waves; for \\(q>1\\) waves cannot grow to trigger reconnections.\n- Analysis of rotating‑superfluid modes confirms \\(q=1\\) as the crossover between damped and propagating Kelvin waves in the long‑wavelength limit."
+  },
+  {
+    "title": "Hyperkagome antiferromagnetism in the iron garnet Almandine Fe$_3$Al$_2$Si$_3$O$_{12}$",
+    "authors": "Minnong Zhang, Harald O. Jeschke, Daniel Guterding",
+    "abstract": "Antiferromagnets on the hyperkagome lattice provide a three-dimensional route to strong magnetic frustration, but experimentally accessible realizations with well-established microscopic Hamiltonians remain scarce. Garnets are a broad family of materials in which magnetic ions can form two interpenetrating hyperkagome lattices, giving rise to spin glass, spin-liquid and hidden-order physics. Here we identify the iron aluminosilicate garnet almandine, Fe$_3$Al$_2$Si$_3$O$_{12}$, as a spin-$2$ hyperkagome antiferromagnet. Using density functional theory energy mapping, we determine a Heisenberg Hamiltonian for the high-spin Fe$^{2+}$ moments and find dominant nearest-neighbor antiferromagnetic exchange, as well as significant longer-range interactions. Classical Monte Carlo simulations of this Hamiltonian, combined with quantum-to-classical rescaling of the spin length, show a transition to antiferromagnetic order at $T_{\\rm N}\\approx9.8$K, in excellent agreement with specific heat experiments. The resulting non-collinear magnetic state is naturally described by magnetic toroidal octupolar order, which we connect to known results for the highly frustrated hyperkagome antiferromagnet gadolinium gallium garnet, Gd$_3$Ga$_5$O$_{12}$. We also calculate magnetic neutron diffraction amplitudes as well as static and dynamic structure factors using semiclassical dynamics, providing quantitative predictions for future neutron scattering experiments. Our results establish almandine as a chemically accessible realization of frustrated hyperkagome magnetism in the garnet family.",
+    "url": "https://arxiv.org/abs/2611.21610v1",
+    "published": "2026-11-16",
+    "summary": "- Fe₃Al₂Si₃O₁₂ is a spin‑2 hyperkagome antiferromagnet with dominant nearest‑neighbor AF exchange and notable longer‑range interactions.\n- Classical Monte Carlo (with quantum‑to‑classical rescaling) predicts a Néel transition at ≈8 K, yielding a non‑collinear toroidal octupolar ordered state.\n- Calculated neutron diffraction amplitudes and dynamic structure factors provide quantitative predictions, linking almandine’s behavior to that of Gd₃Ga₅O₁₂."
+  },
+  {
+    "title": "Localization transition in a spin chain with an exact Fock-space tree",
+    "authors": "Bernhard Jobst, Simone Warzel, Alexander Altland, Frank Pollmann",
+    "abstract": "Many-body localization is often pictured as Anderson localization on the graph of many-body configurations. Strongly correlated disorder and a dense net of loops, however, make this graph hard to analyze. We introduce a local disordered spin-1 chain in which a single domain wall explores an exact binary tree of configurations. Random fields create strongly correlated disorder on this tree, as in generic interacting systems, while the absence of loops keeps the problem tractable. We rigorously bound the spreading of the domain wall at strong disorder, and efficient numerics on exponentially large trees indicate a localization transition at finite disorder strength.",
+    "url": "https://arxiv.org/abs/2611.21445v1",
+    "published": "2026-11-16",
+    "summary": "- Spin‑1 chain with a single domain wall that traverses an exact binary tree of many‑body configurations, eliminating loops.\n- Random fields induce strongly correlated disorder on the tree, analogous to generic interacting systems.\n- Rigorous bounds show localization at strong disorder; numerics on exponentially large trees reveal a finite‑disorder transition."
+  },
+  {
+    "title": "Self-attention is a Dyson equation for many-body machine learning",
+    "authors": "Jarvist Moore Frost",
+    "abstract": "Why does symmetric sum-pooling (DeepSets) predict ground-state potentials to sub-meV accuracy, yet fail for correlated wavefunctions and excited states? Sum-pooling is a mean-field (Hartree) model: its $O(1/N)$ off-diagonal Jacobian suffices for nearsighted ground-state energies, but erases nonlocal two-body correlations. We show that self-attention is a real-space Dyson iteration whose Boltzmann (softmax) kernel acts as a two-body self-energy. Because physical Hamiltonians act pairwise, Löwdin's 2-RDM theorem and the Galitskii--Migdal relation guarantee that iterating a two-body propagator captures the full energetics of correlated matter. When fitting a fractal backflow determinant, DeepSets blurs the nodal surface onto a mean-field envelope, whereas self-attention recovers the fractal attractor. Seen through this lens, the unreasonable effectiveness of attention is not an accident; in a universe built from pairwise interactions, two-body attention is all you need.",
+    "url": "https://arxiv.org/abs/2611.21398v1",
+    "published": "2026-11-16",
+    "summary": "- Self‑attention implements a Dyson‑type iteration; its softmax kernel serves as a two‑body self‑energy, capturing full correlated energetics.\n- Mean‑field sum‑pooling (DeepSets) works for ground‑state energies but erases nonlocal two‑body correlations, failing on excited states and correlated wavefunctions.\n- In pairwise‑interaction systems, iterating a two‑body propagator suffices; attention restores correct nodal surfaces in fractal backflow determinants."
+  },
+  {
+    "title": "Orbital-dependent electronic correlations and single-band character in layered palladates",
+    "authors": "Jing-Xuan Wang, Jia-Ming Wang, Rong-Qiang He, Zhong-Yi Lu",
+    "abstract": "Layered palladates provide a $4d$ platform for examining electronic correlations in materials with cuprate-like structural and orbital characteristics. Using fully charge-self-consistent density functional theory plus dynamical mean-field theory, we investigate the orbital- and layer-resolved electronic structures of LaPdO$_2$, RbSr$_2$PdO$_3$, BaLaPdO$_2$Cl$_2$, La$_4$Pd$_3$O$_8$, and La$_5$Pd$_4$O$_{10}$. Under the conditions studied, all compounds remain metallic, with low-energy states dominated by the Pd-$d_{x^2-y^2}$ orbital. This orbital exhibits stronger mass renormalization than the Pd-$d_{z^2}$ orbital. LaPdO$_2$ and BaLaPdO$_2$Cl$_2$ show moderate correlations, whereas RbSr$_2$PdO$_3$ is more weakly correlated. Both the trilayer La$_4$Pd$_3$O$_8$ and quadlayer La$_5$Pd$_4$O$_{10}$ remain weakly correlated, with similar Pd-$d_{x^2-y^2}$ mass enhancements and little difference between inner- and outer-layer Pd sites. Among the structures studied, BaLaPdO$_2$Cl$_2$ is closest to a cuprate-like single-band description, whereas RbSr$_2$PdO$_3$ retains an additional electron pocket with Pd-$d_{z^2}$ character. These results establish a comparative picture of weak to moderate, orbital-dependent electronic correlations in layered palladates.",
+    "url": "https://arxiv.org/abs/2611.21138v1",
+    "published": "2026-11-16",
+    "summary": "- All layered palladates stay metallic, with low‑energy states dominated by Pd dₓ²₋ᵧ², which shows stronger mass renormalization than d_z².\n- Correlation strength ranges from moderate (LaPdO₂, BaLaPdO₂Cl₂) to weak (RbSr₂PdO₃, La₄Pd₃O₈, La₅Pd₄O₁₀), with inner/outer Pd sites behaving similarly.\n- BaLaPdO₂Cl₂ best approximates a cuprate‑like single‑band system, whereas Rb"
+  },
+  {
+    "title": "Large pseudo-orbital magnetic moment of magnons in CrI$_3$ nanotubes",
+    "authors": "David Sanz, J. Fernández-Rossier",
+    "abstract": "Recently discovered CrI$_3$ nanotubes are expected to host unusual radial magnetic order states, on account of the strong out-of-plane magnetic anisotropy of the two-dimensional parent material. The detection of these peculiar magnetic states is challenging, and motivates the quest for unique features that can be probed experimentally. Using linear spin-wave theory, we show that an axial magnetic field tilts the radial phase into a conical one that threads the tube with an Aharonov-Bohm flux for magnons. This flux endows magnons with a pseudo-orbital magnetic moment, reaching approximately six Bohr magnetons, three times conventional magnon spin moment, and therefore detectable through magnon spectroscopy, providing a smoking gun for the radial and conical magnetic order in CrI$_3$ nanotubes.",
+    "url": "https://arxiv.org/abs/2611.21066v1",
+    "published": "2026-11-16",
+    "summary": "- CrI₃ nanotubes support radial magnetic order from strong out‑of‑plane anisotropy.\n- An axial field converts this into a conical phase, threading magnons with an Aharonov‑Bohm flux.\n- The induced pseudo‑orbital magnetic moment (~6 μB, three× the spin moment) is detectable by magnon spectroscopy, revealing the radial/conical order."
+  },
+  {
+    "title": "Hund physics in the quarter-filled two-band Hubbard-Kanamori model: Crystal-field splitting and non-local Correlations",
+    "authors": "Diego Florez-Ablan, Carlos Mejuto-Zaera, Massimo Capone",
+    "abstract": "We address the effect of crystal-field splitting and non-local correlations in the quarter-filled two-orbital Hubbard-Kanamori model. The role of the Hund's coupling in this configuration is not obvious since the atomic ground state has only one electron per site. Yet, previous works identified fingerprints of the Hund's coupling defining a weak Hund's metal at least at finite temperature. Using single-site dynamical mean-field theory (DMFT) and two-site cellular DMFT based on a selected configuration-interaction solver we investigate the zero-temperature properties of the weak Hund's metal. Within DMFT we draw the boundary for the weak Hund's metal, which is consistent with previous finite-temperature results. Interestingly, we find that the fingerprints of the Hund's coupling are quite robust to the lifting of the orbital degeneracy and they survive up to splittings of a quarter of the bandwidth, well beyond those at which a two-stage Kondo screening disappears. Including non-local correlations in cluster DMFT demonstrates the robustness of the single-site DMFT picture, even if Mott localization occurs at smaller interactions. In the metal the intersite correlations are weak and insensitive to $J$, while in the localized state we find nearest-neighbor ferromagnetic, antiferro-orbital correlations that are manifest also in the mutual information between sites.",
+    "url": "https://arxiv.org/abs/2611.21021v1",
+    "published": "2026-11-16",
+    "summary": "- Weak Hund’s metal survives at quarter filling, robust to crystal‑field splittings up to ~¼ bandwidth.\n- Single‑site DMFT reproduces the phase boundary; cluster DMFT confirms the picture but shifts the Mott transition to lower U.\n- In the insulating phase, nearest‑neighbor ferromagnetic and antiferro‑orbital correlations emerge, seen in mutual information; metallic intersite correlations remain weak and J‑insensitive."
+  },
+  {
+    "title": "Genuine multipartite entanglement in ring-shaped Hubbard models",
+    "authors": "K. Shahzad, S. Pittalis, G. Goldoni, R. Di Felice, F. Troiani",
+    "abstract": "Spin states can be extracted from many-electron systems by detecting electrons at a set of lattice sites, which act as particle labels. Here we quantify the genuine multipartite entanglement (GME) of such spin states, which are generally mixed, in standard and extended Hubbard rings, together with the corresponding detection probability. We show that the on-site repulsion, by suppressing charge fluctuations, enhances the GME, and that in the strongly interacting regime at half filling the detection probability decreases only weakly with the number of spins. The GME is robust at temperatures below the singlet--triplet gap, and can even be enhanced by doping, in spite of the induced charge fluctuations. The transition from spin- to charge-density waves in the extended Hubbard model is signaled by an abrupt suppression of both the GME and the detection probability.",
+    "url": "https://arxiv.org/abs/2611.20756v1",
+    "published": "2026-11-16",
+    "summary": "- On‑site repulsion suppresses charge fluctuations, enhancing genuine multipartite entanglement (GME) of extracted spin states.\n- At half filling, GME stays robust with only weak decay of detection probability as spin number increases; temperatures below the singlet–triplet gap preserve GME, and doping can even boost it.\n- In the extended Hubbard model, the spin‑to‑charge‑density‑wave transition abruptly suppresses both GME and detection probability."
+  },
+  {
+    "title": "Reduced Density Matrices from Renormalization-Group Flows",
+    "authors": "X. Zhen, Z. Y. Meng, J. C. Pei, F. R. Xu",
+    "abstract": "We reconstruct complete one- and two-body reduced density matrices (RDMs) by a single collective backward evolution along the in-medium similarity renormalization-group flow. Benchmarks show improved accuracy and physical consistency over conventional elementwise evolution. In neutron matter, two-body RDMs reveal spin-triplet dominance in interaction-dependent Fermi-sea depletion trends. Meanwhile, the forward-backward energy difference provides an internal diagnostic of many-body truncation errors, whose quantification remains challenging in nuclear $ab\\ initio$ calculations.",
+    "url": "https://arxiv.org/abs/2611.20742v1",
+    "published": "2026-11-16",
+    "summary": "- Reconstructs full one- and two-body RDMs via a single backward evolution along the in‑medium SRG flow.\n- Demonstrates higher accuracy and physical consistency than elementwise evolution, with spin‑triplet dominance in neutron‑matter Fermi‑sea depletion.\n- Uses forward‑backward energy differences as an internal diagnostic for many‑body truncation errors."
+  },
+  {
+    "title": "Unconventional Magneto-Optical Kerr Effect beyond Magnetization Scaling Driven by Pulse-Field-Induced Metamagnetism in Fe$_2$Mo$_3$O$_8$",
+    "authors": "Soichiro Yamane, Sota Nakamura, Shuya Suzuki, Atsutoshi Ikeda, Masaki Kondo, Takashi Kurumaji, Kentaro Ino, Keisuke Matsuura, Fumitaka Kagawa, Yoshinori Tokura, Masashi Tokunaga, Shingo Yonezawa",
+    "abstract": "First-order phase transitions often proceed through metastable states and complicated phase coexistence, yet such nonequilibrium processes are obscured in bulk measurements. The magneto-optical Kerr effect (MOKE) probes the local off-diagonal optical response, offering access to local magnetic dynamics beyond bulk measurements. Here, we investigate the magnetic-field-induced antiferromagnetic (AFM)-ferrimagnetic (FRM) transition in the polar insulator Fe$_2$Mo$_3$O$_8$ using pulsed-field MOKE measurements extended for the first time up to 60 T and down to 1.4 K. The MOKE response exhibits unexpected and huge nonmonotonic transient behavior across the metamagnetic phase transition. The MOKE behavior does not show any scaling with the bulk magnetization, pointing to an MOKE analogue of the unconventional anomalous Hall effect. This is a new class of off-diagonal response emerging exclusively at the boundary between competing magnetic orders. At low temperatures, MOKE profiles are highly reproducible in detail, whereas at elevated temperatures they depend strongly on magnetic-field history and pulse protocol, suggesting changes in the driving mechanism of the phase transition. We infer that the excess MOKE anomaly originates from AFM-FRM phase interfaces in real space. Our results, extending MOKE into the 60 T regime, establish pulsed-field magneto-optics as a novel probe capable of uncovering transient and hidden field-induced phenomena through unconventional off-diagonal optical responses.",
+    "url": "https://arxiv.org/abs/2611.20697v1",
+    "published": "2026-11-16",
+    "summary": "- Pulsed‑field MOKE up to 60 T shows a giant, non‑monotonic Kerr response at the AFM–FRM transition in Fe₂Mo₃O₈, not scaling with bulk magnetization.\n- The anomaly originates from AFM–FRM phase interfaces, acting as an off‑diagonal optical analogue of the anomalous Hall effect.\n- Low‑temperature Kerr profiles are reproducible, while higher‑temperature signals depend strongly on field history and pulse protocol, indicating a change in the transition mechanism."
+  },
+  {
+    "title": "Excitonic magnetism and competing valence bond solid instabilities in $d^4$ ruthenium compounds",
+    "authors": "Aleksandra Krajewska, Tomohiro Takayama, Hidenori Takagi",
+    "abstract": "Spin-orbit entangled $d^4$ Mott insulators serve as a rich playground for unconventional magnetism and competing quantum electronic ground states. Intra-ionic spin-orbit coupling $λ_{\\rm{SOC}}$ generates a non-magnetic $J_{\\rm{eff}} = 0$ singlet ground state separated from an excited $J_{\\rm{eff}} = 1$ triplet. The effective intra-atomic gap $Δ_{\\rm{eff}}$ between the ground state and lowest excited state is determined by $λ_{\\rm{SOC}}$ and non-cubic crystal field $Δ_{\\rm{cf}}$. The intersite magnetic exchange $J_{\\rm{ex}}$ induces dispersion of the excited $J_{\\rm{eff}} = 1$ triplet. When the triplet bandwidth $W_{\\rm{t}}$ overcomes $Δ_{\\rm{eff}}$, the system undergoes long-range magnetic ordering which is viewed as a condensation of spin-orbit excitons and called excitonic magnetism. In this review, we systematically survey representative $d^4$ ruthenium compounds across four distinct structural connectivities of Ru-ligand octahedra, from K$_2$RuCl$_6$ with isolated octahedra, corner-sharing perovskite Ca$_2$RuO$_4$, edge-sharing honeycombs, to corner-sharing pyrochlores, and map them onto a conceptual parameter axis of $W_{\\rm{t}} / Δ_{\\rm{eff}}$. We demonstrate that $d^4$ ruthenium compounds not only represent evolution from a $J_{\\rm{eff}} = 0$ Mott state to excitonic magnetism but encompass a broader competition of diverse electronic phases arising from spin-orbit coupling, exchange interactions, electron hopping, crystal field and bond covalency inhabiting similar energy scales. Near excitonic quantum critical point, where $W_{\\rm{t}} \\sim Δ_{\\rm{eff}}$, lattice geometry and chemical bonds of constituent atoms play a decisive role in selecting the electronic ground state, frequently driving valence bond solid formation that pre-empts excitonic quantum criticality.",
+    "url": "https://arxiv.org/abs/2611.20682v1",
+    "published": "2026-11-16",
+    "summary": "- d⁴ Ru Mott insulators have a J_eff = 0 singlet ground state split from a J_eff = 1 triplet; when the triplet bandwidth exceeds the intra‑atomic gap, excitonic magnetism forms.\n- The review surveys"
+  }
+]
