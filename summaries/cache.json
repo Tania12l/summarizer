@@ -5533,5 +5533,90 @@
     "title": "Excitonic magnetism and competing valence bond solid instabilities in $d^4$ ruthenium compounds",
     "summary": "- d⁴ Ru Mott insulators have a J_eff = 0 singlet ground state split from a J_eff = 1 triplet; when the triplet bandwidth exceeds the intra‑atomic gap, excitonic magnetism forms.\n- The review surveys",
     "timestamp": "2026-11-17"
+  },
+  "2611.21652": {
+    "title": "Exact solution of the two-dimensional one-component plasma on the truncated Beltrami pseudosphere",
+    "summary": "- Exact Γ=2 solution on truncated Beltrami pseudosphere via conformal map to a flat cylinder; partition function is a product of incomplete gamma functions and all correlations are determinantal.\n- Free energy contains a bulk (½ N ln N), linear‑N, surface‑tension (∝ boundary length) and a shape‑dependent constant, matching the conformal‑anomaly prediction for Euler characteristic zero.\n- Boundary density approaches the flat contact value \\(n_b\\ln 2\\); analytic results agree with cylinder limits and Monte‑Carlo data for Γ = 1,",
+    "timestamp": "2026-11-18"
+  },
+  "2611.21675": {
+    "title": "Statistical Properties of the $q$-Deformed Monolayer and Bilayer Graphene",
+    "summary": "- q‑deformed Dirac‑oscillator spectra and eigenfunctions for monolayer/bilayer graphene in a magnetic field, recovering Landau levels as q→\n- Explicit construction of bilayer lowest Landau levels and q‑dependent probability current densities.\n- Partition functions via zeta‑function/Euler‑Maclaurin yield distinct thermodynamic responses for monolayer vs. bilayer, revealing q‑deformation effects.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.21676": {
+    "title": "Renormalization-Group Foundation of Critical Modes in Correlation Matrices",
+    "summary": "- Uses RG scaling operators to construct complete families of critical‑sensitive fluctuation observables and their correlation matrices.\n- Eigenstates reveal a multiscale hierarchy of critical correlations; leading eigenvalues and ratios obey finite‑size scaling.\n- Applied to 2D Ising: spin and energy matrices reproduce expected patterns, supporting the framework and hinting at use for unknown Hamiltonians.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.21697": {
+    "title": "The Kitaev model on finite hyperbolic PBC clusters",
+    "summary": "- Constructed and solved the Kitaev model on finite hyperbolic lattices with periodic boundary conditions via finite quotients of triangle groups.\n- Determined ground‑state superselection sectors, flux backgrounds, and degeneracies governed by lattice symmetries at the isotropic point.\n- Found a non‑monotonic two‑vison gap and algebraic decay of matter‑fermion correlations even for modest system sizes.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.21708": {
+    "title": "Probing Phase Fluctuations in Cuprates by Multidimensional Josephson Spectroscopy",
+    "summary": "- Angle‑resolved multidimensional THz spectroscopy shows a crossover near Tc in La₁.₈₃Sr₀.₁₇CuO₄ from mean‑field to fluctuation‑dominated third‑order Josephson nonlinearity.\n- The non‑rephasing multidimensional signal uniquely probes short‑range superconducting phase fluctuations above Tc.\n- A theoretical framework connects the out‑of‑plane optical response to both mean‑field and fluctuation regimes, supporting the pre‑formed pair hypothesis.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.21715": {
+    "title": "The SymTFT and Quantum Phases of Matter",
+    "summary": "- SymTFT encodes ordinary and generalized symmetries in a higher‑dimensional topological theory, separating symmetry data from system details.\n- In (1+d fusion‑category symmetries, it classifies anomalies, gapped phases, and organizes gapless phase symmetry structures.\n- The review extends the framework to higher dimensions, continuous, fermionic, mixed‑state, and spacetime symmetries.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.21720": {
+    "title": "Constraints on the volume enclosed by Fermi surfaces",
+    "summary": "- Extends Luttinger theorem to fractionalized Fermi liquids (FL*) showing Fermi‑surface volume shifts by a quantized amount (e.g., ρ → ρ − .\n- Connects the shift to symmetry‑fractionalization data of quantum spin liquids with spinon excitations.\n- Generalizes Oshikawa’s flux‑insertion argument to FL* and discusses implications for gapless spin liquids.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.21745": {
+    "title": "Tunable Topological Charge Order in Magnetic Moir\\'e Systems",
+    "summary": "- Coexistence of molecular charge order and quantized Hall response in Moiré bilayers at ν_B=\n- Phase diagram shows triangular potential → Wigner crystal; reduced potential → Hall conductance emerges while charge order persists.\n- Honeycomb point yields doublon‑based Ising degrees of freedom with short‑range correlations.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.21773": {
+    "title": "Hidden convexity of the Eliashberg condensation energy: existence, uniqueness and continuity of the superconducting state",
+    "summary": "- Hidden convexity of the condensation energy in the first quadrant yields existence and uniqueness (up to gauge) of the superconducting minimizer for any positive, non‑increasing power‑law interaction.\n- The normal state is the unique minimizer above the critical temperature; a positive solution of the nonlinear Eliashberg equations appears precisely when the normal state becomes linearly unstable.\n- For temperature‑dependent families with pointwise continuity and uniform decay, the minimizing density varies continuously in weighted ℓ¹, confirming the thermodynamic conjectures for the γ‑model, Einstein phonons, and general spectra.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.21848": {
+    "title": "High-resolution top-down nanopatterning of NbN thin films for superconducting metamaterials",
+    "summary": "- Developed high‑resolution top‑down nanopatterning of 5 nm NbN films on sapphire, achieving 70 nm pitch nanowire grids and 100 nm pitch hole arrays via HSQ/ZEP resists with proximity‑effect correction.\n- Introduced a thin Si capping layer to enhance HSQ adhesion; patterns transferred through RIE and validated by SEM, TEM, and AFM.\n- Transport and cryogenic THz measurements reveal periodic resistance minima, switching‑current oscillations, and reduced superfluid density, evidencing enhanced vortex pinning and modified electromagnetic response.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.22046": {
+    "title": "Coexisting orders and dipolar Luttinger liquids in $\\mathbb{Z}_N$ quantum torus chain",
+    "summary": "- Unified phase diagram for 1D ℤ_N quantum torus chain, linked to dipolar cluster/Ising chains via noninvertible dualities.\n- Coexisting X‑Z long‑range order (C phase) and dipolar Luttinger liquids (dLL_I, dLL_II, dLL_III) with gapless dipolar excitations, appearing for N ≥ 5 (and odd N ≥ 5 near θ = π).",
+    "timestamp": "2026-11-18"
+  },
+  "2611.22462": {
+    "title": "Orbital differentiation in a rare earth ion near half filling",
+    "summary": "- Full multiplet calculations with Quanty reproduce SmN’s magnetic susceptibility, neutron scattering, and spin density.\n- Crystal‑field tuning shows orbital differentiation in the J = 5/2 ground state, splitting it into two subspaces with different orbital stiffness (Hund’s rule violation).\n- Results aid microscopic modeling of rare‑earth systems and support possible unconventional triplet superconductivity in SmN.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.22536": {
+    "title": "Preformed excitons in the excitonic density-wave state of monolayer 1$T'$-MoTe$_2$",
+    "summary": "- Density‑wave order in monolayer 1T′‑MoTe₂ vanishes at Tc ≈ 80 K, while the excitonic gap survives to Tg ≈ 100 K, revealing a pseudogap of preformed excitons.\n- Raman spectra detect a lattice‑pinned phason whose gap softens with temperature, driving phase decoherence above Tc.\n- Theory attributes the two‑step loss of order to boson‑driven phase fluctuations (phason) and fermion‑driven pair breaking at higher T.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.22662": {
+    "title": "Domain walls of a spin-chirality ferroelectric as tunable quantum particles",
+    "summary": "- Domain walls in a frustrated",
+    "timestamp": "2026-11-18"
+  },
+  "2611.22864": {
+    "title": "Structural Response to the Hidden Charge Order in Sr$_3$Fe$_2$O$_7$",
+    "summary": "- Hidden charge order in Sr₃Fe₂O₇ emerges below ~330 K, confirmed by resonant X‑ray scattering.\n- Neutron diffraction shows a clear lattice distortion accompanying the charge ordering.\n- The charge disproportionation and localization transition, first noted in the 1960s, is now linked to a true structural change.",
+    "timestamp": "2026-11-18"
+  },
+  "2611.22928": {
+    "title": "Non-Invertible Quantum Cellular Automata I: Microscopic Definition of Non-Invertible Symmetries",
+    "summary": "- Defines non‑invertible QCAs as dualizable, pure, locality‑preserving quantum channels, giving an operator‑algebraic notion of non‑invertible lattice symmetries.\n- Con",
+    "timestamp": "2026-11-18"
+  },
+  "2611.23170": {
+    "title": "Competing Magnetic Orders and Continuously Varying Exponents in $U(1)$ Spin Liquids",
+    "summary": "- Continuous tuning of competing Néel orders via unequal couplings to a shared U(gauge field in 2+1D QED with two Dirac families.\n- Large‑N/Schwinger–Dyson analysis shows κ‑dependent chiral condensates, coexistence or a gapless interval, and Miransky‑type gap closing.\n- RG flow yields a circular line of fixed points; staggered magnetization exponents vary continuously with κ, while inter‑sector correlations remain κ‑independent.",
+    "timestamp": "2026-11-18"
   }
 }
