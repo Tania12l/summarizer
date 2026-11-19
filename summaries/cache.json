@@ -1,89 +1,4 @@
 {
-  "2608.18168": {
-    "title": "Embedding Paired Free-Fermion Gaussian States into Gutzwiller-Projected Bardeen--Cooper--Schrieffer Wave Functions",
-    "summary": "- Embeds any even‑parity spinless fermionic Gaussian state into a Gutzwiller‑projected BCS state of spinful Abrikosov fermions.\n- Demonstrated exactly for the 1D transverse‑field Ising model.\n- Supplies controlled initial states for variational Monte‑Carlo studies of non‑integrable systems.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18189": {
-    "title": "Breaking the mutual exclusivity between metallicity and ferroelectricity in a non-polar covalent semiconductor via orbital selective doping",
-    "summary": "- Heavy N‑doping of cubic SiC induces metallicity and a polar R3m phase via a pseudo‑Jahn‑Teller transition, breaking the metallicity–ferroelectricity rule.\n- Directional antibonding orbitals prevent screening, enabling 180° polarization reversal under 1 V bias with ~50 ns switching speed.\n- Ferroelectric tunnel junctions exhibit HRS/LRS memory, >85 000‑cycle endurance, and projected 100‑year retention, offering low‑power, high‑speed non‑volatile memory.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18199": {
-    "title": "Chern insulator boundary criticality",
-    "summary": "- Critical Hall conductivity σ_xy = ½ e²/h at the C=1 transition, described by a massless Dirac fermion with a parity anomaly.\n- Chiral edge mode delocalizes into the bulk at criticality, yet boundary fermion correlators retain chiral structure and bulk scaling dimension, matching the anomaly.\n- Generalizes to higher Chern numbers and 3+1 d TI transitions, identifying parity‑odd terms in current and stress‑tensor correlators via residual conformal symmetry.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18248": {
-    "title": "Learning constructive models of emergent systems",
-    "summary": "- Introduces Layer‑Restricted Boltzmann Machine (LRBM) that constrains information flow across entropic scales to construct emergent systems.\n- Demonstrates hierarchical encoding: low layers capture global structure, higher layers encode fine‑grained features across images, language, and enzyme sequences.\n- Validated by designing 1,130 chorismate mutase variants; functional enzymes achieved up to 53% sequence divergence, showing fold emerges at intermediate layers but function requires all layers.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18267": {
-    "title": "Finite-temperature Green's function cluster expansion from thermofield doubles: Breakdown of the polaron picture",
-    "summary": "- Finite‑temperature Green’s‑function cluster expansion (FTGFCE) combines a generalized cluster expansion with the thermofield‑double formalism to compute single‑particle Green’s functions of polarons at finite temperature.\n- The method delivers momentum‑resolved spectral functions, dispersions, lifetimes, and effective masses for the Holstein polaron up to \\(T/\\Omega \\sim 1\\), agreeing quantitatively with finite‑temperature DMRG.\n- FTGFCE is numerically exact in principle, avoids time evolution, and is implemented in an open‑source software package.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18277": {
-    "title": "On the electronic and vibrational dimensionality of nanometer-scale silicon structures",
-    "summary": "- Uses electron/phonon coherence length (inelastic mean free path) as the key scale for dimensionality.\n- Estimates electron quantum confinement in Si nanosheets at room T below ~8 nm.\n- Phonon confinement is wavelength‑dependent: short‑wavelength modes ~10 nm, long‑wavelength acoustic modes ~1 µm.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18278": {
-    "title": "Writing and erasing skyrmions by single ultrafast laser pulses in monolayer Janus 2D magnets",
-    "summary": "- Field‑free, nonvolatile Nèel skyrmions in monolayer Janus Cr chalcogenides imaged by PEEM and NV magnetometry.\n- Janus‑induced inversion symmetry breaking enhances Dzyaloshinskii‑Moriya interaction, stabilizing tunable skyrmions.\n- Reversible skyrmion writing/erasing achieved with a single ultrafast laser pulse at 300 Oe.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18301": {
-    "title": "Rare-earth spin textures and a route to electronic inhomogeneity in $Pr_2Ir_2O_7$",
-    "summary": "- Monte‑Carlo spin‑ice Pr configurations coupled via Kondo exchange to an Ir Hartree‑Fock model reproduce surface Kondo‑inhomogeneity in Pr₂Ir₂O₇.\n- The all‑in‑all‑out charge gap closes smoothly with J_K, and jellyfish monopole textures lower the insulating gap by ΔJ_Kc ≈ 03 t.\n- Synthetic tunneling maps reveal island‑like Fermi‑level DOS variations that, through Doniach exponential sensitivity, tip the balance between Kondo screening and magnetic order, explaining the observed coexistence.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18337": {
-    "title": "Engineering kekule superconductivity from layer-selective interactions in rhombohedral graphene",
-    "summary": "- Finite‑momentum Kekulé superconductivity arises in rhombohedral multilayer graphene from layer‑dependent opposite‑sign interactions, preserving time‑reversal and inversion symmetry.\n- The state appears only above a critical carrier density when a Kane‑Mele mass is present, with opposite‑chirality condensates in the two valleys.\n- Phase diagram, Tc versus chirality index \\(J\\) and mass \\(\\lambda\\), and the BKT transition temperature are mapped, demonstrating orbital‑dependent interactions favor finite‑momentum pairing.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18370": {
-    "title": "Interface-Controlled Spin-Orbit Torques in Rare-Earth Synthetic Ferrimagnets Probed by Sagnac Magneto-Optics and Harmonic Hall Measurements",
-    "summary": "- Sagnac interferometry and harmonic Hall analysis jointly quantify damping‑like SOT in Co/Gd synthetic ferrimagnets.\n- Torque magnitude is strongly tuned by Gd thickness and interface order, with Gd contributing even when Pt spin Hall effects cancel.\n- Interface engineering yields perpendicular anisotropy in Gd/Pt/Co/Al, enabling SOT switching at 8–10 MA cm⁻².",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18527": {
-    "title": "Topology is not silent in the transport noise of multiband bosons",
-    "summary": "- Topological Berry curvature cancels in electron Hall‑current noise at a Fermi surface, but not for thermally populated bosonic bands.\n- Boson noise contains an occupation‑weighted dispersion of Chern numbers, a new term absent at zero temperature.\n- Derived from a fluctuating Boltzmann equation; measurable only via an equilibrium sum‑rule protocol, not in driven experiments.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18529": {
-    "title": "Universal thermal breakdown of polaron coherence in one, two, and three dimensions",
-    "summary": "- Polaron coherence universally breaks down at \\(T \\approx 5\\,\\Omega\\), independent of dimensionality or coupling strength.\n- Effective mass \\(m^*\\) and inverse lifetime \\(1/\\tau\\) rise monotonically with temperature until the quasiparticle peak dissolves into an incoherent continuum.\n- A finite‑temperature Momentum‑Average approximation produces a self‑energy that matches exact 1D benchmarks (VED‑FTLM, DMRG) across all coupling regimes.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18530": {
-    "title": "High-field fate of the Kitaev quantum spin liquid in $\\alpha$-RuCl$_3$",
-    "summary": "- High‑field specific heat up to 24 T shows a crossover at μ₀H*≈15 T where the Kitaev description breaks down.\n- Above H*, the six‑fold angular modulation collapses, the excitation gap deviates from the H³ scaling and decreases with field.\n- In‑plane magnetization anisotropy persists to ~24 T, indicating KQSL signatures survive up to ~90 % of saturation.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18540": {
-    "title": "Hubb_DMFT and Wan2mb_DMFT: Continuous-Time Quantum Monte Carlo Solvers for Single- and Multi-Orbital Hubbard Model",
-    "summary": "- Introduces Hubb_DMFT and Wan2mb_DMFT, DMFT solvers for single‑band and multi‑orbital Hubbard models.\n- Built on iQIST v.7 with CT‑HYB core, providing exact self‑energy and vertex calculations for density‑density interactions.\n- Wan2mb_DMFT directly couples Wannier tight‑binding Hamiltonians to many‑body solvers for realistic material studies.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.18706": {
-    "title": "Transitions and Critical Divergences in Periodically Hopping Modulated Su-Schrieffer-Heeger Chains",
-    "summary": "- CRG analysis of SSH chains shows curvature‑function divergence at Δ=0 (two‑site) and at |Δ/t|=√2 (four‑site) marking topological transitions.\n- Δ=0 exhibits faster divergence and larger correlation‑length exponent than the Dirac‑like |Δ/t|=√2 point, placing them in distinct universality classes.\n- Edge modes decay slowly into the bulk near Δ=0 but quickly near |Δ/t|=√2; the study extends similarly to eight‑site periodic modulations.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.19028": {
-    "title": "Sign-problem-resilient singular-value probe in determinant quantum Monte Carlo",
-    "summary": "- Uses adjacent gap ratio of low‑lying singular values of the fermion matrix to detect interaction‑driven transitions in determinant QMC.\n- Accurately tracks the Dirac‑semimetal to antiferromagnetic Mott transition in the sign‑free honeycomb Hubbard model.\n- Remains robust in the sign‑affected Haldane‑Hubbard model, surviving phase reweighting and locating the transition near earlier estimates.",
-    "timestamp": "2026-08-21"
-  },
-  "2608.19178": {
-    "title": "Chiral bosonic mean-field Ansatz and spin dynamics in spin-1 Kitaev magnets",
-    "summary": "- Introduces a triplet‑pairing φ_t = π/2 mean‑field Ansatz for the S = 1 Kitaev model, extended to weak symmetric Γ, Γ′ exchanges.\n- Calculates the dynamical spin structure factor; the π/2‑flux Ansatz yields a flatter spectrum and stronger suppression of long‑range correlations than the 0‑flux Ansatz, matching short‑range Kitaev physics.\n- Demonstrates that spectral flatness is tied to short‑range spin correlations and explores the effect of weak Γ, Γ′ perturbations near the pure Kitaev limit.",
-    "timestamp": "2026-08-21"
-  },
   "2608.19274": {
     "title": "Exact expressions of correlation functions between two spins in the boundary row of the two-dimensional rectangular Ising model with periodic-free boundary conditions and finite size",
     "summary": "- Exact two‑spin correlation formulas for the boundary row of a finite rectangular Ising lattice with mixed periodic/free edges.\n- Demonstrated emergence of long‑range order as temperature decreases; thermodynamic‑limit expressions depend on the order of taking \\(L\\) and \\(N\\) limits.\n- Confirmed that the thermodynamic‑limit results match previously known expressions, illustrating size effects with diagrammatic examples.",
@@ -5618,5 +5533,85 @@
     "title": "Competing Magnetic Orders and Continuously Varying Exponents in $U(1)$ Spin Liquids",
     "summary": "- Continuous tuning of competing Néel orders via unequal couplings to a shared U(gauge field in 2+1D QED with two Dirac families.\n- Large‑N/Schwinger–Dyson analysis shows κ‑dependent chiral condensates, coexistence or a gapless interval, and Miransky‑type gap closing.\n- RG flow yields a circular line of fixed points; staggered magnetization exponents vary continuously with κ, while inter‑sector correlations remain κ‑independent.",
     "timestamp": "2026-11-18"
+  },
+  "2611.23337": {
+    "title": "Cross-probing van der Waals multiferroics",
+    "summary": "- 2D van der Waals multiferroics (e.g., few‑layer NiI₂) enable unprecedented magnetoelectric coupling due to reduced screening and enhanced quantum fluctuations.\n- The review critically evaluates experimental probes for magnetism and ferroelectricity, highlighting limitations of single‑technique approaches.\n- It stresses the need for magneto‑opto‑electric cross‑probing to unambiguously confirm intrinsic multiferroicity in atomically thin materials.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23390": {
+    "title": "Trapped fermions frustrate multiterminal Josephson networks",
+    "summary": "- Odd‑parity trijunctions with trapped fermions impose phase windings that frustrate multiterminal Josephson arrays.\n- The frustrated network maps to a Kagome XY antiferromagnet, showing a BKT transition and 6e phase coherence that appears as a third‑harmonic in the current‑phase relation.\n- Quantum phase fluctuations and spin‑orbit coupling suppress 6e coherence but induce spin correlations and entanglement between the trapped fermions.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23400": {
+    "title": "Nonlinear optical response with relaxation in the velocity gauge",
+    "summary": "- Developed a velocity‑gauge framework for nonlinear optical conductivity including relaxation via the RTA.\n- Perturbatively solves the density‑matrix equation, eliminating the need for Bloch‑state momentum derivatives.\n- Applied to a graphene‑like tight‑binding model; RTA yields both quantitative and qualitative differences from simple imaginary‑damping approaches.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23404": {
+    "title": "Real-Space Theory of Nonequilibrium Orbital Magnetization in Inhomogeneous Solids",
+    "summary": "- Real‑space linear‑response theory for orbital magnetization induced by a dc electric field in non‑translationally invariant bulk solids.\n- Linear‑in‑wavevector conductivity expressed via single‑particle Green’s functions, velocity and position operators, yielding a gauge‑invariant real‑space formulation.\n- Recovers Bloch‑picture results in the translationally invariant limit; demonstrated on a disordered Haldane model with large‑scale Chebyshev expansions.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23405": {
+    "title": "Towards Defect Engineering of Orbital Magnetoelectric Effects",
+    "summary": "- Defects amplify time‑odd magnetoelectric response in metallic orbital antiferromagnets.\n- Defect symmetry activates forbidden time‑even responses, creating nanoscale hotspots that can reverse the net orbital moment.\n- A local marker maps orbital magnetization, enabling atomic‑scale engineering of orbital moments via defects.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23409": {
+    "title": "Analytical Interacting Tight-binding Model for Fractional Chern Insulators",
+    "summary": "- 2‑band tight‑binding model with exponentially local hopping and interactions yields exact 1/3‑filled FCI ground states on any finite lattice.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23435": {
+    "title": "Efficient interlayer interactions in non-planar molecule/transition-metal dichalcogenide two-dimensional heterostructure",
+    "summary": "- Demonstrated efficient Förster resonance energy transfer from non‑planar spin‑crossover molecules (FTBQS) to monolayer TMDs, evidenced by strong PL quenching even with hBN spacers.\n- Showed gate‑dependent charge transfer via doping shifts in TMDs, revealing favorable electronic band alignment with FTBQS.\n- Established a deterministic assembly method for clean hybrid heterostructures, enabling potential spintronic, optical, and electronic device applications.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23489": {
+    "title": "Towards Cryogenic AI Hardware: Over 99% Precision In-Memory Computing at 4 K with 3-bit Ferroelectric Hf0.5Zr0.5O2 Capacitors",
+    "summary": "- 3‑bit Hf₀.₅Zr₀.₅O₂ ferroelectric capacitors enable >99 % precision CIM, achieving 92 % ISOLET accuracy at 4 K.\n- Charge‑domain MVM shows linearity = 1, <1 % error, 78 % faster switching, and >10⁹‑cycle endurance with <8 % polarization loss.\n- Cryogenic operation suppresses leakage, variability, and fatigue, yielding ultra‑low‑energy, highly reliable AI hardware.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23500": {
+    "title": "Synthesis-route-dependent state selection in the frustrated spinel ZnV$_2$O$_4$",
+    "summary": "- Microwave‑assisted synthesis keeps ZnV₂O₄ cubic to low T, preventing the usual cubic‑to‑tetragonal transition.\n- The preserved cubic lattice sustains a highly frustrated S = 1 pyrochlore network.\n- The resulting ground state displays spin‑liquid‑like dynamics with partial spin freezing, showing synthesis route as a key control of emergent phases.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23527": {
+    "title": "Predicting solid-state reaction onset temperatures from high-throughput pairwise synthesis",
+    "summary": "- Tested Tammann's rule on 1,035 pairwise syntheses; only 25 % produced mixed products.\n- Built a log‑normal accelerated‑failure model with 3 descriptors, reducing MAE from 131 °C to 88 °C.\n- Adding 29 extra physicochemical descriptors did not improve the model; more data will enhance predictions.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23842": {
+    "title": "Implementation of LDA+Gutzwiller with Newton's method",
+    "summary": "- Introduces LDA+Gutzwiller implementation using Newton’s method with golden section search to accelerate self‑consistency.\n- Demonstrates significant efficiency and convergence improvements over linear mixing.\n- Validates method on SrVO₃, LaCoO₃, and La₂O₃Fe₂Se₂, matching prior results.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23882": {
+    "title": "Local spin constraints and symmetry in single-$Q$ spiral magnets",
+    "summary": "- Constrained Luttinger–Tisza formulation enforces local spin‑length, reducing single‑sublattice minimization to a secular equation for the spiral‑plane normal and two‑sublattice minimization to a frame‑independent energy on two unit normals.\n- Symmetry analysis distinguishes operations that preserve or reverse the Fourier arm and those that preserve or exchange sublattices, yielding explicit constraints on allowed spiral states.\n- Numerical tests show that enforcing local circularity lowers the energy and can shift the preferred ordering wave vector relative to the unconstrained LT solution in both symmetric and anisotropic two‑sublattice models.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.23918": {
+    "title": "Molecular Kondo Ball Based on an Endohedral Fullerene",
+    "summary": "- Predicts a TiSc₂N@C₈₀ “Kondo ball” on Al(where a Ti S = ½ moment inside a fullerene cage screens via itinerant-like states.\n- First‑principles show molecule–substrate hybridization broadens C₈₀ levels yet preserves the Ti moment; similar behavior on Cd(and In(.\n- HEOM simulations reveal a ~60 K Kondo temperature and orientation‑tolerant Fano resonance due to the closed‑cage geometry.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.24105": {
+    "title": "Stabilizer models of achiral abelian topological orders",
+    "summary": "- Continuous‑variable stabilizer codes realize every achiral 2D abelian topological order (bosonic and fermionic).\n- Any signature‑zero integer \\(K\\)-matrix order is obtained by condensing a lattice of dyons with trivial mutual braiding in an \\(\\mathbb{R}^N\\) gauge theory.\n- The condensation is implemented microscopically by gauging a non‑on‑site 1‑form symmetry of the \\(\\mathbb{R}^N\\) toric code.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.24468": {
+    "title": "Hidden topological signatures in a van der Waals ferromagnet revealed by spin-resolved circular-dichroic photoemission",
+    "summary": "- Spin‑resolved ARPES uncovers spin‑polarized Fermi‑level states and broken time‑reversal symmetry in Ni₁/₄TaSe₂.\n- Circular‑dichroism reveals helicity‑dependent spin response, indicating finite spin Berry curvature and local topological character.\n- Results connect ferromagnetism, spin‑polarized bands, and topological signatures, guiding studies of superconductivity upon Ni depletion.",
+    "timestamp": "2026-11-19"
+  },
+  "2611.24935": {
+    "title": "Exact Parent Hamiltonians for Partially Magnetized Chiral Spin Liquids",
+    "summary": "- Exact parent Hamiltonians for partially magnetized chiral spin liquids derived from bosonic FQH Hubbard models via boson‑spin mappings.\n- Two‑spin construction generalizes Kalmeyer‑Laughlin to Abelian and non‑Abelian bosonic FQH states, with higher‑spin extensions.\n- Microscopic realizations achieved through second‑order superexchange in engineered spinful Hofstadter‑Hubbard lattices.",
+    "timestamp": "2026-11-19"
   }
 }
