@@ -5613,5 +5613,55 @@
     "title": "Current-driven resistive switching in high-field heavy fermion metal UTe2",
     "summary": "- Current densities >10 kA/cm² induce a sharp resistivity jump in UTe₂, creating a high‑resistivity state in both paramagnetic and field‑polarized regimes.\n- The critical current density rises with temperature, ruling out Joule‑heating and pointing to an intrinsic electronic instability.\n- The same current‑driven transition occurs on both sides of the metamagnetic transition, implying a common underlying physics between the low‑field paramagnetic and high‑field field‑polarized states.",
     "timestamp": "2026-11-20"
+  },
+  "2611.26610": {
+    "title": "Field theory and the biquadratic spin-1 chain",
+    "summary": "- Antiferromagnetic biquadratic spin‑1 chain: gapped, SU(symmetric, integrable; low‑energy physics expected to be the CP² sigma model at θ=π.\n- Bethe ansatz reveals deconfined domain‑wall excitations, matching the sigma model, yet the lattice model remains integrable while the continuum theory is not.\n- Authors engineer an integrable, non‑Lorentz invariant field theory by adding a higher conserved charge and tuning to criticality; the gap closes quadratically, yielding a nonrelativistic two‑particle S‑matrix.",
+    "timestamp": "2026-11-21"
+  },
+  "2611.26604": {
+    "title": "Scalable Simulation of Strongly Correlated Fermions with Neural Gaussian Tensor Networks",
+    "summary": "- NN‑GPEPS: neural‑network Gaussian PEPS with O(N³⁄²) contraction on 2D lattices.\n- Achieves state‑of‑the‑art variational energies for the Hubbard model (U/t = 8, 1/8 doping) on up to 1024 sites.\n- Demonstrates scalable",
+    "timestamp": "2026-11-21"
+  },
+  "2611.26589": {
+    "title": "Magnon high-harmonic generation by nonlinearities of spin torque driven by phonon-mediated crossing of many-body energy levels of bright and dark excitons",
+    "summary": "- Derived an extended Landau‑Lifshitz‑Gilbert equation with a nonlocal, time‑dependent, nonlinear term from phonon‑mediated crossing of bright and dark exciton levels, explaining magnon high‑harmonic generation and long‑lived oscillations in CrSBr.\n- Identified excitonic spin‑transfer torque as the microscopic origin of persistent magnon dynamics, linking bright/dark excitons, phonons, and magnons in a 2D antiferromagnetic semiconductor.\n- Demonstrated that",
+    "timestamp": "2026-11-21"
+  },
+  "2611.26587": {
+    "title": "High-Accuracy Neural-Network Quantum States via Randomized Real-Time Dynamics",
+    "summary": "- Introduces dynamical averaging: real‑time evolution and randomization to estimate observables.\n- Achieves up‑to‑quadratic error suppression for ground‑state observables, matching energy convergence.\n- Improves accuracy on non‑integrable spin models without extra minimization or model complexity.",
+    "timestamp": "2026-11-21"
+  },
+  "2611.26489": {
+    "title": "Nonstandard quantum statistics for strongly correlated systems: Superexclusion in momentum space and comparison with exact results",
+    "summary": "- Superexclusion (total double‑occupancy exclusion) in real or k‑space drives nonstandard statistics for strongly correlated fermions (SSL and NFL).\n- Exact k‑space Hubbard analysis shows Fermi liquid → strongly correlated liquid or Mott insulator at half filling, underscoring exclusion’s role.\n- Universal features: representation‑independent behavior, boson‑to‑fermion transmutation, and localization replacing Bose‑Einstein condensation under strong repulsion.",
+    "timestamp": "2026-11-21"
+  },
+  "2611.26415": {
+    "title": "Half-strings across the deconfinement transition of a $U(1)$ quantum link model",
+    "summary": "- Studied finite‑temperature confinement–deconfinement transition in a spin‑½ U(quantum link model with and without annealed ±2 charges.\n- Extracted critical temperature \\(T_c\\) and critical exponents, and compared zero‑ and finite‑temperature string tensions \\(\\sigma\\).\n- Found \\(T_c/\\sqrt{\\sigma}\\) matches the universal value of the \\(\\mathbb{Z}_2\\) gauge theory when charges are present, but yields a new universal ratio when they are absent.",
+    "timestamp": "2026-11-21"
+  },
+  "2611.26327": {
+    "title": "Quantum Metric Control of Topological Superconductivity and Incommensurate Charge Density Wave in an Interacting Lieb-Kitaev Chain Model",
+    "summary": "- Interacting spinless Lieb‑Kitaev chain in the flat‑band regime shows TSC, ICDW, and CDW phases tuned by interaction strength and quantum metric.\n- Quantum‑metric length controls Majorana decay and grows with interactions inside the TSC phase.\n- In the ICDW phase, the quantum metric shifts the effective chemical potential, producing a discontinuous IC‑to‑C transition, verified by effective theory and DMRG.",
+    "timestamp": "2026-11-21"
+  },
+  "2611.26304": {
+    "title": "Phase diagram of the attractive lattice Fermi polaron and the instability of Nagaoka ferromagnetism",
+    "summary": "- Ground‑state sequence: polaron → dimeron → η dimer at low filling; beyond a triple point, polaron → η dimer; above 25 % filling, remains polaron.\n- Two‑particle–hole Ansatz confirmed by diagrammatic Monte Carlo; η dimer is an exact eigenstate linked to Nagaoka ferromagnetism.\n- η dimer boundary gives a rigorous, sharper instability criterion for Nagaoka ferromagnetism, logarithmic at low filling.",
+    "timestamp": "2026-11-21"
+  },
+  "2611.26257": {
+    "title": "Fast extraction of universal data from temporal spectrum: Applications to Haagerup CFT and monopole scattering",
+    "summary": "- Fast algorithm reads CFT spectrum from transfer‑matrix of infinite MPS after brief imaginary‑time evolution.\n- Applied to Haagerup CFT: charge‑resolved spectrum to high levels, yielding \\(c=137(\\).\n- Shows Maldacena–Ludwig monopole boundary realized as ground state of the Fidkowski–Kitaev Hamiltonian via space‑time rotation.",
+    "timestamp": "2026-11-21"
+  },
+  "2611.26139": {
+    "title": "Local-channel inequivalence within analytic symmetry-broken phases",
+    "summary": "- Gibbs states at distinct temperatures in a symmetry‑broken phase are inequivalent under two‑way quasi‑local channels.\n- Mutual information between distant observers grows as \\( \\tfrac12\\ln R + \\mathcal{C}(T)\\), with \\(\\mathcal{C}(T)=\\tfrac12\\ln[\\Upsilon(T)/T]+c_{\\text{geom}}\\) increasing as temperature decreases.\n- The constant \\(\\mathcal{C}(T)\\) is invariant under quasi‑local conversions, so cooling between temperatures requires non‑local operations whose causal radius scales linearly with system size.",
+    "timestamp": "2026-11-21"
   }
 }
