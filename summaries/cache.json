@@ -1,104 +1,4 @@
 {
-  "2608.21451": {
-    "title": "Power Series for the Quantum Statistical Mechanics Probability with Results for the Second Virial Coefficient of Helium",
-    "summary": "- Power‑series expansion of the Wigner‑Kirkwood pair commutation function derived by recursion.\n- Second virial coefficient for helium matches experimental values for T > 65 K.\n- Outlines prospects for a general quantum Monte Carlo algorithm.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.21490": {
-    "title": "Electrostatic lens of a charged vortex",
-    "summary": "- Derived the near‑axis electrostatic potential of a charged vortex with radially varying density and compressibility.\n- Expressed the constant, quadratic, and quartic coefficients in terms of local screening and vortex‑density gradients, including a thermodynamic term from compressibility.\n- Applied to a 3D unitary Fermi gas, separating equation‑of‑state contributions from ordinary screening and charge‑source terms, linking vortex‑core thermodynamics to the electrostatic profile.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.21492": {
-    "title": "Dynamical Signatures and Kibble-Zurek Scaling of Localization in Tilted Bose-Einstein Condensates",
-    "summary": "- Tilt strength controls localization–delocalization crossover in a 1D BEC; repulsive interactions promote delocalization.\n- Sudden quenches show localized condensates with high survival probability, revivals, and narrow spectra, while delocalized ones exhibit weak recurrences, irregular dynamics, and broad spectra.\n- Finite‑rate ramps across the threshold reveal Kibble‑Zurek scaling of the localization length and Bogoliubov gap, yielding critical exponents.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.21493": {
-    "title": "All-Optical Control of Interfacial Polarization in MoS$_2$/WSe$_2$ Heterobilayers",
-    "summary": "- Predicts persistent out‑of‑plane polarization in MoS₂/WSe₂ heterobilayers driven by intense ultrafast pulses.\n- Intermediate field strengths quadruple interlayer charge transfer, marking a transition from perturbative to strong‑field dynamics in the high‑harmonic spectrum.\n- Lattice strain can tune the resonance condition while preserving the induced permanent dipole, enabling femtosecond all‑optical control of polar phases.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.21514": {
-    "title": "Theory of the Spinon-Mediated Witness Spin Glass in Herbertsmithite",
-    "summary": "- Spinon‑mediated coupling of Cu²⁺ impurities forms a 260 mK spin glass, reproducing noise, susceptibility, and neutron data.\n- A single‑parameter model fits both Z₂ and",
-    "timestamp": "2026-08-26"
-  },
-  "2608.21525": {
-    "title": "Machine-learned exchange-correlation functionals for molecules, solids, and reactive surfaces",
-    "summary": "- CIDER26SS: a machine‑learned, non‑local exchange‑correlation functional regularized for wide transferability.\n- Outperforms conventional functionals, correctly predicting CO/Pt(binding site, adsorption energy, Pt lattice constant, and surface energy without Pt training data.\n- Size‑extensive, efficient, and accurate even for systems far outside the training domain, enabling reliable heterogeneous catalysis simulations.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.21528": {
-    "title": "High Speed Contact-Resonance Tracking using Brownian motion",
-    "summary": "- Introduces iDART, an interferometric dual‑AC resonance tracker that uses Brownian motion for drive‑free contact‑resonance AFM imaging.\n- Positions the interferometer at the cantilever displacement maximum to suppress detector noise below thermal levels, enabling pixel‑resolved imaging at conventional scan rates.\n- Shows that low‑frequency and resonant electrical/photothermal excitation boosts contrast without shifting the contact resonance, providing practical high‑speed nanomechanical mapping.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.21540": {
-    "title": "Automated Analysis to Reveal Grain Boundary Phase Microstructures",
-    "summary": "- Automated tool maps planar GB microstructures, identifying distinct interfacial phases and their separating dislocation lines.\n- Quantifies phase‑specific excess properties and estimates Burgers content at phase junctions.\n- Demonstrated on diffusion‑limited GB phase transformations, indistinguishable vacancy/interstitial phases, and phase‑nucleus microstructures.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.21542": {
-    "title": "Noise-Robust Spin-Orbit Qubit in Germanium Holes via p-Orbital Encoding",
-    "summary": "- Introduces a spin‑p‑orbital (SpO) qubit encoded in the p‑shell of a three‑hole Ge/SiGe quantum dot, with charge‑noise sweet spots tuned by confinement and magnetic field.\n- Demonstrates SpO qubit relaxation comparable to single‑hole spin qubits and enables all‑electrical Landau‑Zener state transfer without microwaves.\n- Enables fast two‑qubit entangling gates via quadrupole‑quadrupole Coulomb interaction using adiabatic shuttling between neighboring dots.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.21586": {
-    "title": "A minimal mechanism to generate long timescales without fine tuning",
-    "summary": "- Introduces a dynamical feedback gain in a linear recurrent neural network to eliminate fine‑tuning of recurrent strength.\n- The gain self‑organizes so the effective recurrent matrix spectrum is gapless, with the top eigenvalue at the stability edge.\n- This mechanism generically yields long timescales and scale‑free power‑law correlations, confirmed analytically and numerically.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.21870": {
-    "title": "Pair Filters in an Extended Hubbard Model at Resonance",
-    "summary": "- Bound pairs and single fermions have identical dispersion but scatter differently.\n- A neighboring doublon pair is dynamically pinned in the strong‑interaction regime.\n- The pinned doublon transmits singlet pairs perfectly while reflecting single fermions, acting as an efficient filter.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.22260": {
-    "title": "Anomalous metallic states at magnetic interfaces in an antiferromagnetic topological insulator candidate DyPtBi with ferroquadrupolar order",
-    "summary": "- DyPtBi is an antiferromagnetic topological insulator with ferroquadrupolar 4f order.\n- Conductive magnetic domain walls are controllable by uniaxial stress and magnetic field, causing abrupt resistivity jumps.\n- Compressive stress aligns domains, suppresses domain‑wall conduction, and raises resistivity by ~14 %.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.22473": {
-    "title": "Strain-driven spin-flop transition and collapse of the giant magnon gap in the bilayer iridate Sr$_3$Ir$_2$O$_7$",
-    "summary": "- Biaxial compression (~–4 %) flips Sr₃Ir₂O₇’s easy axis from the c‑axis to the ab‑plane, collapsing its giant magnon gap.\n- A first‑principles magnetic Hamiltonian (no fitting) shows interlayer exchange suppression and in‑plane exchange strengthening drive the flop; Hund’s coupling > 15 eliminates the collinear state.\n- Compressed films sit on a metamagnetic boundary ending at a zero‑temperature bicritical point, enabling charge‑neutral control of moment direction.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.22517": {
-    "title": "Anomalous dynamical energy flows via nonlinear phononics in spin-Peierls chains",
-    "summary": "- THz IR mode nonlinearly excites Raman dimerization, modulating magnetic exchange in a spin‑Peierls chain.\n- Energy transfer follows a dynamical impedance‑matching condition; continuous driving induces back‑action, overdamping phonons and broadening magnetic features.\n- Short pulses keep the response perturbative, preserving sharp Fano‑like interferences and enabling magnetic control without quenching lattice modes.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.22743": {
-    "title": "Role of d-electron density of states in the quantum size effect of Pt-Ni and Pt-Pd nanoparticles",
-    "summary": "- QSE detected in Pt–Ni and Pt–Pd nanoparticles via ^195Pt NMR; Pt–Ni shows clear energy discretization, Pt–Pd behaves similarly to Pt.\n- Ni enrichment increases d‑electron DOS, lowers T* (Kubo gap), while Pt–Cu lacks QSE.\n- Ferromagnetic correlations strengthen with Ni, nearing a quantum‑critical regime, highlighting d‑electron importance.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.23081": {
-    "title": "Interplay of Magnetic Order, Structural Stability, and Orbital Ordering in BaFe2X3 (X = S and Se)",
-    "summary": "- Stripe‑AFM in BaFe₂S₃ vs. block‑AFM in BaFe₂Se₃, with pressure‑induced superconductivity and orbital‑selective states.\n- Resistivity anomalies above T_N show that magnetic order determines crystal structure, orbital ordering, and transport anisotropy.\n- The contrasting electronic behavior of the two ladder compounds is explained by the interplay of magnetic configuration, structural stability, and orbital degrees of freedom.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.23160": {
-    "title": "Quantics tensor cross interpolation for high-order strong-coupling expansions",
-    "summary": "- Uses quantics tensor cross interpolation to cut bond dimensions in high‑order strong‑coupling DMFT.\n- Enables self‑consistent steady‑state DMFT up to 4th order and 6th‑order diagram convergence studies.\n- Validated on equilibrium and photo‑doped systems, revealing the asymptotic onset of the expansion.",
-    "timestamp": "2026-08-26"
-  },
-  "2608.23340": {
-    "title": "Anomalous stabilization of excitons by metallic proximity",
-    "summary": "- CuCrO₂ thin films host ~489 meV excitons that redshift by 241 meV as Pd is added, approaching a percolation‑driven metal–insulator transition at x≈\n- Image‑charge effects from isolated metallic Pd clusters enhance electron‑hole binding, while a continuous metallic network restores conventional dielectric screening.\n- The work demonstrates anomalous exciton stabilization and possible coexistence",
-    "timestamp": "2026-08-26"
-  },
-  "2608.23379": {
-    "title": "A DQMC study of the spectral and conductive properties of the two-dimensional Holstein model",
-    "summary": "- DQMC study of 2D Holstein model across phonon energies, couplings, doping, and temperature.\n- Calculated spectral function and optical conductivity, revealing a transition from dressed metal → polaron liquid/insulator → CDW insulator.\n- Results corroborated by equal‑time correlations and released as an extensive open dataset (~16,640 points).",
-    "timestamp": "2026-08-26"
-  },
-  "2608.23442": {
-    "title": "Interaction-mediated Co-existence of Altermagnetism and Topology",
-    "summary": "- Extended Hubbard model on Lieb lattice (filling 2, produces simultaneous altermagnetic order and topological gap.\n- Unrestricted Hartree‑Fock and exact diagonalization confirm coexistence and a quantum spin Hall effect over a large phase region.\n- Breaking inversion symmetry yields second‑order topological phases with corner modes.",
-    "timestamp": "2026-08-26"
-  },
   "2608.24925": {
     "title": "Self-assembly and Electronic Properties of Graphyne and Graphdiyne Molecular Wires on Metallic Surfaces",
     "summary": "- Non‑aligned graphyne/graphdiyne wire arrays are energetically favored on Au(, Ag(, and Al(due to van der Waals binding.\n- Molecular orbitals do not form interface states; XPS C 1s peaks shift uniformly, indicating dominant metallic screening.\n- Band‑structure calculations reveal preserved semiconducting character with negligible hybridization, supporting their use in molecular electronics.",
@@ -5623,5 +5523,95 @@
     "title": "Role of antisite disorder in dictating the Ising anisotropy and ferromagnetic ground state of NdGaSi",
     "summary": "- Ga/Si antisite disorder stabilizes the centrosymmetric I4₁/amd structure, raising Nd³⁺ site symmetry to D₂d and forbidding m = ±2 Stevens operators.\n- The resulting ~97 % pure ground‑state doublet yields a collinear ferromagnet with Ising anisotropy along c below T_C ≈ 11 K.\n- This CEF purity selects a k = 0 ferromagnetic ground state, contrasting the incommensurate ferrimagnet of ordered NdAlSi, demonstrating disorder as a tuning knob for magnetic order.",
     "timestamp": "2026-11-23"
+  },
+  "2611.28036": {
+    "title": "Strain-transfer at the Cu nanoparticle-Si(111) interface: static atomistic modelling and simulated Bragg CDI",
+    "summary": "- Static atomistic models show strain transfer from 0–2 % biaxial tensile Si(to a 211 k‑atom Cu nanoparticle.\n- Cu deformation is heterogeneous and anisotropic; mean hydrostatic strain is negative (≈ –3 to –9 ppm) and upper‑particle strain varies non‑monotonically.\n- Simulated Bragg CDI yields projected displacement/strain maps, providing spatial signatures for experimental confirmation.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28044": {
+    "title": "From raw magnetoresistance to reliable cyclotron masses: A practical guide to processing quantum oscillation data",
+    "summary": "- Finite‑field intervals misrepresented by a single effective field underestimate cyclotron masses.\n- Polynomial background subtraction attenuates and shifts low‑frequency peaks, biasing mass extraction.\n- Spectral tapering reduces leakage‑induced mass bias at the cost of frequency resolution, as shown in RTe₃ experiments.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28147": {
+    "title": "Particle separation in a time-correlated Gaussian velocity field: a numerical study",
+    "summary": "- Numerical study of passive tracer pair dispersion in a 2D, divergence‑free, time‑correlated Gaussian velocity field.\n- Velocity field built from sparse Fourier modes evolving as independent Ornstein–Uhlenbeck processes, matching power‑law spatial roughness (α = and temporal decorrelation (β = .\n- In the α + β < 1 regime, mean‑square separation grows from any initial proximity, reaching a finite positive distance in finite time.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28172": {
+    "title": "Structural, optoelectronic, mechanical, thermodynamic and thermoelectric properties of kesterite Cu2ZnSnS4: A first-principles study",
+    "summary": "- Band gaps 88 eV (mBJ) and 55 eV (HSE; absorption onset 8–0 eV, high optical absorption.\n- Elastic constants satisfy Born stability; B/G > 75 indicates plastic behavior; phonon spectrum confirms dynamic stability.\n- Thermoelectric: Seebeck coefficient peaks ~310 µ",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28190": {
+    "title": "Physically Informed Data-Driven Modeling of Low-Pressure Carburizing (LPC): A Self-Calibrating Boundary Condition for Carbon Flux",
+    "summary": "- Hybrid model couples a physical diffusion PDE with a machine‑learning‑identified boundary flux for low‑pressure carburizing.\n- Calibrates the boundary operator using experimental concentration profiles, mass gain, surface concentration, and case depth via inverse‑problem regularization.\n- Formulated as an operator‑learning problem constrained by PDE physics, flux limits, and uncertainty quantification, linking to PINNs and boundary‑control theory.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28201": {
+    "title": "Defect Engineering of the Water-Carbon Interface: Insights from First-Principles Calculations",
+    "summary": "- Armchair-edge dangling bonds cut water‑dissociation barriers ~30×; di‑vacancies give near‑zero Gibbs free energy for H₂ evolution, enabling carbon‑only HER.\n- Mono‑vacancies reduce electronic localization, boosting charge transfer to evaporating water up to 4×, aiding evaporation‑induced electricity.\n- Coupling different defects produces synergistic effects that outperform single defects, guiding design of multifunctional hydrovoltaic/catalytic interfaces.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28213": {
+    "title": "Multiorbital driving of quantum geometric nonlinear transport in oxide interfaces",
+    "summary": "- Quantum‑geometric nonlinear conductivity in SrTiO₃ 2DEGs is modeled with a multiorbital tight‑binding Hamiltonian.\n- Hybridization of \\(t_{2g}\\) orbitals near avoided band crossings dictates the momentum‑space quantum metric and the resulting nonlinear response.\n- Crystal orientation strongly influences the effect: (interfaces show sharp peak‑dip features at Lifshitz transitions, while (trigonal symmetry enhances orbital mixing and yields a distinct nonlinear transport signature.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28225": {
+    "title": "Nonequilibrium fluctuations could explain the hot mitochondria paradox",
+    "summary": "- Experiments report ~10 K temperature differences between mitochondria and cytosol, contradicting heat conduction limits.\n- The paper proposes nonequilibrium thermal fluctuations plus frequency‑sensitive probes explain apparent temperature spikes.\n- This mechanism reconciles observed data with realistic cellular energy budgets.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28238": {
+    "title": "Metal to Semiconductor Transition in Niobium Sulfoselenide Alloy Films by Compositional Control",
+    "summary": "- MBE-grown NbSₓSe₂₋ₓ films exhibit tunable electronic transport by varying S/Se ratio.\n- Higher sulfur content induces a metal‑to‑semiconductor transition, increasing resistivity and TCR.\n- In‑vacuo XPS confirms stoichiometry, highlighting compositional control for nanoelectronic applications.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28276": {
+    "title": "Symmetry classes of hyperdeterminant wavefunctions: Application to phase transitions between a bosonic fractional Chern insulator and superfluids",
+    "summary": "- Employs symmetric hyperdeterminant wavefunctions to model the superfluid–fractional Chern insulator transition in hard‑core bosons on a honeycomb lattice.\n- Uses PSG analysis and variational Monte Carlo to classify symmetry classes that correspond to distinct quantum phases, outperforming traditional fermionic parton approaches.\n- Proposes the transition is continuous, governed by an SU(\\_g gauge field coupled to two Dirac doublets (N\\_f = 2 QCD).",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28395": {
+    "title": "Intertwined Magneto-Structural Criticality Driving Heterogeneous Collective-Pseudospin Dynamics in Sr2IrO4",
+    "summary": "- Structural distortions scale quadratically with magnetic order, mirroring 2D XY criticality.\n- XPCS reveals compressed‑exponential, multiscale magnetic dynamics with critical slowing down near the transition.\n- Spin‑orbit coupling and local lattice distortions likely orchestrate the unconventional pseudospin behavior.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28593": {
+    "title": "Competing magnetic correlations in the square-lattice Hubbard model with spin-dependent nearest-neighbor and next-nearest-neighbor hopping",
+    "summary": "- Studied the square‑lattice Hubbard model with spin‑dependent NN anisotropy \\(t_A\\) and NNN hopping \\(t'\\), finding four magnetic phases (Néel, stripe, diagonal, spiral) whose presence depends on both hoppings.\n- Diagonal order requires finite \\(t_A\\) and is suppressed by \\(t'\\); stripe order appears only when \\(t'\\) overcomes the diagonal tendency set by \\(t_A\\); Néel order survives at large \\(t_A\\) and \\(t'\\).\n- Noninteracting susceptibility matches the dominant wavevector only for small \\(",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28597": {
+    "title": "Hartree--Fock analysis of the bilayer Hubbard model",
+    "summary": "- Hartree–Fock analysis of the half‑filled bilayer Hubbard model with intra‑plane hopping \\(t\\) and inter‑plane hopping \\(t_\\perp\\).\n- Weak‑coupling asymptotic formulas for the Néel temperature and antiferromagnetic gap ratio, plus behavior near the paramagnetic–antiferromagnetic critical curve.\n- Numerical phase diagrams away from half‑filling and an analytic conjecture on their overall structure.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.28980": {
+    "title": "Observation of nonadiabatic quantum tunneling in a driven correlated insulator",
+    "summary": "- Nonadiabatic quantum tunneling observed in NiPS₃ across the Keldysh crossover.\n- Blue‑shifted multiphoton resonances appear from ponderomotive effects within a tunneling‑dominated absorption channel.\n- Time‑dependent Gaussian variational Hubbard‑model simulations reproduce the spectroscopic signatures, clarifying charge‑excitation pathways.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.29070": {
+    "title": "Finite-size reversal of a multiparticle correction to local spin spectra in a flux-disordered Kitaev honeycomb model",
+    "summary": "- Assesses one‑particle vs. multiparticle effects on local spin‑spectra depressions in flux‑disordered Kitaev honeycomb model.\n- Restoring multiparticle weight shallowens the dip on 24 sites but deepens it on 1,536–6,144‑site lattices.\n- One‑particle approximation overestimates dip depth by ~16–18 % on small systems and underestimates it by 33–56 % on large systems, causing sign errors when extrapolating.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.29114": {
+    "title": "A Fiber-Optic Platform for Cryogenic Laser-Pump Neutron-Probe Magneto-Optical Measurements",
+    "summary": "- Fiber‑optic laser‑pump neutron‑probe technique for momentum‑ and frequency‑resolved magneto‑optical measurements.\n- Measures time‑dependent two‑point magnetization correlations S(Q, ω) via inelastic neutron scattering after resonant photoexcitation at cryogenic temperatures.\n- Demonstrated on nonequilibrium thermalization dynamics in Yb‑based quantum magnets.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.29317": {
+    "title": "Quantum-Metric-Driven Hollow Wigner Crystals",
+    "summary": "- Quantum metric alone can turn a conventional s‑wave Wigner crystal into a hollow charge distribution, even with zero Berry curvature.\n- The hollow‑to‑conventional crossover is continuous and accompanied by anomalous direct exchange interactions.\n- In the strong‑metric regime, exchange interactions increase by over an order of magnitude, reshaping charge distribution beyond simple delocalization.",
+    "timestamp": "2026-11-24"
+  },
+  "2611.29495": {
+    "title": "Ground-State Manifold Curvature and Phase Transitions in the Kitaev Honeycomb Model",
+    "summary": "- Ricci scalar of the quantum metric diverges negatively at critical lines between the three gapped phases, with closed‑form expressions related by coordinate changes.\n- In the gapless phase the curvature is positive, decays as \\(1/\\ln L\\), diverges at boundaries with a distinct exponent, and a magnetic field introduces a finite IR cutoff yielding positive curvature and a quadratic‑width crossover.\n- The divergence of the Ricci scalar thus serves as a geometric signature of all phase transitions in the Kitaev honeycomb model.",
+    "timestamp": "2026-11-24"
   }
 }
