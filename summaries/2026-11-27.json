@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Quantum-magneto oscillations in a supramolecular Mn(II)-[3 x 3] grid",
+    "authors": "O. Waldmann, S. Carretta, P. Santini, R. Koch, A. G. M. Jansen, G. Amoretti, R. Caciuffo, L. Zhao, L. K. Thompson",
+    "abstract": "The magnetic grid molecule Mn(II)-[3 x 3] has been studied by high-field torque magnetometry at 3He temperatures. At fields above 5 T, the torque vs. field curves exhibit an unprecedented oscillatory behavior. A model is proposed which describes these magneto oscillations well.",
+    "url": "https://arxiv.org/abs/cond-mat/0401304v1",
+    "published": "2004-01-16",
+    "summary": "- High‑field torque magnetometry on Mn(II)-[3 × 3] grid reveals oscillatory torque vs. field above 5 T.\n- Oscillations observed at 3 He temperatures, indicating quantum‑magneto effects.\n- A theoretical model successfully reproduces the magneto‑oscillation behavior."
+  },
+  {
+    "title": "Ferromagnetism in Fe-doped SnO2 thin films",
+    "authors": "J. M. D. Coey, A. P. Douvalis, C. B. Fitzgerald, M. Venkatesan",
+    "abstract": "Thin films grown by pulsed-laser deposition from targets of Sn0.95Fe0.05O2 are transparent ferromagnets with Curie temperature and spontaneous magnetization of 610 K and 2.2 Am2kg-1, respectively. The 57Fe Mossbauer spectra show the iron is all high-spin Fe3+ but the films are magnetically inhomogeneous on an atomic scale, with only 23 % of the iron ordering magnetically. The net ferromagnetic moment per ordered iron ion, 1.8 Bohr magnetons, is greater than for any simple iron oxide. Ferromagnetic coupling of ferric ions via an electron trapped in a bridging oxygen vacancy (F center) is proposed to explain the high Curie temperature",
+    "url": "https://arxiv.org/abs/cond-mat/0401293v1",
+    "published": "2004-01-16",
+    "summary": "- Fe‑doped SnO₂ thin films are transparent ferromagnets with Tc ≈ 610 K and Ms ≈ 2 Am²/kg.\n- Mossbauer reveals high‑spin Fe³⁺; only ~23 % of Fe ions are magnetically ordered, each contributing ~8 µB.\n- Ferromagnetism attributed to Fe³⁺ coupling through an electron trapped in a bridging oxygen vacancy (F center)."
+  },
+  {
+    "title": "Ultrafast Conductivity Dynamics in Pentacene Probed using Terahertz Spectroscopy",
+    "authors": "V. K. Thorsmolle, R. D. Averitt, X. Chi, D. J. Hilton, D. L. Smith, A. P. Ramirez, A. J. Taylor",
+    "abstract": "We present measurements of the transient photoconductivity in pentacene single crystals using optical-pump THz-probe spectroscopy. We have measured the temperature and fluence dependence of the mobility of the photoexcited charge carriers with picosecond resolution. The pentacene crystals were excited at 3.0 eV which is above the bandgap of ~2.2 eV and the induced change in the far-infrared transmission was measured. At 30 K, the carrier mobility is mu ~ 0.4 cm^2/Vs and decreases to mu ~ 0.2 cm^2/Vs at room temperature. The transient terahertz signal reveals the presence of free carriers that are trapped on the timescale of a few ps or less, possibly through the formation of excitons, small polarons, or trapping by impurities.",
+    "url": "https://arxiv.org/abs/cond-mat/0401296v1",
+    "published": "2004-01-16",
+    "summary": "- Ultrafast optical‑pump THz‑probe reveals picosecond photoconductivity in pentacene crystals.\n- Mobility ≈ 4 cm²/Vs at 30 K, decreasing to ≈ 2 cm²/Vs at room temperature.\n- Free carriers are trapped within a few ps, likely by exciton, polaron, or impurity formation."
+  },
+  {
+    "title": "Phases of a rotating Bose-Einstein condensate with anharmonic confinement",
+    "authors": "A. D. Jackson, G. M. Kavoulakis, E. Lundh",
+    "abstract": "We examine an effectively repulsive Bose-Einstein condensate of atoms that rotates in a quadratic-plus-quartic potential. With use of a variational method we identify the three possible phases of the system (multiple quantization, single quantization, and a mixed phase) as a function of the rotational frequency of the gas and of the coupling constant. The derived phase diagram is shown to be universal and the continuous transitions to be exact in the limit of weak coupling and small anharmonicity. The variational results are found to be consistent with numerical solutions of the Gross-Pitaevskii equation.",
+    "url": "https://arxiv.org/abs/cond-mat/0401292v1",
+    "published": "2004-01-16",
+    "summary": "- Three phases identified: multiple‑quantized vortex, single‑quantized vortex, and mixed state.\n- Universal phase diagram with continuous, exact transitions in the weak‑coupling, small‑anharmonicity limit.\n- Variational predictions agree with Gross‑Pitaevskii numerical solutions."
+  },
+  {
+    "title": "Observation of narrow fluorescence from doubly driven four-level atoms at room temperature",
+    "authors": "Uday Kumar Khan, Jimmy Sebastian, N. Kamaraju, Andal Narayanan, R. Srinivasan, Hema Ramachandran",
+    "abstract": "Unusually narrow fluorescence peaks are seen from Rubidium-85 atoms under the action of two driving laser fields that are in a three dimensional molasses configuration. One of the lasers is held at a fixed detuning from the \"cooling\" transition, while the other is scanned across the \"repumping\" transitions. The fluorescence peaks are split into symmetric pairs, with the seperation within a pair increasing with the detuning of the cooling laser. For large detunings additional small peaks are seen. A simple model is proposed to explain these experimental observations.",
+    "url": "https://arxiv.org/abs/cond-mat/0401280v1",
+    "published": "2004-01-16",
+    "summary": "- Narrow fluorescence peaks observed in Rb‑85 under dual‑laser 3D molasses.\n- Peaks split into symmetric pairs; pair separation grows with cooling‑laser detuning.\n- Additional small peaks appear at large detunings; a simple model explains the features."
+  },
+  {
+    "title": "Fluorescence from doubly driven four-level atoms - A density matrix approach",
+    "authors": "Andal Narayanan, R. Srinivasan, Ashok Vudayagiri, Uday Kumar Khan, Hema Ramachandran",
+    "abstract": "The unusually narrow features in the fluorescence from Rubidium-85 driven by cooling and repumper laser fields, reported in an earlier experiment [1] are explained on the basis of a four-level density matrix calculation. Quantum effects alter the efficiency of atom transfer by the probe (repumper) laser to the levels connected by the pump (cooling) laser. This combined with the double resonance condition [1], results in velocity selection from co-propagating and counter propagating probe and pump beams resulting in narrow fluorescence peaks from a thermal gas at room temperature.",
+    "url": "https://arxiv.org/abs/cond-mat/0401279v1",
+    "published": "2004-01-16",
+    "summary": "- Four‑level density‑matrix model explains narrow fluorescence peaks in Rb‑\n- Quantum‑modified transfer efficiency between pump and probe transitions creates double‑resonance velocity selection.\n- Co‑ and counter‑propagating beams yield sub‑natural linewidth fluorescence from a room‑temperature gas."
+  },
+  {
+    "title": "Optical conductivity of small adiabatic polarons with a long-range electron-phonon interaction",
+    "authors": "B. Ya. Yavidov",
+    "abstract": "The hopping of an electron, interacting with many ions of a lattice via the long-range (Fröhlich) electron-phonon interaction and optical absorption are studied at zero temperature. Ions are assumed to be isotropic three-dimensional oscillators. The optical conductivity and a renormalized mass of small adiabatic Fröhlich polarons is calculated and compared with those of small adiabatic Holstein polarons.",
+    "url": "https://arxiv.org/abs/quant-ph/0401089v4",
+    "published": "2004-01-15",
+    "summary": "- Calculated optical conductivity and effective mass for small adiabatic Fröhlich polarons at zero temperature.\n- Compared results with small adiabatic Holstein polarons, highlighting differences due to long‑range electron‑phonon coupling.\n- Modeled ions as isotropic 3D oscillators to evaluate the impact of Fröhlich interaction on polaron dynamics."
+  },
+  {
+    "title": "A first principles simulation of rigid water",
+    "authors": "M. Allesch, E. Schwegler, F. Gygi, G. Galli",
+    "abstract": "We present the results of Car-Parrinello (CP) simulations of water at ambient conditions and under pressure, using a rigid molecule approximation. Throughout our calculations, water molecules were maintained at a fixed intramolecular geometry corresponding to the average structure obtained in fully unconstrained simulations. This allows us to use larger time steps than those adopted in ordinary CP simulations of water, and thus to access longer time scales. In the absence of chemical reactions or dissociation effects, these calculations open the way to ab initio simulations of aqueous solutions that require timescales substantially longer than presently feasible (e.g. simulations of hydrophobic solvation). Our results show that structural properties and diffusion coefficients obtained with a rigid model are in better agreement with experiment than those determined with fully flexible simulations. Possible reasons responsible for this improved agreement are discussed.",
+    "url": "https://arxiv.org/abs/cond-mat/0401267v1",
+    "published": "2004-01-15",
+    "summary": "- CP simulations with rigid water allow larger time steps, extending ab initio timescales for aqueous systems.\n- Structural metrics and diffusion coefficients from the rigid model agree better with experiment than flexible simulations.\n- Improved accuracy is linked to reduced intramolecular vibrational noise and a more realistic average geometry."
+  },
+  {
+    "title": "Origin of asymmetric reversal modes in ferromagnetic/antiferromagnetic multilayers",
+    "authors": "B. Beckmann, U. Nowak, K. D. Usadel",
+    "abstract": "Experimentally an asymmetry of the reversal modes has been found in certain exchange bias systems. From a numerical investigation of the domain state model evidence is gained that this effect depends on the angle between the easy axis of the antiferromagnet and the applied magnetic field. Depending on this angle the ferromagnet reverses either symmetrically, e. g. by a coherent rotation on both sides of the loop, or the reversal is asymmetric with a non uniform reversal mode for the ascending branch, which may even yield a zero perpendicular magnetization.",
+    "url": "https://arxiv.org/abs/cond-mat/0401232v1",
+    "published": "2004-01-14",
+    "summary": "- Asymmetric reversal modes observed in exchange‑biased FM/AFM multilayers.\n- Domain‑state simulations reveal the effect depends on the angle between the AFM easy axis and the applied field.\n- Certain angles give symmetric coherent rotation; others produce asymmetric, non‑uniform reversal with possible zero perpendicular magnetization."
+  },
+  {
+    "title": "Vortex waves and the onset of turbulence in $^3$He-B",
+    "authors": "K. L. Henderson, C. F. Barenghi",
+    "abstract": "In a recent experiment Finne et al. discovered an intrinsic condition for the onset of quantum turbulence in $^3$He-B, that q=alpha/(1-alpha')<1, where alpha and alpha' are mutual friction parameters. The authors argued that this condition corresponds to Kelvin waves which are marginally damped, so for q>1 Kelvin waves cannot grow in amplitude and trigger vortex reconnections and turbulence. By analysing both axisymmetric and non-axisymmetric modes of oscillations of a rotating superfluid, we confirm that in the long axial wavelength limit the simple condition q=1 is indeed the crossover between damped and propagating Kelvin waves.",
+    "url": "https://arxiv.org/abs/cond-mat/0401212v1",
+    "published": "2004-01-13",
+    "summary": "- Finne et al. identified the intrinsic turbulence onset criterion \\(q=\\alpha/(1-\\alpha')<1\\) in \\(^{3}\\)He‑B.\n- The criterion corresponds to marginally damped Kelvin waves; for \\(q>1\\) waves cannot grow to trigger reconnections.\n- Analysis of axisymmetric and non‑axisymmetric rotating‑superfluid modes confirms \\(q=1\\) as the crossover between damped and propagating Kelvin waves."
+  },
+  {
+    "title": "A microscopic continuum model for moiré transition metal dichalcogenides",
+    "authors": "Julian Ingham, Harshitra Mahalingam, Raquel Queiroz",
+    "abstract": "Twisted transition metal dichalcogenides (tTMDs) have emerged as a fascinating platform for many-body phases --- displaying fractional Chern insulators and superconductivity as a function of doping. Here, we give a microscopic derivation of a continuum model which accurately describes their bandstructure across a range of twist angles with angle-independent parameters. This angle-independent description rests on retaining both the monolayer valence and conduction bands, which introduce tunnelling paths through AB-stacked regions; upon downfolding to the valence band, these paths supply a substantial twist-tunable contribution to the interlayer coupling. We show that the model is a perturbation of a chiral model with a magic angle, explaining the near-ideal quantum geometry of the moiré bands. The model further produces a strongly different orbital magnetic moment to the single-orbital theory --- predicting an anomalous Landau level slope --- and a redistribution of charge between the layers, modifying the moiré ferroelectric potential.",
+    "url": "https://arxiv.org/abs/2611.34937v1",
+    "published": "2026-11-25",
+    "summary": "- Microscopic continuum model for tTMDs with angle‑independent parameters, retaining both valence and conduction bands.\n- Downfolding yields twist‑tunable interlayer coupling, perturbing a chiral magic‑angle model and producing near‑ideal quantum geometry.\n- Predicts large orbital magnetic moment, anomalous Landau‑level slope, and layer‑charge redistribution affecting moiré ferroelectric potential."
+  },
+  {
+    "title": "Spin Loop Currents and Bulk-Edge Structure in Correlated Topological States of WSe$_2$/MoTe$_2$ Bilayers",
+    "authors": "Po-Jui Chen, Kevin P. Lucht, Andreas Gleis, Andrew J. Millis, J. H. Pixley, Daniele Guerci",
+    "abstract": "Motivated by recent experiments, we theoretically investigate AB-stacked WSe$_2$/MoTe$_2$ bilayers. Our theory incorporates valence fluctuations, local and extended (longer-range) Hubbard interactions, including non-local interactions between carriers on the MoTe$_2$ layer. Within the parton mean-field framework, we show that the non-local interaction between MoTe$_2$ carriers can drive a transition between a topological Kondo semimetal(TKSM) and a topological Kondo insulator(TKI) at the filling fraction $ν=2$. We attribute this transition to an emergent spin-loop current arising from the interplay between Ising spin-orbit coupling and non-local electron correlations. In addition, we investigate how the emergent spin-loop current affects edge transport and show that the two-point conductance takes a quantized value at certain bias voltages.",
+    "url": "https://arxiv.org/abs/2611.34880v1",
+    "published": "2026-11-25",
+    "summary": "- Non‑local Hubbard interactions in AB‑stacked WSe₂/MoTe₂ bilayers drive a transition from a topological Kondo semimetal to a topological Kondo insulator at ν =\n- The transition is mediated by an emergent spin‑loop current arising from Ising spin‑orbit coupling and long‑range electron correlations.\n- The spin‑loop current yields quantized two‑point conductance at specific bias voltages, revealing distinctive bulk‑edge transport signatures."
+  },
+  {
+    "title": "Emergent Chern metal in strongly correlated moiré bilayers",
+    "authors": "Kaushal Kumar Kesharpu, Evgenii A. Kochetov",
+    "abstract": "We investigate the topological properties of a strongly correlated moiré transition metal dichalcogenide (TMD) bilayer (such as twisted $\\mathrm{MoTe}_2$ or $\\mathrm{WSe}_2$) hosting a spin-charge separated state coupled to a layer-polarized helical spin texture. Analyzing an effective low-energy Hamiltonian for mobile spinless holons moving through this non-coplanar spinon background, we reveal pronounced asymmetric band warping. This warping closes the global indirect band gap across most of the parameter space, restricting true topological insulators to fine-tuned critical trajectories. However, a finite local direct gap persists, stabilizing broad regions of a topological Chern metal ($C = \\pm 1$). Computing the Chern number and density of states, we demonstrate that this phase naturally yields a sizable, non-quantized anomalous Hall response accompanied by finite longitudinal conduction, providing a purely electronic strong-coupling mechanism for dissipative anomalous Hall states in moiré systems.",
+    "url": "https://arxiv.org/abs/2611.34780v1",
+    "published": "2026-11-25",
+    "summary": "- Spin‑charge separation in moiré TMD bilayers couples holons to a layer‑polarized helical spin texture.\n- Band warping closes the indirect gap but preserves a local direct gap, yielding a broad Chern metal (C = ±.\n- The phase produces a sizable, non‑quantized anomalous Hall response with finite longitudinal conductivity."
+  },
+  {
+    "title": "Slow mixing of Gibbs sampling for the quantum Curie-Weiss model",
+    "authors": "Xiaoyang Huang",
+    "abstract": "Hamiltonian evolution can spread local operators across a dense quantum magnet. We show that this global support does not remove the bottleneck to thermalization in the quantum Curie-Weiss model: at fixed low temperature and weak transverse field, the Chen-Kastoryano-Gilyen Gibbs sampler [arXiv: 2311.09207] has an exponentially large mixing-time lower bound. A dynamical quantum bottleneck theory that generalizes the classical notion of conductance has been proposed alongside existing frameworks that rely on spatial locality. We also give a complementary interpretation of slow mixing using an effective Fokker-Planck equation.",
+    "url": "https://arxiv.org/abs/2611.34682v1",
+    "published": "2026-11-25",
+    "summary": "- Exponential lower bound on mixing time of the Chen‑Kastoryano‑Gilyen Gibbs sampler for the quantum Curie–Weiss model at low temperature and weak transverse field.\n- Proposes a dynamical quantum bottleneck theory that generalizes classical conductance to non‑local quantum dynamics.\n- Interprets slow mixing via an effective Fokker–Planck equation."
+  },
+  {
+    "title": "Seebeck and Hall effects in charge-neutral ballistic graphene as probes of electron-electron interactions",
+    "authors": "Z. Z. Alisultanov, A. V. Kavokin",
+    "abstract": "Electron-hole asymmetry of the Coulomb velocity renormalization is responsible for finite Seebeck and Hall coefficients in charge-neutral graphene. In the ballistic regime the thermopower is small, $0.1$--$1~μ$V/K, because the chemical-potential shift required by $n_e{=}n_h$ cancels its leading part. When the electron-electron scattering length falls below the sample length, the thermopower crosses over to a collision-dominated value of $4$--$10~μ$V/K, that is an order of magnitude larger. This crossover is a direct thermoelectric marker of the breakdown of ballistic transport and a baseline for identifying the Dirac fluid.",
+    "url": "https://arxiv.org/abs/2611.34482v1",
+    "published": "2026-11-25",
+    "summary": "- Coulomb‑velocity renormalization asymmetry produces finite Seebeck and Hall coefficients at charge neutrality.\n- In the ballistic regime thermopower is only 1–1 µV/K because the required chemical‑potential shift cancels its leading part.\n- When the electron‑electron scattering length drops below the sample length, thermopower rises to 4–10 µV/K, signaling the onset of the Dirac fluid."
+  },
+  {
+    "title": "Signatures of multiorbital density waves in the electronic Raman response of bilayer nickelates",
+    "authors": "Lauro B. Braz, Ge He, Luis G. G. V. Dias da Silva, Ilya M. Eremin",
+    "abstract": "Recent Raman scattering experiments on bilayer nickelates have revealed pronounced spectral features in the spin-density-wave state, whose microscopic origin remains controversial, with interpretations ranging from two-magnon excitations to electronic transitions across SDW-induced gaps. Here, we demonstrate that the multiorbital electronic structure of low-pressure bilayer nickelates naturally generates distinct orbital-selective Raman signatures in different symmetry channels. Using a two-orbital bilayer model incorporating the $d_{3z^2-r^2}$ and $d_{x^2-y^2}$ orbitals in the orthorhombic structure, we analyze the electronic Raman response of the multiorbital spin-spinless double stripe SDW state and show that the $B_{2g}$ response exhibits a peak at the energy scale $(M_{z^2}+M_{x^2})/2$, associated with SDW gap openings in weakly hybridized bands. In contrast, the dominant peak in the $B_{1g}$ channel emerges at the multiorbital energy scale $(M_{z^2}^2+M_{x^2}^2)^{1/2}$, reflecting the strongly hybridized character of the relevant electronic states. These distinct energy scales provide a unified interpretation of several Raman signatures observed in La$_3$Ni$_2$O$_7$ and offer a means of disentangling the orbital contributions to the SDW order parameters. Our results highlight that in contrast to the superconducting state, Raman peak positions in the SDW state cannot generally be identified with a single SDW gap and establish symmetry-resolved electronic Raman scattering as a sensitive probe of multiorbital density-wave order.",
+    "url": "https://arxiv.org/abs/2611.34471v1",
+    "published": "2026-11-25",
+    "summary": "- Multiorbital SDW in bilayer nickelates produces distinct Raman peaks in symmetry channels.\n- B₂g peak at (M_{z²}+M_{x²})/2 reflects weakly hybridized SDW gaps; B₁g peak at √(M_{z²}²+M_{x²}²) reflects strongly hybridized states.\n- These energy scales explain La₃Ni₂O₇ Raman data and separate orbital contributions to the SDW order."
+  },
+  {
+    "title": "Inverted Pendulum in the Sky: Floquet Stabilization of Cosmological Axions",
+    "authors": "Tokiro Numasawa, Masahito Yamazaki",
+    "abstract": "Many cosmological scenarios require a scalar field to sit near the top of its potential, which usually requires a fine-tuned initial condition. We ask whether the hilltop of an axion potential can be dynamically stabilized by a rapidly oscillating coupling, as for the inverted pendulum of Kapitza, and to what extent this can reduce the fine-tuning. Using Floquet theory, we determine the stability window of the hilltop and analyze several realizations: an oscillating coupling, a spinning or oscillating second field, and a gyroscopic analogue, an inverted spinning top realized by a sigma model on a squashed three-sphere. In an expanding Universe the stabilized phase lasts for a number of $e$-folds logarithmic in the hierarchy of scales, independently of the cosmological background. Classifying the stabilizers by how their effective frequency redshifts, we show that in these realizations the hilltop cannot both attract the field and leave it frozen by the Hubble friction during radiation or matter domination, and that during inflation the attraction is limited by the Hubble friction and the energy budget. Thus the simple realizations studied here do not generically remove the hilltop fine-tuning. They can instead delay the onset of the oscillation and enhance the relic abundance as $n_φ/n_{φ,{\\rm std}}\\propto(\\tilde m/H_c)^{3/2}$ in radiation domination. We discuss the implications for axion dark matter, inflation, quintessence and curvatons.",
+    "url": "https://arxiv.org/abs/2611.34439v1",
+    "published": "2026-11-25",
+    "summary": "- Floquet theory shows oscillating couplings can temporarily stabilize an axion at the hilltop, lasting a logarithmic number of e‑folds.\n- The stabilizers cannot simultaneously attract the field and freeze it during radiation/matter eras; Hubble friction limits effectiveness during inflation.\n- Stabilization delays oscillations and boosts relic abundance by \\((\\tilde m/H_c)^{3/2}\\) in radiation domination, but does not eliminate fine‑tuning."
+  },
+  {
+    "title": "Spin-Orbit Coupling in Symmetry-Forbidden Reactions: A Selection Rule Tested on the Chalcogen Trimers",
+    "authors": "Shadan Ghassemi Tabrizi",
+    "abstract": "A reaction is forbidden by orbital symmetry when an occupied and an empty orbital of different symmetry change places along its path. With spin-orbit coupling orbitals become spinors, and those of two such orbitals can mix only if the orbitals differ by the symmetry of a rotation; the operator component of that symmetry couples ground state and diradical triplet. We test this rule on the ring opening of the chalcogen trimers O3 to Po3, where an in-plane and an out-of-plane orbital cross ($C_{2v}$ surfaces; NEVPT2, spin-orbit configuration interaction), by letting the operator components act separately. In Se3 and Te3 the component named by the rule alone lowers the barrier by 2.2 and 5.1 kcal/mol (complete operator: 2.2 and 5.2), the other two by 0.2 and 1.3 kcal/mol; in Po3 they contribute in second order. The triplet crosses the ground state 6.5 to 9.0 kcal/mol below the forbidden saddle. Spin-orbit coupling makes this crossing passable in O3 and S3 and, from Se3 on, merges the two states into one surface whose saddle lies 2.6, 5.5, and 13.1 kcal/mol lower. Molecular rotation obeys the same rule but is 6 to $2.8\\times 10^{3}$ times weaker, which bears on the lifetime predicted for cyclic ozone.",
+    "url": "https://arxiv.org/abs/2611.34375v1",
+    "published": "2026-11-25",
+    "summary": "- Spin‑orbit coupling mixes orbitals of different symmetry, enabling ring‑opening of chalcogen trimers that are otherwise symmetry‑forbidden.\n- In Se₃, Te₃, and Po₃ the coupling lowers barriers by 2–1 kcal mol⁻¹ and merges ground‑state and triplet surfaces.\n- The resulting barrier reductions and triplet crossings explain reaction feasibility and influence predicted ozone lifetimes."
+  },
+  {
+    "title": "Fractional Chern Insulator in a Finite-Range One-Band Model",
+    "authors": "Tong Liu, Hoi Chun Po",
+    "abstract": "A common route for realizing fractional Chern insulators (FCIs) is to engineer bands that mimic the physics of Landau levels, which serve as the single-particle topological background for the emergence of strongly correlated fractional quantum Hall states. Here we show that FCIs can also arise in a one-band model devoid of any single-particle quantum geometry. Through a systematic trivialization of the single-particle quantum geometry in FCI models that go beyond the Landau-level paradigm, we construct a single-band, interaction-only model on the square lattice, with all terms confined to individual plaquettes. At one-third filling, exact diagonalization and density-matrix renormalization-group calculations reveal a three-state low-energy manifold, a Hall conductance of $-2e^2/(3h)$, and fractional charge pumping without translation-symmetry breaking. We trace this behavior to nontrivial topology in the repulsive two-particle sector, offering a microscopic perspective on the strongly correlated origin of fractional quantum Hall order.",
+    "url": "https://arxiv.org/abs/2611.34255v1",
+    "published": "2026-11-25",
+    "summary": "- Realizes a fractional Chern insulator in a single‑band, finite‑range interaction model on a square lattice without single‑particle quantum geometry.\n- At 1/3 filling, exhibits a three‑fold ground‑state degeneracy, Hall conductance \\(-2e^2/3h\\), and fractional charge pumping (verified by ED and DMRG).\n- Attributes the FCI phase to nontrivial topology arising in the repulsive two‑particle sector, offering a microscopic view of interaction‑driven fractional quantum Hall order."
+  },
+  {
+    "title": "Hidden f-wave TIVC and Quantum Phase Transitions in Metallic States of Twisted Bilayer Graphene",
+    "authors": "Arindam Pramanik, Unmesh Ghorai, Rajdeep Sensarma",
+    "abstract": "We study the ground state phase diagram of twisted bilayer graphene at magic angle as function of carrier density and the Coulomb interaction. The carrier density is varied between the fillings $ν=-2$ and $ν=-3$ and the Coulomb interaction is tuned by changing the gate distance. Our results reveal that the well established Kramers intervalley coherent (KIVC) phase near $ν=-2$, contains a hidden $f$-wave time-reversal symmetric intervalley coherent (TIVC) order, whose strength gradually increases within the metallic regime of the intervalley coherent (IVC) phase away from $ν=-2$. This finding is interesting in the light of a recent experimental work [26], where the signatures of the TIVC phase has been reported in ultra-clean samples. We further show that the system goes through multiple phase transitions as the carrier density is tuned. Near the $ν=-2$, the IVC phase is the ground state, which gives way to valley polarized phase through a second-order-like phase transition as the carrier density is lowered. Further tuning of density pushes the system into the quantum anomalous Hall phase through gradual development of the sublattice polarization. These phase transitions are accompanied by major reconstructions of the Fermi contours.",
+    "url": "https://arxiv.org/abs/2611.34225v1",
+    "published": "2026-11-25",
+    "summary": "- Hidden f‑wave TIVC order appears inside the metallic IVC phase between ν = −2 and ν = −3, growing as density moves away from ν = −\n- Tuning carrier density induces successive transitions: IVC → valley‑polarized (second‑order) → quantum anomalous Hall, with major Fermi‑surface reconstructions.\n- Results explain recent experimental TIVC signatures in ultra‑clean samples and show the impact of gate‑distance‑controlled Coulomb interaction."
+  }
+]
